@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/request app-emacs/dash app-emacs/promise
+DESCRIPTION=Synchronie org-mode entries to Anki
+EAPI=8
+HOMEPAGE=https://github.com/eyeinsky/org-anki
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/request app-emacs/dash app-emacs/promise >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://stable.melpa.org/packages/org-anki-3.0.0.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=9aee52a6c9ed6751aaf8f134fb62c291

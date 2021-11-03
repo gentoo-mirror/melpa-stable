@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/helm app-emacs/request
+DESCRIPTION=Esa with helm interface
+EAPI=8
+HOMEPAGE=https://github.com/masutaka/emacs-helm-esa
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/helm app-emacs/request >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://stable.melpa.org/packages/helm-esa-1.1.0.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=3dc123d7ee9ba43d27bc8fc810fbc9bd

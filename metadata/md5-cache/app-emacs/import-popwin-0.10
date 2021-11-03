@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/popwin
+DESCRIPTION=popwin buffer near by import statements with popwin
+EAPI=8
+HOMEPAGE=https://github.com/syohex/emacs-import-popwin
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/popwin >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://stable.melpa.org/packages/import-popwin-0.10.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=cfb01ee9c2350171a572eb4c96820e79

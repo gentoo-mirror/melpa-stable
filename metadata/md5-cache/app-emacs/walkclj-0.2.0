@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/parseclj app-emacs/treepy
+DESCRIPTION=Manipulate Clojure parse trees
+EAPI=8
+HOMEPAGE=https://github.com/plexus/walkclj
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/parseclj app-emacs/treepy >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://stable.melpa.org/packages/walkclj-0.2.0.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=b28f340b0f2889431d370f2146e11ec3

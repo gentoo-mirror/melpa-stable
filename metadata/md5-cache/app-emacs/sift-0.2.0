@@ -1,0 +1,12 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DESCRIPTION=Front-end for sift, a fast and powerful grep alternative
+EAPI=8
+HOMEPAGE=https://github.com/nlamirault/sift.el
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=>=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://stable.melpa.org/packages/sift-0.2.0.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=b0a7b6df525907e5bfbb7c8ff022a1d3

@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/direx app-emacs/plsense app-emacs/log4e app-emacs/yaxception
+DESCRIPTION=Perl Package Explorer
+EAPI=8
+HOMEPAGE=https://github.com/aki2o/plsense-direx
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/direx app-emacs/plsense app-emacs/log4e app-emacs/yaxception >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://stable.melpa.org/packages/plsense-direx-0.2.0.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=a127dd920fbd9e8b4bde12ae74102d5c

@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/ruby-mode app-emacs/inf-ruby app-emacs/ruby-compilation app-emacs/jump
+DESCRIPTION=Rinari Is Not A Rails IDE
+EAPI=8
+HOMEPAGE=https://github.com/eschulte/rinari
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/ruby-mode app-emacs/inf-ruby app-emacs/ruby-compilation app-emacs/jump >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://stable.melpa.org/packages/rinari-2.11.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=ad4ea7de17ef0eb4cd8a3c4e7559df3f

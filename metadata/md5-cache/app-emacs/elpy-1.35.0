@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/company app-emacs/highlight-indentation app-emacs/pyvenv app-emacs/yasnippet app-emacs/s
+DESCRIPTION=Emacs Python Development Environment
+EAPI=8
+HOMEPAGE=https://github.com/jorgenschaefer/elpy
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/company app-emacs/highlight-indentation app-emacs/pyvenv app-emacs/yasnippet app-emacs/s >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://stable.melpa.org/packages/elpy-1.35.0.tar
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=b0ef570fdd8d130632db6d40cf4d3873
