@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Major mode for viewing log files
+DEPEND=app-emacs/org-roam app-emacs/citar
+DESCRIPTION=Citarorg-roam integration
 EAPI=8
-HOMEPAGE=https://github.com/dykstrom/log4j-mode
+HOMEPAGE=https://github.com/emacs-citar/citar-org-roam
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-23.1:*
+RDEPEND=app-emacs/org-roam app-emacs/citar >=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/log4j-mode-1.6.1.el
+SRC_URI=https://stable.melpa.org/packages/citar-org-roam-0.4.0.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
-_md5_=082f1ffcfc393b21aa918a3c90d4ea41
+_md5_=a76ddd10386851449c7c5b1ef1c2208c
