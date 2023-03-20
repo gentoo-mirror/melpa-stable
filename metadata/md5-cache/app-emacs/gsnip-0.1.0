@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/aio app-emacs/log4e
+DEPEND=app-emacs/emacs-aio app-emacs/log4e
 DESCRIPTION=A gitlab snippet client
 EAPI=8
 HOMEPAGE=https://github.com/kaiwk/gitlab-snippet
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/aio app-emacs/log4e >=app-editors/emacs-23.1:*
+RDEPEND=app-emacs/emacs-aio app-emacs/log4e >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/gsnip-0.1.0.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
-_md5_=b9ee9a7ee72be0e051c1b239a0aa79fb
+_md5_=19836caf6416dbfbedca423cce364f2e

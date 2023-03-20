@@ -19,8 +19,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/org-mode
-	app-emacs/citeproc
+	app-emacs/citeproc-el
 	app-emacs/org-re-reveal"
 RDEPEND="app-emacs/org-mode
-	app-emacs/citeproc
+	app-emacs/citeproc-el
 	app-emacs/org-re-reveal"

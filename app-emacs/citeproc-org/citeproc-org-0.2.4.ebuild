@@ -21,10 +21,10 @@ KEYWORDS="~amd64 ~x86"
 DEPEND="app-emacs/dash
 	app-emacs/org-mode
 	app-emacs/f
-	app-emacs/citeproc
+	app-emacs/citeproc-el
 	app-emacs/org-ref"
 RDEPEND="app-emacs/dash
 	app-emacs/org-mode
 	app-emacs/f
-	app-emacs/citeproc
+	app-emacs/citeproc-el
 	app-emacs/org-ref"

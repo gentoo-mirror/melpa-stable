@@ -18,7 +18,7 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/aio
+DEPEND="app-emacs/emacs-aio
 	app-emacs/closql
 	app-emacs/emacsql
 	app-emacs/emacsql-sqlite
@@ -26,7 +26,7 @@ DEPEND="app-emacs/aio
 	app-emacs/ht
 	app-emacs/transient
 	app-emacs/request"
-RDEPEND="app-emacs/aio
+RDEPEND="app-emacs/emacs-aio
 	app-emacs/closql
 	app-emacs/emacsql
 	app-emacs/emacsql-sqlite

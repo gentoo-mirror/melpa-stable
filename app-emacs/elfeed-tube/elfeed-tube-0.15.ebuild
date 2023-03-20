@@ -19,6 +19,6 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/elfeed
-	app-emacs/aio"
+	app-emacs/emacs-aio"
 RDEPEND="app-emacs/elfeed
-	app-emacs/aio"
+	app-emacs/emacs-aio"

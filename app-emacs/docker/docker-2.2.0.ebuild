@@ -18,14 +18,14 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/aio
+DEPEND="app-emacs/emacs-aio
 	app-emacs/dash
 	app-emacs/docker-tramp
 	app-emacs/json-mode
 	app-emacs/s
 	app-emacs/tablist
 	app-emacs/transient"
-RDEPEND="app-emacs/aio
+RDEPEND="app-emacs/emacs-aio
 	app-emacs/dash
 	app-emacs/docker-tramp
 	app-emacs/json-mode

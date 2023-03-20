@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/dash app-emacs/graphql app-emacs/spinner app-emacs/aio app-emacs/log4e
+DEPEND=app-emacs/dash app-emacs/graphql app-emacs/spinner app-emacs/emacs-aio app-emacs/log4e
 DESCRIPTION=An leetcode client
 EAPI=8
 HOMEPAGE=https://github.com/kaiwk/leetcode.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/dash app-emacs/graphql app-emacs/spinner app-emacs/aio app-emacs/log4e >=app-editors/emacs-23.1:*
+RDEPEND=app-emacs/dash app-emacs/graphql app-emacs/spinner app-emacs/emacs-aio app-emacs/log4e >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/leetcode-0.1.27.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
-_md5_=a6447416b8681548773e3ec8823f189a
+_md5_=8d23fe5ac7b2ad143de8bbbe2de3f7b0
