@@ -205,7 +205,7 @@ app-emacs/borg 3.3.1: assimilate Emacs packages as Git submodules
 app-emacs/boxes 2.2.0: use boxes to comment regions
 app-emacs/boxquote 2.3: Quote text with a semi-box.
 app-emacs/brazilian-holidays 2.1.3: Brailian holidays
-app-emacs/brf 1.24: Brf-mode provides features from the legendary editor Brief
+app-emacs/brf 1.25: Brf-mode provides features from the legendary editor Brief
 app-emacs/brightscript-mode 1.1.0: Major mode for editing Brightscript files
 app-emacs/browse-at-remote 0.14.0: Open githubgitlabbitbucketstashgistphabsourcehut page from Emacs
 app-emacs/browse-kill-ring 2.0.0: interactively insert items from kill-ring
@@ -2258,7 +2258,7 @@ app-emacs/rbs-mode 0.3.1: A major mode for RBS
 app-emacs/rbtagger 0.4.5: Ruby tagging tools
 app-emacs/rc-mode 1.0.13: Major mode for the Plan rc shell
 app-emacs/rcirc-styles 1.3.2: support mIRC-style color and attribute codes
-app-emacs/rdf-prefix 1.12: Prefix lookup for RDF
+app-emacs/rdf-prefix 1.13: Prefix lookup for RDF
 app-emacs/react-snippets 0.1: Yasnippets for React
 app-emacs/real-auto-save 0.4: enable real auto save
 app-emacs/realgud 1.5.1: A modular front-end for interacting with external debuggers
@@ -2557,7 +2557,7 @@ app-emacs/taskpaper-mode 1.0: Major mode for working with TaskPaper files
 app-emacs/tawny-mode 2.3.0: Ontology Editing with Tawny-OWL
 app-emacs/telega 0.8.3: Telegram client (unofficial)
 app-emacs/telepathy 1.0: Access Telepathy from Emacs
-app-emacs/telephone-line 0.4: Rewrite of Powerline
+app-emacs/telephone-line 0.6: Rewrite of Powerline
 app-emacs/tempel 0.7: Tempo templatessnippets with in-buffer field editing
 app-emacs/templatel 0.1.6: Templating language
 app-emacs/ten-hundred-mode 1.0.1: use only the ten hundred most usual words
