@@ -281,7 +281,7 @@ app-emacs/choice-program 0.13: Parameter based program
 app-emacs/chronometrist 0.10.0: Friendly and powerful personal time tracker and analyer
 app-emacs/chronometrist-key-values 0.10.0: add key-values to Chronometrist data
 app-emacs/chronometrist-spark 0.10.0: Show sparklines in Chronometrist buffers
-app-emacs/cider 1.6.0: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 1.7.0: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-eval-sexp-fu 1.2: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 0.1.0: Hydras for CIDER.
 app-emacs/cil-mode 0.4: Common Intermediate Language mode
@@ -2452,7 +2452,7 @@ app-emacs/snapshot-timemachine-rsnapshot 0.4: rsnapshot backend for snapshot-tim
 app-emacs/snazzy-theme 1.0: An elegant syntax theme with bright colors
 app-emacs/snitch 0.3.0: An Emacs firewall
 app-emacs/snoopy 0.2.0: minor mode for number row unshifted character insertion
-app-emacs/soccer 1.3.0: Fixtures, results, table etc for soccer
+app-emacs/soccer 1.4.0: Fixtures, results, table etc for soccer
 app-emacs/socyl 0.3.0: Frontend for several search tools
 app-emacs/solaire-mode 2.0.4: make certain buffers grossly incandescent
 app-emacs/solarized-theme 2.0.0: The Solaried color theme
