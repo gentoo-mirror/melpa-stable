@@ -1922,7 +1922,7 @@ app-emacs/org-incoming 0.1: Sort incoming PDFs into your org files
 app-emacs/org-index 7.4.4: No description available.
 app-emacs/org-inline-anim 0.2: Inline playback of animated GIFPNG for Org
 app-emacs/org-inline-pdf 0.2: Inline PDF previewing for Org
-app-emacs/org-jira 4.4.0: Syncing between Jira and Org-mode.
+app-emacs/org-jira 4.4.1: Syncing between Jira and Org-mode.
 app-emacs/org-journal 2.2.0: a simple org-mode based journaling mode
 app-emacs/org-journal-tags 0.4.0: Tagging and querying system of org-journal
 app-emacs/org-kanban 0.6.5: kanban dynamic block for org-mode.
