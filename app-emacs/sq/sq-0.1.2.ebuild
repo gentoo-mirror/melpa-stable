@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Bindings for Sequoia PGPs cli"
+DESCRIPTION="Bindings for Sequoia PGP's cli"
 
 HOMEPAGE="https://gitlab.com/sequoia-pgp/sqel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

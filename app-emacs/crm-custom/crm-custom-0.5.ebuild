@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Alternate completing-read-multiple that uses completing-read"
+DESCRIPTION="Alternate \`completing-read-multiple' that uses \`completing-read'"
 
 HOMEPAGE="https://github.com/DarwinAwardWinner/crm-custom"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

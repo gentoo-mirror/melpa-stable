@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Obfuscate URLs so they arent spoilers"
+DESCRIPTION="Obfuscate URLs so they aren't spoilers"
 
 HOMEPAGE="https://github.com/davep/obfusurl.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

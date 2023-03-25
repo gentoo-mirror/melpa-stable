@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Character apping, ace-jump-mode style"
+DESCRIPTION="Character zapping, \`ace-jump-mode\` style"
 
 HOMEPAGE="https://github.com/waymondo/ace-jump-zap"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

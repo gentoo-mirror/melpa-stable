@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>EscapeUnescape unicode notations</longdescription>
+	<longdescription>Escape/Unescape unicode notations</longdescription>
 </pkgmetadata>

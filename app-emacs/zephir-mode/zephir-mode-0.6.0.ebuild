@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for editing ephir code"
+DESCRIPTION="Major mode for editing Zephir code"
 
 HOMEPAGE="https://github.com/zephir-lang/zephir-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

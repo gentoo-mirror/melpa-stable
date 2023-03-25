@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fast and precise fuy scoringmatching utils"
+DESCRIPTION="Fast and precise fuzzy scoring/matching utils"
 
 HOMEPAGE="https://github.com/cireu/fuz.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

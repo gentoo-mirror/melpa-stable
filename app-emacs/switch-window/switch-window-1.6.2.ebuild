@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A visual way to switch window"
+DESCRIPTION="A *visual* way to switch window"
 
 HOMEPAGE="https://github.com/dimitri/switch-window"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

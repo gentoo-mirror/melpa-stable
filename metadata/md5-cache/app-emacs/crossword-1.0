@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Download and play crossword pules
+DESCRIPTION=Download and play crossword puzzles
 EAPI=8
 HOMEPAGE=https://github.com/Boruch-Baum/emacs-crossword
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/crossword-1.0.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=56717ff924adc60e06bb52abbcf0a68c
+_md5_=27385fc4ae8f303985704773fff4d239

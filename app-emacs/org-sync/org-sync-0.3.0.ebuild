@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Synchronie Org documents with External Issue Trackers"
+DESCRIPTION="Synchronize Org documents with External Issue Trackers"
 
 HOMEPAGE="https://github.com/arbox/org-sync"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

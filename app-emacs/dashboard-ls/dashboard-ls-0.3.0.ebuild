@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display filesdirectories in current directory on Dashboard"
+DESCRIPTION="Display files/directories in current directory on Dashboard"
 
 HOMEPAGE="https://github.com/emacs-dashboard/dashboard-ls"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

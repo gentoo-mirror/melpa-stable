@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Turn deft into a ettelkasten system"
+DESCRIPTION="Turn deft into a zettelkasten system"
 
 HOMEPAGE="https://efls.github.io/zetteldeft/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

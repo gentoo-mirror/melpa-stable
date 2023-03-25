@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Company mode backend for CC++ header files with Irony</longdescription>
+	<longdescription>Company mode backend for C/C++ header files with Irony</longdescription>
 </pkgmetadata>

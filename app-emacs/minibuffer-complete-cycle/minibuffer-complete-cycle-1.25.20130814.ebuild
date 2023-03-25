@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Cycle through the Completions buffer"
+DESCRIPTION="Cycle through the *Completions* buffer"
 
 HOMEPAGE="https://github.com/knu/minibuffer-complete-cycle"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

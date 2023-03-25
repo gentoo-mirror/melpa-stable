@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="The scratch that lasts forever"
+DESCRIPTION="The *scratch* that lasts forever"
 
 HOMEPAGE="https://github.com/beacoder/everlasting-scratch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

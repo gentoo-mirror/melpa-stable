@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Display L glyphs as horiontal lines</longdescription>
+	<longdescription>Display ^L glyphs as horizontal lines</longdescription>
 </pkgmetadata>

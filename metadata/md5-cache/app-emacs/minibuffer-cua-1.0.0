@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Make CUA modes S-upS-down work in minibuffer
+DESCRIPTION=Make CUA mode's S-up/S-down work in minibuffer
 EAPI=8
 HOMEPAGE=https://github.com/knu/minibuffer-cua.el
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/minibuffer-cua-1.0.0.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=b5f8b244e410510bbbdc523737762a40
+_md5_=5350f24545283e7085ca1dcd8357b446

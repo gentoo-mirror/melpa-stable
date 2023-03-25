@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Completion-at-point backend for cc++ using clang</longdescription>
+	<longdescription>Completion-at-point backend for c/c++ using clang</longdescription>
 </pkgmetadata>

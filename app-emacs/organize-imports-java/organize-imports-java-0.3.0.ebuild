@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Automatically organie imports in Java code"
+DESCRIPTION="Automatically organize imports in Java code"
 
 HOMEPAGE="https://github.com/jcs-elpa/organize-imports-java"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

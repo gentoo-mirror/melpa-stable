@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/org-mode app-emacs/mustache
-DESCRIPTION=Generate template filesfolders from org document
+DESCRIPTION=Generate template files/folders from org document
 EAPI=8
 HOMEPAGE=https://github.com/conao3/org-generate.el
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/org-mode app-emacs/mustache >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/org-generate-1.0.0.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=042e8c926301b6c792d965406f1abf5d
+_md5_=62b79848fec8fc8d0048154a4290b45e

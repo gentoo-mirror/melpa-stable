@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="EnableDisable proxies respecting your HTTPHTTPS env"
+DESCRIPTION="Enable/Disable proxies respecting your HTTP/HTTPS env"
 
 HOMEPAGE="https://github.com/rayw000/use-proxy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

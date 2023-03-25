@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=The Solo-Ja color theme
+DESCRIPTION=The Solo-Jazz color theme
 EAPI=8
 HOMEPAGE=https://github.com/cstby/solo-jazz-emacs-theme
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/solo-jazz-theme-0.9.0.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=1b95ad5db79376b1b9541f2730657831
+_md5_=9077f5b5f305dc738e328e3b5dfa135b

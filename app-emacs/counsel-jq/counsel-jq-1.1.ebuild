@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Live preview of jq queries using counsel"
+DESCRIPTION="Live preview of \"jq\" queries using counsel"
 
 HOMEPAGE="https://github.com/200ok-ch/counsel-jq"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

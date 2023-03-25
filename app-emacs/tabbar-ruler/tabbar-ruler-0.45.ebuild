@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Pretty tabbar, autohide, use both tabbarruler"
+DESCRIPTION="Pretty tabbar, autohide, use both tabbar/ruler"
 
 HOMEPAGE="http://github.com/mlf176f2/tabbar-ruler.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

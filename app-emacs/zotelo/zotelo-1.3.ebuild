@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Manage otero collections from emacs"
+DESCRIPTION="Manage Zotero collections from emacs"
 
 HOMEPAGE="https://github.com/vitoshka/zotelo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

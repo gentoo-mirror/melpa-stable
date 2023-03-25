@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fuy Search Library  Completing Read"
+DESCRIPTION="Fuzzy Search Library & Completing Read"
 
 HOMEPAGE="https://github.com/d11wtq/grizzl"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A simple interface to saxonbs xquery.</longdescription>
+	<longdescription>A simple interface to saxonb's xquery.</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A major mode for the et programming language"
+DESCRIPTION="A major mode for the ZetZ programming language"
 
 HOMEPAGE="https://github.com/damon-kwok/zetz-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

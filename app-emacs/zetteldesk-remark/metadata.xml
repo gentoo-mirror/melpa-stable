@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Org-Remark integration for etteldesk.el</longdescription>
+	<longdescription>Org-Remark integration for zetteldesk.el</longdescription>
 </pkgmetadata>

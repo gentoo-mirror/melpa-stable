@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Citarorg-roam integration"
+DESCRIPTION="Citar/org-roam integration"
 
 HOMEPAGE="https://github.com/emacs-citar/citar-org-roam"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

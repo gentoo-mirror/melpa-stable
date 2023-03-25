@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Major mode for visit httpv2ex.com site.</longdescription>
+	<longdescription>Major mode for visit http://v2ex.com/ site.</longdescription>
 </pkgmetadata>

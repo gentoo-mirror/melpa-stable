@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Hook slimes completion into hippie-expand</longdescription>
+	<longdescription>Hook slime's completion into hippie-expand</longdescription>
 </pkgmetadata>

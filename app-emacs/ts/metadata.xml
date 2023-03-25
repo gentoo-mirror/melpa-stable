@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Timestamp and datetime library</longdescription>
+	<longdescription>Timestamp and date/time library</longdescription>
 </pkgmetadata>

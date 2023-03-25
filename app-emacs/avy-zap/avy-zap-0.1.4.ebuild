@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ap to char using avy"
+DESCRIPTION="Zap to char using \`avy'"
 
 HOMEPAGE="https://github.com/cute-jumper/avy-zap"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

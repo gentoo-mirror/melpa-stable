@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Synchronie org-mode entries to Anki"
+DESCRIPTION="Synchronize org-mode entries to Anki"
 
 HOMEPAGE="https://github.com/eyeinsky/org-anki"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

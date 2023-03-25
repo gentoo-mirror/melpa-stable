@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Windows IME UIUX controler"
+DESCRIPTION="Windows IME UI/UX controler"
 
 HOMEPAGE="https://github.com/trueroad/w32-ime.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

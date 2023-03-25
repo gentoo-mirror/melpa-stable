@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Copy buffer locations as GitHubSlackJIRAHipChat... formatted code"
+DESCRIPTION="Copy buffer locations as GitHub/Slack/JIRA/HipChat/... formatted code"
 
 HOMEPAGE="https://github.com/sshaw/copy-as-format"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

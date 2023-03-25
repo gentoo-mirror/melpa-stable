@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Jump to referencesdefinitions using ag  js2-modes AST</longdescription>
+	<longdescription>Jump to references/definitions using ag &amp; js2-mode's AST</longdescription>
 </pkgmetadata>

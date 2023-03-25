@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Inline playback of animated GIFPNG for Org"
+DESCRIPTION="Inline playback of animated GIF/PNG for Org"
 
 HOMEPAGE="https://github.com/shg/org-inline-anim.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Flycheck OCaml support"
+DESCRIPTION="Flycheck: OCaml support"
 
 HOMEPAGE="https://github.com/flycheck/flycheck-ocaml"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

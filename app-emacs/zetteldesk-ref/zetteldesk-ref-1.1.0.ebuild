@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A etteldesk extension for interfacing with literature nodes"
+DESCRIPTION="A zetteldesk extension for interfacing with literature nodes"
 
 HOMEPAGE="https://github.com/Vidianos-Giannitsis/zetteldesk-ref.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -4,13 +4,13 @@
 EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
-SOURCE_TYPE="tar"
+SOURCE_TYPE="single"
 REALNAME="kele"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Sprity Kubernetes cluster management"
+DESCRIPTION="Spritzy Kubernetes cluster management"
 
 HOMEPAGE="https://github.com/jinnovation/kele.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

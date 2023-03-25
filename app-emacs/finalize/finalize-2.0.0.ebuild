@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="finaliers for Emacs Lisp"
+DESCRIPTION="finalizers for Emacs Lisp"
 
 HOMEPAGE="https://github.com/skeeto/elisp-finalize"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

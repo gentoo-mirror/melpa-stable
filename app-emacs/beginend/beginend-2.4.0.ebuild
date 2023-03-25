@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Redefine M- and M- for some modes"
+DESCRIPTION="Redefine M-< and M-> for some modes"
 
 HOMEPAGE="https://github.com/DamienCassou/beginend"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

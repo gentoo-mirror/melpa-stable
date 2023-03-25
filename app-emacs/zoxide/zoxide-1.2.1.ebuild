@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Find file by oxide"
+DESCRIPTION="Find file by zoxide"
 
 HOMEPAGE="https://gitlab.com/Vonfry/zoxide.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

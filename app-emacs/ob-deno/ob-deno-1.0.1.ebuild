@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Babel Functions for JavascriptTypeScript with Deno"
+DESCRIPTION="Babel Functions for Javascript/TypeScript with Deno"
 
 HOMEPAGE="https://github.com/taiju/ob-deno"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

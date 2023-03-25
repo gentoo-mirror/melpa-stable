@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Major mode for the Plan rc shell</longdescription>
+	<longdescription>Major mode for the Plan9 rc shell</longdescription>
 </pkgmetadata>

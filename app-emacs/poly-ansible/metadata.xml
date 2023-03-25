@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Polymode for Ansible Jinja2 in YAML</longdescription>
+	<longdescription>Polymode for Ansible: Jinja2 in YAML</longdescription>
 </pkgmetadata>

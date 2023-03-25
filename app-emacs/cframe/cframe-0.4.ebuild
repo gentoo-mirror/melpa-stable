@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Customie a frame and fast switch sie and positions"
+DESCRIPTION="Customize a frame and fast switch size and positions"
 
 HOMEPAGE="https://github.com/plandes/cframe"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

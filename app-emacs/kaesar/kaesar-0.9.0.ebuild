@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Another AES algorithm encryptdecrypt string with password."
+DESCRIPTION="Another AES algorithm encrypt/decrypt string with password."
 
 HOMEPAGE="https://github.com/mhayashi1120/Emacs-kaesar/raw/master/kaesar.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

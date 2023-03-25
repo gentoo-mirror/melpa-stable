@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Chat via WeeChats relay protocol in Emacs"
+DESCRIPTION="Chat via WeeChat's relay protocol in Emacs"
 
 HOMEPAGE="https://github.com/the-kenny/weechat.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

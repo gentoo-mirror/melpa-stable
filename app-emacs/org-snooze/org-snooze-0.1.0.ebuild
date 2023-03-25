@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Snooe your code, doc and feed"
+DESCRIPTION="Snooze your code, doc and feed"
 
 HOMEPAGE="https://github.com/xueeinstein/org-snooze.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

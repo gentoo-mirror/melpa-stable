@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Get the GitHubBitbucketGitLab URL for a buffer location</longdescription>
+	<longdescription>Get the GitHub/Bitbucket/GitLab URL for a buffer location</longdescription>
 </pkgmetadata>

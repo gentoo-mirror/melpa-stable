@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Grep node of direx.el using incremental search like anything.elhelm.el"
+DESCRIPTION="Grep node of direx.el using incremental search like anything.el/helm.el"
 
 HOMEPAGE="https://github.com/aki2o/direx-grep"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

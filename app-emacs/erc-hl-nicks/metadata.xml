@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>ERC nick highlighter that ignores uniquifying chars when coloriing</longdescription>
+	<longdescription>ERC nick highlighter that ignores uniquifying chars when colorizing</longdescription>
 </pkgmetadata>

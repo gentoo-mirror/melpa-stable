@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Library for the otero API</longdescription>
+	<longdescription>Library for the Zotero API</longdescription>
 </pkgmetadata>

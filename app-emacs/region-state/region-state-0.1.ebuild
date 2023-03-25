@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show the number of charslines or rowscolumns in the region"
+DESCRIPTION="Show the number of chars/lines or rows/columns in the region"
 
 HOMEPAGE="https://github.com/xuchunyang/region-state.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

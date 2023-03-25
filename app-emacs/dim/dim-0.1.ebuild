@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Change mode-line names of majorminor modes"
+DESCRIPTION="Change mode-line names of major/minor modes"
 
 HOMEPAGE="https://github.com/alezost/dim.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

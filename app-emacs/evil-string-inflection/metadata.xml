@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>snake_case - CamelCase - etc. for text objects</longdescription>
+	<longdescription>snake_case -&gt; CamelCase -&gt; etc. for text objects</longdescription>
 </pkgmetadata>

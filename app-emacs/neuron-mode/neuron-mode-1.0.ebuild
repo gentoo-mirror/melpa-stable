@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for editing ettelkasten notes using neuron"
+DESCRIPTION="Major mode for editing zettelkasten notes using neuron"
 
 HOMEPAGE="https://github.com/felko/neuron-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

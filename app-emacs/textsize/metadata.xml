@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Configure frame text sie automatically</longdescription>
+	<longdescription>Configure frame text size automatically</longdescription>
 </pkgmetadata>

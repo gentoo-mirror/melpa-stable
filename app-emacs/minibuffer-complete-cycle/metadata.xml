@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Cycle through the Completions buffer</longdescription>
+	<longdescription>Cycle through the *Completions* buffer</longdescription>
 </pkgmetadata>

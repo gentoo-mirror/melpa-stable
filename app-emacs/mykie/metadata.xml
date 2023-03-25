@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Command multiplexer Register multiple functions to a keybind</longdescription>
+	<longdescription>Command multiplexer: Register multiple functions to a keybind</longdescription>
 </pkgmetadata>

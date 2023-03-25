@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Use a variable pitch, keeping fixed pitch where its sensible</longdescription>
+	<longdescription>Use a variable pitch, keeping fixed pitch where it's sensible</longdescription>
 </pkgmetadata>

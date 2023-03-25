@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Use a variable pitch, keeping fixed pitch where its sensible"
+DESCRIPTION="Use a variable pitch, keeping fixed pitch where it's sensible"
 
 HOMEPAGE="https://gitlab.com/jabranham/mixed-pitch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

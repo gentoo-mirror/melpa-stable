@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="InsertExport the link of Travis CI on org-mode"
+DESCRIPTION="Insert/Export the link of Travis CI on org-mode"
 
 HOMEPAGE="https://github.com/aki2o/org-link-travis"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

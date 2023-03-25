@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Flycheck Clojure support</longdescription>
+	<longdescription>Flycheck: Clojure support</longdescription>
 </pkgmetadata>

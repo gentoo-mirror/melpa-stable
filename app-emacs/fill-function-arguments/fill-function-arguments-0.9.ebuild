@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Convert function arguments tofrom single line"
+DESCRIPTION="Convert function arguments to/from single line"
 
 HOMEPAGE="https://github.com/davidshepherd7/fill-function-arguments"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

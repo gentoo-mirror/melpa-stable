@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlightrename things using js2-mode parser"
+DESCRIPTION="Highlight/rename things using js2-mode parser"
 
 HOMEPAGE="https://github.com/redguardtoo/js2hl"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

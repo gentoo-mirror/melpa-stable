@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Viewingediting system trash can"
+DESCRIPTION="Viewing/editing system trash can"
 
 HOMEPAGE="https://github.com/shingo256/trashed"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

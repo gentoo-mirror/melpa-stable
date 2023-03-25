@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="kill  mark things easily"
+DESCRIPTION="kill & mark things easily"
 
 HOMEPAGE="https://github.com/leoliu/easy-kill"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

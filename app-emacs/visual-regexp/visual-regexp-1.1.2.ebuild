@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A regexpreplace command for Emacs with interactive visual feedback"
+DESCRIPTION="A regexp/replace command for Emacs with interactive visual feedback"
 
 HOMEPAGE="https://github.com/benma/visual-regexp.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Organie your config into small and loadable modules</longdescription>
+	<longdescription>Organize your config into small and loadable modules</longdescription>
 </pkgmetadata>

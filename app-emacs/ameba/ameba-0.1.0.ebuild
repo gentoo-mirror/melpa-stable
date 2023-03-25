@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An Emacs interface to [Ameba](httpsgithub.comveelengaameba)"
+DESCRIPTION="An Emacs interface to [Ameba](https://github.com/veelenga/ameba)"
 
 HOMEPAGE="https://github.com/veelenga/ameba.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

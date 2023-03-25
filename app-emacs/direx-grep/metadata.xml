@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Grep node of direx.el using incremental search like anything.elhelm.el</longdescription>
+	<longdescription>Grep node of direx.el using incremental search like anything.el/helm.el</longdescription>
 </pkgmetadata>

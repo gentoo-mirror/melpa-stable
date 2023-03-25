@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Adds hydra keyword to use-package macro"
+DESCRIPTION="Adds :hydra keyword to use-package macro"
 
 HOMEPAGE="https://gitlab.com/to1ne/use-package-hydra"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

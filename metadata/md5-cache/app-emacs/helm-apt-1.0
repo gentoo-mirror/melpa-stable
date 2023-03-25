@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/helm
-DESCRIPTION=Helm interface for DebianUbuntu packages (apt-)
+DESCRIPTION=Helm interface for Debian/Ubuntu packages (apt-*)
 EAPI=8
 HOMEPAGE=https://github.com/emacs-helm/helm-apt
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/helm >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/helm-apt-1.0.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=df185794a89b1548e0ea8e083222b2ac
+_md5_=7cb9cb5ea05ec9990965aeb69950bfce

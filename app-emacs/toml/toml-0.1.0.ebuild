@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="TOML (Toms Obvious, Minimal Language) parser"
+DESCRIPTION="TOML (Tom's Obvious, Minimal Language) parser"
 
 HOMEPAGE="https://github.com/gongo/emacs-toml"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

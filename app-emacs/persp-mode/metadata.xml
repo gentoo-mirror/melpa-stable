@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>windowsbuffers sets shared among frames + saveload.</longdescription>
+	<longdescription>windows/buffers sets shared among frames + save/load.</longdescription>
 </pkgmetadata>

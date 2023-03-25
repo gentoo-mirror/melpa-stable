@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Another AES algorithm encryptdecrypt string with password.</longdescription>
+	<longdescription>Another AES algorithm encrypt/decrypt string with password.</longdescription>
 </pkgmetadata>

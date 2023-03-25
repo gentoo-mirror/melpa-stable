@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Helm interface for your githubs stars</longdescription>
+	<longdescription>Helm interface for your github's stars</longdescription>
 </pkgmetadata>

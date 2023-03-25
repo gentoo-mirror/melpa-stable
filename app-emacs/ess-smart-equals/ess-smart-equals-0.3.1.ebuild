@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="flexible, context-sensitive assignment key for RS"
+DESCRIPTION="flexible, context-sensitive assignment key for R/S"
 
 HOMEPAGE="https://github.com/genovese/ess-smart-equals"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

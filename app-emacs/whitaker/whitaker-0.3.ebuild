@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Comint interface for Whitakers Words"
+DESCRIPTION="Comint interface for Whitaker's Words"
 
 HOMEPAGE="https://stable.melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

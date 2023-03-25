@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Jump to and correct spelling errors using ace-jump-mode and flyspell</longdescription>
+	<longdescription>Jump to and correct spelling errors using \`ace-jump-mode' and flyspell</longdescription>
 </pkgmetadata>

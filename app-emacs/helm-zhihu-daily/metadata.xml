@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Helm interface for  (httpdaily.hihu.com)</longdescription>
+	<longdescription>Helm interface for 知乎日报 (http://daily.zhihu.com)</longdescription>
 </pkgmetadata>

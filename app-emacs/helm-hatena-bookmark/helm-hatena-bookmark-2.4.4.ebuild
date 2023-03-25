@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="HatenaBookmark with helm interface"
+DESCRIPTION="Hatena::Bookmark with helm interface"
 
 HOMEPAGE="https://github.com/masutaka/emacs-helm-hatena-bookmark"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

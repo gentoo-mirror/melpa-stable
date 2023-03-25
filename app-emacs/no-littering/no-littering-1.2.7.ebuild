@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="help keeping .emacs.d clean"
+DESCRIPTION="help keeping ~/.emacs.d clean"
 
 HOMEPAGE="https://github.com/emacscollective/no-littering"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

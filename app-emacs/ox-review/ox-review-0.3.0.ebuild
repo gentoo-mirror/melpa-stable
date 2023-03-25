@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ReVIEW Back-End for Org Export Engine"
+DESCRIPTION="Re:VIEW Back-End for Org Export Engine"
 
 HOMEPAGE="https://github.com/masfj/ox-review"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

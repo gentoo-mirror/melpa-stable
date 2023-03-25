@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Keep track of a buffers total number of lines"
+DESCRIPTION="Keep track of a buffer's total number of lines"
 
 HOMEPAGE="https://github.com/hinrik/total-lines"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

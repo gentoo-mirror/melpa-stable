@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Organie your config into small and loadable modules"
+DESCRIPTION="Organize your config into small and loadable modules"
 
 HOMEPAGE="https://github.com/SidharthArya/modular-config.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

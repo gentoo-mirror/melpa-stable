@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="highlight dired buffer by file sie, modified time, git status"
+DESCRIPTION="highlight dired buffer by file size, modified time, git status"
 
 HOMEPAGE="https://github.com/syohex/emacs-dired-k"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

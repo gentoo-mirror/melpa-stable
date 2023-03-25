@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Dont make typos with the help of helm and company</longdescription>
+	<longdescription>Don't make typos with the help of helm and company</longdescription>
 </pkgmetadata>

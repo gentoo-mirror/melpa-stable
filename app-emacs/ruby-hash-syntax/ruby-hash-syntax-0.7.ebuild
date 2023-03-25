@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Toggle ruby hash syntax between  and 1.+ styles"
+DESCRIPTION="Toggle ruby hash syntax between => and 1.9+ styles"
 
 HOMEPAGE="https://github.com/purcell/ruby-hash-syntax"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

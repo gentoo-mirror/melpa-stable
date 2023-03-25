@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Toggle ruby hash syntax between  and 1.+ styles</longdescription>
+	<longdescription>Toggle ruby hash syntax between =&gt; and 1.9+ styles</longdescription>
 </pkgmetadata>

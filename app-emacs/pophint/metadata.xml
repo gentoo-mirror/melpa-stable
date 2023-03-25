@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Provide navigation using pop-up tips, like Firefoxs Vimperator Hint Mode</longdescription>
+	<longdescription>Provide navigation using pop-up tips, like Firefox's Vimperator Hint Mode</longdescription>
 </pkgmetadata>

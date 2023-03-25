@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Support for the F programming language</longdescription>
+	<longdescription>Support for the F# programming language</longdescription>
 </pkgmetadata>

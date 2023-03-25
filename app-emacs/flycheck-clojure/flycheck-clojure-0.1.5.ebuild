@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Flycheck Clojure support"
+DESCRIPTION="Flycheck: Clojure support"
 
 HOMEPAGE="https://github.com/clojure-emacs/squiggly-clojure"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

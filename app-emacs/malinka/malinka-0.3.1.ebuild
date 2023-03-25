@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A CC++ project configuration package for Emacs"
+DESCRIPTION="A C/C++ project configuration package for Emacs"
 
 HOMEPAGE="https://github.com/LefterisJP/malinka"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

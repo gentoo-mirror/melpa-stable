@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A etteldesk extension for interacting with the info program"
+DESCRIPTION="A zetteldesk extension for interacting with the info program"
 
 HOMEPAGE="https://github.com/Vidianos-Giannitsis/zetteldesk-info.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

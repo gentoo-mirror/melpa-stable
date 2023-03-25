@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Flycheck Swift support for Apple swift-mode"
+DESCRIPTION="Flycheck: Swift support for Apple swift-mode"
 
 HOMEPAGE="https://github.com/GyazSquare/flycheck-swift3"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Tail call optimiation"
+DESCRIPTION="Tail call optimization"
 
 HOMEPAGE="https://github.com/ROCKTAKEY/recur"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

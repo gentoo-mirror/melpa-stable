@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Multiple choice qui game"
+DESCRIPTION="Multiple choice quiz game"
 
 HOMEPAGE="https://github.com/davep/quiz.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

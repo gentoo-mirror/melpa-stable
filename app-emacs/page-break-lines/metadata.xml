@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Display L page breaks as tidy horiontal lines</longdescription>
+	<longdescription>Display ^L page breaks as tidy horizontal lines</longdescription>
 </pkgmetadata>

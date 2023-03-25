@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Elisp otfttf font loaderrenderer"
+DESCRIPTION="Elisp otf/ttf font loader/renderer"
 
 HOMEPAGE="https://github.com/jollm/fontsloth"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

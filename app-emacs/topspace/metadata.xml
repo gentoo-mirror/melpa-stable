@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Recenter line 1 with scrollable upper marginpadding</longdescription>
+	<longdescription>Recenter line 1 with scrollable upper margin/padding</longdescription>
 </pkgmetadata>

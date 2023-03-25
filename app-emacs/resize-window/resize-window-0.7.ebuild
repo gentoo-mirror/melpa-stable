@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="easily resie windows"
+DESCRIPTION="easily resize windows"
 
 HOMEPAGE="https://github.com/dpsutton/resize-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

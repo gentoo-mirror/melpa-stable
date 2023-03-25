@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major-mode for viewing log files  strace output"
+DESCRIPTION="Major-mode for viewing log files & strace output"
 
 HOMEPAGE="https://github.com/vapniks/syslog-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

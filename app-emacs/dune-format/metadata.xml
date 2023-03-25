@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Reformat OCamls dune files automatically</longdescription>
+	<longdescription>Reformat OCaml's dune files automatically</longdescription>
 </pkgmetadata>

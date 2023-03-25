@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="PromisesA+"
+DESCRIPTION="Promises/A+"
 
 HOMEPAGE="https://github.com/chuntaro/emacs-promise"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

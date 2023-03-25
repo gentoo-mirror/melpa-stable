@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/zetteldesk app-emacs/org-remark
-DESCRIPTION=Org-Remark integration for etteldesk.el
+DESCRIPTION=Org-Remark integration for zetteldesk.el
 EAPI=8
 HOMEPAGE=https://github.com/Vidianos-Giannitsis/zetteldesk-remark.el
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/zetteldesk app-emacs/org-remark >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/zetteldesk-remark-1.1.0.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=989ba1c1b32bd125527c1187cffa2514
+_md5_=a15d07307707cf424e50b936e63a45a1

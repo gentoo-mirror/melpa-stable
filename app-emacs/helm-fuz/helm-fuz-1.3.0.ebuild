@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Integrate Helm and Fu"
+DESCRIPTION="Integrate Helm and Fuz"
 
 HOMEPAGE="https://github.com/cireu/fuz.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Configure frame text sie automatically"
+DESCRIPTION="Configure frame text size automatically"
 
 HOMEPAGE="https://github.com/WJCFerguson/textsize"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

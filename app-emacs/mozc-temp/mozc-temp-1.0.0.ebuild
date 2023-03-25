@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Use moc temporarily"
+DESCRIPTION="Use mozc temporarily"
 
 HOMEPAGE="https://github.com/HKey/mozc-temp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

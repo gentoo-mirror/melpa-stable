@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Dont make typos with the help of helm and company"
+DESCRIPTION="Don't make typos with the help of helm and company"
 
 HOMEPAGE="https://github.com/kadircancetin/typo-suggest"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

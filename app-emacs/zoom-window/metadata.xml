@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>oom window like tmux</longdescription>
+	<longdescription>Zoom window like tmux</longdescription>
 </pkgmetadata>

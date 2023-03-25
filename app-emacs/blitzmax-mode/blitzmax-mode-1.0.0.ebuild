@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A major mode for editing BlitMax source code"
+DESCRIPTION="A major mode for editing BlitzMax source code"
 
 HOMEPAGE="https://www.sodaware.net/dev/tools/blitzmax-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

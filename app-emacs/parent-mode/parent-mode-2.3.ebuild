@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="get major modes parent modes"
+DESCRIPTION="get major mode's parent modes"
 
 HOMEPAGE="https://github.com/Fanael/parent-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

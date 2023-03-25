@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A minor mode for interaction with ombie Trellys"
+DESCRIPTION="A minor mode for interaction with Zombie Trellys"
 
 HOMEPAGE="https://stable.melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

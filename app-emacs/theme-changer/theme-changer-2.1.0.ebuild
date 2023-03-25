@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="SunriseSunset Theme Changer for Emacs"
+DESCRIPTION="Sunrise/Sunset Theme Changer for Emacs"
 
 HOMEPAGE="https://github.com/hadronzoo/theme-changer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

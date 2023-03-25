@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Convert first letter of Pinyin to SimplifiedTraditional Chinese characters"
+DESCRIPTION="Convert first letter of Pinyin to Simplified/Traditional Chinese characters"
 
 HOMEPAGE="https://stable.melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

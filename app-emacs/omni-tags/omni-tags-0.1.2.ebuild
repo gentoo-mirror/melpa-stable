@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlight and Actions for Tags"
+DESCRIPTION="Highlight and Actions for 'Tags'"
 
 HOMEPAGE="http://github.com/AdrieanKhisbe/omni-tags.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

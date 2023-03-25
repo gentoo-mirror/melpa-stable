@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Get environment variables such as PATH from the shell"
+DESCRIPTION="Get environment variables such as \$PATH from the shell"
 
 HOMEPAGE="https://github.com/purcell/exec-path-from-shell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>An elisp port of Moilla Universal Charset Auto Detector</longdescription>
+	<longdescription>An elisp port of Mozilla Universal Charset Auto Detector</longdescription>
 </pkgmetadata>

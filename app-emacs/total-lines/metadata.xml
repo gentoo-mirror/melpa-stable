@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Keep track of a buffers total number of lines</longdescription>
+	<longdescription>Keep track of a buffer's total number of lines</longdescription>
 </pkgmetadata>

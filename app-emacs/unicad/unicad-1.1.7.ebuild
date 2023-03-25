@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An elisp port of Moilla Universal Charset Auto Detector"
+DESCRIPTION="An elisp port of Mozilla Universal Charset Auto Detector"
 
 HOMEPAGE="https://github.com/ukari/unicad"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

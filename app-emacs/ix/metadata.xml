@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Emacs client for httpix.io pastebin</longdescription>
+	<longdescription>Emacs client for http://ix.io pastebin</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Preview line when executing goto-line command"
+DESCRIPTION="Preview line when executing \`goto-line\` command"
 
 HOMEPAGE="https://github.com/jcs-elpa/goto-line-preview"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

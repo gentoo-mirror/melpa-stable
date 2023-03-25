@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Keep your git repositories organied"
+DESCRIPTION="Keep your git repositories organized"
 
 HOMEPAGE="https://alternativebit.fr/projects/my-repo-pins/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

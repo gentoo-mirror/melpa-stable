@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="EscapeUnescape unicode notations"
+DESCRIPTION="Escape/Unescape unicode notations"
 
 HOMEPAGE="https://github.com/kosh04/unicode-escape.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

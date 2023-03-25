@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Provides the command consult-flycheck</longdescription>
+	<longdescription>Provides the command \`consult-flycheck'</longdescription>
 </pkgmetadata>

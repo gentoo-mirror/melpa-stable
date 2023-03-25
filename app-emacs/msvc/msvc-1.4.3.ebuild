@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Microsoft Visual CC++ mode"
+DESCRIPTION="Microsoft Visual C/C++ mode"
 
 HOMEPAGE="https://github.com/yaruopooner/msvc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Improved open with suggestions for dired"
+DESCRIPTION="Improved \"open with\" suggestions for dired"
 
 HOMEPAGE="https://github.com/thamer/runner"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

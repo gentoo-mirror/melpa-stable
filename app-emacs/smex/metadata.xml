@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>M-x interface with Ido-style fuy matching.</longdescription>
+	<longdescription>M-x interface with Ido-style fuzzy matching.</longdescription>
 </pkgmetadata>

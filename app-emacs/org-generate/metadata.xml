@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Generate template filesfolders from org document</longdescription>
+	<longdescription>Generate template files/folders from org document</longdescription>
 </pkgmetadata>

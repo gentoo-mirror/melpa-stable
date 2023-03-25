@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Commands to control frame position and sie</longdescription>
+	<longdescription>Commands to control frame position and size</longdescription>
 </pkgmetadata>

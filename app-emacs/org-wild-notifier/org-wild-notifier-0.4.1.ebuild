@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Customiable org-agenda notifications"
+DESCRIPTION="Customizable org-agenda notifications"
 
 HOMEPAGE="https://github.com/akhramov/org-wild-notifier.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

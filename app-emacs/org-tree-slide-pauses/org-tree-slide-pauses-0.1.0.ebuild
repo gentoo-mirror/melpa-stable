@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Bring the pause Beamer to org-tree-slide"
+DESCRIPTION="Bring the \\pause Beamer to org-tree-slide!"
 
 HOMEPAGE="https://github.com/cnngimenez/org-tree-slide-pauses"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

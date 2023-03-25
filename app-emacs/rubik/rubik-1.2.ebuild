@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Rubiks Cube"
+DESCRIPTION="Rubik's Cube"
 
 HOMEPAGE="https://github.com/Kurvivor19/rubik-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

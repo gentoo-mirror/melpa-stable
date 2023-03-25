@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Handle special buffers when saving  restoring sessions</longdescription>
+	<longdescription>Handle special buffers when saving &amp; restoring sessions</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Alternative to picking color - update fgbg color by pressing rgb... keys"
+DESCRIPTION="Alternative to picking color - update fg/bg color by pressing r/g/b/... keys"
 
 HOMEPAGE="http://github.com/alezost/make-color.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

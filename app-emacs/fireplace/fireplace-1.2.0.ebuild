@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A coy fireplace for emacs"
+DESCRIPTION="A cozy fireplace for emacs"
 
 HOMEPAGE="https://github.com/johanvts/emacs-fireplace"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

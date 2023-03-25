@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Flycheck Automatic Haskell configuration"
+DESCRIPTION="Flycheck: Automatic Haskell configuration"
 
 HOMEPAGE="https://github.com/flycheck/flycheck-haskell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

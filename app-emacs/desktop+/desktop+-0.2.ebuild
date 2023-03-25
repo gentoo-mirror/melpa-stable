@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Handle special buffers when saving  restoring sessions"
+DESCRIPTION="Handle special buffers when saving & restoring sessions"
 
 HOMEPAGE="https://github.com/ffevotte/desktop-plus"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

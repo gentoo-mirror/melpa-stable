@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A better help buffer"
+DESCRIPTION="A better *help* buffer"
 
 HOMEPAGE="https://github.com/Wilfred/helpful"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

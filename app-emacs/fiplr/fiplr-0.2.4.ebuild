@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fuy Search for Files in Projects"
+DESCRIPTION="Fuzzy Search for Files in Projects"
 
 HOMEPAGE="https://github.com/d11wtq/fiplr"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

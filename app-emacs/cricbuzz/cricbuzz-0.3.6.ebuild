@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Cricket scores from cricbu in emacs"
+DESCRIPTION="Cricket scores from cricbuzz in emacs"
 
 HOMEPAGE="https://github.com/lepisma/cricbuzz.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

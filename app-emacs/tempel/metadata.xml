@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Tempo templatessnippets with in-buffer field editing</longdescription>
+	<longdescription>Tempo templates/snippets with in-buffer field editing</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Increasedecrease the number at point"
+DESCRIPTION="Increase/decrease the number at point"
 
 HOMEPAGE="https://github.com/alezost/shift-number.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

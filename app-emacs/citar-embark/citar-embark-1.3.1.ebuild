@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="CitarEmbark integration"
+DESCRIPTION="Citar/Embark integration"
 
 HOMEPAGE="https://github.com/emacs-citar/citar-embark"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

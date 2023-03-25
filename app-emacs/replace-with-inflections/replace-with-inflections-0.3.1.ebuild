@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Inflection aware query-replace"
+DESCRIPTION="Inflection aware \`query-replace'"
 
 HOMEPAGE="https://github.com/knu/replace-with-inflections.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

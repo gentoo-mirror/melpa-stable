@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Templating language"
+DESCRIPTION="Templating language;"
 
 HOMEPAGE="https://clarete.li/templatel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Emacs interface to Dit issue tracking system</longdescription>
+	<longdescription>Emacs interface to Ditz issue tracking system</longdescription>
 </pkgmetadata>

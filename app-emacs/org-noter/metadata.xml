@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A synchronied, Org-mode, document annotator</longdescription>
+	<longdescription>A synchronized, Org-mode, document annotator</longdescription>
 </pkgmetadata>

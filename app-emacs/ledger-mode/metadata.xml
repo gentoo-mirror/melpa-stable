@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Helper code for use with the ledger command-line tool</longdescription>
+	<longdescription>Helper code for use with the \&quot;ledger\&quot; command-line tool</longdescription>
 </pkgmetadata>

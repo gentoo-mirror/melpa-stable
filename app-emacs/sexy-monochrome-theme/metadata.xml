@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A sexy dark Emacs  24 theme for your sexy code</longdescription>
+	<longdescription>A sexy dark Emacs &gt;= 24 theme for your sexy code</longdescription>
 </pkgmetadata>

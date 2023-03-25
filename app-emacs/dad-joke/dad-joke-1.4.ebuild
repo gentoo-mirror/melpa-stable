@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Getdisplay dad jokes"
+DESCRIPTION="Get/display dad jokes"
 
 HOMEPAGE="https://github.com/davep/dad-joke.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

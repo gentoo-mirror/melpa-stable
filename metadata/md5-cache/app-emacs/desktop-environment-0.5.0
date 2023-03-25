@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Helps you control your GNULinux computer
+DESCRIPTION=Helps you control your GNU/Linux computer
 EAPI=8
 HOMEPAGE=https://gitlab.petton.fr/DamienCassou/desktop-environment
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/desktop-environment-0.5.0.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=fbfdbb516fb51871cec008c2c67cdd74
+_md5_=701aefad43e9c3870fc64faa161f6e30

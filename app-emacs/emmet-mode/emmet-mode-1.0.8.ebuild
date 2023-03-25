@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Unofficial Emmets support for emacs"
+DESCRIPTION="Unofficial Emmet's support for emacs"
 
 HOMEPAGE="https://github.com/smihica/emmet-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

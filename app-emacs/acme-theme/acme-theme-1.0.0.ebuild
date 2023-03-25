@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A color theme for Emacs based on Acme  Sam from Plan "
+DESCRIPTION="A color theme for Emacs based on Acme & Sam from Plan 9"
 
 HOMEPAGE="https://stable.melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

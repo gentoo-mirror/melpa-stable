@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Easily adjust the font sie in all frames"
+DESCRIPTION="Easily adjust the font size in all frames"
 
 HOMEPAGE="https://github.com/purcell/default-text-scale"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

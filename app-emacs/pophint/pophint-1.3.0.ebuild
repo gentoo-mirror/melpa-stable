@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Provide navigation using pop-up tips, like Firefoxs Vimperator Hint Mode"
+DESCRIPTION="Provide navigation using pop-up tips, like Firefox's Vimperator Hint Mode"
 
 HOMEPAGE="https://github.com/aki2o/emacs-pophint"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

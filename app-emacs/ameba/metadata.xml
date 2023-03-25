@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>An Emacs interface to [Ameba](httpsgithub.comveelengaameba)</longdescription>
+	<longdescription>An Emacs interface to [Ameba](https://github.com/veelenga/ameba)</longdescription>
 </pkgmetadata>

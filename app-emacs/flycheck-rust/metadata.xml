@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Flycheck Rust additions and Cargo support</longdescription>
+	<longdescription>Flycheck: Rust additions and Cargo support</longdescription>
 </pkgmetadata>

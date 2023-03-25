@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for Talon Voices .talon files"
+DESCRIPTION="Major mode for Talon Voice's .talon files"
 
 HOMEPAGE="https://github.com/jcaw/talonscript-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

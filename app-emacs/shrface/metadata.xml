@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Extend shreww with org features and analysis capability</longdescription>
+	<longdescription>Extend shr/eww with org features and analysis capability</longdescription>
 </pkgmetadata>

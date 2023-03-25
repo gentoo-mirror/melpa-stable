@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Brailian holidays"
+DESCRIPTION="Brazilian holidays"
 
 HOMEPAGE="https://github.com/jadler/brazilian-holidays"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

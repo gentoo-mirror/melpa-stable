@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/dash
-DESCRIPTION=Discover feed url by RSSAtom autodiscovery
+DESCRIPTION=Discover feed url by RSS/Atom autodiscovery
 EAPI=8
 HOMEPAGE=https://github.com/HKey/feed-discovery
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/dash >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/feed-discovery-1.0.0.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=301e6b4c7068f6d4375f224c4454088e
+_md5_=7fec72de86743d6452e5d3ab9b0fd598

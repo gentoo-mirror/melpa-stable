@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Group ibuffers list by project or any function"
+DESCRIPTION="Group ibuffer's list by project or any function"
 
 HOMEPAGE="https://github.com/muffinmad/emacs-ibuffer-project"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Memoiation functions"
+DESCRIPTION="Memoization functions"
 
 HOMEPAGE="https://github.com/skeeto/emacs-memoize"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

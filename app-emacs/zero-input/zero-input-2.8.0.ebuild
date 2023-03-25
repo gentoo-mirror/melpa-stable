@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ero Chinese input method framework"
+DESCRIPTION="Zero Chinese input method framework"
 
 HOMEPAGE="https://gitlab.emacsos.com/sylecn/zero-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

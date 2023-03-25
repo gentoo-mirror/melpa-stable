@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Flymake handler for Perl to invoke PerlCritic</longdescription>
+	<longdescription>Flymake handler for Perl to invoke Perl::Critic</longdescription>
 </pkgmetadata>

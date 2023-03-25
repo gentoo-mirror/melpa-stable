@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Flycheck CC++ support via Irony</longdescription>
+	<longdescription>Flycheck: C/C++ support via Irony</longdescription>
 </pkgmetadata>

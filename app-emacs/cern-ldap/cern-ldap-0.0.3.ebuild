@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Library to interact with CERNs LDAP servers"
+DESCRIPTION="Library to interact with CERN's LDAP servers"
 
 HOMEPAGE="https://git.sr.ht/~nbarrientos/cern-ldap.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

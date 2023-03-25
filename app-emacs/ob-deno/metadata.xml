@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Babel Functions for JavascriptTypeScript with Deno</longdescription>
+	<longdescription>Babel Functions for Javascript/TypeScript with Deno</longdescription>
 </pkgmetadata>

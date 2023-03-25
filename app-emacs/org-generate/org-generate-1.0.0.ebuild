@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Generate template filesfolders from org document"
+DESCRIPTION="Generate template files/folders from org document"
 
 HOMEPAGE="https://github.com/conao3/org-generate.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A convenient describe-bindings with helm"
+DESCRIPTION="A convenient \`describe-bindings' with \`helm'"
 
 HOMEPAGE="https://github.com/emacs-helm/helm-descbinds"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

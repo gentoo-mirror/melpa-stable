@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minimalists English-Chinese Bing dictionary"
+DESCRIPTION="Minimalists' English-Chinese Bing dictionary"
 
 HOMEPAGE="https://github.com/cute-jumper/bing-dict.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

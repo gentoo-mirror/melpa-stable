@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Babel functions for Ada  SPARK"
+DESCRIPTION="Babel functions for Ada & SPARK"
 
 HOMEPAGE="https://github.com/rocher/ob-ada-spark"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Translation framework supports multiple engines such as GoogleBingDeepL</longdescription>
+	<longdescription>Translation framework supports multiple engines such as Google/Bing/DeepL</longdescription>
 </pkgmetadata>

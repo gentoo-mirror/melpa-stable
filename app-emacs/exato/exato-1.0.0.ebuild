@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="EXATO Evil XMLHTML Attributes Text Object"
+DESCRIPTION="EXATO: Evil XML/HTML Attributes Text Object"
 
 HOMEPAGE="https://github.com/ninrod/exato"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

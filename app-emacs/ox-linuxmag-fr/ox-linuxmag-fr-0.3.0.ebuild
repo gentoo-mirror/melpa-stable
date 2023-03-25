@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Org-mode exporter for the French GNULinux Magaine"
+DESCRIPTION="Org-mode exporter for the French GNU/Linux Magazine"
 
 HOMEPAGE="https://github.com/DamienCassou/ox-linuxmag-fr"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

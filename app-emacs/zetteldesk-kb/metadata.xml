@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Keybindings for etteldesk.el</longdescription>
+	<longdescription>Keybindings for zetteldesk.el</longdescription>
 </pkgmetadata>

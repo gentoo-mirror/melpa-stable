@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Switch tofrom repl buffer for current major-mode"
+DESCRIPTION="Switch to/from repl buffer for current major-mode"
 
 HOMEPAGE="https://stable.melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

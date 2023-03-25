@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="show status of debug-on-error in the mode-line"
+DESCRIPTION="show status of \`debug-on-error' in the mode-line"
 
 HOMEPAGE="https://github.com/tarsius/mode-line-debug"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

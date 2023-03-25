@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Keybindings for etteldesk.el"
+DESCRIPTION="Keybindings for zetteldesk.el"
 
 HOMEPAGE="https://github.com/Vidianos-Giannitsis/zetteldesk-kb.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="EncryptDecrypt buffer by AES with password."
+DESCRIPTION="Encrypt/Decrypt buffer by AES with password."
 
 HOMEPAGE="https://github.com/mhayashi1120/Emacs-kaesar/raw/master/cipher/kaesar-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

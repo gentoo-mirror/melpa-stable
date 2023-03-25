@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Simple CAT interface for Yaesu FT1A</longdescription>
+	<longdescription>Simple CAT interface for Yaesu FT991A</longdescription>
 </pkgmetadata>

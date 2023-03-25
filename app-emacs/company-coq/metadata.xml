@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A collection of extensions for Proof Generals Coq mode</longdescription>
+	<longdescription>A collection of extensions for Proof General's Coq mode</longdescription>
 </pkgmetadata>

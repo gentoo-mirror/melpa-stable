@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Recenter line 1 with scrollable upper marginpadding"
+DESCRIPTION="Recenter line 1 with scrollable upper margin/padding"
 
 HOMEPAGE="https://github.com/trevorpogue/topspace"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

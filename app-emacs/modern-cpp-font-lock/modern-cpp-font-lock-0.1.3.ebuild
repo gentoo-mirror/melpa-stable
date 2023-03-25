@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Font-locking for Modern C++"
+DESCRIPTION="Font-locking for \"Modern C++\""
 
 HOMEPAGE="https://github.com/ludwigpacifici/modern-cpp-font-lock"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Dark color theme for Emacs  24 with intensive colors."
+DESCRIPTION="Dark color theme for Emacs > 24 with intensive colors."
 
 HOMEPAGE="https://github.com/steckerhalter/grandshell-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

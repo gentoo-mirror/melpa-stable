@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Preview character when executing goto-char command"
+DESCRIPTION="Preview character when executing \`goto-char\` command"
 
 HOMEPAGE="https://github.com/jcs-elpa/goto-char-preview"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

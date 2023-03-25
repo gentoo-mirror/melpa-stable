@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="View the file youre editing on GitHub"
+DESCRIPTION="View the file you're editing on GitHub"
 
 HOMEPAGE="https://github.com/osener/github-browse-file"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Edit commentstringdocstringcode block in separate buffer</longdescription>
+	<longdescription>Edit comment/string/docstring/code block in separate buffer</longdescription>
 </pkgmetadata>

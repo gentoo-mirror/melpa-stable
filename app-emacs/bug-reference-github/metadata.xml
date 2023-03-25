@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Set bug-reference-url-format in Github repos</longdescription>
+	<longdescription>Set \`bug-reference-url-format' in Github repos</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Save and restore framewindow configurations with buffers"
+DESCRIPTION="Save and restore frame/window configurations with buffers"
 
 HOMEPAGE="https://github.com/alphapapa/burly.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm interface for  (httpdaily.hihu.com)"
+DESCRIPTION="Helm interface for 知乎日报 (http://daily.zhihu.com)"
 
 HOMEPAGE="https://github.com/xuchunyang/helm-zhihu-daily"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
