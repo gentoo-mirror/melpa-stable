@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Automatically organie imports in Java code</longdescription>
+	<longdescription>Automatically organize imports in Java code</longdescription>
 </pkgmetadata>

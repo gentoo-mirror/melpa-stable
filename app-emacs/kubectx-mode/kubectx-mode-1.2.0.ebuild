@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Change kubectl contextnamespace and show in mode line"
+DESCRIPTION="Change kubectl context/namespace and show in mode line"
 
 HOMEPAGE="https://github.com/terjesannum/emacs-kubectx-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

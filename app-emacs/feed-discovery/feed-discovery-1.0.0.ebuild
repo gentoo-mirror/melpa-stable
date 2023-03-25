@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Discover feed url by RSSAtom autodiscovery"
+DESCRIPTION="Discover feed url by RSS/Atom autodiscovery"
 
 HOMEPAGE="https://github.com/HKey/feed-discovery"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

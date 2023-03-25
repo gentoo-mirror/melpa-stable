@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="AsyncAwait"
+DESCRIPTION="Async/Await"
 
 HOMEPAGE="https://github.com/chuntaro/emacs-async-await"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show flycheckflymake errors by tooltip"
+DESCRIPTION="Show flycheck/flymake errors by tooltip"
 
 HOMEPAGE="https://github.com/yuutayamada/flycheck-tip"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

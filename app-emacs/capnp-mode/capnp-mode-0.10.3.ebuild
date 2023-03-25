@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for editing Capn Proto Files"
+DESCRIPTION="Major mode for editing Capn' Proto Files"
 
 HOMEPAGE="https://github.com/capnproto/capnproto"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

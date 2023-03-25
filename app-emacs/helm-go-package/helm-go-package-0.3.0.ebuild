@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm sources for Go programming languages package"
+DESCRIPTION="helm sources for Go programming language's package"
 
 HOMEPAGE="https://github.com/yasuyk/helm-go-package"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

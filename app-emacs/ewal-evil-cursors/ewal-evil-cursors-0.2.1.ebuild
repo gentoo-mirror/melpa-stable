@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ewal-colored evil cursor for Emacs and Spacemacs"
+DESCRIPTION="\`ewal'-colored evil cursor for Emacs and Spacemacs"
 
 HOMEPAGE="https://gitlab.com/jjzmajic/ewal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

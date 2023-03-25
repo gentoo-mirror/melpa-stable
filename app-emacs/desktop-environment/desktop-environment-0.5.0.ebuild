@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helps you control your GNULinux computer"
+DESCRIPTION="Helps you control your GNU/Linux computer"
 
 HOMEPAGE="https://gitlab.petton.fr/DamienCassou/desktop-environment"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

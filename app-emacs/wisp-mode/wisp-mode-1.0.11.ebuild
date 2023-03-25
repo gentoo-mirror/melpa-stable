@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Tools for wisp the Whitespace-to-Lisp preprocessor"
+DESCRIPTION="Tools for wisp: the Whitespace-to-Lisp preprocessor"
 
 HOMEPAGE="http://www.draketo.de/english/wisp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

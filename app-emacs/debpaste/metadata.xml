@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Interface for gettingpostingdeleting pastes from paste.debian.net</longdescription>
+	<longdescription>Interface for getting/posting/deleting pastes from paste.debian.net</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode for Rails projects using trailblaer"
+DESCRIPTION="Minor mode for Rails projects using trailblazer"
 
 HOMEPAGE="https://github.com/micdahl/projectile-trailblazer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

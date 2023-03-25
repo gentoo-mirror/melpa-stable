@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Escape from anything with a customiable key sequence"
+DESCRIPTION="Escape from anything with a customizable key sequence"
 
 HOMEPAGE="https://github.com/emacsorphanage/evil-escape"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

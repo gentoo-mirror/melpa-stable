@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Find filedirectory and review DiffPatchCommit efficiently"
+DESCRIPTION="Find file/directory and review Diff/Patch/Commit efficiently"
 
 HOMEPAGE="https://github.com/redguardtoo/find-file-in-project"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

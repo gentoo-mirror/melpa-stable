@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Show flycheckflymake errors by tooltip</longdescription>
+	<longdescription>Show flycheck/flymake errors by tooltip</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="CC++ minor mode powered by libclang"
+DESCRIPTION="C/C++ minor mode powered by libclang"
 
 HOMEPAGE="https://github.com/Sarcasm/irony-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

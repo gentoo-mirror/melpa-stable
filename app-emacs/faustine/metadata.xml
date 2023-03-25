@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Edit, visualie, build and run Faust code</longdescription>
+	<longdescription>Edit, visualize, build and run Faust code</longdescription>
 </pkgmetadata>

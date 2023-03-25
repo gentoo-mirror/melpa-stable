@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A collection of extensions for Proof Generals Coq mode"
+DESCRIPTION="A collection of extensions for Proof General's Coq mode"
 
 HOMEPAGE="https://github.com/cpitclaudel/company-coq"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

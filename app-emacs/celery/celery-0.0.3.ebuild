@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a minor mode to draw stats from celery and more"
+DESCRIPTION="a minor mode to draw stats from celery and more?"
 
 HOMEPAGE="https://github.com/ardumont/emacs-celery"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

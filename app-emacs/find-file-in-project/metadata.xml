@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Find filedirectory and review DiffPatchCommit efficiently</longdescription>
+	<longdescription>Find file/directory and review Diff/Patch/Commit efficiently</longdescription>
 </pkgmetadata>

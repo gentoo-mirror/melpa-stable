@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Index and Desktop for k"
+DESCRIPTION="Index and Desktop for zk"
 
 HOMEPAGE="https://github.com/localauthor/zk"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

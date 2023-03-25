@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Elisp otfttf font loaderrenderer</longdescription>
+	<longdescription>Elisp otf/ttf font loader/renderer</longdescription>
 </pkgmetadata>

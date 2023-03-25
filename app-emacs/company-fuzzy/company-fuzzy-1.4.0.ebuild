@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fuy matching for company-mode"
+DESCRIPTION="Fuzzy matching for \`company-mode'"
 
 HOMEPAGE="https://github.com/jcs-elpa/company-fuzzy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

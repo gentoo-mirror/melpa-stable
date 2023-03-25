@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A front end for httpcdnjs.com</longdescription>
+	<longdescription>A front end for http://cdnjs.com</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="M-x interface with Ido-style fuy matching."
+DESCRIPTION="M-x interface with Ido-style fuzzy matching."
 
 HOMEPAGE="http://github.com/nonsequitur/smex/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

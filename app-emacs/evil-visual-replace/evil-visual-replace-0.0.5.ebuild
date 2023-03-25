@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="searchreplace commands for evil visual state, inc. blocks"
+DESCRIPTION="search/replace commands for evil visual state, inc. blocks"
 
 HOMEPAGE="https://github.com/troyp/evil-visual-replace"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

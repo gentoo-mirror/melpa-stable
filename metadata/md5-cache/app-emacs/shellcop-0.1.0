@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Analye infoerror in shell-mode
+DESCRIPTION=Analyze info&error in shell-mode
 EAPI=8
 HOMEPAGE=https://github.com/redguardtoo/shellcop
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/shellcop-0.1.0.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=284b0c83ec2c92b038e3930f84ee062e
+_md5_=9ee3763bd15ce5f713920f1f1d3e0c1d

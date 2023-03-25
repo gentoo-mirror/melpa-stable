@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="NC + ERC"
+DESCRIPTION="ZNC + ERC"
 
 HOMEPAGE="https://github.com/sshirokov/ZNC.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

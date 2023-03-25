@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A warrior does not press so many keys (in org-mode)"
+DESCRIPTION="A warrior does not press so many keys! (in org-mode)"
 
 HOMEPAGE="https://github.com/abo-abo/worf"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

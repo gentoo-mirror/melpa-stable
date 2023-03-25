@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Terminal support for company-quickhelp"
+DESCRIPTION="Terminal support for \`company-quickhelp'"
 
 HOMEPAGE="https://github.com/jcs-elpa/company-quickhelp-terminal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

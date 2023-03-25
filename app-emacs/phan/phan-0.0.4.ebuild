@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Utility functions for Phan (PHP static analier)"
+DESCRIPTION="Utility functions for Phan (PHP static analizer)"
 
 HOMEPAGE="https://github.com/emacs-php/phan.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

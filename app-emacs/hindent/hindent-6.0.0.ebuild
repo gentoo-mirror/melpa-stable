@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Indent haskell code using the hindent program"
+DESCRIPTION="Indent haskell code using the \"hindent\" program"
 
 HOMEPAGE="https://github.com/chrisdone/hindent"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Search and analye mails in Gnus"
+DESCRIPTION="Search and analyze mails in Gnus"
 
 HOMEPAGE="http://github.com/redguardtoo/dianyou"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

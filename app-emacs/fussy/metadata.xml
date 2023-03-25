@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Fuy completion style using flx</longdescription>
+	<longdescription>Fuzzy completion style using \`flx'</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Isearch with an overview. Oh, man"
+DESCRIPTION="Isearch with an overview. Oh, man!"
 
 HOMEPAGE="https://github.com/abo-abo/swiper"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

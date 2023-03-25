@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Gradle integration with Emacs compile</longdescription>
+	<longdescription>Gradle integration with Emacs' compile</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode for masukomiprivate_comments"
+DESCRIPTION="Minor mode for masukomi/private_comments"
 
 HOMEPAGE="https://github.com/masukomi/private-comments-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

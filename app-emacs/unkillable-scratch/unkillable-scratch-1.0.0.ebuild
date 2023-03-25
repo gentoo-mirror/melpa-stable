@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Disallow the scratch buffer from being killed"
+DESCRIPTION="Disallow the \\*scratch\\* buffer from being killed"
 
 HOMEPAGE="https://github.com/EricCrosson/unkillable-scratch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

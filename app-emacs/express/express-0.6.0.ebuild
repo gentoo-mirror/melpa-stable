@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Alternatives to message"
+DESCRIPTION="Alternatives to \`message'"
 
 HOMEPAGE="http://github.com/rolandwalker/express"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

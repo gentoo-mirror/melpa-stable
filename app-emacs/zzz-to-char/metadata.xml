@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Fancy version of ap-to-char command</longdescription>
+	<longdescription>Fancy version of \`zap-to-char' command</longdescription>
 </pkgmetadata>

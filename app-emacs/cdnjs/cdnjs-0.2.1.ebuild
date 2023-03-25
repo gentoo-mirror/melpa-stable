@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A front end for httpcdnjs.com"
+DESCRIPTION="A front end for http://cdnjs.com"
 
 HOMEPAGE="https://github.com/yasuyk/cdnjs.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

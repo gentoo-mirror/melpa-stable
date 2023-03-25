@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Cider-doc to Clojure, The Essential Reference (EPUB)"
+DESCRIPTION="Cider-doc to \"Clojure, The Essential Reference\" (EPUB)"
 
 HOMEPAGE="https://github.com/p3r7/clojure-essential-ref"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

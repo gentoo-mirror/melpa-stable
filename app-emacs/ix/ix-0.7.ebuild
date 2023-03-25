@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs client for httpix.io pastebin"
+DESCRIPTION="Emacs client for http://ix.io pastebin"
 
 HOMEPAGE="http://www.github.com/theanalyst/ix.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

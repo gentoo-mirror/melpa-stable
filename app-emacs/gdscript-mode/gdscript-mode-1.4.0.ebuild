@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for Godots GDScript language"
+DESCRIPTION="Major mode for Godot's GDScript language"
 
 HOMEPAGE="https://github.com/GDQuest/emacs-gdscript-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

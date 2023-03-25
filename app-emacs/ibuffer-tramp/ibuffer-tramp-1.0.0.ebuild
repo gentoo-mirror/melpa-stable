@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Group ibuffers list by TRAMP connection"
+DESCRIPTION="Group ibuffer's list by TRAMP connection"
 
 HOMEPAGE="http://github.com/svend/ibuffer-tramp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

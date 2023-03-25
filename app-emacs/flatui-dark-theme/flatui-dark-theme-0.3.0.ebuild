@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Dark color theme with colors from httpsflatuicolors.com"
+DESCRIPTION="Dark color theme with colors from https://flatuicolors.com/"
 
 HOMEPAGE="https://github.com/theasp/flatui-dark-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

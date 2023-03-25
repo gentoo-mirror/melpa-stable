@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Automatic resiing of Emacs windows to the golden ratio</longdescription>
+	<longdescription>Automatic resizing of Emacs windows to the golden ratio</longdescription>
 </pkgmetadata>

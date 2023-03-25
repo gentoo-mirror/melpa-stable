@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A veneer for MagitForge GitHub notifications</longdescription>
+	<longdescription>A veneer for Magit/Forge GitHub notifications</longdescription>
 </pkgmetadata>

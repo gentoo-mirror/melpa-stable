@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Functions for working with ettelkasten-style linked notes"
+DESCRIPTION="Functions for working with Zettelkasten-style linked notes"
 
 HOMEPAGE="https://github.com/localauthor/zk"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

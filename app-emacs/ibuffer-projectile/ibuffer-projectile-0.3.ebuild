@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Group ibuffers list by projectile root"
+DESCRIPTION="Group ibuffer's list by projectile root"
 
 HOMEPAGE="http://github.com/purcell/ibuffer-projectile"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

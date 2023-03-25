@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Copy it, yank anything"
+DESCRIPTION="Copy it, yank anything!"
 
 HOMEPAGE="https://github.com/zonuexe/emacs-copyit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

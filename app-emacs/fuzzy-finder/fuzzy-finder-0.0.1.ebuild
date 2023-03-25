@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fuy Finder App Integration"
+DESCRIPTION="Fuzzy Finder App Integration"
 
 HOMEPAGE="https://github.com/10sr/fuzzy-finder-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

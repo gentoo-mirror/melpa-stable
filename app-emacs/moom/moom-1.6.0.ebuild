@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Commands to control frame position and sie"
+DESCRIPTION="Commands to control frame position and size"
 
 HOMEPAGE="https://github.com/takaxp/Moom"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

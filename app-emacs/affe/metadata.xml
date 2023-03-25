@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Asynchronous Fuy Finder for Emacs</longdescription>
+	<longdescription>Asynchronous Fuzzy Finder for Emacs</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Company mode backend for CC++ header files with Irony"
+DESCRIPTION="Company mode backend for C/C++ header files with Irony"
 
 HOMEPAGE="https://github.com/hotpxl/company-irony-c-headers"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

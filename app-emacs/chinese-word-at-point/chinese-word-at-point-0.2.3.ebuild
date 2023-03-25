@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Add chinese-word thing to thing-at-point"
+DESCRIPTION="Add \`chinese-word' thing to \`thing-at-point'"
 
 HOMEPAGE="https://github.com/xuchunyang/chinese-word-at-point.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

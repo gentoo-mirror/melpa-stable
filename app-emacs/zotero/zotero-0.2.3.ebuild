@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Library for the otero API"
+DESCRIPTION="Library for the Zotero API"
 
 HOMEPAGE="https://gitlab.com/fvdbeek/emacs-zotero"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

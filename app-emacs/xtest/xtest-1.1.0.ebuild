@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Simple Testing with Emacs  ERT"
+DESCRIPTION="Simple Testing with Emacs & ERT"
 
 HOMEPAGE="https://github.com/promethial/xtest"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

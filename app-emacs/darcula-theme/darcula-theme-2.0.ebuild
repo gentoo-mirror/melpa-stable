@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Inspired by IntelliJs Darcula theme"
+DESCRIPTION="Inspired by IntelliJ's Darcula theme"
 
 HOMEPAGE="https://github.com/fommil/darcula-theme-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

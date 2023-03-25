@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Mode for easy editing of git-annexd files"
+DESCRIPTION="Mode for easy editing of git-annex'd files"
 
 HOMEPAGE="https://github.com/jwiegley/git-annex-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

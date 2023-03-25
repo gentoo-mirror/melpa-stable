@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ERC nick highlighter that ignores uniquifying chars when coloriing"
+DESCRIPTION="ERC nick highlighter that ignores uniquifying chars when colorizing"
 
 HOMEPAGE="http://www.github.com/leathekd/erc-hl-nicks"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

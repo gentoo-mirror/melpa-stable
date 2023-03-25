@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Aesthetic, modern looking customiable tabs plugin"
+DESCRIPTION="Aesthetic, modern looking customizable tabs plugin"
 
 HOMEPAGE="https://github.com/ema2159/centaur-tabs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

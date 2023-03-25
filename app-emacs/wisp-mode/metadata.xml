@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Tools for wisp the Whitespace-to-Lisp preprocessor</longdescription>
+	<longdescription>Tools for wisp: the Whitespace-to-Lisp preprocessor</longdescription>
 </pkgmetadata>

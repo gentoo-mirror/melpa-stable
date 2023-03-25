@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Bookmark  functioncall manager"
+DESCRIPTION="Bookmark / functioncall manager"
 
 HOMEPAGE="https://github.com/jtkDvlp/simple-bookmarks"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

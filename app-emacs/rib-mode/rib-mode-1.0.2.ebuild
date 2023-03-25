@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="RenderMan Interface Bytestream (RIB) Major Mode"
+DESCRIPTION="RenderMan® Interface Bytestream (RIB) Major Mode"
 
 HOMEPAGE="https://github.com/blezek/rib-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

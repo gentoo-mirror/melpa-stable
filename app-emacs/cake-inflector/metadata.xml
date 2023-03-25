@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Lay porting CakePHP infrector.php to el</longdescription>
+	<longdescription>Lazy porting CakePHP infrector.php to el</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A veneer for MagitForge GitHub notifications"
+DESCRIPTION="A veneer for Magit/Forge GitHub notifications"
 
 HOMEPAGE="https://github.com/anticomputer/gh-notify"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

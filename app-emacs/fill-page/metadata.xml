@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Fill buffer so you dont see empty lines at the end</longdescription>
+	<longdescription>Fill buffer so you don't see empty lines at the end</longdescription>
 </pkgmetadata>

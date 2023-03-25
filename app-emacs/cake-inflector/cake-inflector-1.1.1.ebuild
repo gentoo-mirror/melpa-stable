@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Lay porting CakePHP infrector.php to el"
+DESCRIPTION="Lazy porting CakePHP infrector.php to el"
 
 HOMEPAGE="https://github.com/k1LoW/emacs-cake-inflector"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

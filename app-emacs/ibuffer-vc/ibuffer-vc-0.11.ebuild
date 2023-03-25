@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Group ibuffers list by VC project, or show VC status"
+DESCRIPTION="Group ibuffer's list by VC project, or show VC status"
 
 HOMEPAGE="http://github.com/purcell/ibuffer-vc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

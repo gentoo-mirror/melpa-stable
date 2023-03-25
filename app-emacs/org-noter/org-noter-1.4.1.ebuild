@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A synchronied, Org-mode, document annotator"
+DESCRIPTION="A synchronized, Org-mode, document annotator"
 
 HOMEPAGE="https://github.com/weirdNox/org-noter"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

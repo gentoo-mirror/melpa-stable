@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Chat via WeeChats relay protocol in Emacs</longdescription>
+	<longdescription>Chat via WeeChat's relay protocol in Emacs</longdescription>
 </pkgmetadata>

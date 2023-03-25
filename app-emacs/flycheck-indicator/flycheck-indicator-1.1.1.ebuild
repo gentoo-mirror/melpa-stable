@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A fancy mode line indicator for flycheck-mode"
+DESCRIPTION="A fancy mode line indicator for \`flycheck-mode'"
 
 HOMEPAGE="https://github.com/gexplorer/flycheck-indicator"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

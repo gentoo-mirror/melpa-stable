@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="The Solo-Ja color theme"
+DESCRIPTION="The Solo-Jazz color theme"
 
 HOMEPAGE="https://github.com/cstby/solo-jazz-emacs-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

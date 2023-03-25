@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>CC++ minor mode powered by libclang</longdescription>
+	<longdescription>C/C++ minor mode powered by libclang</longdescription>
 </pkgmetadata>

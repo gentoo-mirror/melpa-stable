@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Switch between the beginningend of line or code"
+DESCRIPTION="Switch between the beginning/end of line or code"
 
 HOMEPAGE="https://github.com/alezost/mwim.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

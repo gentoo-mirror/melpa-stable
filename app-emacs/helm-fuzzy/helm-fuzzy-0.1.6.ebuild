@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fuy matching for helm source"
+DESCRIPTION="Fuzzy matching for helm source"
 
 HOMEPAGE="https://github.com/jcs-elpa/helm-fuzzy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

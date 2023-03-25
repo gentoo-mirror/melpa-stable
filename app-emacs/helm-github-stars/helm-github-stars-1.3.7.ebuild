@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm interface for your githubs stars"
+DESCRIPTION="Helm interface for your github's stars"
 
 HOMEPAGE="https://github.com/Sliim/helm-github-stars"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Open githubgitlabbitbucketstashgistphabsourcehut page from Emacs</longdescription>
+	<longdescription>Open github/gitlab/bitbucket/stash/gist/phab/sourcehut page from Emacs</longdescription>
 </pkgmetadata>

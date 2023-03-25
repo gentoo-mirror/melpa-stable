@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helper functions to organise notes in a ettelkasten style"
+DESCRIPTION="Helper functions to organise notes in a Zettelkasten style"
 
 HOMEPAGE="https://github.com/ymherklotz/emacs-zettelkasten"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Customiable, depth-based syntax coloring"
+DESCRIPTION="Customizable, depth-based syntax coloring"
 
 HOMEPAGE="https://github.com/alphapapa/prism.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

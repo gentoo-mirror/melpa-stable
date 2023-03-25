@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Dash destructuring for loopy"
+DESCRIPTION="Dash destructuring for \`loopy'"
 
 HOMEPAGE="https://github.com/okamsn/loopy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Manage otero collections from emacs</longdescription>
+	<longdescription>Manage Zotero collections from emacs</longdescription>
 </pkgmetadata>

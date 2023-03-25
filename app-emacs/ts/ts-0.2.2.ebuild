@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Timestamp and datetime library"
+DESCRIPTION="Timestamp and date/time library"
 
 HOMEPAGE="http://github.com/alphapapa/ts.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

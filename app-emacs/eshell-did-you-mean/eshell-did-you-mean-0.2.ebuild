@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="command not found (did you mean feature) in Eshell"
+DESCRIPTION="command not found (\"did you mean…\" feature) in Eshell"
 
 HOMEPAGE="https://github.com/xuchunyang/eshell-did-you-mean"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

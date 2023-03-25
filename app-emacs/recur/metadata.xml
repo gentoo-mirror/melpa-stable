@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Tail call optimiation</longdescription>
+	<longdescription>Tail call optimization</longdescription>
 </pkgmetadata>

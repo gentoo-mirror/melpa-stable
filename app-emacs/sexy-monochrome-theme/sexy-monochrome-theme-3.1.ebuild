@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A sexy dark Emacs  24 theme for your sexy code"
+DESCRIPTION="A sexy dark Emacs >= 24 theme for your sexy code"
 
 HOMEPAGE="https://github.com/voloyev/sexy-monochrome-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Switch themefont by selecting from a cache"
+DESCRIPTION="Switch theme/font by selecting from a cache"
 
 HOMEPAGE="https://github.com/zakudriver/lacquer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

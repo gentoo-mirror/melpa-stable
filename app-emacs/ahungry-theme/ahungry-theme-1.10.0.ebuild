@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Ahungry color theme for Emacs.  Make sure to (load-theme ahungry)."
+DESCRIPTION="Ahungry color theme for Emacs.  Make sure to (load-theme 'ahungry)."
 
 HOMEPAGE="https://github.com/ahungry/color-theme-ahungry"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

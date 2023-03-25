@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Insert script src.. for popular JavaScript libraries"
+DESCRIPTION="Insert <script src=\"..\"> for popular JavaScript libraries"
 
 HOMEPAGE="http://github.com/rejeep/html-script-src"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

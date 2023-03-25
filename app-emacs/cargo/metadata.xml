@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Emacs Minor Mode for Cargo, Rusts Package Manager.</longdescription>
+	<longdescription>Emacs Minor Mode for Cargo, Rust's Package Manager.</longdescription>
 </pkgmetadata>

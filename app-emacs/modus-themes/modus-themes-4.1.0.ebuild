@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Elegant, highly legible and customiable themes"
+DESCRIPTION="Elegant, highly legible and customizable themes"
 
 HOMEPAGE="https://git.sr.ht/~protesilaos/modus-themes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

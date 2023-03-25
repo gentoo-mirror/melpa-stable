@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Flycheck extension for Apples Swift.</longdescription>
+	<longdescription>Flycheck extension for Apple's Swift.</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display L page breaks as tidy horiontal lines"
+DESCRIPTION="Display ^L page breaks as tidy horizontal lines"
 
 HOMEPAGE="https://github.com/purcell/page-break-lines"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

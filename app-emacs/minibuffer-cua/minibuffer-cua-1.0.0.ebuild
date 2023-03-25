@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Make CUA modes S-upS-down work in minibuffer"
+DESCRIPTION="Make CUA mode's S-up/S-down work in minibuffer"
 
 HOMEPAGE="https://github.com/knu/minibuffer-cua.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

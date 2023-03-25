@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fill buffer so you dont see empty lines at the end"
+DESCRIPTION="Fill buffer so you don't see empty lines at the end"
 
 HOMEPAGE="https://github.com/jcs-elpa/fill-page"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

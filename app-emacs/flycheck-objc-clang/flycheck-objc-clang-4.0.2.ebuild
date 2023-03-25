@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Flycheck Objective-C support using Clang"
+DESCRIPTION="Flycheck: Objective-C support using Clang"
 
 HOMEPAGE="https://github.com/GyazSquare/flycheck-objc-clang"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

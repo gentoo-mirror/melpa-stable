@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Getdisplay adafruit.com quotes"
+DESCRIPTION="Get/display adafruit.com quotes"
 
 HOMEPAGE="https://github.com/gonewest818/adafruit-wisdom.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

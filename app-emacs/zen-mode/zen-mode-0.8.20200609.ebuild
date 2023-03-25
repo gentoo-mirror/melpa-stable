@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A major mode for the en programming language"
+DESCRIPTION="A major mode for the Zen programming language"
 
 HOMEPAGE="https://github.com/zenlang/zen-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An original retro-futuristic theme inspired by Tron Legacy"
+DESCRIPTION="An original retro-futuristic theme inspired by Tron: Legacy"
 
 HOMEPAGE="https://github.com/ianpan870102/tron-legacy-emacs-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

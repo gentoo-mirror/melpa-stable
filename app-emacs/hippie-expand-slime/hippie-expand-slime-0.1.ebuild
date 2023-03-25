@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Hook slimes completion into hippie-expand"
+DESCRIPTION="Hook slime's completion into hippie-expand"
 
 HOMEPAGE="https://github.com/purcell/hippie-expand-slime"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

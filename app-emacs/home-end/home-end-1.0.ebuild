@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Smart multi-purpose home  end keys"
+DESCRIPTION="Smart multi-purpose home / end keys"
 
 HOMEPAGE="https://www.github.com/Boruch_Baum/emacs-home-end"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

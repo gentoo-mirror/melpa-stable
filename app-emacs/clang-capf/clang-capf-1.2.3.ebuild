@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Completion-at-point backend for cc++ using clang"
+DESCRIPTION="Completion-at-point backend for c/c++ using clang"
 
 HOMEPAGE="https://git.sr.ht/~pkal/clang-capf"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

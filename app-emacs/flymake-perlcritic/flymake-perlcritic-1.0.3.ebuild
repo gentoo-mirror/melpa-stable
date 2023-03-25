@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Flymake handler for Perl to invoke PerlCritic"
+DESCRIPTION="Flymake handler for Perl to invoke Perl::Critic"
 
 HOMEPAGE="https://github.com/illusori/emacs-flymake-perlcritic"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

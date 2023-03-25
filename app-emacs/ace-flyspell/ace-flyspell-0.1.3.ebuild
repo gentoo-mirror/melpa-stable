@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Jump to and correct spelling errors using ace-jump-mode and flyspell"
+DESCRIPTION="Jump to and correct spelling errors using \`ace-jump-mode' and flyspell"
 
 HOMEPAGE="https://github.com/cute-jumper/ace-flyspell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

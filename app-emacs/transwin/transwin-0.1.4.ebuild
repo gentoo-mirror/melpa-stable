@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Make windowframe transparent"
+DESCRIPTION="Make window/frame transparent"
 
 HOMEPAGE="https://github.com/jcs-elpa/transwin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

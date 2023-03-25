@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="30 new custom blocks  34 link types for Org-mode"
+DESCRIPTION="30 new custom blocks & 34 link types for Org-mode"
 
 HOMEPAGE="https://alhassy.github.io/org-special-block-extras"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

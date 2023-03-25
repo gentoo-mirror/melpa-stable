@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Display filesdirectories in current directory on Dashboard</longdescription>
+	<longdescription>Display files/directories in current directory on Dashboard</longdescription>
 </pkgmetadata>

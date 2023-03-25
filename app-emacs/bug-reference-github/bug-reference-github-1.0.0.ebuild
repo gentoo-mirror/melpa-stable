@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Set bug-reference-url-format in Github repos"
+DESCRIPTION="Set \`bug-reference-url-format' in Github repos"
 
 HOMEPAGE="https://github.com/arnested/bug-reference-github"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

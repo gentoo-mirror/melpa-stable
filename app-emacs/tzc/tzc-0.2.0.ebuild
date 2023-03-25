@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Converts time between different time ones"
+DESCRIPTION="Converts time between different time zones"
 
 HOMEPAGE="https://github.com/md-arif-shaikh/tzc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

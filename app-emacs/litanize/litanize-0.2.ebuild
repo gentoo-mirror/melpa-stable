@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Generate Latour Litanies"
+DESCRIPTION="Generate \"Latour Litanies\""
 
 HOMEPAGE="https://github.com/zzkt/litanizer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

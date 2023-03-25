@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Make CUA modes S-upS-down work in minibuffer</longdescription>
+	<longdescription>Make CUA mode's S-up/S-down work in minibuffer</longdescription>
 </pkgmetadata>

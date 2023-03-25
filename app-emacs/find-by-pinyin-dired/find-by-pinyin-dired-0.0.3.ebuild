@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Find file by first PinYin character of Chinese Hani"
+DESCRIPTION="Find file by first PinYin character of Chinese Hanzi"
 
 HOMEPAGE="http://github.com/redguardtoo/find-by-pinyin-dired"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

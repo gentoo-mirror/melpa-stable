@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A front-end for ag (the silver searcher), the C ack replacement."
+DESCRIPTION="A front-end for ag ('the silver searcher'), the C ack replacement."
 
 HOMEPAGE="https://stable.melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

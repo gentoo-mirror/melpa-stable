@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Instant GitHub-flavored MarkdownOrg preview using grip.</longdescription>
+	<longdescription>Instant GitHub-flavored Markdown/Org preview using grip.</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="SVG optimiation with SVGO"
+DESCRIPTION="SVG optimization with SVGO"
 
 HOMEPAGE="https://github.com/hupf/svgo.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

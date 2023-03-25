@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Visualie maildirs as a tree"
+DESCRIPTION="Visualize maildirs as a tree"
 
 HOMEPAGE="https://git.sr.ht/~tarsius/notmuch-maildir"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

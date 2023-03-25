@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="heal nlinums line numbers"
+DESCRIPTION="heal nlinum's line numbers"
 
 HOMEPAGE="https://github.com/hlissner/emacs-nlinum-hl"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

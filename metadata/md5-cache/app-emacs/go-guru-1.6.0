@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/go-mode
-DESCRIPTION=Integration of the Go guru analysis tool into Emacs.
+DESCRIPTION=Integration of the Go 'guru' analysis tool into Emacs.
 EAPI=8
 HOMEPAGE=https://stable.melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/go-mode >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/go-guru-1.6.0.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=a9eefca863f65a67cbe6e80f949cd992
+_md5_=f4748008445b7ce38f701bac0c85f492

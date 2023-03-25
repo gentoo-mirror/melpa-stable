@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Change kubectl contextnamespace and show in mode line</longdescription>
+	<longdescription>Change kubectl context/namespace and show in mode line</longdescription>
 </pkgmetadata>

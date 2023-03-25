@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="fast buffer switching extension to avy"
+DESCRIPTION="fast buffer switching extension to \`avy'"
 
 HOMEPAGE="https://github.com/waymondo/ace-jump-buffer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

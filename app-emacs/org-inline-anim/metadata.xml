@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Inline playback of animated GIFPNG for Org</longdescription>
+	<longdescription>Inline playback of animated GIF/PNG for Org</longdescription>
 </pkgmetadata>

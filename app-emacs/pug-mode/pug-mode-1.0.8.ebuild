@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for jadepug template files"
+DESCRIPTION="Major mode for jade/pug template files"
 
 HOMEPAGE="https://github.com/hlissner/emacs-pug-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

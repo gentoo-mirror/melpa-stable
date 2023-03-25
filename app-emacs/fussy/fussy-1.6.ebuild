@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fuy completion style using flx"
+DESCRIPTION="Fuzzy completion style using \`flx'"
 
 HOMEPAGE="https://github.com/jojojames/fussy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

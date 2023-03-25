@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode to synchronie org-mode buffer and trello board"
+DESCRIPTION="Minor mode to synchronize org-mode buffer and trello board"
 
 HOMEPAGE="https://github.com/org-trello/org-trello"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

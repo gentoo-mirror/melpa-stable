@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Clock inout of tasks with completion and persistent history"
+DESCRIPTION="Clock in/out of tasks with completion and persistent history"
 
 HOMEPAGE="https://github.com/unhammer/org-mru-clock"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

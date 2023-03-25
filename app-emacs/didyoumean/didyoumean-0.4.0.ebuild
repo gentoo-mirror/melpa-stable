@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Did you mean to open another file"
+DESCRIPTION="Did you mean to open another file?"
 
 HOMEPAGE="https://gitlab.com/kisaragi-hiu/didyoumean.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

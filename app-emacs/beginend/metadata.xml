@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Redefine M- and M- for some modes</longdescription>
+	<longdescription>Redefine M-&lt; and M-&gt; for some modes</longdescription>
 </pkgmetadata>

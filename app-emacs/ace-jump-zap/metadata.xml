@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Character apping, ace-jump-mode style</longdescription>
+	<longdescription>Character zapping, \`ace-jump-mode\` style</longdescription>
 </pkgmetadata>

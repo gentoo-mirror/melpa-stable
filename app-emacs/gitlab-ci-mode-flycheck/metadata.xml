@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Flycheck support for gitlab-ci-mode</longdescription>
+	<longdescription>Flycheck support for ‘gitlab-ci-mode’</longdescription>
 </pkgmetadata>

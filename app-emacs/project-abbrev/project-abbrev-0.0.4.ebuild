@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Customie abbreviation expansion in the project"
+DESCRIPTION="Customize abbreviation expansion in the project"
 
 HOMEPAGE="https://github.com/jcs-elpa/project-abbrev"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Asynchronous Fuy Finder for Emacs"
+DESCRIPTION="Asynchronous Fuzzy Finder for Emacs"
 
 HOMEPAGE="https://github.com/minad/affe"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Microsoft Visual CC++ mode</longdescription>
+	<longdescription>Microsoft Visual C/C++ mode</longdescription>
 </pkgmetadata>

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Show the number of charslines or rowscolumns in the region</longdescription>
+	<longdescription>Show the number of chars/lines or rows/columns in the region</longdescription>
 </pkgmetadata>

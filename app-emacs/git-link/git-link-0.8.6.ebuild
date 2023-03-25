@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Get the GitHubBitbucketGitLab URL for a buffer location"
+DESCRIPTION="Get the GitHub/Bitbucket/GitLab URL for a buffer location"
 
 HOMEPAGE="http://github.com/sshaw/git-link"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Intelligently indent with tabs, align with spaces"
+DESCRIPTION="Intelligently indent with tabs, align with spaces!"
 
 HOMEPAGE="http://www.emacswiki.org/emacs/SmartTabs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

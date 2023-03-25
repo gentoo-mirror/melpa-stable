@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Insert script src.. for popular JavaScript libraries</longdescription>
+	<longdescription>Insert &lt;script src=\&quot;..\&quot;&gt; for popular JavaScript libraries</longdescription>
 </pkgmetadata>

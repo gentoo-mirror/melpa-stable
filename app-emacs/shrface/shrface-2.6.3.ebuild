@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Extend shreww with org features and analysis capability"
+DESCRIPTION="Extend shr/eww with org features and analysis capability"
 
 HOMEPAGE="https://github.com/chenyanming/shrface"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

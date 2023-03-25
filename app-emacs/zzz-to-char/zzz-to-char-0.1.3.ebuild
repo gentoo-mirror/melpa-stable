@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fancy version of ap-to-char command"
+DESCRIPTION="Fancy version of \`zap-to-char' command"
 
 HOMEPAGE="https://github.com/mrkkrp/zzz-to-char"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Switch tofrom repl buffer for current major-mode</longdescription>
+	<longdescription>Switch to/from repl buffer for current major-mode</longdescription>
 </pkgmetadata>

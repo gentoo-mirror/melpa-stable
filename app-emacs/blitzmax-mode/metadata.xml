@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A major mode for editing BlitMax source code</longdescription>
+	<longdescription>A major mode for editing BlitzMax source code</longdescription>
 </pkgmetadata>

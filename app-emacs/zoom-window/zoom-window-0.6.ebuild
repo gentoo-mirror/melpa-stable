@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="oom window like tmux"
+DESCRIPTION="Zoom window like tmux"
 
 HOMEPAGE="https://github.com/syohex/emacs-zoom-window"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

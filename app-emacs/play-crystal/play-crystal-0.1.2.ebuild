@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="httpsplay.crystal-lang.org integration."
+DESCRIPTION="https://play.crystal-lang.org integration."
 
 HOMEPAGE="https://github.com/veelenga/play-crystal.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

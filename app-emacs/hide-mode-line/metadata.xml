@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>minor mode that hidesmasks your modeline</longdescription>
+	<longdescription>minor mode that hides/masks your modeline</longdescription>
 </pkgmetadata>

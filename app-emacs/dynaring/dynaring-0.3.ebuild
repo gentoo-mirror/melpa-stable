@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A dynamically sied ring structure"
+DESCRIPTION="A dynamically sized ring structure"
 
 HOMEPAGE="https://github.com/countvajhula/dynaring"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

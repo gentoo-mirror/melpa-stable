@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="CodeStats plugin"
+DESCRIPTION="Code::Stats plugin"
 
 HOMEPAGE="https://github.com/xuchunyang/code-stats-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

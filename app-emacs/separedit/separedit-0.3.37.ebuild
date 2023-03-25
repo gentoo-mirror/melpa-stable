@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Edit commentstringdocstringcode block in separate buffer"
+DESCRIPTION="Edit comment/string/docstring/code block in separate buffer"
 
 HOMEPAGE="https://github.com/twlz0ne/separedit.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

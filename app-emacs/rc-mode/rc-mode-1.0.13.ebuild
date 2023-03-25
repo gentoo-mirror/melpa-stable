@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for the Plan rc shell"
+DESCRIPTION="Major mode for the Plan9 rc shell"
 
 HOMEPAGE="https://github.com/mrhmouse/rc-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

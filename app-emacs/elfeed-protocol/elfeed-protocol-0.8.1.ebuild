@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Provide fevernewsblurowncloudttrss protocols for elfeed"
+DESCRIPTION="Provide fever/newsblur/owncloud/ttrss protocols for elfeed"
 
 HOMEPAGE="https://github.com/fasheng/elfeed-protocol"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

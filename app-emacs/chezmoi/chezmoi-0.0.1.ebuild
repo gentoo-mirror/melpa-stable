@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A package for interacting with chemoi"
+DESCRIPTION="A package for interacting with chezmoi"
 
 HOMEPAGE="http://www.github.com/tuh8888/chezmoi.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

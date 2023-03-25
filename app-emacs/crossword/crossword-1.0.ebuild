@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Download and play crossword pules"
+DESCRIPTION="Download and play crossword puzzles"
 
 HOMEPAGE="https://github.com/Boruch-Baum/emacs-crossword"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

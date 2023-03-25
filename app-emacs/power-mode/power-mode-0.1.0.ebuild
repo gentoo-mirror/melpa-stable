@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Imbue Emacs with power"
+DESCRIPTION="Imbue Emacs with power!"
 
 HOMEPAGE="https://github.com/elizagamedev/power-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

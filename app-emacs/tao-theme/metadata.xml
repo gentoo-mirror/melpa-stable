@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>This package provides two parametried uncoloured color themes for Emacs tao-yin and tao-yang.</longdescription>
+	<longdescription>This package provides two parametrized uncoloured color themes for Emacs: tao-yin and tao-yang.</longdescription>
 </pkgmetadata>

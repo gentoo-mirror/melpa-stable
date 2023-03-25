@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Vocabulary builder using ipf to extract English big words"
+DESCRIPTION="Vocabulary builder using Zipf to extract English big words"
 
 HOMEPAGE="https://github.com/redguardtoo/mybigword"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

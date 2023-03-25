@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A major mode for the et programming language</longdescription>
+	<longdescription>A major mode for the ZetZ programming language</longdescription>
 </pkgmetadata>

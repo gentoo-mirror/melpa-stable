@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Provide fevernewsblurowncloudttrss protocols for elfeed</longdescription>
+	<longdescription>Provide fever/newsblur/owncloud/ttrss protocols for elfeed</longdescription>
 </pkgmetadata>

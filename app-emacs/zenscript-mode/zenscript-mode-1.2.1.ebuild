@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for enScript"
+DESCRIPTION="Major mode for ZenScript"
 
 HOMEPAGE="https://github.com/eutropius225/zenscript-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

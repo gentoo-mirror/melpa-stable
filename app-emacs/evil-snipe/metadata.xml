@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>emulate vim-sneak  vim-seek</longdescription>
+	<longdescription>emulate vim-sneak &amp; vim-seek</longdescription>
 </pkgmetadata>

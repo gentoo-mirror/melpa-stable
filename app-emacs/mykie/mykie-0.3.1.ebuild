@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Command multiplexer Register multiple functions to a keybind"
+DESCRIPTION="Command multiplexer: Register multiple functions to a keybind"
 
 HOMEPAGE="https://github.com/yuutayamada/mykie-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

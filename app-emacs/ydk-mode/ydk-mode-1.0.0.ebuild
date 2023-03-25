@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Language support for Yu-Gi-Oh deck files"
+DESCRIPTION="Language support for Yu-Gi-Oh! deck files"
 
 HOMEPAGE="https://github.com/jacksonrayhamilton/ydk-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

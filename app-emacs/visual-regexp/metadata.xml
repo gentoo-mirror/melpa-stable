@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A regexpreplace command for Emacs with interactive visual feedback</longdescription>
+	<longdescription>A regexp/replace command for Emacs with interactive visual feedback</longdescription>
 </pkgmetadata>

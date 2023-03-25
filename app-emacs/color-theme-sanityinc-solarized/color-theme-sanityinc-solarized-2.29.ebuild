@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A version of Ethan Schoonovers Solaried themes"
+DESCRIPTION="A version of Ethan Schoonover's Solarized themes"
 
 HOMEPAGE="http://github.com/purcell/color-theme-sanityinc-solarized"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

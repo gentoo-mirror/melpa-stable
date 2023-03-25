@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Alternative to picking color - update fgbg color by pressing rgb... keys</longdescription>
+	<longdescription>Alternative to picking color - update fg/bg color by pressing r/g/b/... keys</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Organie and send HTTP requests"
+DESCRIPTION="Organize and send HTTP requests"
 
 HOMEPAGE="https://github.com/federicotdn/verb"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

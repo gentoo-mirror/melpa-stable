@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A ettelkasten mode leveraging Org"
+DESCRIPTION="A Zettelkasten mode leveraging Org"
 
 HOMEPAGE="https://git.sr.ht/~ymherklotz/org-zettelkasten"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

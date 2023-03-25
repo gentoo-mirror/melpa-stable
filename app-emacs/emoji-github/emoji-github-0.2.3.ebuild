@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display list of GitHubs emoji.  (cheat sheet)"
+DESCRIPTION="Display list of GitHub's emoji.  (cheat sheet)"
 
 HOMEPAGE="https://github.com/jcs-elpa/emoji-github"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

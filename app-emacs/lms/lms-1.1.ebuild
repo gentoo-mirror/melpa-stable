@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Squeeebox  Logitech Media Server frontend"
+DESCRIPTION="Squeezebox / Logitech Media Server frontend"
 
 HOMEPAGE="https://hg.serna.eu/emacs/lms"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

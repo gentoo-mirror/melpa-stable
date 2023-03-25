@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/connection app-emacs/link
-DESCRIPTION=Client for rfc222 dictionary servers
+DESCRIPTION=Client for rfc2229 dictionary servers
 EAPI=8
 HOMEPAGE=https://stable.melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/connection app-emacs/link >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/dictionary-1.11.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=243da0044bd3513a8a0fbd3d84e2f18b
+_md5_=0050aed477f34c7107c6e432ba2f3faf

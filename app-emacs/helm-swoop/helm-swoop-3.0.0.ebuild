@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Efficiently hopping squeeed lines powered by helm interface"
+DESCRIPTION="Efficiently hopping squeezed lines powered by helm interface"
 
 HOMEPAGE="https://github.com/emacsorphanage/helm-swoop"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm interface for DebianUbuntu packages (apt-)"
+DESCRIPTION="Helm interface for Debian/Ubuntu packages (apt-*)"
 
 HOMEPAGE="https://github.com/emacs-helm/helm-apt"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
