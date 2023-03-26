@@ -2588,7 +2588,7 @@ app-emacs/thrift 2023.3.20.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.4: Interact with TidalCycles for live coding patterns
 app-emacs/tide 4.5.4: Typescript Interactive Development Environment
-app-emacs/time-block 1.2.2: Block running commands using time
+app-emacs/time-block 1.5.0: Block running commands using time
 app-emacs/timer-revert 0.1: minor mode to revert buffer for a given time interval.
 app-emacs/timesheet 0.5.0: Timesheet management add-on for org-mode
 app-emacs/timonier 0.1.0: Timonier, Manage Kubernetes Applications from Emacs
