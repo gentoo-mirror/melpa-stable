@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Indent haskell code using the \&quot;hindent\&quot; program</longdescription>
+	<longdescription>Indent haskell code using the &quot;hindent&quot; program</longdescription>
 </pkgmetadata>

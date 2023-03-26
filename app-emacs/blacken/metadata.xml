@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Reformat python buffers using the \&quot;black\&quot; formatter</longdescription>
+	<longdescription>Reformat python buffers using the &quot;black&quot; formatter</longdescription>
 </pkgmetadata>

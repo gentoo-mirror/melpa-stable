@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Cider-doc to \&quot;Clojure, The Essential Reference\&quot; (EPUB)</longdescription>
+	<longdescription>Cider-doc to &quot;Clojure, The Essential Reference&quot; (EPUB)</longdescription>
 </pkgmetadata>

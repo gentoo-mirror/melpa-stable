@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Dash destructuring for \`loopy'</longdescription>
+	<longdescription>Dash destructuring for `loopy'</longdescription>
 </pkgmetadata>
