@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Get environment variables such as \$PATH from the shell</longdescription>
+	<longdescription>Get environment variables such as $PATH from the shell</longdescription>
 </pkgmetadata>

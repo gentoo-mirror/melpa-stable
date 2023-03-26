@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Alternate \`completing-read-multiple' that uses \`completing-read'</longdescription>
+	<longdescription>Alternate `completing-read-multiple' that uses `completing-read'</longdescription>
 </pkgmetadata>

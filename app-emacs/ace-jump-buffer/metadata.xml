@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>fast buffer switching extension to \`avy'</longdescription>
+	<longdescription>fast buffer switching extension to `avy'</longdescription>
 </pkgmetadata>

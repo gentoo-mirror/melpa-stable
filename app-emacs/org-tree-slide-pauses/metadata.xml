@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Bring the \\pause Beamer to org-tree-slide!</longdescription>
+	<longdescription>Bring the \pause Beamer to org-tree-slide!</longdescription>
 </pkgmetadata>

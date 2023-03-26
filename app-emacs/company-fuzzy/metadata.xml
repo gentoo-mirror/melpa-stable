@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Fuzzy matching for \`company-mode'</longdescription>
+	<longdescription>Fuzzy matching for `company-mode'</longdescription>
 </pkgmetadata>
