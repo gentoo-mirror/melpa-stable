@@ -4,13 +4,13 @@
 EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
-SOURCE_TYPE="single"
+SOURCE_TYPE="tar"
 REALNAME="jinx"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Enchanted just-in-time spell checker"
+DESCRIPTION="Enchanted Just-in-time Spell Checker"
 
 HOMEPAGE="https://github.com/minad/jinx"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
