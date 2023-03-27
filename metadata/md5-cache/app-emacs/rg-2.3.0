@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/compat
-DESCRIPTION=Enchanted just-in-time spell checker
+DEPEND=app-emacs/transient app-emacs/wgrep
+DESCRIPTION=A search tool based on ripgrep
 EAPI=8
-HOMEPAGE=https://github.com/minad/jinx
+HOMEPAGE=https://github.com/dajva/rg.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compat >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/transient app-emacs/wgrep >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/jinx-0.2.el
+SRC_URI=https://stable.melpa.org/packages/rg-2.3.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=5cb82a698ff7f92f40be7db139bd1a5a
+_md5_=a6d8b15cc05e8011105e3d23197e9cfa
