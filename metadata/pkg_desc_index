@@ -826,7 +826,6 @@ app-emacs/ez-query-replace 0.4: a smarter context-sensitive query-replace that c
 app-emacs/f 0.20.0: Modern API for working with files and directories
 app-emacs/f3 0.1: a helm interface to find
 app-emacs/fabric 0.2.0: Launch Fabric using Emacs
-app-emacs/face-shift 1.0.1: Shift the colour of certain faces
 app-emacs/factlog 0.0.1: File activity logger
 app-emacs/faff-theme 3.3: Light Emacs color theme on cornsilk3 background
 app-emacs/fancy-battery 0.2: Fancy battery display
@@ -1446,6 +1445,7 @@ app-emacs/jet 1.0.0: Emacs integration for jet Clojure tool
 app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
+app-emacs/jinx 0.2: Enchanted just-in-time spell checker
 app-emacs/journalctl-mode 0.8: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
 app-emacs/jq-format 1.0.0: Reformat JSON and JSONLines using jq
@@ -2586,7 +2586,7 @@ app-emacs/textx-mode 0.0.2: Major mode for editing TextX files
 app-emacs/theme-changer 2.1.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
-app-emacs/thrift 2023.3.20.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2023.3.27.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.4: Interact with TidalCycles for live coding patterns
 app-emacs/tide 4.5.4: Typescript Interactive Development Environment
@@ -2803,7 +2803,7 @@ app-emacs/xresources-theme 1.0.0: Use your .Xresources as your emacs theme
 app-emacs/xterm-color 2.0: ANSI, XTERM 256 and Truecolor support
 app-emacs/xtest 1.1.0: Simple Testing with Emacs & ERT
 app-emacs/xwidgets-reuse 0.2: Reuse xwidgets sessions to reduce resource consumption
-app-emacs/yabaki-theme 1.0.0: Yabaki, the cast shadow
+app-emacs/yabaki-theme 2.0.0: Yabaki, the cast shadow
 app-emacs/yafolding 0.4.1: Folding code blocks based on indentation
 app-emacs/yagist 0.8.12: Yet Another Emacs integration for gist.github.com
 app-emacs/yaml 0.5.2: YAML parser for Elisp
