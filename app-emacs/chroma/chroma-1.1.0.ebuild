@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="single"
-REALNAME="khoj"
+REALNAME="chroma"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Natural, Incremental Search for your Second Brain"
+DESCRIPTION="Color manipulation library"
 
-HOMEPAGE="https://github.com/debanjum/khoj/tree/master/src/interface/emacs"
+HOMEPAGE="https://github.com/galdor/chroma"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/transient"
-RDEPEND="app-emacs/transient"
+DEPEND=""
+RDEPEND=""
