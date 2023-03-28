@@ -2,11 +2,11 @@ BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DESCRIPTION=Color manipulation library
 EAPI=8
-HOMEPAGE=https://github.com/galdor/colors
+HOMEPAGE=https://github.com/galdor/chroma
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/colors-1.0.0.el
+SRC_URI=https://stable.melpa.org/packages/chroma-1.1.0.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=906575a1092af00133d0438ea874b935
+_md5_=db64abb1661cb693e24d338c76ba5613
