@@ -278,6 +278,7 @@ app-emacs/chee 0.3.0: Interface to chee using dired and image-dired
 app-emacs/chezmoi 0.0.1: A package for interacting with chezmoi
 app-emacs/chinese-word-at-point 0.2.3: Add `chinese-word' thing to `thing-at-point'
 app-emacs/choice-program 0.13: Parameter based program
+app-emacs/chroma 1.1.0: Color manipulation library
 app-emacs/chronometrist 0.10.0: Friendly and powerful personal time tracker and analyzer
 app-emacs/chronometrist-key-values 0.10.0: add key-values to Chronometrist data
 app-emacs/chronometrist-spark 0.10.0: Show sparklines in Chronometrist buffers
@@ -334,7 +335,6 @@ app-emacs/color-theme-sanityinc-solarized 2.29: A version of Ethan Schoonover's 
 app-emacs/color-theme-sanityinc-tomorrow 1.17: A version of Chris Kempson's various Tomorrow themes
 app-emacs/colorless-themes 0.2: A macro to generate mostly colorless themes
 app-emacs/colormaps 0.1.2: Hex colormaps
-app-emacs/colors 1.0.0: Color manipulation library
 app-emacs/com-css-sort 0.0.7: Common way of sorting the CSS attributes
 app-emacs/comb 0.2.0: Interactive grep tool for manual static analysis
 app-emacs/comint-hyperlink 0.1.6: Create hyperlinks in comint for SGR URL control sequences
@@ -1503,7 +1503,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.9: Import, edit and create calendar events through khal
 app-emacs/khardel 1.0.0: Integrate with khard
-app-emacs/khoj 0.4.0: Natural, Incremental Search for your Second Brain
+app-emacs/khoj 0.5.0: A search assistant for your second brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
