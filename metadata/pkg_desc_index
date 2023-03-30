@@ -845,7 +845,7 @@ app-emacs/feed-discovery 1.0.0: Discover feed url by RSS/Atom autodiscovery
 app-emacs/feline 1.1: A modeline with very little
 app-emacs/fennel-mode 0.4.1: A major-mode for editing Fennel code
 app-emacs/ffmpeg-player 0.2.1: Play video using ffmpeg
-app-emacs/file-info 0.5: Show pretty information about current file
+app-emacs/file-info 0.6: Show pretty information about current file
 app-emacs/fill-column-indicator 1.90: Graphically indicate the fill column
 app-emacs/fill-function-arguments 0.9: Convert function arguments to/from single line
 app-emacs/fill-page 0.3.7: Fill buffer so you don't see empty lines at the end
@@ -1886,7 +1886,7 @@ app-emacs/orderless 1.0: Completion style for matching regexps in any order
 app-emacs/ordinal 1.0.0: Convert number to ordinal number notation
 app-emacs/org-ac 0.0.2: Some auto-complete sources for org-mode
 app-emacs/org-agenda-property 1.3.1: Display org properties in the agenda buffer.
-app-emacs/org-ai 0.1.4: Emacs org-mode integration for the OpenAI API
+app-emacs/org-ai 0.2.1: Emacs org-mode integration for the OpenAI API
 app-emacs/org-alert 0.1.0: Notify org deadlines via notify-send
 app-emacs/org-analyzer 1.0.4: org-analyzer is a tool that extracts time tracking data from org files.
 app-emacs/org-anki 3.0.0: Synchronize org-mode entries to Anki
