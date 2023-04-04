@@ -406,7 +406,7 @@ app-emacs/contextual 1.0.1: Contextual profile management system
 app-emacs/contextual-menubar 1.0.0: display the menubar only on a graphical display
 app-emacs/conventional-changelog 1.1.0: Conventional Changelog Generator
 app-emacs/copy-as-format 0.0.8: Copy buffer locations as GitHub/Slack/JIRA/HipChat/... formatted code
-app-emacs/copy-file-on-save 0.0.5: Copy file on save, automatic deployment it.
+app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
 app-emacs/copyit-pandoc 0.1.0: Copy it, yank anything!
 app-emacs/corfu-prescient 6.1: prescient.el + Corfu
@@ -572,7 +572,7 @@ app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
 app-emacs/dtrt-indent 1.9: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
-app-emacs/dune 3.7.0: Integration with the dune build system
+app-emacs/dune 3.7.1: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
 app-emacs/dylan 0.1.0: Dylan editing modes
@@ -740,7 +740,7 @@ app-emacs/eshell-git-prompt 0.1.3: Some Eshell prompt for Git users
 app-emacs/eshell-info-banner 0.8.8: System information as your Eshell banner
 app-emacs/eshell-outline 2020.8.31: Enhanced outline-mode for Eshell
 app-emacs/eshell-prompt-extras 1.0: Display extra information for your eshell prompt.
-app-emacs/eshell-syntax-highlighting 0.3: Highlight eshell commands
+app-emacs/eshell-syntax-highlighting 0.4: Highlight eshell commands
 app-emacs/eshell-up 0.0.3: Quickly go to a specific parent directory in eshell
 app-emacs/eshell-z 0.4: cd to frequent directory in eshell
 app-emacs/eslint-disable-rule 0.3.0: Commands to add JS comments disabling eslint rules
@@ -912,7 +912,7 @@ app-emacs/flycheck-objc-clang 4.0.2: Flycheck: Objective-C support using Clang
 app-emacs/flycheck-ocaml 0.4.2: Flycheck: OCaml support
 app-emacs/flycheck-package 0.14: A Flycheck checker for elisp package authors
 app-emacs/flycheck-pest 0.1.0: Flycheck integration for Pest -
-app-emacs/flycheck-phpstan 0.6.0: Flycheck integration for PHPStan
+app-emacs/flycheck-phpstan 0.7.0: Flycheck integration for PHPStan
 app-emacs/flycheck-pony 0.3.0: Pony support in Flycheck
 app-emacs/flycheck-popup-tip 0.12.2: Display Flycheck error messages using popup.el
 app-emacs/flycheck-pos-tip 0.3: Display Flycheck errors in GUI tooltips
@@ -954,7 +954,7 @@ app-emacs/flymake-perlcritic 1.0.3: Flymake handler for Perl to invoke Perl::Cri
 app-emacs/flymake-pest 0.1.0: A flymake handler for Pest files
 app-emacs/flymake-php 0.5: A flymake handler for php-mode files
 app-emacs/flymake-phpcs 1.1: making flymake work with PHP CodeSniffer
-app-emacs/flymake-phpstan 0.6.0: Flymake backend for PHP using PHPStan
+app-emacs/flymake-phpstan 0.7.0: Flymake backend for PHP using PHPStan
 app-emacs/flymake-python-pyflakes 0.9: A flymake handler for python-mode files using pyflakes (or flake8)
 app-emacs/flymake-quickdef 1.0.0: Quickly define a new Flymake backend
 app-emacs/flymake-rakudo 0.1.0: Flymake syntax checker for Rakudo
@@ -1485,7 +1485,7 @@ app-emacs/kaesar-file 0.9.0: Encrypt/Decrypt file by AES with password.
 app-emacs/kaesar-mode 0.9.0: Encrypt/Decrypt buffer by AES with password.
 app-emacs/kakapo-mode 1.2: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
 app-emacs/kaocha-runner 0.3.0: A package for running Kaocha tests via CIDER.
-app-emacs/kaolin-themes 1.6.7: A set of eye pleasing themes
+app-emacs/kaolin-themes 1.6.8: A set of eye pleasing themes
 app-emacs/karma 0.1.0: Karma Test Runner Emacs Integration
 app-emacs/keepass-mode 0.0.5: Mode for KeePass DB.
 app-emacs/kele 0.4.1: Spritzy Kubernetes cluster management
@@ -1864,7 +1864,7 @@ app-emacs/ocamlformat 0.25.1: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
 app-emacs/octicons 0.1: octicons utility
-app-emacs/oer-reveal 4.10.3: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.10.5: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.0: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -1886,7 +1886,7 @@ app-emacs/orderless 1.0: Completion style for matching regexps in any order
 app-emacs/ordinal 1.0.0: Convert number to ordinal number notation
 app-emacs/org-ac 0.0.2: Some auto-complete sources for org-mode
 app-emacs/org-agenda-property 1.3.1: Display org properties in the agenda buffer.
-app-emacs/org-ai 0.2.2: Emacs org-mode integration for the OpenAI API
+app-emacs/org-ai 0.2.3: Your AI assistant with ChatGPT, DALL-E, Whisper
 app-emacs/org-alert 0.1.0: Notify org deadlines via notify-send
 app-emacs/org-analyzer 1.0.4: org-analyzer is a tool that extracts time tracking data from org files.
 app-emacs/org-anki 3.0.0: Synchronize org-mode entries to Anki
@@ -2102,9 +2102,9 @@ app-emacs/phi-search-mc 2.2.1: multiple-cursors extension for phi-search
 app-emacs/php-cs-fixer 2.0.0: php-cs-fixer wrapper.
 app-emacs/php-mode 1.24.3: Major mode for editing PHP code
 app-emacs/php-quickhelp 0.5.5: Quickhelp at point for php
-app-emacs/php-runtime 0.2.0: Language binding bridge to PHP
+app-emacs/php-runtime 0.3.0: Language binding bridge to PHP
 app-emacs/phpactor 0.1.0: Interface to Phpactor
-app-emacs/phpstan 0.6.0: Interface to PHPStan
+app-emacs/phpstan 0.7.0: Interface to PHPStan
 app-emacs/phpt-mode 0.0.1: Major mode for editing PHPT test code
 app-emacs/phpunit 0.17.1: Launch PHP unit tests using phpunit
 app-emacs/pickle 0.0.3: Major mode for editing cucumber gherkin files.
@@ -2453,7 +2453,7 @@ app-emacs/snapshot-timemachine-rsnapshot 0.4: rsnapshot backend for snapshot-tim
 app-emacs/snazzy-theme 1.0: An elegant syntax theme with bright colors
 app-emacs/snitch 0.3.0: An Emacs firewall
 app-emacs/snoopy 0.2.0: minor mode for number row unshifted character insertion
-app-emacs/soccer 1.4.0: Fixtures, results, table etc for soccer
+app-emacs/soccer 1.5.0: Fixtures, results, table etc for soccer
 app-emacs/socyl 0.3.0: Frontend for several search tools
 app-emacs/solaire-mode 2.0.4: make certain buffers grossly incandescent
 app-emacs/solarized-theme 2.0.0: The Solarized color theme
@@ -2586,7 +2586,7 @@ app-emacs/textx-mode 0.0.2: Major mode for editing TextX files
 app-emacs/theme-changer 2.1.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
-app-emacs/thrift 2023.3.27.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2023.4.3.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.4: Interact with TidalCycles for live coding patterns
 app-emacs/tide 4.5.4: Typescript Interactive Development Environment
