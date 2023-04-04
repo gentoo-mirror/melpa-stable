@@ -4,21 +4,19 @@
 EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
-SOURCE_TYPE="single"
-REALNAME="copy-file-on-save"
+SOURCE_TYPE="tar"
+REALNAME="php-runtime"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Copy file on save, automatic deployment it."
+DESCRIPTION="Language binding bridge to PHP"
 
-HOMEPAGE="https://github.com/emacs-php/emacs-auto-deployment"
+HOMEPAGE="https://github.com/emacs-php/php-runtime.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/f
-	app-emacs/s"
-RDEPEND="app-emacs/f
-	app-emacs/s"
+DEPEND="app-emacs/compat"
+RDEPEND="app-emacs/compat"
