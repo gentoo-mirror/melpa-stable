@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs org-mode integration for the OpenAI API"
+DESCRIPTION="Your AI assistant with ChatGPT, DALL-E, Whisper"
 
 HOMEPAGE="https://github.com/rksm/org-ai"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Emacs org-mode integration for the OpenAI API</longdescription>
+	<longdescription>Your AI assistant with ChatGPT, DALL-E, Whisper</longdescription>
 </pkgmetadata>
