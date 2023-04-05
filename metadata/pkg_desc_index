@@ -1480,9 +1480,9 @@ app-emacs/just-mode 0.1.8: Justfile editing mode
 app-emacs/justl 0.11: Major mode for driving just files
 app-emacs/jvm-mode 0.2.0: Monitor and manage your JVMs
 app-emacs/k8s-mode 0.2.0: Major mode for Kubernetes configuration file
-app-emacs/kaesar 0.9.0: Another AES algorithm encrypt/decrypt string with password.
-app-emacs/kaesar-file 0.9.0: Encrypt/Decrypt file by AES with password.
-app-emacs/kaesar-mode 0.9.0: Encrypt/Decrypt buffer by AES with password.
+app-emacs/kaesar 0.9.5: AES algorithm encrypt/decrypt
+app-emacs/kaesar-file 0.9.5: AES encrypt/decrypt file
+app-emacs/kaesar-mode 0.9.5: AES encrypt/decrypt buffer
 app-emacs/kakapo-mode 1.2: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
 app-emacs/kaocha-runner 0.3.0: A package for running Kaocha tests via CIDER.
 app-emacs/kaolin-themes 1.6.8: A set of eye pleasing themes
