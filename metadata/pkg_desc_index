@@ -628,7 +628,7 @@ app-emacs/el2org 0.6.0: Convert elisp file to org file
 app-emacs/elbank 1.2: Personal finances reporting application
 app-emacs/elcouch 0.11.0: View and manipulate CouchDB databases
 app-emacs/eldev 1.3.1: Elisp development tool
-app-emacs/eldoc-box 1.9.1: Display documentation in childframe
+app-emacs/eldoc-box 1.10.1: Display documentation in childframe
 app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use.
 app-emacs/eldoc-stan 10.2.0: Eldoc support for stan functions
 app-emacs/electric-cursor 0.2: Change cursor automatically depending on mode
@@ -1886,7 +1886,7 @@ app-emacs/orderless 1.0: Completion style for matching regexps in any order
 app-emacs/ordinal 1.0.0: Convert number to ordinal number notation
 app-emacs/org-ac 0.0.2: Some auto-complete sources for org-mode
 app-emacs/org-agenda-property 1.3.1: Display org properties in the agenda buffer.
-app-emacs/org-ai 0.2.3: Your AI assistant with ChatGPT, DALL-E, Whisper
+app-emacs/org-ai 0.2.4: Your AI assistant with ChatGPT, DALL-E, Whisper
 app-emacs/org-alert 0.1.0: Notify org deadlines via notify-send
 app-emacs/org-analyzer 1.0.4: org-analyzer is a tool that extracts time tracking data from org files.
 app-emacs/org-anki 3.0.0: Synchronize org-mode entries to Anki
@@ -2102,7 +2102,7 @@ app-emacs/phi-search-mc 2.2.1: multiple-cursors extension for phi-search
 app-emacs/php-cs-fixer 2.0.0: php-cs-fixer wrapper.
 app-emacs/php-mode 1.24.3: Major mode for editing PHP code
 app-emacs/php-quickhelp 0.5.5: Quickhelp at point for php
-app-emacs/php-runtime 0.3.0: Language binding bridge to PHP
+app-emacs/php-runtime 0.3.1: Language binding bridge to PHP
 app-emacs/phpactor 0.1.0: Interface to Phpactor
 app-emacs/phpstan 0.7.0: Interface to PHPStan
 app-emacs/phpt-mode 0.0.1: Major mode for editing PHPT test code
@@ -2583,7 +2583,7 @@ app-emacs/textmate 1: No description available.
 app-emacs/textmate-to-yas 0.21: Import Textmate macros into yasnippet syntax
 app-emacs/textsize 3.0: Configure frame text size automatically
 app-emacs/textx-mode 0.0.2: Major mode for editing TextX files
-app-emacs/theme-changer 2.1.0: Sunrise/Sunset Theme Changer for Emacs
+app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
 app-emacs/thrift 2023.4.3.0: major mode for fbthrift and Apache Thrift files
