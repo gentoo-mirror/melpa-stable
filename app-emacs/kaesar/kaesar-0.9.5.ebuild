@@ -10,13 +10,13 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Another AES algorithm encrypt/decrypt string with password."
+DESCRIPTION="AES algorithm encrypt/decrypt"
 
-HOMEPAGE="https://github.com/mhayashi1120/Emacs-kaesar/raw/master/kaesar.el"
+HOMEPAGE="https://github.com/mhayashi1120/Emacs-kaesar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/kaesar-pbkdf2"
+RDEPEND="app-emacs/kaesar-pbkdf2"
