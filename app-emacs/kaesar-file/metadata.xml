@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Encrypt/Decrypt file by AES with password.</longdescription>
+	<longdescription>AES encrypt/decrypt file</longdescription>
 </pkgmetadata>
