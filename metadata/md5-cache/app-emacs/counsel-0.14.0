@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-25.3:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/ivy app-emacs/swiper
+DESCRIPTION=Various completion functions using Ivy
+EAPI=8
+HOMEPAGE=https://github.com/abo-abo/swiper
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/ivy app-emacs/swiper >=app-editors/emacs-25.3:*
+SLOT=0
+SRC_URI=https://stable.melpa.org/packages/counsel-0.14.0.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=51ef48992129e92d878bde0e0cd3a9ac
