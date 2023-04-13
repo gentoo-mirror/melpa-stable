@@ -248,7 +248,7 @@ app-emacs/camcorder 1.0: Record screencasts in gif or other formats.
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cangjie 0.7.4: Retrieve cangjie code for han characters
 app-emacs/cape 0.14: Completion At Point Extensions
-app-emacs/capnp-mode 0.10.3: Major mode for editing Capn' Proto Files
+app-emacs/capnp-mode 0.10.4: Major mode for editing Capn' Proto Files
 app-emacs/cargo 0.4.1: Emacs Minor Mode for Cargo, Rust's Package Manager.
 app-emacs/caseformat 0.1.0: Format based letter case converter
 app-emacs/cask-mode 0.1: major mode for editing Cask files
