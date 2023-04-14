@@ -1606,7 +1606,7 @@ app-emacs/lsp-grammarly 0.3.0: LSP Clients for Grammarly
 app-emacs/lsp-ivy 0.5: LSP ivy integration
 app-emacs/lsp-java 3.1: Java support for lsp-mode
 app-emacs/lsp-jedi 1.2.2: Lsp client plugin for Python Jedi Language Server
-app-emacs/lsp-julia 0.7.1: Julia support for lsp-mode
+app-emacs/lsp-julia 0.7.2: Julia support for lsp-mode
 app-emacs/lsp-latex 3.4.0: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 0.2.1: LSP Clients for LTEX
 app-emacs/lsp-metals 1.2.0: Scala Client settings
