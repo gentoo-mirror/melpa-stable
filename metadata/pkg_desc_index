@@ -143,7 +143,7 @@ app-emacs/auto-sudoedit 1.1.0: Auto sudo edit by tramp
 app-emacs/auto-yasnippet 0.3.0: Quickly create disposable yasnippets
 app-emacs/autodisass-java-bytecode 1.3: Automatically disassemble Java bytecode
 app-emacs/autodisass-llvm-bitcode 1.1: Automatically disassemble LLVM bitcode
-app-emacs/autothemer 0.2.14: Conveniently define themes
+app-emacs/autothemer 0.2.17: Conveniently define themes
 app-emacs/avy 0.5.0: Jump to arbitrary positions in visible text and select text quickly.
 app-emacs/avy-embark-collect 0.21: Use avy to jump to Embark Collect entries
 app-emacs/avy-menu 0.1.1: Library providing avy-powered popup menu
