@@ -157,7 +157,7 @@ app-emacs/banner-comment 2.7: For producing banner comments.
 app-emacs/base16-theme 3.0: Collection of themes built on combinations of 16 base colors
 app-emacs/bash-completion 3.1.1: Bash completion for the shell buffer
 app-emacs/basic-ide 0.0.3: BASIC IDE c64
-app-emacs/basic-mode 1.0.4: Major mode for editing BASIC code
+app-emacs/basic-mode 1.1.0: Major mode for editing BASIC code
 app-emacs/battery-notifier 0.2.2: Notify when battery capacity is low
 app-emacs/bbcode-mode 2.3.0: Major mode for phpBB posts (BBCode markup)
 app-emacs/bbdb 3.2.2.2: Big Brother DataBase
