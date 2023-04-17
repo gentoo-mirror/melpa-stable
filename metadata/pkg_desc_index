@@ -247,7 +247,7 @@ app-emacs/call-graph 0.1.0: Library to generate call graph for cpp functions
 app-emacs/camcorder 1.0: Record screencasts in gif or other formats.
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cangjie 0.7.4: Retrieve cangjie code for han characters
-app-emacs/cape 0.14: Completion At Point Extensions
+app-emacs/cape 0.15: Completion At Point Extensions
 app-emacs/capnp-mode 0.10.4: Major mode for editing Capn' Proto Files
 app-emacs/cargo 0.4.1: Emacs Minor Mode for Cargo, Rust's Package Manager.
 app-emacs/caseformat 0.1.0: Format based letter case converter
@@ -706,7 +706,7 @@ app-emacs/enh-ruby-mode 20191111: Major mode for editing Ruby files
 app-emacs/enlive 0.0.1: query html document with css selectors
 app-emacs/enotify 0.1.3: No description available.
 app-emacs/environ 0.0.1: API for environment variables and env files
-app-emacs/envrc 0.4: Support for `direnv' that operates buffer-locally
+app-emacs/envrc 0.5: Support for `direnv' that operates buffer-locally
 app-emacs/eopengrok 1.7.42: opengrok interface for emacs
 app-emacs/epc 0.1.1: A RPC stack for the Emacs Lisp
 app-emacs/eping 0.1.1: Ping websites to check internet connectivity
@@ -914,7 +914,7 @@ app-emacs/flycheck-objc-clang 4.0.2: Flycheck: Objective-C support using Clang
 app-emacs/flycheck-ocaml 0.4.2: Flycheck: OCaml support
 app-emacs/flycheck-package 0.14: A Flycheck checker for elisp package authors
 app-emacs/flycheck-pest 0.1.0: Flycheck integration for Pest -
-app-emacs/flycheck-phpstan 0.7.1: Flycheck integration for PHPStan
+app-emacs/flycheck-phpstan 0.7.2: Flycheck integration for PHPStan
 app-emacs/flycheck-pony 0.3.0: Pony support in Flycheck
 app-emacs/flycheck-popup-tip 0.12.2: Display Flycheck error messages using popup.el
 app-emacs/flycheck-pos-tip 0.3: Display Flycheck errors in GUI tooltips
@@ -956,7 +956,7 @@ app-emacs/flymake-perlcritic 1.0.3: Flymake handler for Perl to invoke Perl::Cri
 app-emacs/flymake-pest 0.1.0: A flymake handler for Pest files
 app-emacs/flymake-php 0.5: A flymake handler for php-mode files
 app-emacs/flymake-phpcs 1.1: making flymake work with PHP CodeSniffer
-app-emacs/flymake-phpstan 0.7.1: Flymake backend for PHP using PHPStan
+app-emacs/flymake-phpstan 0.7.2: Flymake backend for PHP using PHPStan
 app-emacs/flymake-python-pyflakes 0.9: A flymake handler for python-mode files using pyflakes (or flake8)
 app-emacs/flymake-quickdef 1.0.0: Quickly define a new Flymake backend
 app-emacs/flymake-rakudo 0.1.0: Flymake syntax checker for Rakudo
@@ -1447,7 +1447,7 @@ app-emacs/jet 1.0.0: Emacs integration for jet Clojure tool
 app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
-app-emacs/jinx 0.5: Enchanted Just-in-time Spell Checker
+app-emacs/jinx 0.6: Enchanted Spell Checker
 app-emacs/journalctl-mode 0.8: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
 app-emacs/jq-format 1.0.0: Reformat JSON and JSONLines using jq
@@ -1505,7 +1505,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.9: Import, edit and create calendar events through khal
 app-emacs/khardel 1.0.0: Integrate with khard
-app-emacs/khoj 0.6.0: A search assistant for your second brain
+app-emacs/khoj 0.6.1: A search assistant for your second brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
@@ -1816,6 +1816,7 @@ app-emacs/nodejs-repl 0.2.4: Run Node.js REPL
 app-emacs/nodemcu-mode 0.1.0: Minor mode for NodeMCU
 app-emacs/nofrils-acme-theme 0.1.0: Port of "No Frils Acme" Vim theme.
 app-emacs/nord-theme 0.5.0: An arctic, north-bluish clean and elegant theme
+app-emacs/nordic-night-theme 1.0.0: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 0.2: A mostly colorless version of nord-theme
 app-emacs/notmuch 0.37: run notmuch within emacs
 app-emacs/notmuch-addr 0.2.1: An alternative to notmuch-address.el
@@ -2106,7 +2107,7 @@ app-emacs/php-mode 1.24.3: Major mode for editing PHP code
 app-emacs/php-quickhelp 0.5.5: Quickhelp at point for php
 app-emacs/php-runtime 0.3.1: Language binding bridge to PHP
 app-emacs/phpactor 0.1.0: Interface to Phpactor
-app-emacs/phpstan 0.7.1: Interface to PHPStan
+app-emacs/phpstan 0.7.2: Interface to PHPStan
 app-emacs/phpt-mode 0.0.1: Major mode for editing PHPT test code
 app-emacs/phpunit 0.17.1: Launch PHP unit tests using phpunit
 app-emacs/pickle 0.0.3: Major mode for editing cucumber gherkin files.
@@ -2684,7 +2685,7 @@ app-emacs/use-package-ensure-system-package 2.4.4: auto install system packages
 app-emacs/use-package-hydra 0.2: Adds :hydra keyword to use-package macro
 app-emacs/use-proxy 1.2.1: Enable/Disable proxies respecting your HTTP/HTTPS env
 app-emacs/use-ttf 0.1.3: Keep font consistency across different OSs
-app-emacs/utop 2.11.0: Universal toplevel for OCaml
+app-emacs/utop 2.12.0: Universal toplevel for OCaml
 app-emacs/uuidgen 1.0: Provides various UUID generating functions
 app-emacs/uxntal-mode 0.2: Major mode for Uxntal assembly
 app-emacs/v2ex-mode 0.2: Major mode for visit http://v2ex.com/ site.
