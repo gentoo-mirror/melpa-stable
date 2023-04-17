@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/seq app-emacs/inheritenv
-DESCRIPTION=Support for `direnv' that operates buffer-locally
+DEPEND=app-emacs/compat app-emacs/php-mode app-emacs/php-runtime
+DESCRIPTION=Interface to PHPStan
 EAPI=8
-HOMEPAGE=https://github.com/purcell/envrc
+HOMEPAGE=https://github.com/emacs-php/phpstan.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/seq app-emacs/inheritenv >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/compat app-emacs/php-mode app-emacs/php-runtime >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/envrc-0.4.el
+SRC_URI=https://stable.melpa.org/packages/phpstan-0.7.2.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=a4f2c2c2ca517e8f8193c4cd62e4e3ec
+_md5_=ef09aa69ada2513a308220e1858b18bc
