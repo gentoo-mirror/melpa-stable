@@ -688,7 +688,7 @@ app-emacs/embark-consult 0.21: Consult integration for Embark
 app-emacs/embrace 0.1.4: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 1.1.0: Test runner and report viewer for Midje
 app-emacs/emmet-mode 1.0.8: Unofficial Emmet's support for emacs
-app-emacs/emms 14: The Emacs Multimedia System
+app-emacs/emms 15: The Emacs Multimedia System
 app-emacs/emms-mode-line-cycle 0.2.5: Display the emms mode line as a ticker
 app-emacs/emms-player-simple-mpv 0.4.0: An extension of emms-player-simple.el for mpv JSON IPC
 app-emacs/emms-state 0.2: Display track description and playing time in the mode line
