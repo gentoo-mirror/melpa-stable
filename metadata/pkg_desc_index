@@ -639,7 +639,7 @@ app-emacs/elf-mode 0.1.0: Show symbols in binaries
 app-emacs/elfeed 3.4.1: an Emacs Atom/RSS feed reader
 app-emacs/elfeed-autotag 0.1.2: Easy auto-tagging for elfeed
 app-emacs/elfeed-protocol 0.8.1: Provide fever/newsblur/owncloud/ttrss protocols for elfeed
-app-emacs/elfeed-score 1.2.4: Gnus-style scoring for Elfeed
+app-emacs/elfeed-score 1.2.5: Gnus-style scoring for Elfeed
 app-emacs/elfeed-summary 0.1.0: Feed summary interface for elfeed
 app-emacs/elfeed-tube 0.15: YouTube integration for Elfeed
 app-emacs/elfeed-tube-mpv 0.15: Control mpv from Elfeed
