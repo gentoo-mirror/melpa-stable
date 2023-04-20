@@ -1861,7 +1861,7 @@ app-emacs/ob-translate 0.1.2: Translation of text blocks in org-mode.
 app-emacs/ob-uart 0.1.0: org-babel support for UART communication
 app-emacs/obfusurl 2.1: Obfuscate URLs so they aren't spoilers
 app-emacs/objed 0.8.1: Navigate and edit text objects.
-app-emacs/obsidian 1.1.10: Obsidian Notes interface
+app-emacs/obsidian 1.1.11: Obsidian Notes interface
 app-emacs/ocamlformat 0.25.1: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
