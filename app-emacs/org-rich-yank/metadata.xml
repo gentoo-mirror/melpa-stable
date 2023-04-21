@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>paste with org-mode markup and link to source</longdescription>
+	<longdescription>Paste with org-mode markup and link to source</longdescription>
 </pkgmetadata>
