@@ -1809,7 +1809,7 @@ app-emacs/nix-mode 1.5.0: Major mode for editing .nix files
 app-emacs/nixos-options 0.0.1: Interface for browsing and completing NixOS options.
 app-emacs/nixpkgs-fmt 0.1: Reformat Nix using nixpkgs-fmt
 app-emacs/nlinum-hl 1.0.6: heal nlinum's line numbers
-app-emacs/no-littering 1.2.7: help keeping ~/.emacs.d clean
+app-emacs/no-littering 1.3.0: Help keeping ~/.config/emacs clean
 app-emacs/noccur 0.2: Run multi-occur on project/dired files
 app-emacs/nodejs-repl 0.2.4: Run Node.js REPL
 app-emacs/nodemcu-mode 0.1.0: Minor mode for NodeMCU
