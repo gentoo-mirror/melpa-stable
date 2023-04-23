@@ -2156,7 +2156,7 @@ app-emacs/popup-imenu 0.6.1: imenu index popup
 app-emacs/popwin 1.0.2: Popup Window Manager
 app-emacs/porthole 0.3.0: RPC Servers in Emacs
 app-emacs/pos-tip 0.4.6: Show tooltip at point
-app-emacs/posframe 1.4.1: Pop a posframe (just a frame) at point
+app-emacs/posframe 1.4.2: Pop a posframe (just a frame) at point
 app-emacs/posix-manual 0.1: POSIX manual page lookup
 app-emacs/power-mode 0.1.0: Imbue Emacs with power!
 app-emacs/powerline 2.4: Rewrite of Powerline
