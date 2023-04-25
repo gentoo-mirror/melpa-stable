@@ -189,7 +189,7 @@ app-emacs/bison-mode 0.3: Major mode for editing bison, yacc and lex files.
 app-emacs/blackboard-theme 1.0: TextMate Blackboard Theme
 app-emacs/blacken 0.2.0: Reformat python buffers using the "black" formatter
 app-emacs/blackout 1.0: Better mode lighter overriding.
-app-emacs/blamer 0.6.2: Show git blame info about current line
+app-emacs/blamer 0.7.0: Show git blame info about current line
 app-emacs/blitzmax-mode 1.0.0: A major mode for editing BlitzMax source code
 app-emacs/blox 0.3.0: Interaction with Roblox tooling
 app-emacs/bluesound 0.2: Play, pause, resume music on a Bluesound player
@@ -741,7 +741,7 @@ app-emacs/eshell-git-prompt 0.1.3: Some Eshell prompt for Git users
 app-emacs/eshell-info-banner 0.8.8: System information as your Eshell banner
 app-emacs/eshell-outline 2020.8.31: Enhanced outline-mode for Eshell
 app-emacs/eshell-prompt-extras 1.0: Display extra information for your eshell prompt.
-app-emacs/eshell-syntax-highlighting 0.4: Highlight eshell commands
+app-emacs/eshell-syntax-highlighting 0.5: Highlight eshell commands
 app-emacs/eshell-up 0.0.3: Quickly go to a specific parent directory in eshell
 app-emacs/eshell-z 0.4: cd to frequent directory in eshell
 app-emacs/eslint-disable-rule 0.3.0: Commands to add JS comments disabling eslint rules
@@ -1580,7 +1580,7 @@ app-emacs/literate-elisp 0.8: literate program to write elisp codes in org mode
 app-emacs/litex-mode 0.3.0: Minor mode for converting lisp to LaTeX
 app-emacs/live-code-talks 0.2.1: Support for slides with live code in them
 app-emacs/live-preview 0.1.2: Live preview by any shell command while editing
-app-emacs/live-py-mode 4.10.0: Live Coding in Python
+app-emacs/live-py-mode 4.10.1: Live Coding in Python
 app-emacs/lively 0.2: interactively updating text
 app-emacs/llama 0.2.0: Anonymous function literals
 app-emacs/lms 1.1: Squeezebox / Logitech Media Server frontend
@@ -1815,7 +1815,7 @@ app-emacs/nodejs-repl 0.2.4: Run Node.js REPL
 app-emacs/nodemcu-mode 0.1.0: Minor mode for NodeMCU
 app-emacs/nofrils-acme-theme 0.1.0: Port of "No Frils Acme" Vim theme.
 app-emacs/nord-theme 0.5.0: An arctic, north-bluish clean and elegant theme
-app-emacs/nordic-night-theme 1.0.0: A darker, more colorful version of the lovely Nord theme
+app-emacs/nordic-night-theme 1.0.2: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 0.2: A mostly colorless version of nord-theme
 app-emacs/notmuch 0.37: run notmuch within emacs
 app-emacs/notmuch-addr 0.2.1: An alternative to notmuch-address.el
