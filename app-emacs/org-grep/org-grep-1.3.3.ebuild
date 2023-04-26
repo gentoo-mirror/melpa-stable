@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="single"
-REALNAME="protobuf-mode"
+REALNAME="org-grep"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for editing protocol buffers."
+DESCRIPTION="Kind of M-x rgrep adapted for Org mode"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://sr.ht/~minshall/org-grep/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

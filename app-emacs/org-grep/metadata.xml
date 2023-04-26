@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>major mode for editing protocol buffers.</longdescription>
+	<longdescription>Kind of M-x rgrep adapted for Org mode</longdescription>
 </pkgmetadata>

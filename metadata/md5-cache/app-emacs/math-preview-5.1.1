@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/request app-emacs/jeison
-DESCRIPTION=Powerthesaurus integration
+DEPEND=app-emacs/dash app-emacs/s
+DESCRIPTION=Preview TeX math equations inline
 EAPI=8
-HOMEPAGE=http://github.com/SavchenkoValeriy/emacs-powerthesaurus
+HOMEPAGE=https://gitlab.com/matsievskiysv/math-preview
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/request app-emacs/jeison >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/dash app-emacs/s >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/powerthesaurus-0.3.0.el
+SRC_URI=https://stable.melpa.org/packages/math-preview-5.1.1.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=0a655f8e286d7cf0ed0bc5fc41651b8c
+_md5_=514a5a5e8285979bc06771ed613c1b1c
