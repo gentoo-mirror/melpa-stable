@@ -18,7 +18,7 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/request
-	app-emacs/jeison"
-RDEPEND="app-emacs/request
-	app-emacs/jeison"
+DEPEND="app-emacs/jeison
+	app-emacs/s"
+RDEPEND="app-emacs/jeison
+	app-emacs/s"
