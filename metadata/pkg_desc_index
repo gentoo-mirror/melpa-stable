@@ -2502,7 +2502,7 @@ app-emacs/stan-snippets 10.2.0: Yasnippets for Stan
 app-emacs/standard-dirs 2.0.0: Platform-specific paths for config, cache, and other data
 app-emacs/stash 0.4.1: lightweight persistent caching
 app-emacs/status 0.3: This package adds support for status icons to Emacs.
-app-emacs/stgit 2.2.2: major mode for StGit interaction
+app-emacs/stgit 2.2.3: major mode for StGit interaction
 app-emacs/stock-tracker 0.1.6: Track stock price
 app-emacs/streak 3.0.0: Track a daily streak in your Mode Line
 app-emacs/string-inflection 1.0.16: underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names
