@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="single"
-REALNAME="python-mls"
+REALNAME="blackjack"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Multi-line shell for (i)Python"
+DESCRIPTION="The game of Blackjack"
 
-HOMEPAGE="https://github.com/jdtsmith/python-mls"
+HOMEPAGE="https://github.com/gdonald/blackjack-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
