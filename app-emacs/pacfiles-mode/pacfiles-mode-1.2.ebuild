@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="pacnew and pacsave merging tool"
+DESCRIPTION="The pacnew and pacsave merging tool"
 
 HOMEPAGE="https://github.com/UndeadKernel/pacfiles-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
