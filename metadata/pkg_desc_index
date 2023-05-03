@@ -189,7 +189,7 @@ app-emacs/bison-mode 0.3: Major mode for editing bison, yacc and lex files.
 app-emacs/bitpack 1.0.1: Bit packing functions
 app-emacs/blackboard-theme 1.0: TextMate Blackboard Theme
 app-emacs/blacken 0.2.0: Reformat python buffers using the "black" formatter
-app-emacs/blackjack 1.0.2: The game of Blackjack
+app-emacs/blackjack 1.0.3: The game of Blackjack
 app-emacs/blackout 1.0: Better mode lighter overriding.
 app-emacs/blamer 0.7.0: Show git blame info about current line
 app-emacs/blitzmax-mode 1.0.0: A major mode for editing BlitzMax source code
@@ -1473,7 +1473,7 @@ app-emacs/json-snatcher 1.0.0: Grabs the path to JSON values in a JSON file
 app-emacs/jsonnet-mode 0.1.3: Major mode for editing jsonnet files
 app-emacs/julia-mode 0.4: Major mode for editing Julia source code
 app-emacs/julia-repl 1.3.0: A minor mode for a Julia REPL
-app-emacs/julia-snail 1.2.0: Julia Snail
+app-emacs/julia-snail 1.2.1: Julia Snail
 app-emacs/julia-ts-mode 0.2.1: Major mode for Julia source code using tree-sitter
 app-emacs/julia-vterm 0.13: A mode for Julia REPL using vterm
 app-emacs/jump 2.6: build functions which contextually jump between files
@@ -2578,7 +2578,7 @@ app-emacs/tern 0.24.3: Tern-powered JavaScript integration
 app-emacs/tern-auto-complete 0.24.3: Tern Completion by auto-complete.el
 app-emacs/tern-context-coloring 1.0.1: Use Tern for context coloring
 app-emacs/terraform-doc 1.2.0: Look up terraform documentation on the fly
-app-emacs/terraform-mode 1.0.0: Major mode for terraform configuration file
+app-emacs/terraform-mode 1.0.1: Major mode for terraform configuration file
 app-emacs/test-case-mode 1.0: unit test front-end
 app-emacs/test-kitchen 0.3.0: Run test-kitchen inside of emacs
 app-emacs/test-simple 1.0: Simple Unit Test Framework for Emacs Lisp
