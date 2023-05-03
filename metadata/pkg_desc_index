@@ -2041,7 +2041,7 @@ app-emacs/ox-twbs 1.1.4: Bootstrap compatible HTML Back-End for Org
 app-emacs/ox-wk 0.3.0: Wiki Back-End for Org Export Engine
 app-emacs/ox-yaow 1.0: Generate html pages from org files
 app-emacs/pabbrev 4.1: Predictive abbreviation expansion
-app-emacs/pacfiles-mode 1.0: pacnew and pacsave merging tool
+app-emacs/pacfiles-mode 1.2: The pacnew and pacsave merging tool
 app-emacs/pack 0.1.1: Pack and unpack archive files
 app-emacs/package+ 1.4.0: Extensions for the package library.
 app-emacs/package-build 4.0.0: Tools for assembling a package archive
