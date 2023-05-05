@@ -21,8 +21,10 @@ KEYWORDS="~amd64 ~x86"
 DEPEND="app-emacs/uuidgen
 	app-emacs/deferred
 	app-emacs/s
-	app-emacs/dash"
+	app-emacs/dash
+	app-emacs/ht"
 RDEPEND="app-emacs/uuidgen
 	app-emacs/deferred
 	app-emacs/s
-	app-emacs/dash"
+	app-emacs/dash
+	app-emacs/ht"
