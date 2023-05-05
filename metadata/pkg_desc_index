@@ -662,7 +662,7 @@ app-emacs/elogcat 0.2.0: logcat interface
 app-emacs/elpa-audit 0.4: Handy functions for inspecting and comparing package archives
 app-emacs/elpa-clone 0.3.0: Clone ELPA archive
 app-emacs/elpa-mirror 2.2.2: Create local package repository from installed packages
-app-emacs/elpher 3.4.3: A friendly gopher and gemini client
+app-emacs/elpher 3.5.0: A friendly gopher and gemini client
 app-emacs/elpy 1.35.0: Emacs Python Development Environment
 app-emacs/elquery 1.1.0: The HTML library for elisp
 app-emacs/elscreen 20180321: Emacs window session manager
@@ -982,7 +982,7 @@ app-emacs/font-utils 0.7.8: Utility functions for working with fonts
 app-emacs/fontawesome 0.4: fontawesome utility
 app-emacs/fontify-face 1.1.0: Fontify symbols representing faces with that face.
 app-emacs/fontsloth 0.15.3: Elisp otf/ttf font loader/renderer
-app-emacs/for 1.3: Iteration and sequence
+app-emacs/for 1.4: Iteration and sequence
 app-emacs/foreman-mode 0.0.1: View and manage Procfile-based applications
 app-emacs/forge 0.3.2: Access Git forges from Magit.
 app-emacs/form-feed 0.2.3: Display ^L glyphs as horizontal lines
@@ -1475,7 +1475,7 @@ app-emacs/julia-mode 0.4: Major mode for editing Julia source code
 app-emacs/julia-repl 1.3.0: A minor mode for a Julia REPL
 app-emacs/julia-snail 1.2.1: Julia Snail
 app-emacs/julia-ts-mode 0.2.1: Major mode for Julia source code using tree-sitter
-app-emacs/julia-vterm 0.13: A mode for Julia REPL using vterm
+app-emacs/julia-vterm 0.20: A mode for Julia REPL using vterm
 app-emacs/jump 2.6: build functions which contextually jump between files
 app-emacs/jump-to-line 0.2.0: Jump to line number at point.
 app-emacs/jupyter 0.8.2: Jupyter
@@ -1511,7 +1511,6 @@ app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from E
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
 app-emacs/killer 1.0.0: kill and delete text
-app-emacs/kivy-mode 2.1.0: Emacs major mode for editing Kivy files
 app-emacs/kiwix 1.0.2: Searching offline Wikipedia through Kiwix.
 app-emacs/know-your-http-well 0.5.0: Look up the meaning of HTTP headers, methods, relations, status codes
 app-emacs/ksp-cfg-mode 0.6: major mode for editing KSP CFG files
@@ -1895,7 +1894,7 @@ app-emacs/org-alert 0.1.0: Notify org deadlines via notify-send
 app-emacs/org-analyzer 1.0.4: org-analyzer is a tool that extracts time tracking data from org files.
 app-emacs/org-anki 3.0.0: Synchronize org-mode entries to Anki
 app-emacs/org-appear 0.3.0: Auto-toggle Org elements
-app-emacs/org-assistant 1.0: Org babel extension for Chat Assistant APIs
+app-emacs/org-assistant 1.1: Org babel extension for Chat Assistant APIs
 app-emacs/org-auto-expand 0.1: Automatically expand certain headings
 app-emacs/org-auto-tangle 0.6.0: Automatically and Asynchronously tangles org files on save
 app-emacs/org-autolist 0.14: Improved list management in org-mode
@@ -1927,8 +1926,8 @@ app-emacs/org-id-cleanup 1.7.1: Interactively find, present and maybe clean up u
 app-emacs/org-if 0.2.0: Interactive Fiction Authoring System for Org-Mode.
 app-emacs/org-incoming 0.1: Sort incoming PDFs into your org files
 app-emacs/org-index 7.4.4: No description available.
-app-emacs/org-inline-anim 0.2: Inline playback of animated GIF/PNG for Org
-app-emacs/org-inline-pdf 0.2: Inline PDF previewing for Org
+app-emacs/org-inline-anim 0.3: Inline playback of animated GIF/PNG for Org
+app-emacs/org-inline-pdf 0.3: Inline PDF previewing for Org
 app-emacs/org-jira 4.4.1: Syncing between Jira and Org-mode.
 app-emacs/org-journal 2.2.0: a simple org-mode based journaling mode
 app-emacs/org-journal-tags 0.4.0: Tagging and querying system of org-journal
