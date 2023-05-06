@@ -641,7 +641,7 @@ app-emacs/elf-mode 0.1.0: Show symbols in binaries
 app-emacs/elfeed 3.4.1: an Emacs Atom/RSS feed reader
 app-emacs/elfeed-autotag 0.1.2: Easy auto-tagging for elfeed
 app-emacs/elfeed-protocol 0.8.1: Provide fever/newsblur/owncloud/ttrss protocols for elfeed
-app-emacs/elfeed-score 1.2.5: Gnus-style scoring for Elfeed
+app-emacs/elfeed-score 1.2.6: Gnus-style scoring for Elfeed
 app-emacs/elfeed-summary 0.1.0: Feed summary interface for elfeed
 app-emacs/elfeed-tube 0.15: YouTube integration for Elfeed
 app-emacs/elfeed-tube-mpv 0.15: Control mpv from Elfeed
@@ -856,7 +856,7 @@ app-emacs/filldent 1.0.1: Fill or indent
 app-emacs/finalize 2.0.0: finalizers for Emacs Lisp
 app-emacs/find-by-pinyin-dired 0.0.3: Find file by first PinYin character of Chinese Hanzi
 app-emacs/find-dupes-dired 1.0: Find dupes and handle in dired
-app-emacs/find-file-in-project 6.2.0: Find file/directory and review Diff/Patch/Commit efficiently
+app-emacs/find-file-in-project 6.2.1: Find file/directory and review Diff/Patch/Commit efficiently
 app-emacs/find-file-in-repository 1.2: Quickly find files in a git, mercurial or other repository
 app-emacs/finito 0.5.0: View and collect books
 app-emacs/fiplr 0.2.4: Fuzzy Search for Files in Projects
@@ -1474,7 +1474,7 @@ app-emacs/jsonnet-mode 0.1.3: Major mode for editing jsonnet files
 app-emacs/julia-mode 0.4: Major mode for editing Julia source code
 app-emacs/julia-repl 1.3.0: A minor mode for a Julia REPL
 app-emacs/julia-snail 1.2.1: Julia Snail
-app-emacs/julia-ts-mode 0.2.1: Major mode for Julia source code using tree-sitter
+app-emacs/julia-ts-mode 0.2.2: Major mode for Julia source code using tree-sitter
 app-emacs/julia-vterm 0.20: A mode for Julia REPL using vterm
 app-emacs/jump 2.6: build functions which contextually jump between files
 app-emacs/jump-to-line 0.2.0: Jump to line number at point.
