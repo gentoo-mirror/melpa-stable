@@ -2461,7 +2461,7 @@ app-emacs/snoopy 0.2.0: minor mode for number row unshifted character insertion
 app-emacs/soccer 1.5.0: Fixtures, results, table etc for soccer
 app-emacs/socyl 0.3.0: Frontend for several search tools
 app-emacs/solaire-mode 2.0.4: make certain buffers grossly incandescent
-app-emacs/solarized-theme 2.0.0: The Solarized color theme
+app-emacs/solarized-theme 2.0.1: The Solarized color theme
 app-emacs/solidity-flycheck 0.1.10: Flycheck integration for solidity emacs mode
 app-emacs/solidity-mode 0.1.10: Major mode for ethereum's solidity language
 app-emacs/solo-jazz-theme 0.9.0: The Solo-Jazz color theme
