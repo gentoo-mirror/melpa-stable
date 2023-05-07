@@ -604,7 +604,7 @@ app-emacs/ede-php-autoload-drupal 0.1.1: Drupal support for ede-php-autoload
 app-emacs/edit-indirect 0.1.10: Edit regions in separate buffers
 app-emacs/edit-list 0.3: edit a single list
 app-emacs/edit-server 1.16: server that responds to edit requests from Chrome
-app-emacs/editorconfig 0.9.1: EditorConfig Emacs Plugin
+app-emacs/editorconfig 0.10.0: EditorConfig Emacs Plugin
 app-emacs/editorconfig-custom-majormode 0.0.3: Decide major-mode and mmm-mode from EditorConfig
 app-emacs/edn 1.1.2: Support for reading and writing the edn data format from elisp
 app-emacs/edwina 0.2.0: Dynamic window manager
@@ -1698,7 +1698,7 @@ app-emacs/metamorph 1.0.0: Transform your buffers with lisp
 app-emacs/metaweblog 1.1.16: An XML-RPC MetaWeblog and WordPress API client
 app-emacs/mew 6.9: Messaging in the Emacs World
 app-emacs/meyvn 1.0: Emacs meyvn Client
-app-emacs/mgmtconfig-mode 0.0.22: mgmt configuration management language
+app-emacs/mgmtconfig-mode 0.0.23: mgmt configuration management language
 app-emacs/mhc 1.2.4: Message Harmonized Calendaring system.
 app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
@@ -1818,7 +1818,7 @@ app-emacs/nodejs-repl 0.2.4: Run Node.js REPL
 app-emacs/nodemcu-mode 0.1.0: Minor mode for NodeMCU
 app-emacs/nofrils-acme-theme 0.1.0: Port of "No Frils Acme" Vim theme.
 app-emacs/nord-theme 0.5.0: An arctic, north-bluish clean and elegant theme
-app-emacs/nordic-night-theme 1.0.4: A darker, more colorful version of the lovely Nord theme
+app-emacs/nordic-night-theme 1.0.5: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 0.2: A mostly colorless version of nord-theme
 app-emacs/notmuch 0.37: run notmuch within emacs
 app-emacs/notmuch-addr 0.2.1: An alternative to notmuch-address.el
