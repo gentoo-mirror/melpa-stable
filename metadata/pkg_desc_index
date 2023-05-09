@@ -497,7 +497,7 @@ app-emacs/desktop-environment 0.5.0: Helps you control your GNU/Linux computer
 app-emacs/desktop-mail-user-agent 0.1: Call OS default mail program to compose mail
 app-emacs/desktop-registry 1.2.0: Keep a central registry of desktop files
 app-emacs/detached 0.10.1: A package to launch, and manage, detached processes
-app-emacs/devil 0.1.0: Minor mode for Devil-like command entering
+app-emacs/devil 0.2.0: Minor mode for Devil-like command entering
 app-emacs/dianyou 0.0.3: Search and analyze mails in Gnus
 app-emacs/diary-manager 2.0.2: Simple personal diary.
 app-emacs/dictcc 1.0.2: Look up translations on dict.cc
@@ -1042,7 +1042,7 @@ app-emacs/ggtags 0.8.13: emacs frontend to GNU Global source code tagging system
 app-emacs/gh 1.0.1: A GitHub library for Emacs
 app-emacs/gh-notify 0.1.0: A veneer for Magit/Forge GitHub notifications
 app-emacs/ghc-imported-from 0.1.2: Haskell documentation lookup with ghc-imported-from
-app-emacs/ghq 0.1.2: Ghq interface for emacs
+app-emacs/ghq 0.2.0: Ghq interface for emacs
 app-emacs/ghub 3.5.6: Minuscule client libraries for Git forge APIs.
 app-emacs/ghub+ 0.3: a thick GitHub API client built on ghub
 app-emacs/gif-screencast 1.2: One-frame-per-action GIF recording
@@ -1897,7 +1897,7 @@ app-emacs/org-alert 0.1.0: Notify org deadlines via notify-send
 app-emacs/org-analyzer 1.0.4: org-analyzer is a tool that extracts time tracking data from org files.
 app-emacs/org-anki 3.0.0: Synchronize org-mode entries to Anki
 app-emacs/org-appear 0.3.0: Auto-toggle Org elements
-app-emacs/org-assistant 1.1: Org babel extension for Chat Assistant APIs
+app-emacs/org-assistant 1.2.1: Org babel extension for Chat Assistant APIs
 app-emacs/org-auto-expand 0.1: Automatically expand certain headings
 app-emacs/org-auto-tangle 0.6.0: Automatically and Asynchronously tangles org files on save
 app-emacs/org-autolist 0.14: Improved list management in org-mode
@@ -2199,6 +2199,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
+app-emacs/protobuf-mode 23.0: major mode for editing protocol buffers.
 app-emacs/protobuf-ts-mode 1.0.2: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions.
 app-emacs/psalm 0.6.0: Interface to Psalm
@@ -2601,7 +2602,7 @@ app-emacs/timer-revert 0.1: minor mode to revert buffer for a given time interva
 app-emacs/timesheet 0.5.0: Timesheet management add-on for org-mode
 app-emacs/timonier 0.1.0: Timonier, Manage Kubernetes Applications from Emacs
 app-emacs/timu-caribbean-theme 1.5: Color theme with cyan as a dominant color
-app-emacs/timu-macos-theme 1.1: Color theme inspired by the macOS UI
+app-emacs/timu-macos-theme 1.2: Color theme inspired by the macOS UI
 app-emacs/timu-rouge-theme 1.9: Color theme inspired by the Rouge Theme for VSCode
 app-emacs/timu-spacegrey-theme 2.6: Color theme inspired by the Spacegray theme in Sublime Text
 app-emacs/titlecase 0.4.1: Title-case phrases
