@@ -1534,7 +1534,7 @@ app-emacs/languagetool 1.3.0: LanguageTool integration for grammar and spell che
 app-emacs/lastfm 1.2: Last.fm API for Emacs Lisp
 app-emacs/latex-extra 1.14: Adds several useful functionalities to LaTeX-mode.
 app-emacs/latex-math-preview 0.7.3: preview LaTeX mathematical expressions.
-app-emacs/latex-table-wizard 1.4.2: Magic editing of LaTeX tables
+app-emacs/latex-table-wizard 1.5.0: Magic editing of LaTeX tables
 app-emacs/latex-unicode-math-mode 0.3.1: Input method for Unicode math symbols
 app-emacs/lavenderless-theme 0.2: A mostly colorless version of lavender-theme
 app-emacs/lcb-mode 0.1.1: LiveCode Builder major mode
