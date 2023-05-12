@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>highlight TODO and similar keywords</longdescription>
+	<longdescription>Highlight TODO and similar keywords</longdescription>
 </pkgmetadata>
