@@ -4,21 +4,19 @@
 EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
-SOURCE_TYPE="tar"
-REALNAME="ghub"
+SOURCE_TYPE="single"
+REALNAME="keycast"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minuscule client libraries for Git forge APIs."
+DESCRIPTION="Show current command and its binding"
 
-HOMEPAGE="https://github.com/magit/ghub"
+HOMEPAGE="https://github.com/tarsius/keycast"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/let-alist
-	app-emacs/treepy"
-RDEPEND="app-emacs/let-alist
-	app-emacs/treepy"
+DEPEND="app-emacs/compat"
+RDEPEND="app-emacs/compat"

@@ -4,19 +4,23 @@
 EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
-SOURCE_TYPE="single"
-REALNAME="frameshot"
+SOURCE_TYPE="tar"
+REALNAME="ghub"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Take screenshots of a frame"
+DESCRIPTION="Client libraries for Git forge APIs."
 
-HOMEPAGE="https://github.com/tarsius/frameshot"
+HOMEPAGE="https://github.com/magit/ghub"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/compat
+	app-emacs/let-alist
+	app-emacs/treepy"
+RDEPEND="app-emacs/compat
+	app-emacs/let-alist
+	app-emacs/treepy"

@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="single"
-REALNAME="keycast"
+REALNAME="bicycle"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show current command and its key in the mode line"
+DESCRIPTION="Cycle outline and code visibility"
 
-HOMEPAGE="https://github.com/tarsius/keycast"
+HOMEPAGE="https://github.com/tarsius/bicycle"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/compat"
+RDEPEND="app-emacs/compat"
