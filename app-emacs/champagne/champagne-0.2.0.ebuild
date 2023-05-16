@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="single"
-REALNAME="backline"
+REALNAME="champagne"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Preserve appearance of outline headings"
+DESCRIPTION="Graphical countdowns"
 
-HOMEPAGE="https://github.com/tarsius/backline"
+HOMEPAGE="http://github.com/positron-solutions/champagne"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/outline-minor-faces"
-RDEPEND="app-emacs/outline-minor-faces"
+DEPEND=""
+RDEPEND=""

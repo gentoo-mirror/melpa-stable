@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Headings faces for outline-minor-mode</longdescription>
+	<longdescription>Highlight only section headings</longdescription>
 </pkgmetadata>

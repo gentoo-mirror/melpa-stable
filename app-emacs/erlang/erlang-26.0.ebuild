@@ -4,15 +4,15 @@
 EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
-SOURCE_TYPE="single"
-REALNAME="minions"
+SOURCE_TYPE="tar"
+REALNAME="erlang"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A minor-mode menu for the mode line"
+DESCRIPTION="Erlang major mode"
 
-HOMEPAGE="https://github.com/tarsius/minions"
+HOMEPAGE="https://stable.melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

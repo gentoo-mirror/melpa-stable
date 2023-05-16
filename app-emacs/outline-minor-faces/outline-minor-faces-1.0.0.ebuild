@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="single"
-REALNAME="moody"
+REALNAME="outline-minor-faces"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Tabs and ribbons for the mode line"
+DESCRIPTION="Highlight only section headings"
 
-HOMEPAGE="https://github.com/tarsius/moody"
+HOMEPAGE="https://github.com/tarsius/outline-minor-faces"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/compat"
+RDEPEND="app-emacs/compat"

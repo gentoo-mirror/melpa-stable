@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Show current command and its key in the mode line</longdescription>
+	<longdescription>Show current command and its binding</longdescription>
 </pkgmetadata>
