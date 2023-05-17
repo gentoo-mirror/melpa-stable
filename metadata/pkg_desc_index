@@ -632,7 +632,7 @@ app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
 app-emacs/el2org 0.6.0: Convert elisp file to org file
 app-emacs/elbank 1.2: Personal finances reporting application
 app-emacs/elcouch 0.11.0: View and manipulate CouchDB databases
-app-emacs/eldev 1.3.1: Elisp development tool
+app-emacs/eldev 1.4: Elisp development tool
 app-emacs/eldoc-box 1.11.1: Display documentation in childframe
 app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use.
 app-emacs/eldoc-stan 10.2.0: Eldoc support for stan functions
@@ -1907,7 +1907,7 @@ app-emacs/org-autolist 0.14: Improved list management in org-mode
 app-emacs/org-babel-eval-in-repl 1.6: Eval org-mode babel code blocks in various REPLs.
 app-emacs/org-beautify-theme 0.3.1: A sub-theme to make org-mode more beautiful.
 app-emacs/org-board 1018: bookmarking and web archival system for Org mode.
-app-emacs/org-bookmark-heading 1.2: Emacs bookmark support for Org mode
+app-emacs/org-bookmark-heading 1.3: Emacs bookmark support for Org mode
 app-emacs/org-books 0.3.0: Reading list management with Org mode and helm
 app-emacs/org-bullets 0.2.4: Show bullets in org-mode as UTF-8 characters
 app-emacs/org-category-capture 1.1.0: Contextualy capture of org-mode TODOs.
