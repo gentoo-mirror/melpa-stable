@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Interactive macro expander</longdescription>
+	<longdescription>A multi target interface to compile</longdescription>
 </pkgmetadata>

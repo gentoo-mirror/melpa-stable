@@ -21,7 +21,6 @@ KEYWORDS="~amd64 ~x86"
 DEPEND="app-emacs/emacs-aio
 	app-emacs/closql
 	app-emacs/emacsql
-	app-emacs/emacsql-sqlite
 	app-emacs/f
 	app-emacs/ht
 	app-emacs/transient
@@ -29,7 +28,6 @@ DEPEND="app-emacs/emacs-aio
 RDEPEND="app-emacs/emacs-aio
 	app-emacs/closql
 	app-emacs/emacsql
-	app-emacs/emacsql-sqlite
 	app-emacs/f
 	app-emacs/ht
 	app-emacs/transient

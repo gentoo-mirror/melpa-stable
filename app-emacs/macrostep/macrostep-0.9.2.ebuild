@@ -4,23 +4,19 @@
 EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
-SOURCE_TYPE="single"
-REALNAME="org-alert"
+SOURCE_TYPE="tar"
+REALNAME="macrostep"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Notify org deadlines via notify-send"
+DESCRIPTION="Interactive macro expander"
 
-HOMEPAGE="https://github.com/groksteve/org-alert"
+HOMEPAGE="https://github.com/emacsorphanage/macrostep"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/s
-	app-emacs/dash
-	app-emacs/alert"
-RDEPEND="app-emacs/s
-	app-emacs/dash
-	app-emacs/alert"
+DEPEND=""
+RDEPEND=""
