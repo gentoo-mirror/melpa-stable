@@ -4,15 +4,15 @@
 EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
-SOURCE_TYPE="tar"
-REALNAME="macrostep"
+SOURCE_TYPE="single"
+REALNAME="compile-multi"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="interactive macro expander"
+DESCRIPTION="A multi target interface to compile"
 
-HOMEPAGE="https://github.com/emacsorphanage/macrostep"
+HOMEPAGE="https://github.com/mohkale/compile-multi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
