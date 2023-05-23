@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="leuven-theme"
+REALNAME="dune"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Awesome Emacs color theme on white background"
+DESCRIPTION="Integration with the dune build system"
 
-HOMEPAGE="https://github.com/fniessen/emacs-leuven-theme"
+HOMEPAGE="https://github.com/ocaml/dune"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

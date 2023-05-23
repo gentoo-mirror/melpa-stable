@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Elegant Emacs color theme for a white background</longdescription>
+	<longdescription>Integration with the dune build system</longdescription>
 </pkgmetadata>
