@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="IDE interface"
 
-HOMEPAGE="https://forge.chapril.org/hjuvi/eide"
+HOMEPAGE="https://software.hjuvi.fr.eu.org/eide/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
