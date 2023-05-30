@@ -4,19 +4,19 @@
 EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
-SOURCE_TYPE="tar"
-REALNAME="org-zettelkasten"
+SOURCE_TYPE="single"
+REALNAME="clojure-ts-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A Zettelkasten mode leveraging Org"
+DESCRIPTION="Major mode for Clojure code"
 
-HOMEPAGE="https://git.sr.ht/~ymherklotz/org-zettelkasten"
+HOMEPAGE="http://github.com/clojure-emacs/clojure-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/org-mode"
-RDEPEND="app-emacs/org-mode"
+DEPEND=""
+RDEPEND=""
