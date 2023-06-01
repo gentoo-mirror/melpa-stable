@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fully customizable modal editing"
+DESCRIPTION="Build your own minor modes for modal editing"
 
 HOMEPAGE="https://github.com/DCsunset/modaled"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
