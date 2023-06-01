@@ -1728,7 +1728,7 @@ app-emacs/mmt 0.2.0: Missing macro tools for Emacs Lisp
 app-emacs/mocha 1.1: Run Mocha or Jasmine tests
 app-emacs/mocha-snippets 2.0.0: Yasnippets for the Mocha JS Testing Framework
 app-emacs/mocker 0.5.0: mocking framework for emacs
-app-emacs/modaled 0.2.0: Fully customizable modal editing
+app-emacs/modaled 0.3.0: Build your own minor modes for modal editing
 app-emacs/modalka 0.1.5: Easily introduce native modal editing of your own design
 app-emacs/mode-icons 0.4.0: Show icons for modes
 app-emacs/mode-line-bell 0.2: Flash the mode line instead of ringing the bell
