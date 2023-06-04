@@ -523,7 +523,7 @@ app-emacs/dionysos 0.6.0: Dionysos, a music player for Emacs
 app-emacs/dired-atool 1.3.0: Pack/unpack files with atool on dired.
 app-emacs/dired-efap 0.8.1: Edit Filename At Point in a dired buffer
 app-emacs/dired-explorer 0.6: minor-mode provides Explorer like select file at dired.
-app-emacs/dired-fdclone 1.6.0: dired functions and settings to mimic FDclone
+app-emacs/dired-fdclone 1.6.1: dired functions and settings to mimic FDclone
 app-emacs/dired-gitignore 0.1.2: A minor mode to hide gitignored files in a dired buffer
 app-emacs/dired-hide-dotfiles 0.1: Hde dotfiles in dired
 app-emacs/dired-icon 0.5: A minor mode to display a list of associated icons in dired buffers.
