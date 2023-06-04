@@ -18,7 +18,11 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/epkg
+DEPEND="app-emacs/compat
+	app-emacs/epkg
+	app-emacs/llama
 	app-emacs/marginalia"
-RDEPEND="app-emacs/epkg
+RDEPEND="app-emacs/compat
+	app-emacs/epkg
+	app-emacs/llama
 	app-emacs/marginalia"

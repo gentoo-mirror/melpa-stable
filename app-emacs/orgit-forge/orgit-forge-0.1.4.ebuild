@@ -18,11 +18,13 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/forge
+DEPEND="app-emacs/compat
+	app-emacs/forge
 	app-emacs/magit
 	app-emacs/org-mode
 	app-emacs/orgit"
-RDEPEND="app-emacs/forge
+RDEPEND="app-emacs/compat
+	app-emacs/forge
 	app-emacs/magit
 	app-emacs/org-mode
 	app-emacs/orgit"

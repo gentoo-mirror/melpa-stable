@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Anonymous function literals"
+DESCRIPTION="Compact syntax for short lambda"
 
 HOMEPAGE="https://git.sr.ht/~tarsius/llama"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
