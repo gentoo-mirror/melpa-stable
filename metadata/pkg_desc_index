@@ -1900,7 +1900,7 @@ app-emacs/orderless 1.0: Completion style for matching regexps in any order
 app-emacs/ordinal 1.0.0: Convert number to ordinal number notation
 app-emacs/org-ac 0.0.2: Some auto-complete sources for org-mode
 app-emacs/org-agenda-property 1.3.1: Display org properties in the agenda buffer.
-app-emacs/org-ai 0.3.5: Your AI assistant with ChatGPT, DALL-E, Whisper
+app-emacs/org-ai 0.3.7: Your AI assistant with ChatGPT, DALL-E, Whisper
 app-emacs/org-alert 0.2.0: Notify org deadlines via notify-send
 app-emacs/org-analyzer 1.0.4: org-analyzer is a tool that extracts time tracking data from org files.
 app-emacs/org-anki 3.0.0: Synchronize org-mode entries to Anki
@@ -2532,6 +2532,7 @@ app-emacs/subsonic 0.4.1: Browse and play music from subsonic servers with mpv
 app-emacs/sudo-edit 0.1.1: Open files as another user
 app-emacs/sudo-utils 3.0.1: Sudo utilities
 app-emacs/suggest 0.7: suggest elisp functions that give the output requested
+app-emacs/sumibi 1.6.3: Japanese input method powered by ChatGPT API
 app-emacs/suomalainen-kalenteri 2023.1.2: Finnish national and Christian holidays for calendar
 app-emacs/super-save 0.3.0: Auto-save buffers, based on your activity.
 app-emacs/svg-mode-line-themes 0.1.3: SVG-based themes for mode-line
