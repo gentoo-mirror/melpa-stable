@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Anonymous function literals</longdescription>
+	<longdescription>Compact syntax for short lambda</longdescription>
 </pkgmetadata>
