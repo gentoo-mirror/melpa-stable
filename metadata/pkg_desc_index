@@ -636,7 +636,7 @@ app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
 app-emacs/el2org 0.6.0: Convert elisp file to org file
 app-emacs/elbank 1.2: Personal finances reporting application
 app-emacs/elcouch 0.11.0: View and manipulate CouchDB databases
-app-emacs/eldev 1.4: Elisp development tool
+app-emacs/eldev 1.4.1: Elisp development tool
 app-emacs/eldoc-box 1.11.1: Display documentation in childframe
 app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use.
 app-emacs/eldoc-stan 10.2.0: Eldoc support for stan functions
@@ -1512,7 +1512,7 @@ app-emacs/keymap-utils 4.0.0: Keymap utilities
 app-emacs/keypress-multi-event 1.0: Perform different actions for the same keypress.
 app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
-app-emacs/khalel 0.1.9: Import, edit and create calendar events through khal
+app-emacs/khalel 0.1.10: Import, edit and create calendar events through khal
 app-emacs/khardel 1.0.0: Integrate with khard
 app-emacs/khoj 0.6.2: A search assistant for your second brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
@@ -2721,6 +2721,7 @@ app-emacs/vdm-snippets 0.0.4: YASnippets for VDM mode
 app-emacs/vector-utils 0.1.2: Vector-manipulation utility functions
 app-emacs/vegetative-theme 1.0.2: A Theme based on green CRT terminals
 app-emacs/verb 2.15.0: Organize and send HTTP requests
+app-emacs/verilog-ext 0.1.0: SystemVerilog Extensions
 app-emacs/vertico-prescient 6.1: prescient.el + Vertico
 app-emacs/vertigo 1.0: Jump across lines using the home row.
 app-emacs/vhdl-tools 6.2: Utilities for navigating vhdl sources.
@@ -2876,4 +2877,4 @@ app-emacs/zotxt 5.0.5: Tools to integrate emacs with Zotero via the zotxt plugin
 app-emacs/zoutline 0.2.0: Simple outline library.
 app-emacs/zoxide 1.2.1: Find file by zoxide
 app-emacs/zygospore 0.0.3: reversible C-x 1 (delete-other-windows)
-app-emacs/zzz-to-char 0.1.3: Fancy version of `zap-to-char' command
+app-emacs/zzz-to-char 1.0.0: Fancy version of `zap-to-char' command
