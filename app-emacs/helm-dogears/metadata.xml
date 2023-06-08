@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Your AI assistant with ChatGPT, DALL-E, Whisper, Stable Diffusion</longdescription>
+	<longdescription>Helm source for Dogears</longdescription>
 </pkgmetadata>

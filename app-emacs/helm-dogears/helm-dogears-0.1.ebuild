@@ -4,19 +4,21 @@
 EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
-SOURCE_TYPE="tar"
-REALNAME="org-ai"
+SOURCE_TYPE="single"
+REALNAME="helm-dogears"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Your AI assistant with ChatGPT, DALL-E, Whisper"
+DESCRIPTION="Helm source for Dogears"
 
-HOMEPAGE="https://github.com/rksm/org-ai"
+HOMEPAGE="https://github.com/alphapapa/dogears.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/dogears
+	app-emacs/helm"
+RDEPEND="app-emacs/dogears
+	app-emacs/helm"
