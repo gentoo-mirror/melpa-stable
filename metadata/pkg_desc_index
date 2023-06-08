@@ -563,6 +563,7 @@ app-emacs/docker-tramp 0.1.1: TRAMP integration for docker containers
 app-emacs/dockerfile-mode 1.8: Major mode for editing Docker's Dockerfiles
 app-emacs/docopt 0.1.3: A Docopt implementation in Elisp
 app-emacs/docstr 5.7.0: A document string minor mode
+app-emacs/dogears 0.1: Never lose your place again
 app-emacs/dokuwiki-mode 0.1.1: Major mode for DokuWiki document
 app-emacs/doom 1.3: DOM implementation and manipulation library
 app-emacs/doom-modeline 3.4.0: A minimal and modern mode-line
@@ -1222,6 +1223,7 @@ app-emacs/helm-dash 1.3.0: Offline documentation browser for +150 APIs using Das
 app-emacs/helm-descbinds 1.13: A convenient `describe-bindings' with `helm'
 app-emacs/helm-directory 0.6.4: selecting directory before select the file
 app-emacs/helm-dired-history 1.3: Show dired history with helm.el support.
+app-emacs/helm-dogears 0.1: Helm source for Dogears
 app-emacs/helm-emms 1.3: Emms for Helm.
 app-emacs/helm-esa 1.1.0: Esa with helm interface
 app-emacs/helm-etags-plus 1.1: Another Etags helm.el interface
@@ -1901,7 +1903,7 @@ app-emacs/orderless 1.0: Completion style for matching regexps in any order
 app-emacs/ordinal 1.0.0: Convert number to ordinal number notation
 app-emacs/org-ac 0.0.2: Some auto-complete sources for org-mode
 app-emacs/org-agenda-property 1.3.1: Display org properties in the agenda buffer.
-app-emacs/org-ai 0.3.7: Your AI assistant with ChatGPT, DALL-E, Whisper
+app-emacs/org-ai 0.3.8: Your AI assistant with ChatGPT, DALL-E, Whisper, Stable Diffusion
 app-emacs/org-alert 0.2.0: Notify org deadlines via notify-send
 app-emacs/org-analyzer 1.0.4: org-analyzer is a tool that extracts time tracking data from org files.
 app-emacs/org-anki 3.0.0: Synchronize org-mode entries to Anki
