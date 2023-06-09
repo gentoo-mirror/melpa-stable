@@ -999,6 +999,7 @@ app-emacs/format-sql 0.4: Use format-sql to make your SQL readable in directly E
 app-emacs/format-table 0.0.1: Parse and reformat tabular data.
 app-emacs/fortune-cookie 1.0.0: Print a fortune in your scratch buffer.
 app-emacs/fountain-mode 3.6.2: Major mode for screenwriting in Fountain markup
+app-emacs/fpga 0.1.0: FPGA & ASIC Utils
 app-emacs/frame-purpose 1.0: Purpose-specific frames
 app-emacs/frames-only-mode 1.0.0: Use frames instead of Emacs windows
 app-emacs/frameshot 0.2.6: Take screenshots of a frame
@@ -1487,7 +1488,7 @@ app-emacs/julia-ts-mode 0.2.2: Major mode for Julia source code using tree-sitte
 app-emacs/julia-vterm 0.20: A mode for Julia REPL using vterm
 app-emacs/jump 2.6: build functions which contextually jump between files
 app-emacs/jump-to-line 0.2.0: Jump to line number at point.
-app-emacs/jupyter 0.8.2: Jupyter
+app-emacs/jupyter 0.8.3: Jupyter
 app-emacs/just-mode 0.1.8: Justfile editing mode
 app-emacs/justl 0.11: Major mode for driving just files
 app-emacs/jvm-mode 0.2.0: Monitor and manage your JVMs
