@@ -2725,6 +2725,7 @@ app-emacs/verb 2.15.0: Organize and send HTTP requests
 app-emacs/verilog-ext 0.1.0: SystemVerilog Extensions
 app-emacs/vertico-prescient 6.1: prescient.el + Vertico
 app-emacs/vertigo 1.0: Jump across lines using the home row.
+app-emacs/vhdl-ext 0.1.0: VHDL Extensions
 app-emacs/vhdl-tools 6.2: Utilities for navigating vhdl sources.
 app-emacs/vim-region 0.3.0: Select region as vim
 app-emacs/vimgolf 0.10.3: VimGolf interface for the One True Editor
@@ -2865,7 +2866,7 @@ app-emacs/zettelkasten 0.5.0: Helper functions to organise notes in a Zettelkast
 app-emacs/zetz-mode 0.1.0: A major mode for the ZetZ programming language
 app-emacs/zk 0.4: Functions for working with Zettelkasten-style linked notes
 app-emacs/zk-index 0.4: Index and Desktop for zk
-app-emacs/zmq 0.10.10: ZMQ bindings in elisp
+app-emacs/zmq 1.0.0: ZMQ bindings in elisp
 app-emacs/znc 0.4: ZNC + ERC
 app-emacs/zombie-trellys-mode 0.2.1: A minor mode for interaction with Zombie Trellys
 app-emacs/zone-tmux-clock 0.0.1: Zone out with a tmux style clock
