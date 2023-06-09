@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="ZMQ bindings in elisp"
 
-HOMEPAGE="https://github.com/dzop/emacs-zmq"
+HOMEPAGE="https://github.com/nnicandro/emacs-zmq"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
