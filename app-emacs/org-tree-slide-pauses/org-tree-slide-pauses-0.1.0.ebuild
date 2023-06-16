@@ -4,7 +4,7 @@
 EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
-SOURCE_TYPE="single"
+SOURCE_TYPE="tar"
 REALNAME="org-tree-slide-pauses"
 DIGEST_SOURCES="yes"
 

@@ -8,6 +8,6 @@ INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/font-utils app-emacs/ucs-utils app-emacs/list-utils app-emacs/persistent-soft app-emacs/pcache >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/unicode-fonts-0.4.10.el
+SRC_URI=https://stable.melpa.org/packages/unicode-fonts-0.4.10.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=5929d11c646f274294c4dde9660950af
+_md5_=adc0be00f28eacc544de030de10154c6

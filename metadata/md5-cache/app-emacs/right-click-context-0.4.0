@@ -8,6 +8,6 @@ INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/popup app-emacs/ordinal >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/right-click-context-0.4.0.el
+SRC_URI=https://stable.melpa.org/packages/right-click-context-0.4.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=6934a835f1b2b9e6ba1cb84ee6563f1a
+_md5_=95425ac6c4526009784f8e31dc72189b

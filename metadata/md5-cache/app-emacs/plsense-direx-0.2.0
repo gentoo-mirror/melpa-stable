@@ -8,6 +8,6 @@ INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/direx app-emacs/plsense app-emacs/log4e app-emacs/yaxception >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/plsense-direx-0.2.0.el
+SRC_URI=https://stable.melpa.org/packages/plsense-direx-0.2.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=a127dd920fbd9e8b4bde12ae74102d5c
+_md5_=b7dd99bd8ef7a056aa81b2bc5fe12939
