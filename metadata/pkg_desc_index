@@ -582,7 +582,7 @@ app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
 app-emacs/dtrt-indent 1.9: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
-app-emacs/dune 3.8.1: Integration with the dune build system
+app-emacs/dune 3.8.2: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
 app-emacs/dylan 0.1.0: Dylan editing modes
