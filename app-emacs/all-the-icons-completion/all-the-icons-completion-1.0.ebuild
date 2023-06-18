@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="darkman"
+REALNAME="all-the-icons-completion"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Seamless integration with Darkman"
+DESCRIPTION="Add icons to completion candidates"
 
-HOMEPAGE="https://grtcdr.tn/darkman.el/"
+HOMEPAGE="https://github.com/iyefrat/all-the-icons-completion"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/all-the-icons"
+RDEPEND="app-emacs/all-the-icons"
