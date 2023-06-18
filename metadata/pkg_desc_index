@@ -67,6 +67,7 @@ app-emacs/alectryon 1.4.0: Toggle between Coq and reStructuredText
 app-emacs/alert 1.3: Growl-style notification system for Emacs
 app-emacs/alert-toast 1.0.0: Windows 10 toast notifications
 app-emacs/all-the-icons 5.0.0: A library for inserting Developer icons
+app-emacs/all-the-icons-completion 1.0: Add icons to completion candidates
 app-emacs/all-the-icons-dired 2.0: Shows icons for each file in dired mode
 app-emacs/all-the-icons-ibuffer 1.3.0: Display icons for all buffers in ibuffer
 app-emacs/all-the-icons-ivy 0.5.0: Shows icons while using ivy and counsel
@@ -467,7 +468,7 @@ app-emacs/daemons 2.0.0: UI for managing init system daemons (services)
 app-emacs/dante 1.7: Development mode for Haskell
 app-emacs/dap-mode 0.7: Debug Adapter Protocol mode
 app-emacs/darcula-theme 2.0: Inspired by IntelliJ's Darcula theme
-app-emacs/darkman 1.0.3: Seamless integration with Darkman
+app-emacs/darkman 1.1.0: Seamless integration with Darkman
 app-emacs/darktooth-theme 1.0.1: From the darkness... it watches
 app-emacs/dart-mode 1.0.7: Major mode for editing Dart files
 app-emacs/dart-server 0.1.0: Minor mode for editing Dart files
@@ -1508,7 +1509,7 @@ app-emacs/key-assist 1.0: Minibuffer keybinding cheatsheet and launcher
 app-emacs/key-chord 0.6: map pairs of simultaneously pressed keys to commands
 app-emacs/key-combo 1.6: map key sequence to commands
 app-emacs/key-seq 1.0.1: map pairs of sequentially pressed keys to commands
-app-emacs/keycast 1.3.1: Show current command and its binding
+app-emacs/keycast 1.3.2: Show current command and its binding
 app-emacs/keychain-environment 2.4.1: load keychain environment variables
 app-emacs/keydef 1.15: a simpler way to define keys, with kbd syntax
 app-emacs/keyfreq 1.8: track command frequencies
@@ -1523,7 +1524,7 @@ app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from E
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
 app-emacs/killer 1.0.0: kill and delete text
-app-emacs/kivy-mode 2.2.0: Emacs major mode for editing Kivy files
+app-emacs/kivy-mode 2.2.1: Emacs major mode for editing Kivy files
 app-emacs/kiwix 1.0.2: Searching offline Wikipedia through Kiwix.
 app-emacs/klondike 1.0.0: Klondike
 app-emacs/know-your-http-well 0.5.0: Look up the meaning of HTTP headers, methods, relations, status codes
@@ -1738,7 +1739,7 @@ app-emacs/mmt 0.2.0: Missing macro tools for Emacs Lisp
 app-emacs/mocha 1.1: Run Mocha or Jasmine tests
 app-emacs/mocha-snippets 2.0.0: Yasnippets for the Mocha JS Testing Framework
 app-emacs/mocker 0.5.0: mocking framework for emacs
-app-emacs/modaled 0.3.1: Build your own minor modes for modal editing
+app-emacs/modaled 0.3.3: Build your own minor modes for modal editing
 app-emacs/modalka 0.1.5: Easily introduce native modal editing of your own design
 app-emacs/mode-icons 0.4.0: Show icons for modes
 app-emacs/mode-line-bell 0.2: Flash the mode line instead of ringing the bell
