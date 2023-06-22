@@ -2577,7 +2577,7 @@ app-emacs/symon 20160630: tiny graphical system monitor
 app-emacs/synosaurus 0.2.0: An extensible thesaurus supporting lookup and substitution.
 app-emacs/syntactic-sugar 0.9.4: Effect-free forms such as if/then/else
 app-emacs/syntax-subword 0.2: make operations on words more fine-grained
-app-emacs/syntree 1.1.0: Draw plain text constituency trees
+app-emacs/syntree 1.2.0: Draw plain text constituency trees
 app-emacs/syslog-mode 3.0: Major-mode for viewing log files & strace output
 app-emacs/system-packages 1.1.0: functions to manage system packages
 app-emacs/system-specific-settings 0.2: Apply settings only on certain systems
@@ -2655,7 +2655,7 @@ app-emacs/tray 0.1.1: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.19: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.20: Grammar bundle for tree-sitter
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 3.1: all-the-icons integration for treemacs
