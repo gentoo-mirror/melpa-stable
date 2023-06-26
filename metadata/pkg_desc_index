@@ -150,7 +150,7 @@ app-emacs/avy-embark-collect 0.21: Use avy to jump to Embark Collect entries
 app-emacs/avy-menu 0.1.1: Library providing avy-powered popup menu
 app-emacs/avy-migemo 0.3.2: avy with migemo
 app-emacs/avy-zap 0.1.4: Zap to char using `avy'
-app-emacs/babashka 1.0.3: Babashka Tasks Interface
+app-emacs/babashka 1.0.4: Babashka Tasks Interface
 app-emacs/babel 1.7: interface to web translation services such as Babelfish
 app-emacs/back-button 0.6.6: Visual navigation through mark rings
 app-emacs/backline 1.0.0: Preserve appearance of outline headings
