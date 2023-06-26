@@ -318,8 +318,8 @@ app-emacs/clocker 0.0.11: Note taker and clock-in enforcer
 app-emacs/clockodo 0.8.0: A small integration for the clockodo api
 app-emacs/clojure-essential-ref 0.1.1: Cider-doc to "Clojure, The Essential Reference"
 app-emacs/clojure-essential-ref-nov 0.1.1: Cider-doc to "Clojure, The Essential Reference" (EPUB)
-app-emacs/clojure-mode 5.16.0: Major mode for Clojure code
-app-emacs/clojure-mode-extra-font-locking 5.16.0: Extra font-locking for Clojure mode
+app-emacs/clojure-mode 5.16.1: Major mode for Clojure code
+app-emacs/clojure-mode-extra-font-locking 5.16.1: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 0.1.0: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 1.0.1: Yasnippets for clojure
 app-emacs/clojure-ts-mode 0.1.1: Major mode for Clojure code
@@ -1498,8 +1498,9 @@ app-emacs/justl 0.12: Major mode for driving just files
 app-emacs/jvm-mode 0.2.0: Monitor and manage your JVMs
 app-emacs/k8s-mode 0.2.0: Major mode for Kubernetes configuration file
 app-emacs/kaesar 0.9.5: AES algorithm encrypt/decrypt
-app-emacs/kaesar-file 0.9.5: AES encrypt/decrypt file
-app-emacs/kaesar-mode 0.9.5: AES encrypt/decrypt buffer
+app-emacs/kaesar-file 0.9.2: AES encrypt/decrypt file
+app-emacs/kaesar-mode 0.9.4: AES encrypt/decrypt buffer
+app-emacs/kaesar-pbkdf2 0.9.1: PBKDF2 extension for kaesar.el
 app-emacs/kakapo-mode 1.2: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
 app-emacs/kaocha-runner 0.3.0: A package for running Kaocha tests via CIDER.
 app-emacs/kaolin-themes 1.6.8: A set of eye pleasing themes
@@ -2268,6 +2269,7 @@ app-emacs/pyvenv 1.21: Python virtual environment interface
 app-emacs/qml-mode 0.4: Major mode for editing QT Declarative (QML) code.
 app-emacs/qrencode 1.2: QRCode encoder
 app-emacs/qt-pro-mode 1.0.1: Qt Pro/Pri major mode
+app-emacs/quakec-mode 0.1: Major mode for QuakeC
 app-emacs/quasi-monochrome-theme 1.2: Quasi Monochrome theme
 app-emacs/quelpa 1.0: Emacs Lisp packages built directly from source
 app-emacs/quelpa-leaf 0.0.1: quelpa handler for leaf
@@ -2620,7 +2622,7 @@ app-emacs/textx-mode 0.0.2: Major mode for editing TextX files
 app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
-app-emacs/thrift 2023.6.19.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2023.6.26.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.4: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
