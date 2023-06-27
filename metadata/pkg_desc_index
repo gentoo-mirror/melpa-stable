@@ -663,7 +663,7 @@ app-emacs/elisp-demos 2020.2.19: Elisp API Demos
 app-emacs/elisp-lint 0.4.0: Basic linting for Emacs Lisp
 app-emacs/elisp-refs 1.5: find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
-app-emacs/elixir-mode 2.4.1: Major mode for editing Elixir files
+app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
@@ -911,7 +911,7 @@ app-emacs/flycheck-grammarly 0.2.3: Grammarly support for Flycheck
 app-emacs/flycheck-guile 0.5: A Flycheck checker for GNU Guile
 app-emacs/flycheck-haskell 0.8: Flycheck: Automatic Haskell configuration
 app-emacs/flycheck-hdevtools 0.3: A flycheck checker for Haskell using hdevtools
-app-emacs/flycheck-hledger 0.3.0: Flycheck module to check hledger journals
+app-emacs/flycheck-hledger 1.0.0: Flycheck module to check hledger journals
 app-emacs/flycheck-indent 1.0.0: Indent-lint frontend for flycheck
 app-emacs/flycheck-indicator 1.1.1: A fancy mode line indicator for `flycheck-mode'
 app-emacs/flycheck-ini-pyinilint 0.3: Flycheck integration for PyINILint
@@ -1142,7 +1142,7 @@ app-emacs/goto-char-preview 0.1.0: Preview character when executing `goto-char` 
 app-emacs/goto-chg 1.7.5: Go to last change
 app-emacs/goto-last-change 1.2.1: Move point through buffer-undo-list positions
 app-emacs/goto-line-preview 0.1.1: Preview line when executing `goto-line` command
-app-emacs/govc 0.30.4: Interface to govc for managing VMware ESXi and vCenter
+app-emacs/govc 0.30.5: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
 app-emacs/gptel 0.3.6: A simple ChatGPT client
