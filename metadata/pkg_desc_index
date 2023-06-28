@@ -2391,6 +2391,7 @@ app-emacs/sbt-mode 2.0.0: Interactive support for sbt projects
 app-emacs/scad-mode 93.2: A major mode for editing OpenSCAD code
 app-emacs/scala-mode 1.1.0: Major mode for editing Scala
 app-emacs/schrute 0.2.2: Help you remember there is a better way to do something.
+app-emacs/scpaste 0.7.0: Paste to the web via scp.
 app-emacs/scratch 1.4: Mode-specific scratch buffers
 app-emacs/scratch-comment 1.0.0: Insert Elisp result as comment in scratch buffer
 app-emacs/scrollkeeper 0.1.1: Custom scrolling commands with visual guidelines
