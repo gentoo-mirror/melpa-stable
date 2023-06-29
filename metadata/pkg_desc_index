@@ -739,7 +739,7 @@ app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics.
 app-emacs/eri 2.6.3: Enhanced relative indentation (eri)
 app-emacs/erk 0.3.2: Elisp (GitHub) Repository Kit
-app-emacs/erlang 26.0.1: Erlang major mode
+app-emacs/erlang 26.0.2: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/ert-async 0.1.2: Async support for ERT
 app-emacs/ert-junit 0.4.1: JUnit XML reports from ert results
@@ -816,6 +816,7 @@ app-emacs/evil-text-object-python 1.0.1: Python specific evil text objects
 app-emacs/evil-textobj-anyblock 0.1: Textobject for the closest user-defined blocks.
 app-emacs/evil-textobj-line 0.1: Line text object for Evil
 app-emacs/evil-tutor 1.0: Vimtutor adapted to Evil and wrapped in a major-mode
+app-emacs/evil-tutor-sc 1.1: Simplified Chinese Evil-tutor
 app-emacs/evil-visual-mark-mode 0.0.3: Display evil marks on buffer
 app-emacs/evil-visual-replace 0.0.5: search/replace commands for evil visual state, inc. blocks
 app-emacs/evil-visualstar 0.2.0: Starts a * or # search from the visual selection
