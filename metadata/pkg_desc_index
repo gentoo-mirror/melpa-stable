@@ -238,7 +238,7 @@ app-emacs/butler 0.2.6: Emacs client for Jenkins
 app-emacs/buttercup 1.31: Behavior-Driven Emacs Lisp Testing
 app-emacs/buttercup-junit 1.1.1: JUnit reporting for Buttercup
 app-emacs/button-lock 1.0.2: Clickable text defined by regular expression
-app-emacs/buttons 0.0.2: Define and visualize hierarchies of keymaps
+app-emacs/buttons 0.0.3: Define and visualize hierarchies of keymaps
 app-emacs/ca65-mode 0.3.3: Major mode for ca65 assembly files
 app-emacs/cacoo 2.1.2: Minor mode for Cacoo : http://cacoo.com
 app-emacs/caddyfile-mode 0.2: Major mode for Caddy configuration files
