@@ -1080,7 +1080,7 @@ app-emacs/git-link 0.8.6: Get the GitHub/Bitbucket/GitLab URL for a buffer locat
 app-emacs/git-messenger 0.18: Pop up last commit information of current line
 app-emacs/git-modes 1.4.1: Major modes for editing Git configuration files
 app-emacs/git-ps1-mode 0.2.2: Global minor-mode to print __git_ps1
-app-emacs/git-timemachine 4.11: Walk through git revisions of a file
+app-emacs/git-timemachine 4.13: Walk through git revisions of a file
 app-emacs/git-walktree 0.1.0: Browse Git tree and blob objects
 app-emacs/git-wip-timemachine 1.0: Walk through git-wip revisions of a file
 app-emacs/gitconfig 1.0.0: Emacs lisp interface to work with git-config variables
