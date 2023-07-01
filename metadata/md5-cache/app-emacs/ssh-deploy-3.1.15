@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/evil app-emacs/evil-tutor
-DESCRIPTION=Simplified Chinese Evil-tutor
+DESCRIPTION=Deployment via Tramp, global or per directory.
 EAPI=8
-HOMEPAGE=https://github.com/clsty/evil-tutor-sc
+HOMEPAGE=https://github.com/cjohansson/emacs-ssh-deploy
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/evil app-emacs/evil-tutor >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/evil-tutor-sc-1.1.tar
+SRC_URI=https://stable.melpa.org/packages/ssh-deploy-3.1.15.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	01bc6dc778b74a9deebe4e419a3b790e	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=c5c55aa25afd30f5aab5562b28b00515
+_md5_=2296e85c09d4511910ae98397ea1ed76
