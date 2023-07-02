@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>An interface for MPV</longdescription>
+	<longdescription>A multimedia player/manager, YouTube interface</longdescription>
 </pkgmetadata>
