@@ -711,7 +711,7 @@ app-emacs/emoji-cheat-sheet-plus 1.2.2: emoji-cheat-sheet for emacs
 app-emacs/emoji-fontset 0.1.1: Set font face for Emoji.
 app-emacs/emoji-github 0.2.3: Display list of GitHub's emoji. (cheat sheet)
 app-emacs/emojify 1.2: Display emojis in Emacs
-app-emacs/empv 2.1.0: An interface for MPV
+app-emacs/empv 4.0.0: A multimedia player/manager, YouTube interface
 app-emacs/emr 0.4: Emacs refactoring system.
 app-emacs/enclose 0.0.2: Enclose cursor within punctuation pairs
 app-emacs/encrypt-region 1.0: Encrypts and decrypts regions
