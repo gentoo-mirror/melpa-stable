@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Simplified Chinese Evil-tutor"
+DESCRIPTION="Simplified Chinese tutor for Evil"
 
 HOMEPAGE="https://github.com/clsty/evil-tutor-sc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
