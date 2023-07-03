@@ -110,6 +110,7 @@ app-emacs/arxiv-mode 0.3.1: Read and search for articles on arXiv.org
 app-emacs/asilea 0.2.1: Find best compiler options using simulated annealing
 app-emacs/asm-blox 0.4.1: Programming game involving WAT
 app-emacs/assess 0.6: Test support functions
+app-emacs/astro-ts-mode 2.0.0: Major mode for editing Astro templates
 app-emacs/async 1.9.7: Asynchronous processing in Emacs
 app-emacs/async-await 1.1: Async/Await
 app-emacs/atcoder-tools 0.4.0: An atcoder-tools client
@@ -962,6 +963,7 @@ app-emacs/flymake-gjshint 0.0.6: A flymake handler for javascript using both jsh
 app-emacs/flymake-grammarly 0.2.1: Flymake support for Grammarly
 app-emacs/flymake-haml 0.8: A flymake handler for haml files
 app-emacs/flymake-haskell-multi 0.3: Syntax-check haskell-mode using both ghc and hlint
+app-emacs/flymake-hledger 0.1.0: Flymake module to check hledger journals
 app-emacs/flymake-hlint 0.2: A flymake handler for haskell-mode files using hlint
 app-emacs/flymake-jslint 0.23: Flymake support for javascript using jslint
 app-emacs/flymake-json 0.1: A flymake handler for json using jsonlint
@@ -2021,6 +2023,7 @@ app-emacs/org-tree-slide 2.8.4: A presentation tool for org-mode
 app-emacs/org-tree-slide-pauses 0.1.0: Bring the \pause Beamer to org-tree-slide!
 app-emacs/org-trello 0.8.2: Minor mode to synchronize org-mode buffer and trello board
 app-emacs/org-unique-id 0.4.1: Create unique IDs for org headers
+app-emacs/org-upcoming-modeline 0.1.3: Show next org event in mode line
 app-emacs/org-vcard 0.2.0: org-mode support for vCard export and import.
 app-emacs/org-visibility 1.1.12: Persistent org tree visibility
 app-emacs/org-web-tools 1.1.1: Display and capture web content with Org-mode
@@ -2423,6 +2426,7 @@ app-emacs/sexy-monochrome-theme 3.1: A sexy dark Emacs >= 24 theme for your sexy
 app-emacs/shackle 1.0.4: Enforce rules for popups
 app-emacs/shakespeare-mode 0.0.2: A major mode for editing Shakespearean templates.
 app-emacs/shampoo 0.0.1: Shampoo, a remote Smalltalk developemnt
+app-emacs/shell-command-x 0.1.3: Extensions for shell commands
 app-emacs/shell-pop 0.64: helps you to use shell easily on Emacs. Only one key action to work.
 app-emacs/shell-split-string 0.1: Split strings using shell-like syntax
 app-emacs/shell-switcher 1.0.1: Provide fast switching between shell buffers.
