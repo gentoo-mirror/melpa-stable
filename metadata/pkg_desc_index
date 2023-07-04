@@ -818,7 +818,7 @@ app-emacs/evil-text-object-python 1.0.1: Python specific evil text objects
 app-emacs/evil-textobj-anyblock 0.1: Textobject for the closest user-defined blocks.
 app-emacs/evil-textobj-line 0.1: Line text object for Evil
 app-emacs/evil-tutor 1.0: Vimtutor adapted to Evil and wrapped in a major-mode
-app-emacs/evil-tutor-sc 1.3: Simplified Chinese tutor for Evil
+app-emacs/evil-tutor-sc 2.0: Simplified Chinese tutor for Evil
 app-emacs/evil-visual-mark-mode 0.0.3: Display evil marks on buffer
 app-emacs/evil-visual-replace 0.0.5: search/replace commands for evil visual state, inc. blocks
 app-emacs/evil-visualstar 0.2.0: Starts a * or # search from the visual selection
@@ -1894,7 +1894,7 @@ app-emacs/ob-translate 0.1.2: Translation of text blocks in org-mode.
 app-emacs/ob-uart 0.1.0: org-babel support for UART communication
 app-emacs/obfusurl 2.1: Obfuscate URLs so they aren't spoilers
 app-emacs/objed 0.8.1: Navigate and edit text objects.
-app-emacs/obsidian 1.2.0: Obsidian Notes interface
+app-emacs/obsidian 1.2.1: Obsidian Notes interface
 app-emacs/ocamlformat 0.25.1: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
