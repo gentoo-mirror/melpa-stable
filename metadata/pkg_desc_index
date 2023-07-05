@@ -315,7 +315,7 @@ app-emacs/clingo-mode 0.4.0: A major mode for editing Answer Set Programs
 app-emacs/clipetty 0.1: Send every kill from a TTY frame to the system clipboard
 app-emacs/cliphist 0.6.3: paste from clipboard managers
 app-emacs/clips-mode 0.7: Major mode for editing CLIPS code and REPL
-app-emacs/clj-refactor 3.6.0: A collection of commands for refactoring Clojure code
+app-emacs/clj-refactor 3.7.0: A collection of commands for refactoring Clojure code
 app-emacs/cljr-helm 0.11: Wraps clojure refactor commands with helm
 app-emacs/clocker 0.0.11: Note taker and clock-in enforcer
 app-emacs/clockodo 0.8.0: A small integration for the clockodo api
@@ -421,6 +421,7 @@ app-emacs/copy-as-format 0.0.8: Copy buffer locations as GitHub/Slack/JIRA/HipCh
 app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
 app-emacs/copyit-pandoc 0.1.0: Copy it, yank anything!
+app-emacs/corfu-candidate-overlay 1.3: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 6.1: prescient.el + Corfu
 app-emacs/corral 0.3: Quickly surround text with delimiters
 app-emacs/cort 7.1.0: Simplify extended unit test framework
@@ -1311,6 +1312,7 @@ app-emacs/helm-zhihu-daily 0.3: Helm interface for 知乎日报 (http://daily.zh
 app-emacs/help-find-org-mode 1.0.0: Advise help to find org source over tangled code
 app-emacs/helpful 0.19: A better *help* buffer
 app-emacs/hercules 0.3.1: An auto-magical, which-key-based hydra banisher.
+app-emacs/heroku 1.0.0: Like Magit but for Heroku CLI
 app-emacs/hfst-mode 0.4.0: major mode for editing HFST files
 app-emacs/hi2 1.0: indentation module for Haskell Mode
 app-emacs/hiccup-cli 0.1.0: Convert HTML to Hiccup syntax
