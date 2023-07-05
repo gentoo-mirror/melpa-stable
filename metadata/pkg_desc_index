@@ -690,7 +690,7 @@ app-emacs/emacs-aio 1.0: async/await for Emacs Lisp
 app-emacs/emacs-ansilove 2.0.0: Display buffers as PNG images using ansilove
 app-emacs/emacs-crystal-mode 0.1.0: Major mode for editing Crystal files
 app-emacs/emacs-el-fetch 3.3.0: Show system information in Neofetch-like style (eg CPU, RAM)
-app-emacs/emacs-websearch 2.1.0: Query search engines
+app-emacs/emacs-websearch 2.1.1: Query search engines
 app-emacs/emacsc 1.4.20220420: helper for emacsc(1)
 app-emacs/emacsql 3.1.1: High-level SQL database front-end
 app-emacs/emacsql-mysql 3.1.1: EmacSQL back-end for MySQL
