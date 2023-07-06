@@ -585,7 +585,7 @@ app-emacs/draft-mode 0.1.1: Rough drafting for Emacs.
 app-emacs/drag-stuff 0.3.0: Drag stuff (lines, words, region, etc...) around
 app-emacs/drupal-mode 0.7.3: Advanced minor mode for Drupal development
 app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
-app-emacs/dtrt-indent 1.11: Adapt to foreign indentation offsets
+app-emacs/dtrt-indent 1.12: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
 app-emacs/dune 3.9.0: Integration with the dune build system
@@ -1360,7 +1360,7 @@ app-emacs/hydra 0.15.0: Make bindings that stick around.
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
 app-emacs/ialign 0.4.2: visual align-regexp
-app-emacs/ibrowse 0.1.8: Interact with your browser
+app-emacs/ibrowse 0.1.9: Interact with your browser
 app-emacs/ibuffer-project 2.1: Group ibuffer's list by project or any function
 app-emacs/ibuffer-projectile 0.3: Group ibuffer's list by projectile root
 app-emacs/ibuffer-tramp 1.0.0: Group ibuffer's list by TRAMP connection
