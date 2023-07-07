@@ -2720,7 +2720,7 @@ app-emacs/use-package-ensure-system-package 2.4.4: auto install system packages
 app-emacs/use-package-hydra 0.2: Adds :hydra keyword to use-package macro
 app-emacs/use-proxy 1.2.1: Enable/Disable proxies respecting your HTTP/HTTPS env
 app-emacs/use-ttf 0.1.3: Keep font consistency across different OSs
-app-emacs/utop 2.13.0: Universal toplevel for OCaml
+app-emacs/utop 2.13.1: Universal toplevel for OCaml
 app-emacs/uuidgen 1.0: Provides various UUID generating functions
 app-emacs/uxntal-mode 0.2: Major mode for Uxntal assembly
 app-emacs/v2ex-mode 0.2: Major mode for visit http://v2ex.com/ site.
