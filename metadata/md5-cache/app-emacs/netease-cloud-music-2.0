@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/spice-mode app-emacs/org-mode
-DESCRIPTION=org-babel functions for spice evaluation
+DEPEND=app-emacs/request
+DESCRIPTION=Netease Cloud Music client
 EAPI=8
-HOMEPAGE=http://tiagoweber.github.io
+HOMEPAGE=https://github.com/SpringHan/netease-cloud-music.git
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/spice-mode app-emacs/org-mode >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/request >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/ob-spice-0.4.2.el
+SRC_URI=https://stable.melpa.org/packages/netease-cloud-music-2.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dde4f515dde15603a26a3755438e9c78	elisp	d5d9361b9698f474179a2ac3f8bf46e8	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=3f94d0425be4213f1981eaf955d7e34d
+_md5_=dd2f31e443bc9641bc90248828cb7969
