@@ -273,7 +273,6 @@ app-emacs/cerbere 0.1.0: Unit testing in Emacs for several programming languages
 app-emacs/cern-ldap 0.0.4: Library to interact with CERN's LDAP servers
 app-emacs/cern-root-mode 0.1.4: Major-mode for running C++ code with ROOT
 app-emacs/ceylon-mode 0.2: Major mode for editing Ceylon source code
-app-emacs/cfengine-code-style 3.20.0: C code style for CFEngine project.
 app-emacs/cfn-mode 1.0.3: AWS cloudformation mode
 app-emacs/cframe 0.4: Customize a frame and fast switch size and positions
 app-emacs/cfrs 1.6.0: Child-frame based read-string
@@ -465,7 +464,6 @@ app-emacs/cwl-mode 0.2.6: A major mode for editing CWL
 app-emacs/cyanometric-theme 1.0.2: A Theme with overwhelming bias towards cyan
 app-emacs/cyberpunk-theme 1.22: Cyberpunk Color Theme
 app-emacs/cyphejor 0.1.2: Shorten major mode names using user-defined rules
-app-emacs/cython-mode 0.29.32: Major mode for editing Cython files
 app-emacs/d-mode 2.0.12: D Programming Language major mode for (X)Emacs
 app-emacs/d2-mode 0.1.2: Major mode for working with d2 graphs
 app-emacs/dad-joke 1.4: Get/display dad jokes
@@ -864,7 +862,6 @@ app-emacs/feather 0.0.1:
 app-emacs/feature-mode 0.4: Major mode for editing Gherkin (i.e. Cucumber) user stories
 app-emacs/feed-discovery 1.0.0: Discover feed url by RSS/Atom autodiscovery
 app-emacs/feline 1.1: A modeline with very little
-app-emacs/fennel-mode 0.4.1: A major-mode for editing Fennel code
 app-emacs/ffmpeg-player 0.2.1: Play video using ffmpeg
 app-emacs/file-info 0.6: Show pretty information about current file
 app-emacs/fill-column-indicator 1.90: Graphically indicate the fill column
@@ -1051,7 +1048,7 @@ app-emacs/geiser-guile 0.28.1: Guile and Geiser talk to each other
 app-emacs/geiser-kawa 0.14: Kawa scheme support for Geiser
 app-emacs/geiser-mit 0.15: MIT/GNU Scheme's implementation of the geiser protocols
 app-emacs/geiser-racket 1.0: Support for Racket in Geiser
-app-emacs/geiser-stklos 1.7: STklos Scheme implementation of the geiser protocols
+app-emacs/geiser-stklos 1.8: STklos Scheme implementation of the geiser protocols
 app-emacs/genrnc 0.1.0: generate RELAX NG Compact Schema from RELAX NG Schema, XML Schema and DTD.
 app-emacs/geolocation 0.2.0: Get your location on Earth
 app-emacs/german-holidays 0.2.0: German holidays for Emacs calendar
@@ -1183,7 +1180,6 @@ app-emacs/gsnip 0.1.0: A gitlab snippet client
 app-emacs/gtk-variant 1.0.4: Set the GTK theme variant (titlebar color)
 app-emacs/guide-key 1.2.5: Guide the following key bindings automatically and dynamically
 app-emacs/guide-key-tip 0.0.1: Show guide-key.el hints using pos-tip.el
-app-emacs/guix 0.5.2: Interface for GNU Guix
 app-emacs/guru-mode 1.0: Become an Emacs guru
 app-emacs/gvariant 1.0.0: GVariant (GLib) helpers
 app-emacs/gxref 0.1: xref backend using GNU Global.
@@ -1535,7 +1531,6 @@ app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
 app-emacs/killer 1.0.0: kill and delete text
 app-emacs/kivy-mode 2.2.1: Emacs major mode for editing Kivy files
-app-emacs/kiwix 1.0.2: Searching offline Wikipedia through Kiwix.
 app-emacs/klondike 1.0.0: Klondike
 app-emacs/know-your-http-well 0.5.0: Look up the meaning of HTTP headers, methods, relations, status codes
 app-emacs/ksp-cfg-mode 0.6: major mode for editing KSP CFG files
@@ -1583,7 +1578,7 @@ app-emacs/liblouis 0.2: Mode for editing liblouis braille translation tables
 app-emacs/libmpdel 2.0.0: Communication with an MPD server
 app-emacs/lice 0.3: License And Header Template
 app-emacs/license-templates 0.1.3: Create LICENSE using GitHub API
-app-emacs/ligo-mode 1.2.3: A major mode for editing LIGO source code
+app-emacs/ligo-mode 0.69.0: A major mode for editing LIGO source code
 app-emacs/line-reminder 0.5.1: Line annotation for changed and saved lines
 app-emacs/line-up-words 1.0.0: Align words in an intelligent way
 app-emacs/lingr 0.2: Lingr Client for GNU Emacs
@@ -1674,7 +1669,6 @@ app-emacs/magit-svn 2.2.3: Git-Svn extension for Magit
 app-emacs/magit-tbdiff 1.1.1: Magit extension for range diffs
 app-emacs/magit-todos 1.6: Show source file TODOs in Magit
 app-emacs/magit-topgit 2.1.2: TopGit extension for Magit
-app-emacs/magit-vcsh 0.4.1: Magit vcsh integration
 app-emacs/magithub 0.1.7: Magit interfaces for GitHub
 app-emacs/major-mode-hydra 0.2.2: Major mode keybindings managed by Hydra
 app-emacs/make-color 0.4: Alternative to picking color - update fg/bg color by pressing r/g/b/... keys
@@ -1827,7 +1821,7 @@ app-emacs/neon-mode 1.3.0: Simple major mode for editing neon files
 app-emacs/neotree 0.5.2: A tree plugin like NerdTree for Vim
 app-emacs/nerd-icons-ibuffer 1.0.0: Display nerd icons in ibuffer
 app-emacs/nerd-icons-ivy-rich 1.0.0: Excellent experience with nerd icons for ivy/counsel
-app-emacs/netease-cloud-music 2.1: Netease Cloud Music client
+app-emacs/netease-cloud-music 2.0: Netease Cloud Music client
 app-emacs/netease-music 1.0: listen netease music
 app-emacs/neuron-mode 1.0: Major mode for editing zettelkasten notes using neuron
 app-emacs/ng2-mode 0.2.2: Major modes for editing Angular 2
@@ -1889,7 +1883,6 @@ app-emacs/ob-raku 1.0.2: Provides raku support for org-babel
 app-emacs/ob-sagemath 0.4: org-babel functions for SageMath evaluation
 app-emacs/ob-sml 0.2: org-babel functions for template evaluation
 app-emacs/ob-solidity 0.0.1: org-babel functions for solidity evaluation
-app-emacs/ob-spice 0.4.2: org-babel functions for spice evaluation
 app-emacs/ob-svgbob 0.0.1: Babel Functions for svgbob
 app-emacs/ob-tmux 0.1.5: Babel Support for Interactive Terminal
 app-emacs/ob-translate 0.1.2: Translation of text blocks in org-mode.
@@ -1978,7 +1971,6 @@ app-emacs/org-modern 0.10: Modern looks for Org
 app-emacs/org-movies 0.1: Manage watchlist with Org mode
 app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persistent history
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
-app-emacs/org-noter 1.4.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
 app-emacs/org-page 0.41: a static site generator based on org mode
 app-emacs/org-pomodoro 2.1.0: Pomodoro implementation for org-mode.
@@ -2031,7 +2023,7 @@ app-emacs/org-visibility 1.1.12: Persistent org tree visibility
 app-emacs/org-web-tools 1.1.1: Display and capture web content with Org-mode
 app-emacs/org-wild-notifier 0.4.1: Customizable org-agenda notifications
 app-emacs/org-working-set 2.6.4: Manage and visit a small set of org-nodes.
-app-emacs/org-zettelkasten 0.8.0: A Zettelkasten mode leveraging Org
+app-emacs/org-zettelkasten 0.7.0: A Zettelkasten mode leveraging Org
 app-emacs/org2blog 1.1.16: Blog from Org mode to WordPress
 app-emacs/org2jekyll 0.2.7: Minor mode to publish org-mode post to jekyll without specific yaml
 app-emacs/org2web 0.9.1: A static site generator based on org mode.
@@ -2235,7 +2227,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 23.3: major mode for editing protocol buffers.
+app-emacs/protobuf-mode 23.4: major mode for editing protocol buffers.
 app-emacs/protobuf-ts-mode 1.0.2: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions.
 app-emacs/psalm 0.6.0: Interface to Psalm
@@ -2422,7 +2414,6 @@ app-emacs/separedit 0.3.37: Edit comment/string/docstring/code block in separate
 app-emacs/servant 0.3.0: ELPA server written in Emacs Lisp
 app-emacs/services 1.7: Services database access functions.
 app-emacs/sesman 0.3.4: Generic Session Manager
-app-emacs/session 2.4.2: use variables, registers and buffer places across sessions
 app-emacs/sexp-move 0.2.6: Improved S-Expression Movement
 app-emacs/sexy-monochrome-theme 3.1: A sexy dark Emacs >= 24 theme for your sexy code
 app-emacs/shackle 1.0.4: Enforce rules for popups
@@ -2555,8 +2546,6 @@ app-emacs/streak 3.0.0: Track a daily streak in your Mode Line
 app-emacs/string-inflection 1.0.16: underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names
 app-emacs/string-utils 0.3.2: String-manipulation utilities
 app-emacs/stripe-buffer 0.2.5: Use a different background for even and odd lines
-app-emacs/stripes 0.3.1.1: highlight alternating lines differently
-app-emacs/stumpwm-mode 0.9.8: special lisp mode for evaluating code into running stumpwm
 app-emacs/stylus-mode 1.0.0: Major mode for editing .jade files
 app-emacs/subatomic-theme 1.8.1: Low contrast bluish color theme
 app-emacs/subemacs 1.0: Evaluating expressions in a fresh Emacs subprocess
@@ -2600,7 +2589,6 @@ app-emacs/systemd 1.6: Major mode for editing systemd units
 app-emacs/ta 1.5: A tool to deal with Chinese homophonic characters
 app-emacs/tabbar 2.2: Display a tab bar in the header line
 app-emacs/tabbar-ruler 0.45: Pretty tabbar, autohide, use both tabbar/ruler
-app-emacs/tablist 1.0: Extended tabulated-list-mode
 app-emacs/tagedit 1.4.0: Some paredit-like features for html-mode
 app-emacs/talonscript-mode 1.0.0: Major mode for Talon Voice's .talon files
 app-emacs/tao-theme 1.1.1: This package provides two parametrized uncoloured color themes for Emacs: tao-yin and tao-yang.
@@ -2741,7 +2729,6 @@ app-emacs/vbasense 0.1.1: provide a environment like Visual Basic Editor.
 app-emacs/vc-hgcmd 1.14.1: VC mercurial backend that uses hg command server
 app-emacs/vc-msg 1.1.1: Show commit information of current line
 app-emacs/vcomp 1.0.0: compare version strings
-app-emacs/vcsh 0.4.4: vcsh integration
 app-emacs/vdf-mode 1.1: Major mode for editing Valve VDF files.
 app-emacs/vdiff 0.2.2: A diff tool similar to vimdiff
 app-emacs/vdiff-magit 0.3.2: magit integration for vdiff
