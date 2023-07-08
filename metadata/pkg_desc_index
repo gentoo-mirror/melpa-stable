@@ -773,7 +773,7 @@ app-emacs/ess-view-data 1.4: View Data
 app-emacs/esup 0.7.1: the Emacs StartUp Profiler (ESUP)
 app-emacs/esxml 0.3.7: Library for working with xml via esxml and sxml
 app-emacs/etc-sudoers-mode 1.1.0: Edit Sudo security policies
-app-emacs/etd 2.1.0: Examples to Tests and Docs
+app-emacs/etd 2.1.1: Examples to Tests and Docs
 app-emacs/eterm-256color 0.3.13: Customizable 256 colors for term.
 app-emacs/ethan-wspace 0.7.1: whitespace customizations for emacs
 app-emacs/eval-in-repl 0.9.7: Consistent ESS-like eval interface for various REPLs
@@ -2564,7 +2564,7 @@ app-emacs/sway 0.6.1: Communication with the Sway window manager
 app-emacs/sway-lang-mode 0.1.0: Major mode for sway
 app-emacs/sweetgreen 0.5: Order Salads from sweetgreen.com
 app-emacs/swift-helpful 0.3: Show documentation for Swift programs.
-app-emacs/swift-mode 8.6.0: Major-mode for Apple's Swift programming language
+app-emacs/swift-mode 9.0.0: Major-mode for Apple's Swift programming language
 app-emacs/swift3-mode 2.1.1: Major-mode for Apple's Swift programming language.
 app-emacs/swiper 0.14.0: Isearch with an overview. Oh, man!
 app-emacs/swiper-helm 0.2.0: Helm version of Swiper.
