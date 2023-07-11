@@ -773,7 +773,7 @@ app-emacs/ess-view-data 1.4: View Data
 app-emacs/esup 0.7.1: the Emacs StartUp Profiler (ESUP)
 app-emacs/esxml 0.3.7: Library for working with xml via esxml and sxml
 app-emacs/etc-sudoers-mode 1.1.0: Edit Sudo security policies
-app-emacs/etd 2.1.1: Examples to Tests and Docs
+app-emacs/etd 2.1.2: Examples to Tests and Docs
 app-emacs/eterm-256color 0.3.13: Customizable 256 colors for term.
 app-emacs/ethan-wspace 0.7.1: whitespace customizations for emacs
 app-emacs/eval-in-repl 0.9.7: Consistent ESS-like eval interface for various REPLs
@@ -1710,7 +1710,7 @@ app-emacs/meghanada 1.3.2: A better java development mode
 app-emacs/melpa-upstream-visit 1.0.0: A set of kludges to visit a melpa-hosted package's homepage
 app-emacs/memoize 1.1: Memoization functions
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
-app-emacs/meow 1.4.2: Yet Another modal editing
+app-emacs/meow 1.4.3: Yet Another modal editing
 app-emacs/merlin 4.1: Mode for Merlin, an assistant for OCaml.
 app-emacs/merlin-ac 4.1: Merlin and auto-complete integration.
 app-emacs/merlin-company 4.1: Merlin and company mode integration.
