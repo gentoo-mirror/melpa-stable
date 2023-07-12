@@ -955,7 +955,7 @@ app-emacs/flymake-css 0.3: Flymake support for css using csslint
 app-emacs/flymake-cursor 1.0.2: Show flymake messages in the minibuffer after delay
 app-emacs/flymake-diagnostic-at-point 1.2.0: Display flymake diagnostics at point
 app-emacs/flymake-easy 0.10: Helpers for easily building flymake checkers
-app-emacs/flymake-elisp-config 0.4.0: Setup load-path for flymake on Emacs Lisp mode
+app-emacs/flymake-elisp-config 1.0.0: Setup load-path for flymake on Emacs Lisp mode
 app-emacs/flymake-eslint 1.5.0: A Flymake backend for Javascript using eslint
 app-emacs/flymake-gjshint 0.0.6: A flymake handler for javascript using both jshint and gjslint
 app-emacs/flymake-grammarly 0.2.1: Flymake support for Grammarly
@@ -1493,7 +1493,7 @@ app-emacs/jsonnet-mode 0.1.3: Major mode for editing jsonnet files
 app-emacs/julia-mode 0.4: Major mode for editing Julia source code
 app-emacs/julia-repl 1.3.0: A minor mode for a Julia REPL
 app-emacs/julia-snail 1.2.3: Julia Snail
-app-emacs/julia-ts-mode 0.2.3: Major mode for Julia source code using tree-sitter
+app-emacs/julia-ts-mode 0.2.5: Major mode for Julia source code using tree-sitter
 app-emacs/julia-vterm 0.20: A mode for Julia REPL using vterm
 app-emacs/jump 2.6: build functions which contextually jump between files
 app-emacs/jump-to-line 0.2.0: Jump to line number at point.
@@ -1907,7 +1907,7 @@ app-emacs/omni-scratch 0.6.0: Easy and mode-specific draft buffers
 app-emacs/omni-tags 0.1.2: Highlight and Actions for 'Tags'
 app-emacs/omnisharp 4.2: Omnicompletion (intellisense) and more for C#
 app-emacs/opam 0.1: OPAM tools
-app-emacs/opam-switch-mode 1.3: Select OCaml opam switches via a menu
+app-emacs/opam-switch-mode 1.5: Select OCaml opam switches via a menu
 app-emacs/opencl-mode 1.0: Syntax coloring for opencl kernels
 app-emacs/opener 0.2.2: opening urls as buffers
 app-emacs/openfoam 0.13: OpenFOAM files and directories
