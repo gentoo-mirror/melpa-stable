@@ -2492,7 +2492,7 @@ app-emacs/snapshot-timemachine-rsnapshot 0.4: rsnapshot backend for snapshot-tim
 app-emacs/snazzy-theme 1.0: An elegant syntax theme with bright colors
 app-emacs/snitch 0.3.0: An Emacs firewall
 app-emacs/snoopy 0.2.0: minor mode for number row unshifted character insertion
-app-emacs/soccer 1.6.1: Fixtures, results, table etc for soccer
+app-emacs/soccer 1.6.2: Fixtures, results, table etc for soccer
 app-emacs/socyl 0.3.0: Frontend for several search tools
 app-emacs/solaire-mode 2.0.4: make certain buffers grossly incandescent
 app-emacs/solarized-theme 2.0.1: The Solarized color theme
