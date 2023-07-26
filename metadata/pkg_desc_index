@@ -332,7 +332,7 @@ app-emacs/clues-theme 1.0.1: an Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.6: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.27.0: major-mode for editing CMake sources
+app-emacs/cmake-mode 3.27.1: major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -585,10 +585,10 @@ app-emacs/draft-mode 0.1.1: Rough drafting for Emacs.
 app-emacs/drag-stuff 0.3.0: Drag stuff (lines, words, region, etc...) around
 app-emacs/drupal-mode 0.7.3: Advanced minor mode for Drupal development
 app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
-app-emacs/dtrt-indent 1.12: Adapt to foreign indentation offsets
+app-emacs/dtrt-indent 1.13: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
-app-emacs/dune 3.9.1: Integration with the dune build system
+app-emacs/dune 3.9.2: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
 app-emacs/dylan 0.1.0: Dylan editing modes
@@ -2546,7 +2546,7 @@ app-emacs/standard-dirs 2.0.0: Platform-specific paths for config, cache, and ot
 app-emacs/starhugger 0.3.1: Hugging Face/AI-powered text & code completion client
 app-emacs/stash 0.4.1: lightweight persistent caching
 app-emacs/status 0.3: This package adds support for status icons to Emacs.
-app-emacs/stgit 2.3.0: major mode for StGit interaction
+app-emacs/stgit 2.3.1: major mode for StGit interaction
 app-emacs/stock-tracker 0.1.6: Track stock price
 app-emacs/streak 3.0.0: Track a daily streak in your Mode Line
 app-emacs/string-inflection 1.0.16: underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names
