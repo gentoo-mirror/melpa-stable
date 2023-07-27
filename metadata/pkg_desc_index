@@ -478,7 +478,7 @@ app-emacs/dart-mode 1.0.7: Major mode for editing Dart files
 app-emacs/dart-server 0.1.0: Minor mode for editing Dart files
 app-emacs/dash 2.19.1: A modern list library for Emacs
 app-emacs/dash-functional 2.19.1: Collection of useful combinators for Emacs Lisp
-app-emacs/dashboard 1.7.0: A startup screen extracted from Spacemacs
+app-emacs/dashboard 1.8.0: A startup screen extracted from Spacemacs
 app-emacs/dashboard-ls 0.3.0: Display files/directories in current directory on Dashboard
 app-emacs/dashboard-project-status 0.0.1: Display a git project status in a dashboard widget.
 app-emacs/date-at-point 0.1: Add `date' to `thing-at-point' function
@@ -1654,7 +1654,7 @@ app-emacs/mac-pseudo-daemon 2.2: Daemon mode that plays nice with Mac OS.
 app-emacs/macro-math 1.0: in-buffer mathematical operations
 app-emacs/macrostep 0.9.2: Interactive macro expander
 app-emacs/magic-filetype 0.3.0: Enhance filetype major mode
-app-emacs/magik-mode 0.2.0: mode for editing Magik + some utils.
+app-emacs/magik-mode 0.2.1: mode for editing Magik + some utils.
 app-emacs/magit 3.3.0: A Git porcelain inside Emacs.
 app-emacs/magit-annex 1.8.1: Control git-annex from Magit
 app-emacs/magit-filenotify 0.1: Refresh status buffer when git tree changes
@@ -1910,7 +1910,7 @@ app-emacs/omni-scratch 0.6.0: Easy and mode-specific draft buffers
 app-emacs/omni-tags 0.1.2: Highlight and Actions for 'Tags'
 app-emacs/omnisharp 4.2: Omnicompletion (intellisense) and more for C#
 app-emacs/opam 0.1: OPAM tools
-app-emacs/opam-switch-mode 1.6: Select OCaml opam switches via a menu
+app-emacs/opam-switch-mode 1.7: Select OCaml opam switches via a menu
 app-emacs/opencl-mode 1.0: Syntax coloring for opencl kernels
 app-emacs/opener 0.2.2: opening urls as buffers
 app-emacs/openfoam 0.13: OpenFOAM files and directories
