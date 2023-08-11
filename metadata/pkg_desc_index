@@ -1314,7 +1314,7 @@ app-emacs/helm-zhihu-daily 0.3: Helm interface for 知乎日报 (http://daily.zh
 app-emacs/help-find-org-mode 1.0.0: Advise help to find org source over tangled code
 app-emacs/helpful 0.21: A better *help* buffer
 app-emacs/hercules 0.3.1: An auto-magical, which-key-based hydra banisher.
-app-emacs/heroku 1.0.0: Like Magit but for Heroku CLI
+app-emacs/heroku 1.0.1: Like Magit but for Heroku CLI
 app-emacs/hfst-mode 0.4.0: major mode for editing HFST files
 app-emacs/hi2 1.0: indentation module for Haskell Mode
 app-emacs/hiccup-cli 0.1.0: Convert HTML to Hiccup syntax
@@ -2077,7 +2077,7 @@ app-emacs/ox-pandoc 2.0: An Org-mode exporter using pandoc
 app-emacs/ox-report 0.4: Export your org file to minutes report PDF file
 app-emacs/ox-review 0.3.0: Re:VIEW Back-End for Org Export Engine
 app-emacs/ox-timeline 0.1.0: HTML Timeline Back-End for Org Export Engine
-app-emacs/ox-tufte 2.0.3: Tufte HTML org-mode export backend
+app-emacs/ox-tufte 2.0.4: Tufte HTML org-mode export backend
 app-emacs/ox-twbs 1.1.4: Bootstrap compatible HTML Back-End for Org
 app-emacs/ox-wk 0.3.0: Wiki Back-End for Org Export Engine
 app-emacs/ox-yaow 1.0: Generate html pages from org files
