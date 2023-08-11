@@ -332,7 +332,7 @@ app-emacs/clues-theme 1.0.1: an Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.6: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.27.1: major-mode for editing CMake sources
+app-emacs/cmake-mode 3.27.2: major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -961,6 +961,7 @@ app-emacs/flymake-diagnostic-at-point 1.2.0: Display flymake diagnostics at poin
 app-emacs/flymake-easy 0.10: Helpers for easily building flymake checkers
 app-emacs/flymake-elisp-config 1.0.0: Setup load-path for flymake on Emacs Lisp mode
 app-emacs/flymake-eslint 1.5.0: A Flymake backend for Javascript using eslint
+app-emacs/flymake-flycheck 0.1: Use flycheck checkers as flymake backends
 app-emacs/flymake-gjshint 0.0.6: A flymake handler for javascript using both jshint and gjslint
 app-emacs/flymake-grammarly 0.2.1: Flymake support for Grammarly
 app-emacs/flymake-haml 0.8: A flymake handler for haml files
@@ -1362,7 +1363,7 @@ app-emacs/hydra 0.15.0: Make bindings that stick around.
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
 app-emacs/ialign 0.4.2: visual align-regexp
-app-emacs/ibrowse 0.2.0: Interact with your browser
+app-emacs/ibrowse 0.2.2: Interact with your browser
 app-emacs/ibuffer-project 2.1: Group ibuffer's list by project or any function
 app-emacs/ibuffer-projectile 0.3: Group ibuffer's list by projectile root
 app-emacs/ibuffer-tramp 1.0.0: Group ibuffer's list by TRAMP connection
@@ -1501,7 +1502,7 @@ app-emacs/julia-mode 0.4: Major mode for editing Julia source code
 app-emacs/julia-repl 1.3.0: A minor mode for a Julia REPL
 app-emacs/julia-snail 1.2.3: Julia Snail
 app-emacs/julia-ts-mode 0.2.5: Major mode for Julia source code using tree-sitter
-app-emacs/julia-vterm 0.20: A mode for Julia REPL using vterm
+app-emacs/julia-vterm 0.22: A mode for Julia REPL using vterm
 app-emacs/jump 2.6: build functions which contextually jump between files
 app-emacs/jump-to-line 0.2.0: Jump to line number at point.
 app-emacs/jupyter 0.8.3: Jupyter
@@ -1708,7 +1709,7 @@ app-emacs/math-tex-convert 0.2.0: Convert LaTeX macros to unicode and back
 app-emacs/maven-test-mode 0.1.5: Utilities for navigating test files and running maven test tasks.
 app-emacs/maxframe 0.5: No description available.
 app-emacs/maxima 0.8.1: Major mode for Maxima
-app-emacs/mb-url 0.11.0: Multiple Backends for Emacs URL package
+app-emacs/mb-url 0.12.0: Multiple Backends for Emacs URL package
 app-emacs/mbe 0.1: Macros by Example
 app-emacs/mc-extras 1.2.4: Extra functions for multiple-cursors mode.
 app-emacs/md4rd 0.3.1: Mode for reddit (browse it).
@@ -2665,7 +2666,7 @@ app-emacs/translate-mode 1.0.2: Paragraph-oriented side-by-side doc translation 
 app-emacs/transmission 0.12.2: Interface to a Transmission session
 app-emacs/transpose-frame 0.2.1: Transpose windows arrangement in a frame
 app-emacs/transwin 0.1.4: Make window/frame transparent
-app-emacs/trashed 2.1.3: Viewing/editing system trash can
+app-emacs/trashed 2.1.4: Viewing/editing system trash can
 app-emacs/travis 0.6.0: Emacs client for Travis
 app-emacs/tray 0.1.1: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
