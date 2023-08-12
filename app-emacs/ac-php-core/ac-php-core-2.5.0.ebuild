@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="The core library of the ac-php."
+DESCRIPTION="The core library of the ac-php"
 
 HOMEPAGE="https://github.com/xcwen/ac-php"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
