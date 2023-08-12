@@ -25,8 +25,8 @@ app-emacs/ac-inf-ruby 0.4: Enable auto-complete in inf-ruby sessions
 app-emacs/ac-ispell 0.7: ispell completion source for auto-complete
 app-emacs/ac-mozc 0.0.4: auto-complete sources for Japanese input using Mozc
 app-emacs/ac-octave 0.7: An auto-complete source for Octave
-app-emacs/ac-php 2.4.2: Auto Completion source for PHP.
-app-emacs/ac-php-core 2.4.2: The core library of the ac-php.
+app-emacs/ac-php 2.5.0: Auto Completion source for PHP.
+app-emacs/ac-php-core 2.5.0: The core library of the ac-php
 app-emacs/ac-racer 0.2: auto-complete source of racer
 app-emacs/ac-rtags 3.23: auto-complete back-end for RTags
 app-emacs/ac-slime 0.8: An auto-complete source using slime completions
@@ -374,7 +374,7 @@ app-emacs/company-math 1.5.1: Completion backends for unicode math symbols and l
 app-emacs/company-maxima 0.8.1: Maxima company integration
 app-emacs/company-ngram 0.8.0: N-gram based completion
 app-emacs/company-nixos-options 0.0.1: Company Backend for nixos-options
-app-emacs/company-php 2.4.2: A company back-end for PHP.
+app-emacs/company-php 2.5.0: A company back-end for PHP.
 app-emacs/company-phpactor 0.1.0: company-mode backend for Phpactor
 app-emacs/company-plisp 0.0.1: Company mode backend for PicoLisp language
 app-emacs/company-posframe 0.7.0: Use a posframe as company candidate menu
