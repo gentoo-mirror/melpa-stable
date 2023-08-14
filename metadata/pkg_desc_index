@@ -255,7 +255,7 @@ app-emacs/call-graph 0.1.0: Library to generate call graph for cpp functions
 app-emacs/camcorder 1.0: Record screencasts in gif or other formats.
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cangjie 0.7.4: Retrieve cangjie code for han characters
-app-emacs/cape 0.16: Completion At Point Extensions
+app-emacs/cape 0.17: Completion At Point Extensions
 app-emacs/capnp-mode 1.0.0: Major mode for editing Capn' Proto Files
 app-emacs/cargo 0.4.1: Emacs Minor Mode for Cargo, Rust's Package Manager.
 app-emacs/caseformat 0.1.0: Format based letter case converter
