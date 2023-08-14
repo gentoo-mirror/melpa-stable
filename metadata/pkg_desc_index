@@ -188,7 +188,7 @@ app-emacs/bind-key 2.4.4: A simple way to manage personal keybindings
 app-emacs/bind-map 1.1.1: Bind personal keymaps in multiple locations
 app-emacs/binder 0.4.4: Global minor mode to facilitate multi-file writing projects
 app-emacs/bing-dict 0.2.4: Minimalists' English-Chinese Bing dictionary
-app-emacs/binky-mode 1.2.1: Jump between points like a rabbit
+app-emacs/binky 1.2.2: Jump between points like a rabbit
 app-emacs/birds-of-paradise-plus-theme 0.1.1: A brown/orange light-on-dark theme for Emacs 24 (deftheme).
 app-emacs/bison-mode 0.3: Major mode for editing bison, yacc and lex files.
 app-emacs/bitpack 1.0.1: Bit packing functions
@@ -325,7 +325,7 @@ app-emacs/clojure-mode 5.16.1: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 5.16.1: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 0.1.0: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 1.0.1: Yasnippets for clojure
-app-emacs/clojure-ts-mode 0.1.1: Major mode for Clojure code
+app-emacs/clojure-ts-mode 0.1.2: Major mode for Clojure code
 app-emacs/clomacs 0.0.5: Simplifies Emacs Lisp interaction with Clojure.
 app-emacs/closql 1.2.1: store EIEIO objects using EmacSQL
 app-emacs/clues-theme 1.0.1: an Emacs 24 theme which may well be fully awesome...
@@ -865,7 +865,7 @@ app-emacs/feature-mode 0.4: Major mode for editing Gherkin (i.e. Cucumber) user 
 app-emacs/feed-discovery 1.0.0: Discover feed url by RSS/Atom autodiscovery
 app-emacs/feline 1.1: A modeline with very little
 app-emacs/ffmpeg-player 0.2.1: Play video using ffmpeg
-app-emacs/file-info 0.6: Show pretty information about current file
+app-emacs/file-info 0.6.1: Show pretty information about current file
 app-emacs/fill-column-indicator 1.90: Graphically indicate the fill column
 app-emacs/fill-function-arguments 0.9: Convert function arguments to/from single line
 app-emacs/fill-page 0.3.7: Fill buffer so you don't see empty lines at the end
@@ -1363,7 +1363,7 @@ app-emacs/hydra 0.15.0: Make bindings that stick around.
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
 app-emacs/ialign 0.4.2: visual align-regexp
-app-emacs/ibrowse 0.2.2: Interact with your browser
+app-emacs/ibrowse 0.2.3: Interact with your browser
 app-emacs/ibuffer-project 2.1: Group ibuffer's list by project or any function
 app-emacs/ibuffer-projectile 0.3: Group ibuffer's list by projectile root
 app-emacs/ibuffer-tramp 1.0.0: Group ibuffer's list by TRAMP connection
@@ -1578,7 +1578,7 @@ app-emacs/leetcode 0.1.27: An leetcode client
 app-emacs/lentic 0.11: One buffer as a view of another
 app-emacs/less-css-mode 0.21: Major mode for editing LESS CSS files (lesscss.org)
 app-emacs/letcheck 0.4: Check the erroneous assignments in let forms
-app-emacs/leuven-theme 1.1.6: Elegant Emacs color theme for a white background
+app-emacs/leuven-theme 1.1.7: Elegant Emacs color theme for a white background
 app-emacs/lfe-mode 2.1.2: Lisp Flavoured Erlang mode
 app-emacs/libbcel 0.4.0: Library to connect to basecamp 3 API
 app-emacs/libelcouch 0.11.0: Communication with CouchDB
@@ -1944,7 +1944,7 @@ app-emacs/org-bookmark-heading 1.3: Emacs bookmark support for Org mode
 app-emacs/org-books 0.3.0: Reading list management with Org mode and helm
 app-emacs/org-bulletproof 0.3: Automatic plain list bullet cycling
 app-emacs/org-bullets 0.2.4: Show bullets in org-mode as UTF-8 characters
-app-emacs/org-category-capture 1.1.0: Contextualy capture of org-mode TODOs.
+app-emacs/org-category-capture 2.0.0: Contextualy capture of org-mode TODOs.
 app-emacs/org-clock-csv 1.2: Export `org-mode' clock entries to CSV format.
 app-emacs/org-commentary 0.3.0: generate or update conventional library headers using Org mode files
 app-emacs/org-d20 0.5: minor mode for d20 tabletop roleplaying games
@@ -1986,8 +1986,8 @@ app-emacs/org-outlook 0.11: Outlook org
 app-emacs/org-page 0.41: a static site generator based on org mode
 app-emacs/org-pomodoro 2.1.0: Pomodoro implementation for org-mode.
 app-emacs/org-pretty-tags 0.2.2: Surrogates for tags
-app-emacs/org-projectile 1.1.0: Repository todo management for org-mode
-app-emacs/org-projectile-helm 1.1.0: helm functions for org-projectile
+app-emacs/org-projectile 2.0.0: Repository todo management for org-mode
+app-emacs/org-projectile-helm 2.0.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.7: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
@@ -2227,6 +2227,7 @@ app-emacs/project-abbrev 0.0.4: Customize abbreviation expansion in the project
 app-emacs/project-explorer 0.14.3: A project explorer sidebar
 app-emacs/project-persist 1.0.1: A minor mode to allow loading and saving of project settings.
 app-emacs/project-persist-drawer 0.0.4: Use a project drawer with project-persist.
+app-emacs/project-tasks 0.4.1: Efficient task management for your project
 app-emacs/projectile 2.7.0: Manage and navigate projects in Emacs easily
 app-emacs/projectile-git-autofetch 0.1.2: automatically fetch git repositories
 app-emacs/projectile-rails 0.22.0: Minor mode for Rails projects based on projectile-mode
@@ -2636,7 +2637,7 @@ app-emacs/textx-mode 0.0.2: Major mode for editing TextX files
 app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
-app-emacs/thrift 2023.8.7.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2023.8.14.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.4: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2813,8 +2814,8 @@ app-emacs/whois 0.3: Syntax highlighted domain name queries using system whois
 app-emacs/whole-line-or-region 2.0: Operate on current line if region undefined
 app-emacs/widget-mvc 0.0.2: MVC framework for the emacs widgets
 app-emacs/wiki-nav 1.0.2: Simple file navigation using [[WikiStrings]]
-app-emacs/wildcharm-light-theme 0.4: Port of vim-wildcharm (light) colorscheme
-app-emacs/wildcharm-theme 0.4: Port of vim-wildcharm colorscheme
+app-emacs/wildcharm-light-theme 0.5: Port of vim-wildcharm (light) colorscheme
+app-emacs/wildcharm-theme 0.5: Port of vim-wildcharm colorscheme
 app-emacs/win-switch 1.1.4: fast, dynamic bindings for window-switching/resizing
 app-emacs/window-end-visible 0.1.0: Find the last visible point in a window
 app-emacs/window-layout 1.4: window layout manager
