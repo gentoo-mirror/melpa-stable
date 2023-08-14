@@ -5,7 +5,7 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="binky-mode"
+REALNAME="binky"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
