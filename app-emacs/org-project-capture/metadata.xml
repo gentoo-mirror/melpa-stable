@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Repository todo capture and management for org-mode with projectile</longdescription>
+	<longdescription>Repository todo capture and management for org-mode</longdescription>
 </pkgmetadata>
