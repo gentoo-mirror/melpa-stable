@@ -10,9 +10,9 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Repository todo management for org-mode"
+DESCRIPTION="Repository todo capture and management for org-mode with projectile"
 
-HOMEPAGE="https://github.com/IvanMalison/org-projectile"
+HOMEPAGE="https://github.com/colonelpanic8/org-project-capture"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
@@ -20,9 +20,7 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/projectile
 	app-emacs/dash
-	app-emacs/s
-	app-emacs/org-category-capture"
+	app-emacs/org-project-capture"
 RDEPEND="app-emacs/projectile
 	app-emacs/dash
-	app-emacs/s
-	app-emacs/org-category-capture"
+	app-emacs/org-project-capture"
