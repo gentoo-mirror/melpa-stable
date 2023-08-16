@@ -1587,7 +1587,7 @@ app-emacs/liblouis 0.2: Mode for editing liblouis braille translation tables
 app-emacs/libmpdel 2.0.0: Communication with an MPD server
 app-emacs/lice 0.3: License And Header Template
 app-emacs/license-templates 0.1.3: Create LICENSE using GitHub API
-app-emacs/ligo-mode 0.71.1: A major mode for editing LIGO source code
+app-emacs/ligo-mode 0.72.0: A major mode for editing LIGO source code
 app-emacs/line-reminder 0.5.1: Line annotation for changed and saved lines
 app-emacs/line-up-words 1.0.0: Align words in an intelligent way
 app-emacs/lingr 0.2: Lingr Client for GNU Emacs
@@ -1944,7 +1944,7 @@ app-emacs/org-bookmark-heading 1.3: Emacs bookmark support for Org mode
 app-emacs/org-books 0.3.0: Reading list management with Org mode and helm
 app-emacs/org-bulletproof 0.3: Automatic plain list bullet cycling
 app-emacs/org-bullets 0.2.4: Show bullets in org-mode as UTF-8 characters
-app-emacs/org-category-capture 2.0.0: Contextualy capture of org-mode TODOs.
+app-emacs/org-category-capture 3.0.1: Contextualy capture of org-mode TODOs.
 app-emacs/org-clock-csv 1.2: Export `org-mode' clock entries to CSV format.
 app-emacs/org-commentary 0.3.0: generate or update conventional library headers using Org mode files
 app-emacs/org-d20 0.5: minor mode for d20 tabletop roleplaying games
@@ -1986,8 +1986,9 @@ app-emacs/org-outlook 0.11: Outlook org
 app-emacs/org-page 0.41: a static site generator based on org mode
 app-emacs/org-pomodoro 2.1.0: Pomodoro implementation for org-mode.
 app-emacs/org-pretty-tags 0.2.2: Surrogates for tags
-app-emacs/org-projectile 2.0.0: Repository todo management for org-mode
-app-emacs/org-projectile-helm 2.0.0: helm functions for org-projectile
+app-emacs/org-project-capture 3.0.1: Repository todo capture and management for org-mode
+app-emacs/org-projectile 3.0.1: Repository todo capture and management for org-mode with projectile
+app-emacs/org-projectile-helm 3.0.1: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.7: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
