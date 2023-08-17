@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="YouTube/Invidious Front End"
+DESCRIPTION="YouTube & Invidious Front End"
 
 HOMEPAGE="https://git.sr.ht/~thanosapollo/yeetube.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
