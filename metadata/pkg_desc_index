@@ -1384,7 +1384,7 @@ app-emacs/idomenu 0.1: imenu tag selection with ido
 app-emacs/idris-mode 1.0: Major mode for editing Idris code
 app-emacs/iedit 0.9.9.9.9: Edit multiple regions in the same way simultaneously.
 app-emacs/iflipb 1.6: Interactively flip between recently visited buffers
-app-emacs/igist 1.3.0: List, create, update and delete GitHub gists
+app-emacs/igist 1.4.0: List, create, update and delete GitHub gists
 app-emacs/ignoramus 0.7.4: Ignore backups, build files, et al.
 app-emacs/image+ 0.6.2: Image manipulate extensions for Emacs
 app-emacs/image-archive 0.0.7: Image thumbnails in archive file with non-blocking
