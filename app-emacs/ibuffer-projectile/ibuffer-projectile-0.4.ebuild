@@ -12,11 +12,13 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Group ibuffer's list by projectile root"
 
-HOMEPAGE="http://github.com/purcell/ibuffer-projectile"
+HOMEPAGE="https://github.com/purcell/ibuffer-projectile"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/projectile"
-RDEPEND="app-emacs/projectile"
+DEPEND="app-emacs/projectile
+	app-emacs/seq"
+RDEPEND="app-emacs/projectile
+	app-emacs/seq"
