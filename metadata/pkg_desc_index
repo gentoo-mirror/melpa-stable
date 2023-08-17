@@ -1365,9 +1365,9 @@ app-emacs/hyperspace 0.8.4: Get there from here
 app-emacs/ialign 0.4.2: visual align-regexp
 app-emacs/ibrowse 0.2.3: Interact with your browser
 app-emacs/ibuffer-project 2.1: Group ibuffer's list by project or any function
-app-emacs/ibuffer-projectile 0.3: Group ibuffer's list by projectile root
+app-emacs/ibuffer-projectile 0.4: Group ibuffer's list by projectile root
 app-emacs/ibuffer-tramp 1.0.0: Group ibuffer's list by TRAMP connection
-app-emacs/ibuffer-vc 0.11: Group ibuffer's list by VC project, or show VC status
+app-emacs/ibuffer-vc 0.12: Group ibuffer's list by VC project, or show VC status
 app-emacs/iceberg-theme 1.0.0: Well-designed, eye-friendly, dark blue color scheme
 app-emacs/icomplete-vertical 0.3: Display icomplete candidates vertically
 app-emacs/icsql 0.8: Interactive iSQL iteraface to ciSQL
@@ -1534,7 +1534,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.10: Import, edit and create calendar events through khal
 app-emacs/khardel 1.0.0: Integrate with khard
-app-emacs/khoj 0.11.0: AI personal assistant for your digital brain
+app-emacs/khoj 0.11.1: AI personal assistant for your digital brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
@@ -1944,7 +1944,7 @@ app-emacs/org-bookmark-heading 1.3: Emacs bookmark support for Org mode
 app-emacs/org-books 0.3.0: Reading list management with Org mode and helm
 app-emacs/org-bulletproof 0.3: Automatic plain list bullet cycling
 app-emacs/org-bullets 0.2.4: Show bullets in org-mode as UTF-8 characters
-app-emacs/org-category-capture 3.0.1: Contextualy capture of org-mode TODOs.
+app-emacs/org-category-capture 3.1.0: Contextualy capture of org-mode TODOs.
 app-emacs/org-clock-csv 1.2: Export `org-mode' clock entries to CSV format.
 app-emacs/org-commentary 0.3.0: generate or update conventional library headers using Org mode files
 app-emacs/org-d20 0.5: minor mode for d20 tabletop roleplaying games
@@ -1986,9 +1986,9 @@ app-emacs/org-outlook 0.11: Outlook org
 app-emacs/org-page 0.41: a static site generator based on org mode
 app-emacs/org-pomodoro 2.1.0: Pomodoro implementation for org-mode.
 app-emacs/org-pretty-tags 0.2.2: Surrogates for tags
-app-emacs/org-project-capture 3.0.1: Repository todo capture and management for org-mode
-app-emacs/org-projectile 3.0.1: Repository todo capture and management for org-mode with projectile
-app-emacs/org-projectile-helm 3.0.1: helm functions for org-projectile
+app-emacs/org-project-capture 3.1.0: Repository todo capture and management for org-mode
+app-emacs/org-projectile 3.1.0: Repository todo capture and management for org-mode with projectile
+app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.7: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
@@ -2389,6 +2389,7 @@ app-emacs/ruled-switch-buffer 0.1.0: Rule based buffer switching
 app-emacs/run-command 1.0.0: Run an external command from a context-dependent list
 app-emacs/runner 1.8: Improved "open with" suggestions for dired
 app-emacs/russian-holidays 0.4: Russian holidays for the calendar
+app-emacs/russian-techwriter 1.0.0: Input methods for Russian technical writers
 app-emacs/rust-mode 1.0.5: A major-mode for editing Rust source code
 app-emacs/rust-playground 0.3: Local Rust playground for short code snippets.
 app-emacs/rustic 3.4: Rust development environment
@@ -2880,7 +2881,7 @@ app-emacs/yatex 1.83: Yet Another tex-mode for emacs //野鳥//
 app-emacs/yaxception 0.3.3: Provide framework about exception like Java for Elisp
 app-emacs/ycmd 1.2: emacs bindings to the ycmd completion server
 app-emacs/ydk-mode 1.0.0: Language support for Yu-Gi-Oh! deck files
-app-emacs/yeetube 1.4.2: YouTube/Invidious Front End
+app-emacs/yeetube 1.5.0: YouTube & Invidious Front End
 app-emacs/yequake 0.1: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 0.1.0: Display ghostly yesql defqueries inline
 app-emacs/yoshi-theme 7.0.0: Theme named after my cat
