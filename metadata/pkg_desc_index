@@ -473,7 +473,7 @@ app-emacs/dante 1.7: Development mode for Haskell
 app-emacs/dap-mode 0.7: Debug Adapter Protocol mode
 app-emacs/darcula-theme 2.0: Inspired by IntelliJ's Darcula theme
 app-emacs/darkman 1.1.0: Seamless integration with Darkman
-app-emacs/darktooth-theme 1.0.1: From the darkness... it watches
+app-emacs/darktooth-theme 1.0.2: From the darkness... it watches
 app-emacs/dart-mode 1.0.7: Major mode for editing Dart files
 app-emacs/dart-server 0.1.0: Minor mode for editing Dart files
 app-emacs/dash 2.19.1: A modern list library for Emacs
