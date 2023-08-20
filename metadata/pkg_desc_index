@@ -2556,7 +2556,7 @@ app-emacs/standard-dirs 2.0.0: Platform-specific paths for config, cache, and ot
 app-emacs/starhugger 0.3.1: Hugging Face/AI-powered text & code completion client
 app-emacs/stash 0.4.1: lightweight persistent caching
 app-emacs/status 0.3: This package adds support for status icons to Emacs.
-app-emacs/stgit 2.3.1: major mode for StGit interaction
+app-emacs/stgit 2.3.2: major mode for StGit interaction
 app-emacs/stock-tracker 0.1.6: Track stock price
 app-emacs/streak 3.0.0: Track a daily streak in your Mode Line
 app-emacs/string-inflection 1.0.16: underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names
@@ -2618,8 +2618,9 @@ app-emacs/templatel 0.1.6: Templating language;
 app-emacs/ten-hundred-mode 1.0.1: use only the ten hundred most usual words
 app-emacs/term-alert 1.2: Notifications when commands complete in term.el.
 app-emacs/term-cmd 1.1: Send commands from programs running in term.el.
-app-emacs/term-manager 0.1.1: Contextual terminal management
-app-emacs/term-projectile 0.1.1: projectile terminal management
+app-emacs/term-manager 0.2.0: Contextual terminal management
+app-emacs/term-project 0.2.0: Terminal management for project.el
+app-emacs/term-projectile 0.2.0: projectile terminal management
 app-emacs/term-run 0.1.5: Run arbitrary command in terminal buffer
 app-emacs/termbright-theme 1.0: a more usable theme for white-on-black terminals
 app-emacs/terminal-here 2.0: Run an external terminal in current directory
