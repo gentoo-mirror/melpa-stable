@@ -844,6 +844,7 @@ app-emacs/exwm-mff 1.2.0: Mouse Follows Focus
 app-emacs/exwm-modeline 0.1.3: A modeline segment for EXWM workspaces
 app-emacs/exwm-x 2.0.2: A derivative wm based on EXWM (emacs x window manager)
 app-emacs/ez-query-replace 0.4: a smarter context-sensitive query-replace that can be reapplied
+app-emacs/eziam-themes 5.1: The mostly monochrome Eziam theme family.
 app-emacs/f 0.20.0: Modern API for working with files and directories
 app-emacs/f3 0.1: a helm interface to find
 app-emacs/fabric 0.2.0: Launch Fabric using Emacs
@@ -1260,6 +1261,7 @@ app-emacs/helm-gtags 1.5.7: GNU GLOBAL helm interface
 app-emacs/helm-hatena-bookmark 2.4.4: Hatena::Bookmark with helm interface
 app-emacs/helm-hayoo 0.0.5: Source and configured helm for searching hayoo
 app-emacs/helm-ispell 0.1: ispell-complete-word with helm interface
+app-emacs/helm-lobsters 0.8.0: helm front-end for lobste.rs
 app-emacs/helm-ls-git 1.9.4: list git files.
 app-emacs/helm-ls-hg 1.8.0: List hg files in hg project.
 app-emacs/helm-lsp 0.2: LSP helm integration
@@ -2855,7 +2857,7 @@ app-emacs/xkcd 1.1: View xkcd from Emacs
 app-emacs/xml-format 1.0.0: XML reformatter using xmllint
 app-emacs/xml-rpc 1.6.15: An elisp implementation of clientside XML-RPC
 app-emacs/xmlgen 0.5: A DSL for generating XML.
-app-emacs/xmlunicode 1.25: Unicode support for XML
+app-emacs/xmlunicode 1.26: Unicode support for XML
 app-emacs/xquery-tool 0.2.0: A simple interface to saxonb's xquery.
 app-emacs/xref-js2 1.6: Jump to references/definitions using ag & js2-mode's AST
 app-emacs/xresources-theme 1.0.0: Use your .Xresources as your emacs theme
