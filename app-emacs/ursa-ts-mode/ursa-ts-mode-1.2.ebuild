@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="zk-index"
+REALNAME="ursa-ts-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Index and Desktop for zk"
+DESCRIPTION="Tree-sitter support for Ursa"
 
-HOMEPAGE="https://github.com/localauthor/zk"
+HOMEPAGE="https://github.com/ursalang/ursa-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/zk"
-RDEPEND="app-emacs/zk"
+DEPEND=""
+RDEPEND=""
