@@ -2564,6 +2564,7 @@ app-emacs/status 0.3: This package adds support for status icons to Emacs.
 app-emacs/stgit 2.3.2: major mode for StGit interaction
 app-emacs/stock-tracker 0.1.6: Track stock price
 app-emacs/streak 3.0.0: Track a daily streak in your Mode Line
+app-emacs/string-edit-at-point 1.0.0: Avoid escape nightmares by editing string in separate buffer
 app-emacs/string-inflection 1.0.16: underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names
 app-emacs/string-utils 0.3.2: String-manipulation utilities
 app-emacs/stripe-buffer 0.2.5: Use a different background for even and odd lines
