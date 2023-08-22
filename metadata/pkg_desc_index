@@ -575,7 +575,7 @@ app-emacs/docstr 5.7.0: A document string minor mode
 app-emacs/dogears 0.1: Never lose your place again
 app-emacs/dokuwiki-mode 0.1.1: Major mode for DokuWiki document
 app-emacs/doom 1.3: DOM implementation and manipulation library
-app-emacs/doom-modeline 4.0.0: A minimal and modern mode-line
+app-emacs/doom-modeline 4.0.1: A minimal and modern mode-line
 app-emacs/doom-themes 2.3.0: an opinionated pack of modern color-themes
 app-emacs/dot-env 1.0.0: Dotenv functionality
 app-emacs/dotenv-mode 0.2.5: Major mode for .env files
@@ -1849,6 +1849,7 @@ app-emacs/ninja-mode 1.11.1: Major mode for editing .ninja files
 app-emacs/nix-buffer 3.1.1: Set up buffer environments with nix
 app-emacs/nix-haskell-mode 0.0.2: haskell-mode integrations for Nix
 app-emacs/nix-mode 1.5.0: Major mode for editing .nix files
+app-emacs/nix-ts-mode 0.1.2: Major mode for Nix expressions, powered by tree-sitter
 app-emacs/nixos-options 0.0.1: Interface for browsing and completing NixOS options.
 app-emacs/nixpkgs-fmt 0.1: Reformat Nix using nixpkgs-fmt
 app-emacs/nlinum-hl 1.0.6: heal nlinum's line numbers
@@ -1997,7 +1998,7 @@ app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.7: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
-app-emacs/org-re-reveal 3.18.3: Org export to reveal.js presentations
+app-emacs/org-re-reveal 3.19.1: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
 app-emacs/org-re-reveal-ref 1.0.0: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
@@ -2431,6 +2432,7 @@ app-emacs/selectrum-prescient 6.1: prescient.el + Selectrum
 app-emacs/seml-mode 1.6.0: major-mode for SEML, S-Expression Markup Language, file
 app-emacs/sensei 0.43.3: A client for sensei
 app-emacs/separedit 0.3.37: Edit comment/string/docstring/code block in separate buffer
+app-emacs/seriestracker 1.3.1: Series tracker
 app-emacs/servant 0.3.0: ELPA server written in Emacs Lisp
 app-emacs/services 1.7: Services database access functions.
 app-emacs/sesman 0.3.4: Generic Session Manager
@@ -2490,6 +2492,7 @@ app-emacs/slime-company 1.6: slime completion backend for company mode
 app-emacs/slime-docker 0.8.3: Integration of SLIME with Docker containers
 app-emacs/slime-volleyball 1.1: An SVG Slime Volleyball Game
 app-emacs/slstats 1.10: Acquire and display stats about Second Life
+app-emacs/sly 1.0.43: Sylvester the Cat's Common Lisp IDE
 app-emacs/sly-asdf 0.2.0: ASDF system support for SLY
 app-emacs/smart-mode-line 2.14: A color coded smart mode-line.
 app-emacs/smart-mode-line-powerline-theme 2.14: smart-mode-line theme that mimics the powerline appearance.
@@ -2682,7 +2685,7 @@ app-emacs/tray 0.1.1: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.22: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.24: Grammar bundle for tree-sitter
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 3.1: all-the-icons integration for treemacs
