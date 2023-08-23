@@ -321,8 +321,8 @@ app-emacs/clocker 0.0.11: Note taker and clock-in enforcer
 app-emacs/clockodo 0.8.0: A small integration for the clockodo api
 app-emacs/clojure-essential-ref 0.1.1: Cider-doc to "Clojure, The Essential Reference"
 app-emacs/clojure-essential-ref-nov 0.1.1: Cider-doc to "Clojure, The Essential Reference" (EPUB)
-app-emacs/clojure-mode 5.16.1: Major mode for Clojure code
-app-emacs/clojure-mode-extra-font-locking 5.16.1: Extra font-locking for Clojure mode
+app-emacs/clojure-mode 5.16.2: Major mode for Clojure code
+app-emacs/clojure-mode-extra-font-locking 5.16.2: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 0.1.0: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 1.0.1: Yasnippets for clojure
 app-emacs/clojure-ts-mode 0.1.4: Major mode for Clojure code
@@ -332,7 +332,7 @@ app-emacs/clues-theme 1.0.1: an Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.6: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.27.3: major-mode for editing CMake sources
+app-emacs/cmake-mode 3.27.4: major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
