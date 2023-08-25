@@ -10,9 +10,9 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="use boxes to comment regions"
+DESCRIPTION="ASCII boxes unlimited!"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://boxes.thomasjensen.com"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
