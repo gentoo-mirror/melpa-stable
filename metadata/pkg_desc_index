@@ -209,7 +209,7 @@ app-emacs/bookmark-view 0.2: Bookmark views
 app-emacs/bool-flip 1.0.1: flip the boolean under the point
 app-emacs/boon 1.2: Ergonomic Command Mode for Emacs.
 app-emacs/borg 3.3.1: assimilate Emacs packages as Git submodules
-app-emacs/boxes 2.2.0: use boxes to comment regions
+app-emacs/boxes 2.2.1: ASCII boxes unlimited!
 app-emacs/boxquote 2.3: Quote text with a semi-box.
 app-emacs/brazilian-holidays 2.1.3: Brazilian holidays
 app-emacs/brf 1.25: Brf-mode provides features from the legendary editor Brief
@@ -1757,7 +1757,7 @@ app-emacs/mmt 0.2.0: Missing macro tools for Emacs Lisp
 app-emacs/mocha 1.1: Run Mocha or Jasmine tests
 app-emacs/mocha-snippets 2.0.0: Yasnippets for the Mocha JS Testing Framework
 app-emacs/mocker 0.5.0: mocking framework for emacs
-app-emacs/modaled 0.5.0: Build your own minor modes for modal editing
+app-emacs/modaled 0.6.0: Build your own minor modes for modal editing
 app-emacs/modalka 0.1.5: Easily introduce native modal editing of your own design
 app-emacs/mode-icons 0.4.0: Show icons for modes
 app-emacs/mode-line-bell 0.2: Flash the mode line instead of ringing the bell
