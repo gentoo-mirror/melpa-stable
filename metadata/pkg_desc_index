@@ -127,7 +127,7 @@ app-emacs/auth-source-gopass 0.0.3: Gopass integration for auth-source
 app-emacs/auth-source-keytar 0.1.3: Integrate auth-source with keytar
 app-emacs/auth-source-kwallet 0.0.1: KWallet integration for auth-source
 app-emacs/auth-source-xoauth2 1.0: Integrate auth-source with XOAUTH2
-app-emacs/auto-compile 1.8.1: Automatically compile Emacs Lisp libraries
+app-emacs/auto-compile 1.8.2: Automatically compile Emacs Lisp libraries
 app-emacs/auto-complete 1.5.1: Auto Completion for GNU Emacs
 app-emacs/auto-complete-clang-async 0.5: Auto Completion source for clang for GNU Emacs
 app-emacs/auto-complete-exuberant-ctags 0.0.7: Exuberant ctags auto-complete.el source
@@ -965,7 +965,7 @@ app-emacs/flymake-diagnostic-at-point 1.2.0: Display flymake diagnostics at poin
 app-emacs/flymake-easy 0.10: Helpers for easily building flymake checkers
 app-emacs/flymake-elisp-config 1.0.0: Setup load-path for flymake on Emacs Lisp mode
 app-emacs/flymake-eslint 1.5.0: A Flymake backend for Javascript using eslint
-app-emacs/flymake-flycheck 0.1: Use flycheck checkers as flymake backends
+app-emacs/flymake-flycheck 0.2: Use flycheck checkers as flymake backends
 app-emacs/flymake-gjshint 0.0.6: A flymake handler for javascript using both jshint and gjslint
 app-emacs/flymake-grammarly 0.2.1: Flymake support for Grammarly
 app-emacs/flymake-haml 0.8: A flymake handler for haml files
@@ -1973,7 +1973,7 @@ app-emacs/org-if 0.2.0: Interactive Fiction Authoring System for Org-Mode.
 app-emacs/org-incoming 0.1: Sort incoming PDFs into your org files
 app-emacs/org-index 7.4.4: No description available.
 app-emacs/org-inline-anim 0.3: Inline playback of animated GIF/PNG for Org
-app-emacs/org-inline-pdf 0.3: Inline PDF previewing for Org
+app-emacs/org-inline-pdf 0.5: Inline PDF previewing for Org
 app-emacs/org-jira 4.4.1: Syncing between Jira and Org-mode.
 app-emacs/org-journal 2.2.0: a simple org-mode based journaling mode
 app-emacs/org-journal-tags 0.4.0: Tagging and querying system of org-journal
@@ -2131,7 +2131,7 @@ app-emacs/paxedit 1.1.8: Structured, Context Driven LISP Editing and Refactoring
 app-emacs/pcache 0.5.1: persistent caching for Emacs.
 app-emacs/pcmpl-args 0.1.3: Enhanced shell command completion
 app-emacs/pcomplete-extension 1.0: additional completion for pcomplete
-app-emacs/pcre2el 1.8: regexp syntax converter
+app-emacs/pcre2el 1.9: regexp syntax converter
 app-emacs/pcsv 1.3.6: Parser of csv
 app-emacs/pd-remote 1.2.0: Pd remote control helper
 app-emacs/pdf-tools 1.1.0: Support library for PDF documents
@@ -2247,7 +2247,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 24.1: major mode for editing protocol buffers.
+app-emacs/protobuf-mode 24.2: major mode for editing protocol buffers.
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions.
 app-emacs/psalm 0.6.0: Interface to Psalm
@@ -2674,7 +2674,7 @@ app-emacs/toxi-theme 0.1.2: A dark color theme by toxi
 app-emacs/tr-ime 0.5.0: Emulator of IME patch for Windows
 app-emacs/traad 3.1.1: emacs interface to the traad refactoring server.
 app-emacs/tracking 2.12: Buffer modification tracking
-app-emacs/transient 0.4.1: Transient commands
+app-emacs/transient 0.4.3: Transient commands
 app-emacs/translate-mode 1.0.2: Paragraph-oriented side-by-side doc translation workflow
 app-emacs/transmission 0.12.2: Interface to a Transmission session
 app-emacs/transpose-frame 0.2.1: Transpose windows arrangement in a frame
@@ -2841,7 +2841,7 @@ app-emacs/winring 5.1: Window configuration rings
 app-emacs/winum 2.1.0: Navigate windows and frames using numbers.
 app-emacs/wisp-mode 1.0.11: Tools for wisp: the Whitespace-to-Lisp preprocessor
 app-emacs/wispjs-mode 0.2.0: Major mode for Wisp code.
-app-emacs/with-editor 3.3.0: Use the Emacsclient as $EDITOR
+app-emacs/with-editor 3.3.1: Use the Emacsclient as $EDITOR
 app-emacs/with-shell-interpreter 0.2.4: Helper for shell command APIs
 app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interactively
 app-emacs/with-venv 0.0.2: Execute with Python virtual environment activated
