@@ -1681,7 +1681,7 @@ app-emacs/magit-section 3.3.0: Sections for read-only buffers
 app-emacs/magit-stgit 2.2.1: StGit extension for Magit
 app-emacs/magit-svn 2.2.3: Git-Svn extension for Magit
 app-emacs/magit-tbdiff 1.1.1: Magit extension for range diffs
-app-emacs/magit-todos 1.6: Show source file TODOs in Magit
+app-emacs/magit-todos 1.7: Show source file TODOs in Magit
 app-emacs/magit-topgit 2.1.2: TopGit extension for Magit
 app-emacs/magithub 0.1.7: Magit interfaces for GitHub
 app-emacs/major-mode-hydra 0.2.2: Major mode keybindings managed by Hydra
