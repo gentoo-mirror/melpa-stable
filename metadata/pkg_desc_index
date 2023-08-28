@@ -2010,6 +2010,7 @@ app-emacs/org-rich-yank 0.2.2: Paste with org-mode markup and link to source
 app-emacs/org-roam 2.2.2: A database abstraction layer for Org-mode
 app-emacs/org-roam-bibtex 0.6.2: Org Roam meets BibTeX
 app-emacs/org-roam-ql 0.1: Interface to query and view results from org-roam
+app-emacs/org-roam-ql-ql 0.1: Intgrating org-roam and org-ql
 app-emacs/org-runbook 1.2: Org mode for runbooks
 app-emacs/org-sidebar 0.3.2: Helpful sidebar for Org buffers
 app-emacs/org-snooze 0.1.0: Snooze your code, doc and feed
