@@ -608,7 +608,7 @@ app-emacs/eacl 2.2.0: Auto-complete lines by grepping project
 app-emacs/easy-hugo 3.9.59: Write blogs made with hugo by markdown or org-mode
 app-emacs/easy-jekyll 2.6.30: Major mode managing jekyll blogs
 app-emacs/easy-kill 0.9.4: kill & mark things easily
-app-emacs/easy-kill-extras 0.9.10: Extra functions for easy-kill.
+app-emacs/easy-kill-extras 0.9.11: Extra functions for easy-kill.
 app-emacs/easy-repeat 0.2: Repeat easily
 app-emacs/ebf 1.0.0: brainfuck language transpiler to Emacs Lisp
 app-emacs/ebib 2.39.3: a BibTeX database manager
@@ -1539,7 +1539,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.10: Import, edit and create calendar events through khal
 app-emacs/khardel 1.0.0: Integrate with khard
-app-emacs/khoj 0.11.1: AI personal assistant for your digital brain
+app-emacs/khoj 0.11.3: AI personal assistant for your digital brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
