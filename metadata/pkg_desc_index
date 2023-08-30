@@ -1341,7 +1341,7 @@ app-emacs/history 1.0.0: History utility for source code navigation
 app-emacs/historyf 0.0.9: file history library like browser
 app-emacs/hl-anything 0.0.9: Highlight symbols, selections, enclosing parens and more.
 app-emacs/hl-sentence 3: highlight a sentence based on customizable face
-app-emacs/hl-todo 3.5.0: Highlight TODO and similar keywords
+app-emacs/hl-todo 3.6.0: Highlight TODO and similar keywords
 app-emacs/hmac 1.0: Hash-based message authentication code
 app-emacs/home-end 1.0: Smart multi-purpose home / end keys
 app-emacs/homebrew-mode 2.0.0: minor mode for editing Homebrew formulae
@@ -1539,7 +1539,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.10: Import, edit and create calendar events through khal
 app-emacs/khardel 1.0.0: Integrate with khard
-app-emacs/khoj 0.11.3: AI personal assistant for your digital brain
+app-emacs/khoj 0.11.4: AI personal assistant for your digital brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
@@ -2563,7 +2563,7 @@ app-emacs/ssh-deploy 3.1.16: Deployment via Tramp, global or per directory.
 app-emacs/stan-mode 10.2.0: Major mode for editing Stan files
 app-emacs/stan-snippets 10.2.0: Yasnippets for Stan
 app-emacs/standard-dirs 2.0.0: Platform-specific paths for config, cache, and other data
-app-emacs/starhugger 0.3.1: Hugging Face/AI-powered text & code completion client
+app-emacs/starhugger 0.4.0: Hugging Face/AI-powered text & code completion client
 app-emacs/stash 0.4.1: lightweight persistent caching
 app-emacs/status 0.3: This package adds support for status icons to Emacs.
 app-emacs/stgit 2.3.2: major mode for StGit interaction
@@ -2844,7 +2844,7 @@ app-emacs/winring 5.1: Window configuration rings
 app-emacs/winum 2.1.0: Navigate windows and frames using numbers.
 app-emacs/wisp-mode 1.0.11: Tools for wisp: the Whitespace-to-Lisp preprocessor
 app-emacs/wispjs-mode 0.2.0: Major mode for Wisp code.
-app-emacs/with-editor 3.3.1: Use the Emacsclient as $EDITOR
+app-emacs/with-editor 3.3.2: Use the Emacsclient as $EDITOR
 app-emacs/with-shell-interpreter 0.2.4: Helper for shell command APIs
 app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interactively
 app-emacs/with-venv 0.0.2: Execute with Python virtual environment activated
