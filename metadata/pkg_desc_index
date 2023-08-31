@@ -233,7 +233,7 @@ app-emacs/bui 1.2.1: Buffer interface library
 app-emacs/build-farm 0.2.2: Interface for Nix and Guix build farms (Hydra and Cuirass)
 app-emacs/build-status 0.0.2: Mode line build status indicator
 app-emacs/bundler 1.1.0: Interact with Bundler from Emacs
-app-emacs/burly 0.2: Save and restore frame/window configurations with buffers
+app-emacs/burly 0.3: Save and restore frame/window configurations with buffers
 app-emacs/bury-successful-compilation 0.1.2: Bury the *compilation* buffer after successful compilation
 app-emacs/butler 0.2.6: Emacs client for Jenkins
 app-emacs/buttercup 1.31: Behavior-Driven Emacs Lisp Testing
@@ -1617,7 +1617,7 @@ app-emacs/live-code-talks 0.2.1: Support for slides with live code in them
 app-emacs/live-preview 0.1.2: Live preview by any shell command while editing
 app-emacs/live-py-mode 4.10.2: Live Coding in Python
 app-emacs/lively 0.2: interactively updating text
-app-emacs/llama 0.3.0: Compact syntax for short lambda
+app-emacs/llama 0.3.1: Compact syntax for short lambda
 app-emacs/lms 1.1: Squeezebox / Logitech Media Server frontend
 app-emacs/load-relative 1.3.2: Relative file load (within a multi-file Emacs package)
 app-emacs/loc-changes 1.1: Helps users and programs keep track of positions even after buffer changes.
@@ -2086,7 +2086,7 @@ app-emacs/ox-pandoc 2.0: An Org-mode exporter using pandoc
 app-emacs/ox-report 0.4: Export your org file to minutes report PDF file
 app-emacs/ox-review 0.3.0: Re:VIEW Back-End for Org Export Engine
 app-emacs/ox-timeline 0.1.0: HTML Timeline Back-End for Org Export Engine
-app-emacs/ox-tufte 3.0.0: Tufte HTML org-mode export backend
+app-emacs/ox-tufte 3.0.1: Tufte HTML org-mode export backend
 app-emacs/ox-twbs 1.1.4: Bootstrap compatible HTML Back-End for Org
 app-emacs/ox-wk 0.3.0: Wiki Back-End for Org Export Engine
 app-emacs/ox-yaow 1.0: Generate html pages from org files
