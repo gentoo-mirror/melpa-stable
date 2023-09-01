@@ -583,7 +583,7 @@ app-emacs/double-saber 0.0.3: Narrow and delete in search buffers.
 app-emacs/downplay-mode 0.1: focus attention on a region of the buffer
 app-emacs/dpkg-dev-el 37.1: Emacs modes for debian packaging
 app-emacs/dr-racket-like-unicode 1.1.0: DrRacket-style unicode input
-app-emacs/dracula-theme 1.7.0: Dracula Theme
+app-emacs/dracula-theme 1.8.0: Dracula Theme
 app-emacs/draft-mode 0.1.1: Rough drafting for Emacs.
 app-emacs/drag-stuff 0.3.0: Drag stuff (lines, words, region, etc...) around
 app-emacs/drupal-mode 0.7.3: Advanced minor mode for Drupal development
