@@ -2042,7 +2042,7 @@ app-emacs/org-upcoming-modeline 0.1.5: Show next org event in mode line
 app-emacs/org-vcard 0.2.0: org-mode support for vCard export and import.
 app-emacs/org-visibility 1.1.12: Persistent org tree visibility
 app-emacs/org-web-tools 1.1.1: Display and capture web content with Org-mode
-app-emacs/org-wild-notifier 0.4.1: Customizable org-agenda notifications
+app-emacs/org-wild-notifier 0.5.0: Customizable org-agenda notifications
 app-emacs/org-working-set 2.6.4: Manage and visit a small set of org-nodes.
 app-emacs/org-zettelkasten 0.7.0: A Zettelkasten mode leveraging Org
 app-emacs/org2blog 1.1.16: Blog from Org mode to WordPress
@@ -2687,7 +2687,7 @@ app-emacs/tray 0.1.1: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.30: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.34: Grammar bundle for tree-sitter
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 3.1: all-the-icons integration for treemacs
