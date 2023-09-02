@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Elisp development tool"
 
-HOMEPAGE="https://github.com/doublep/eldev"
+HOMEPAGE="https://github.com/emacs-eldev/eldev"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
