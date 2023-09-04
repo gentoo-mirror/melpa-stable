@@ -141,6 +141,7 @@ app-emacs/auto-minor-mode 20180527.1: Enable minor modes by file name and conten
 app-emacs/auto-package-update 1.6.1: Automatically update Emacs packages.
 app-emacs/auto-rename-tag 0.3.5: Automatically rename paired HTML/XML tag
 app-emacs/auto-shell-command 1.0.2: Run the shell command asynchronously that you specified when you save the file.
+app-emacs/auto-sort-mode 0.1.4: Automatically sort lines between two delimiters
 app-emacs/auto-sudoedit 1.1.0: Auto sudo edit by tramp
 app-emacs/auto-yasnippet 0.3.0: Quickly create disposable yasnippets
 app-emacs/autobuild 2.0: Define and execute build rules and compilation pipelines
@@ -161,7 +162,7 @@ app-emacs/banner-comment 2.7: For producing banner comments.
 app-emacs/base16-theme 3.1: Collection of themes built on combinations of 16 base colors
 app-emacs/bash-completion 3.1.1: Bash completion for the shell buffer
 app-emacs/basic-ide 0.0.3: BASIC IDE c64
-app-emacs/basic-mode 1.1.1: Major mode for editing BASIC code
+app-emacs/basic-mode 1.1.2: Major mode for editing BASIC code
 app-emacs/battery-notifier 0.2.2: Notify when battery capacity is low
 app-emacs/bbcode-mode 2.3.0: Major mode for phpBB posts (BBCode markup)
 app-emacs/bbdb 3.2: core of BBDB
@@ -188,7 +189,7 @@ app-emacs/bind-key 2.4.4: A simple way to manage personal keybindings
 app-emacs/bind-map 1.1.1: Bind personal keymaps in multiple locations
 app-emacs/binder 0.4.4: Global minor mode to facilitate multi-file writing projects
 app-emacs/bing-dict 0.2.4: Minimalists' English-Chinese Bing dictionary
-app-emacs/binky 1.3.0: Jump between points like a rabbit
+app-emacs/binky 1.3.1: Jump between points like a rabbit
 app-emacs/birds-of-paradise-plus-theme 0.1.1: A brown/orange light-on-dark theme for Emacs 24 (deftheme).
 app-emacs/bison-mode 0.3: Major mode for editing bison, yacc and lex files.
 app-emacs/bitpack 1.0.1: Bit packing functions
@@ -362,7 +363,7 @@ app-emacs/company-coq 1.0.1: A collection of extensions for Proof General's Coq 
 app-emacs/company-ctags 0.0.7: Fastest company-mode completion backend for ctags
 app-emacs/company-dict 1.2.8: A backend that emulates ac-source-dictionary
 app-emacs/company-emacs-eclim 0.4: company-mode backend for eclim
-app-emacs/company-emoji 2.7.0: company-mode backend for emoji
+app-emacs/company-emoji 2.8.0: company-mode backend for emoji
 app-emacs/company-emojify 0.1.0: Company completion for Emojify
 app-emacs/company-erlang 0.1.1: company backend based on ivy-erlang-complete
 app-emacs/company-fuzzy 1.4.0: Fuzzy matching for `company-mode'
@@ -395,6 +396,7 @@ app-emacs/company-ycmd 1.2: company-mode backend for ycmd
 app-emacs/competitive-programming-snippets 1.1.4: Competitive Programming snippets for Yasnippet
 app-emacs/compile-multi 0.5: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 0.5: Affixate `compile-multi' with icons
+app-emacs/compile-multi-embark 0.5: compile-multi integration for `embark'
 app-emacs/compiler-explorer 0.2.0: Compiler explorer client (godbolt.org)
 app-emacs/composable 0.0.1: composable editing
 app-emacs/composer 0.2.0: Interface to PHP Composer
@@ -423,6 +425,7 @@ app-emacs/copy-as-format 0.0.8: Copy buffer locations as GitHub/Slack/JIRA/HipCh
 app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
 app-emacs/copyit-pandoc 0.1.0: Copy it, yank anything!
+app-emacs/corfu 0.38: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 1.3: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 6.1: prescient.el + Corfu
 app-emacs/corral 0.3: Quickly surround text with delimiters
@@ -502,6 +505,7 @@ app-emacs/deft 0.8: quickly browse, filter, and edit plain text notes
 app-emacs/demangle-mode 2.0: Automatically demangle C++ symbols
 app-emacs/demap 1.4.0: Detachable minimap package
 app-emacs/deno-fmt 0.2.0: Minor mode for using deno fmt on save
+app-emacs/deno-ts-mode 0.2.0: Major mode for Deno
 app-emacs/describe-hash 0.1.0: Help function for examining a hash map
 app-emacs/describe-number 0.3.1: Describe arbitrarily large number at point.
 app-emacs/desktop+ 0.2: Handle special buffers when saving & restoring sessions
@@ -583,7 +587,7 @@ app-emacs/double-saber 0.0.3: Narrow and delete in search buffers.
 app-emacs/downplay-mode 0.1: focus attention on a region of the buffer
 app-emacs/dpkg-dev-el 37.1: Emacs modes for debian packaging
 app-emacs/dr-racket-like-unicode 1.1.0: DrRacket-style unicode input
-app-emacs/dracula-theme 1.8.0: Dracula Theme
+app-emacs/dracula-theme 1.8.1: Dracula Theme
 app-emacs/draft-mode 0.1.1: Rough drafting for Emacs.
 app-emacs/drag-stuff 0.3.0: Drag stuff (lines, words, region, etc...) around
 app-emacs/drupal-mode 0.7.3: Advanced minor mode for Drupal development
@@ -593,6 +597,7 @@ app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
 app-emacs/dune 3.10.0: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
+app-emacs/duplexer 0.1.0: Handle conflicts between local minor modes and reuse rules
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
 app-emacs/dylan 0.1.0: Dylan editing modes
 app-emacs/dynamic-fonts 0.6.4: Set faces based on available fonts
@@ -1859,6 +1864,7 @@ app-emacs/nodejs-repl 0.2.4: Run Node.js REPL
 app-emacs/nodemcu-mode 0.1.0: Minor mode for NodeMCU
 app-emacs/nofrils-acme-theme 0.1.0: Port of "No Frils Acme" Vim theme.
 app-emacs/noir-mode 1.0.0: Description
+app-emacs/noir-ts-mode 1.0.0: tree-sitter support for Noir
 app-emacs/nord-theme 0.5.0: An arctic, north-bluish clean and elegant theme
 app-emacs/nordic-night-theme 2.0.2: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 0.2: A mostly colorless version of nord-theme
@@ -2186,7 +2192,7 @@ app-emacs/plur 0.1: Easily search and replace multiple variants of a word
 app-emacs/pmdm 1.1: poor man's desktop-mode alternative.
 app-emacs/po-mode 0.21: major mode for GNU gettext PO files
 app-emacs/pocket-lib 0.1: Library for accessing getpocket.com API
-app-emacs/pocket-reader 0.2.1: Client for Pocket reading list
+app-emacs/pocket-reader 0.3: Client for Pocket reading list
 app-emacs/poe-lootfilter-mode 1.0.0: Major mode for editing Path of Exile lootfilters
 app-emacs/poetry 0.1.0: poetry in Emacs
 app-emacs/point-pos 0.1: Save and restore point positions
@@ -2651,7 +2657,7 @@ app-emacs/textx-mode 0.0.2: Major mode for editing TextX files
 app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
-app-emacs/thrift 2023.8.28.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2023.9.4.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.4: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2687,7 +2693,7 @@ app-emacs/tray 0.1.1: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.36: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.42: Grammar bundle for tree-sitter
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 3.1: all-the-icons integration for treemacs
@@ -2771,6 +2777,7 @@ app-emacs/vegetative-theme 1.0.2: A Theme based on green CRT terminals
 app-emacs/verb 2.15.0: Organize and send HTTP requests
 app-emacs/verilog-ext 0.2.0: SystemVerilog Extensions
 app-emacs/verilog-ts-mode 0.2.0: Verilog Tree-Sitter Mode
+app-emacs/vertico 1.4: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 6.1: prescient.el + Vertico
 app-emacs/vertigo 1.0: Jump across lines using the home row.
 app-emacs/vhdl-ext 0.2.0: VHDL Extensions
