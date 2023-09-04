@@ -20,6 +20,7 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/dash
 	app-emacs/kv
+	app-emacs/peg
 	app-emacs/pocket-lib
 	app-emacs/s
 	app-emacs/ov
@@ -28,6 +29,7 @@ DEPEND="app-emacs/dash
 	app-emacs/ht"
 RDEPEND="app-emacs/dash
 	app-emacs/kv
+	app-emacs/peg
 	app-emacs/pocket-lib
 	app-emacs/s
 	app-emacs/ov
