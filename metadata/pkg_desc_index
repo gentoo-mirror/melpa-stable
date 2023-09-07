@@ -1597,7 +1597,7 @@ app-emacs/liblouis 0.2: Mode for editing liblouis braille translation tables
 app-emacs/libmpdel 2.0.0: Communication with an MPD server
 app-emacs/lice 0.3: License And Header Template
 app-emacs/license-templates 0.1.3: Create LICENSE using GitHub API
-app-emacs/ligo-mode 0.72.0: A major mode for editing LIGO source code
+app-emacs/ligo-mode 0.73.0: A major mode for editing LIGO source code
 app-emacs/line-reminder 0.5.1: Line annotation for changed and saved lines
 app-emacs/line-up-words 1.0.0: Align words in an intelligent way
 app-emacs/lingr 0.2: Lingr Client for GNU Emacs
@@ -2005,7 +2005,7 @@ app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.7.1: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
-app-emacs/org-re-reveal 3.20.0: Org export to reveal.js presentations
+app-emacs/org-re-reveal 3.21.0: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
 app-emacs/org-re-reveal-ref 1.0.0: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
@@ -2813,7 +2813,7 @@ app-emacs/weak-ref 2.0: weak references for Emacs Lisp
 app-emacs/weather-metno 0.1.0: Weather data from met.no in Emacs
 app-emacs/web-beautify 0.3.2: Format HTML, CSS and JavaScript/JSON by js-beautify
 app-emacs/web-completion-data 0.2: Shared completion data for ac-html and company-web
-app-emacs/web-mode 17.2.1: major mode for editing web templates
+app-emacs/web-mode 17.3.13: major mode for editing web templates
 app-emacs/web-mode-edit-element 2.3: Helper-functions for attribute- and element-handling
 app-emacs/web-search 0.1.2: Open a web search
 app-emacs/weblio 0.3.4: Look up Japanese words on Weblio.jp
@@ -2886,7 +2886,7 @@ app-emacs/xwidgets-reuse 0.2: Reuse xwidgets sessions to reduce resource consump
 app-emacs/yabaki-theme 2.0.0: Yabaki, the cast shadow
 app-emacs/yafolding 0.4.1: Folding code blocks based on indentation
 app-emacs/yagist 0.8.12: Yet Another Emacs integration for gist.github.com
-app-emacs/yaml 0.5.2: YAML parser for Elisp
+app-emacs/yaml 0.5.3: YAML parser for Elisp
 app-emacs/yaml-imenu 1.0.3: Enhancement of the imenu support in yaml-mode.
 app-emacs/yaml-mode 0.0.15: Major mode for editing YAML files
 app-emacs/yaml-pro 0.3.3: Parser-aided YAML editing features
