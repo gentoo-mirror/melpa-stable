@@ -1283,7 +1283,7 @@ app-emacs/helm-notmuch 1.2: Search emails with Notmuch and Helm
 app-emacs/helm-open-github 0.15: Utilities of Opening Github Page
 app-emacs/helm-org 1.0: Helm for org headlines and keywords completion
 app-emacs/helm-org-multi-wiki 0.4.0: Helm interface to org-multi-wiki
-app-emacs/helm-org-ql 0.7: Helm support for org-ql
+app-emacs/helm-org-ql 0.7.1: Helm support for org-ql
 app-emacs/helm-org-rifle 1.7.1: Rifle through your Org files
 app-emacs/helm-orgcard 0.2: browse the orgcard by helm
 app-emacs/helm-pages 0.1.1: Pages in current buffer as Helm datasource
@@ -2003,7 +2003,7 @@ app-emacs/org-project-capture 3.1.0: Repository todo capture and management for 
 app-emacs/org-projectile 3.1.0: Repository todo capture and management for org-mode with projectile
 app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
-app-emacs/org-ql 0.7: Org Query Language, search command, and agenda-like view
+app-emacs/org-ql 0.7.1: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
 app-emacs/org-re-reveal 3.20.0: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
@@ -2210,7 +2210,7 @@ app-emacs/pomm 0.2.0: Pomodoro and Third Time timers
 app-emacs/pony-snippets 0.0.1: Yasnippets for Pony
 app-emacs/ponylang-mode 0.6.0: A major mode for the Pony programming language
 app-emacs/pophint 1.3.0: Provide navigation using pop-up tips, like Firefox's Vimperator Hint Mode
-app-emacs/popper 0.4.6: Summon and dismiss buffers as popups
+app-emacs/popper 0.4.7: Summon and dismiss buffers as popups
 app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/popup-complete 0.2: completion with popup
 app-emacs/popup-imenu 0.6.1: imenu index popup
