@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Your AI assistant with ChatGPT, DALL-E, Whisper, Stable Diffusion"
+DESCRIPTION="Use ChatGPT and other LLMs in org-mode and beyond"
 
 HOMEPAGE="https://github.com/rksm/org-ai"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
@@ -18,5 +18,5 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/websocket"
+RDEPEND="app-emacs/websocket"
