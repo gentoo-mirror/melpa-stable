@@ -2938,6 +2938,6 @@ app-emacs/zotelo 1.3: Manage Zotero collections from emacs
 app-emacs/zotero 0.2.3: Library for the Zotero API
 app-emacs/zotxt 5.0.5: Tools to integrate emacs with Zotero via the zotxt plugin.
 app-emacs/zoutline 0.2.0: Simple outline library.
-app-emacs/zoxide 1.2.1: Find file by zoxide
+app-emacs/zoxide 1.2.2: Find file by zoxide
 app-emacs/zygospore 0.0.3: reversible C-x 1 (delete-other-windows)
 app-emacs/zzz-to-char 1.0.0: Fancy version of `zap-to-char' command
