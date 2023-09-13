@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Verilog Tree-Sitter Mode</longdescription>
+	<longdescription>Verilog Tree-sitter major mode</longdescription>
 </pkgmetadata>
