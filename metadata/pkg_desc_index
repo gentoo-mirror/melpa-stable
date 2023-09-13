@@ -2777,13 +2777,13 @@ app-emacs/vector-utils 0.1.2: Vector-manipulation utility functions
 app-emacs/vegetative-theme 1.0.2: A Theme based on green CRT terminals
 app-emacs/verb 2.15.0: Organize and send HTTP requests
 app-emacs/verilog-ext 0.2.1: SystemVerilog Extensions
-app-emacs/verilog-ts-mode 0.2.1: Verilog Tree-Sitter Mode
+app-emacs/verilog-ts-mode 0.1.0: Verilog Tree-sitter major mode
 app-emacs/vertico 1.4: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 6.1: prescient.el + Vertico
 app-emacs/vertigo 1.0: Jump across lines using the home row.
 app-emacs/vhdl-ext 0.2.0: VHDL Extensions
 app-emacs/vhdl-tools 6.2: Utilities for navigating vhdl sources.
-app-emacs/vhdl-ts-mode 0.2.0: VHDL Extensions for Emacs
+app-emacs/vhdl-ts-mode 0.1.0: VHDL Tree-sitter major mode
 app-emacs/vim-region 0.3.0: Select region as vim
 app-emacs/vimgolf 0.10.3: VimGolf interface for the One True Editor
 app-emacs/vimish-fold 0.2.3: Fold text like in Vim
