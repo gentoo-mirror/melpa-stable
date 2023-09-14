@@ -5,20 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="fpga"
+REALNAME="wavedrom-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="FPGA & ASIC Utils"
+DESCRIPTION="WaveDrom Integration"
 
-HOMEPAGE="https://github.com/gmlarumbe/fpga"
+HOMEPAGE="https://github.com/gmlarumbe/wavedrom-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/ggtags
-	app-emacs/company"
-RDEPEND="app-emacs/ggtags
-	app-emacs/company"
+DEPEND=""
+RDEPEND=""
