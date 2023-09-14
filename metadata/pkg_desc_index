@@ -85,7 +85,7 @@ app-emacs/angular-snippets 0.2.3: Yasnippets for AngularJS
 app-emacs/anki-mode 0.1: TODO
 app-emacs/annalist 1.0.1: Record and display information such as keybindings
 app-emacs/annotate 1.4.3: annotate files without changing them
-app-emacs/annotation 2.6.3.20230805: Functions for annotating text with faces and help bubbles
+app-emacs/annotation 2.6.3.20230914: Functions for annotating text with faces and help bubbles
 app-emacs/annoying-arrows-mode 0.1.0: Ring the bell if using arrows too much
 app-emacs/ansi 0.4.1: Turn string into ansi strings
 app-emacs/ansible 0.3.2: Ansible minor mode
@@ -747,7 +747,7 @@ app-emacs/ercn 1.1.1: Flexible ERC notifications
 app-emacs/eredis 0.9.6: eredis, a Redis client in emacs lisp
 app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics.
-app-emacs/eri 2.6.3.20230805: Enhanced relative indentation (eri)
+app-emacs/eri 2.6.3.20230914: Enhanced relative indentation (eri)
 app-emacs/erk 0.3.2: Elisp (GitHub) Repository Kit
 app-emacs/erlang 26.0.2: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
@@ -1021,7 +1021,7 @@ app-emacs/format-sql 0.4: Use format-sql to make your SQL readable in directly E
 app-emacs/format-table 0.0.1: Parse and reformat tabular data.
 app-emacs/fortune-cookie 1.0.0: Print a fortune in your scratch buffer.
 app-emacs/fountain-mode 3.6.2: Major mode for screenwriting in Fountain markup
-app-emacs/fpga 0.1.0: FPGA & ASIC Utils
+app-emacs/fpga 0.2.0: FPGA & ASIC Utils
 app-emacs/frame-purpose 1.0: Purpose-specific frames
 app-emacs/frames-only-mode 1.0.0: Use frames instead of Emacs windows
 app-emacs/frameshot 0.2.6: Take screenshots of a frame
@@ -2808,6 +2808,7 @@ app-emacs/wacspace 0.4.2: The WACky WorkSPACE manager for emACS
 app-emacs/walkclj 0.2.0: Manipulate Clojure parse trees
 app-emacs/walkman 0.2: Write HTTP requests in Org mode
 app-emacs/wandbox 0.6.4: Wandbox client
+app-emacs/wavedrom-mode 0.1.0: WaveDrom Integration
 app-emacs/wc-goal-mode 2.1: Running word count with goals (minor mode)
 app-emacs/wc-mode 1.4.1: Running word count with goals (minor mode)
 app-emacs/weak-ref 2.0: weak references for Emacs Lisp
