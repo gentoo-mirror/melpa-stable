@@ -19,12 +19,12 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/dash
-	app-emacs/dash-functional
 	app-emacs/f
 	app-emacs/pretty-hydra
-	app-emacs/magit-section"
+	app-emacs/magit-section
+	app-emacs/map"
 RDEPEND="app-emacs/dash
-	app-emacs/dash-functional
 	app-emacs/f
 	app-emacs/pretty-hydra
-	app-emacs/magit-section"
+	app-emacs/magit-section
+	app-emacs/map"
