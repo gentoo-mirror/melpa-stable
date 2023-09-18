@@ -227,7 +227,7 @@ app-emacs/buffer-sets 3.7.2: Sets of Buffers for Buffer Management
 app-emacs/buffer-utils 0.1.0: Buffer-manipulation utility functions
 app-emacs/buffer-watcher 0.1: Makes it easy to run shell scripts per filetype/directory when a buffer is saved.
 app-emacs/buffer-wrap 0.1.5: Wrap the beginning and the end of buffer
-app-emacs/bufler 0.2: Group buffers into workspaces with programmable rules
+app-emacs/bufler 0.3: Group buffers into workspaces with programmable rules
 app-emacs/bufshow 0.1.0: No description available.
 app-emacs/bug-reference-github 1.0.0: Set `bug-reference-url-format' in Github repos
 app-emacs/bui 1.2.1: Buffer interface library
@@ -316,7 +316,7 @@ app-emacs/clingo-mode 0.4.0: A major mode for editing Answer Set Programs
 app-emacs/clipetty 0.1: Send every kill from a TTY frame to the system clipboard
 app-emacs/cliphist 0.6.3: paste from clipboard managers
 app-emacs/clips-mode 0.7: Major mode for editing CLIPS code and REPL
-app-emacs/clj-refactor 3.9.1: A collection of commands for refactoring Clojure code
+app-emacs/clj-refactor 3.9.4: A collection of commands for refactoring Clojure code
 app-emacs/cljr-helm 0.11: Wraps clojure refactor commands with helm
 app-emacs/clocker 0.0.11: Note taker and clock-in enforcer
 app-emacs/clockodo 0.8.0: A small integration for the clockodo api
@@ -488,7 +488,7 @@ app-emacs/dashboard-ls 0.3.0: Display files/directories in current directory on 
 app-emacs/dashboard-project-status 0.0.1: Display a git project status in a dashboard widget.
 app-emacs/date-at-point 0.1: Add `date' to `thing-at-point' function
 app-emacs/date-field 0.0.1: Date widget
-app-emacs/datetime 0.8: Parsing, formatting and matching timestamps
+app-emacs/datetime 0.9: Parsing, formatting and matching timestamps
 app-emacs/dbc 0.1: Control how to open buffers
 app-emacs/ddskk-posframe 1.0.0: Show Henkan tooltip for ddskk via posframe
 app-emacs/deadgrep 0.12: fast, friendly searching with ripgrep
@@ -610,6 +610,7 @@ app-emacs/e2wm-pkgex4pl 0.0.1: Plugin of e2wm.el for package explorer of Perl
 app-emacs/e2wm-sww 0.0.3: Plugin of e2wm.el to switch plugin quickly
 app-emacs/e2wm-term 0.0.5: Perspective of e2wm.el for work in terminal
 app-emacs/eacl 2.2.0: Auto-complete lines by grepping project
+app-emacs/eask 0.8.2: Core Eask APIs, for Eask CLI development
 app-emacs/easy-hugo 3.9.59: Write blogs made with hugo by markdown or org-mode
 app-emacs/easy-jekyll 2.6.30: Major mode managing jekyll blogs
 app-emacs/easy-kill 0.9.4: kill & mark things easily
@@ -663,7 +664,7 @@ app-emacs/elescope 0.2: Seach and clone projects from the minibuffer
 app-emacs/elf-mode 0.1.0: Show symbols in binaries
 app-emacs/elfeed 3.4.1: an Emacs Atom/RSS feed reader
 app-emacs/elfeed-autotag 0.1.2: Easy auto-tagging for elfeed
-app-emacs/elfeed-protocol 0.8.1: Provide fever/newsblur/owncloud/ttrss protocols for elfeed
+app-emacs/elfeed-protocol 0.9.0: Provide fever/newsblur/owncloud/ttrss protocols for elfeed
 app-emacs/elfeed-score 1.2.7: Gnus-style scoring for Elfeed
 app-emacs/elfeed-summary 0.1.0: Feed summary interface for elfeed
 app-emacs/elfeed-tube 0.15: YouTube integration for Elfeed
@@ -1027,9 +1028,9 @@ app-emacs/frames-only-mode 1.0.0: Use frames instead of Emacs windows
 app-emacs/frameshot 0.2.6: Take screenshots of a frame
 app-emacs/free-keys 1.0.0: Show free keybindings for modkeys or prefixes
 app-emacs/freeze-it 0.2.2: Minor mode to make your previous writing read-only
-app-emacs/friendly-remote-shell 0.2.4: Human-friendly remote interactive shells
-app-emacs/friendly-shell 0.2.4: Better shell-mode API
-app-emacs/friendly-shell-command 0.2.4: Better shell-command API
+app-emacs/friendly-remote-shell 0.2.5: Human-friendly remote interactive shells
+app-emacs/friendly-shell 0.2.5: Better shell-mode API
+app-emacs/friendly-shell-command 0.2.5: Better shell-command API
 app-emacs/friendly-tramp-path 0.1.0: Human-friendly TRAMP path construction
 app-emacs/fringe-helper 1.0.1: helper functions for fringe bitmaps
 app-emacs/frontside-javascript 1.0.0: JS development that just work™️
@@ -1232,7 +1233,7 @@ app-emacs/helm-bibtex 2.0.0: A BibTeX bibliography manager based on Helm
 app-emacs/helm-bitbucket 0.1.4: Search Bitbucket with Helm
 app-emacs/helm-bm 0.3: helm sources for bm.el
 app-emacs/helm-books 1.0.1: Helm interface for searching books
-app-emacs/helm-bufler 0.2: Helm source for Bufler
+app-emacs/helm-bufler 0.3: Helm source for Bufler
 app-emacs/helm-bundle-show 1.1.6: Bundle show with helm interface
 app-emacs/helm-c-yasnippet 0.6.7: helm source for yasnippet.el
 app-emacs/helm-cider 0.5.0: Helm interface to CIDER
@@ -1443,6 +1444,7 @@ app-emacs/insert-shebang 0.9.7: Insert shebang line automatically.
 app-emacs/instapaper 0.9.5: No description available.
 app-emacs/intel-hex-mode 0.1.3: Mode for Intel Hex files.
 app-emacs/intellij-theme 1.3: Inspired by IntelliJ's default theme
+app-emacs/iota 1.0.2: Replace marker with increasing integers
 app-emacs/iplayer 0.1: Browse and download BBC TV/radio shows
 app-emacs/ipp 0.7: Implementation of the Internet Printing Protocol
 app-emacs/ipython-shell-send 1.1.1: Send code (including magics) to ipython shell
@@ -1758,7 +1760,7 @@ app-emacs/mips-mode 1.2.0: Major-mode for MIPS assembly
 app-emacs/mixed-pitch 1.1.1: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mlscroll 0.1.6: A scroll bar for the modeline
 app-emacs/mmm-jinja2 0.1: MMM submode class for Jinja2 Templates
-app-emacs/mmm-mode 0.5.9: Allow Multiple Major Modes in a buffer
+app-emacs/mmm-mode 0.5.10: Allow Multiple Major Modes in a buffer
 app-emacs/mmt 0.2.0: Missing macro tools for Emacs Lisp
 app-emacs/mocha 1.1: Run Mocha or Jasmine tests
 app-emacs/mocha-snippets 2.0.0: Yasnippets for the Mocha JS Testing Framework
@@ -2589,7 +2591,7 @@ app-emacs/subsonic 0.4.1: Browse and play music from subsonic servers with mpv
 app-emacs/sudo-edit 0.1.1: Open files as another user
 app-emacs/sudo-utils 3.0.1: Sudo utilities
 app-emacs/suggest 0.7: suggest elisp functions that give the output requested
-app-emacs/sumibi 1.8.0: Japanese input method powered by ChatGPT API
+app-emacs/sumibi 1.9.0: Japanese input method powered by ChatGPT API
 app-emacs/suomalainen-kalenteri 2023.1.2: Finnish national and Christian holidays for calendar
 app-emacs/super-save 0.3.0: Auto-save buffers, based on your activity.
 app-emacs/svg-mode-line-themes 0.1.3: SVG-based themes for mode-line
@@ -2659,7 +2661,7 @@ app-emacs/textx-mode 0.0.2: Major mode for editing TextX files
 app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
-app-emacs/thrift 2023.9.11.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2023.9.18.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.4: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2696,6 +2698,7 @@ app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-langs 0.12.49: Grammar bundle for tree-sitter
+app-emacs/treebundel 0.1.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 3.1: all-the-icons integration for treemacs
@@ -2745,6 +2748,7 @@ app-emacs/unicode-whitespace 0.2.4: teach whitespace-mode about fancy characters
 app-emacs/unify-opening 2.2.0: Unify the mechanism to open files
 app-emacs/unisonlang-mode 0.2.0: Simple major mode for editing Unison
 app-emacs/units-mode 0.1.1: Mode for conversion between different units
+app-emacs/universal-sidecar 1.3.0: A universal sidecar buffer
 app-emacs/unkillable-scratch 1.0.0: Disallow the \*scratch\* buffer from being killed
 app-emacs/unmodified-buffer 1.1.0: Auto revert modified buffer state
 app-emacs/unobtrusive-magit-theme 0.4: An unobtrusive Magit theme
@@ -2777,12 +2781,12 @@ app-emacs/vdm-snippets 0.0.4: YASnippets for VDM mode
 app-emacs/vector-utils 0.1.2: Vector-manipulation utility functions
 app-emacs/vegetative-theme 1.0.2: A Theme based on green CRT terminals
 app-emacs/verb 2.15.0: Organize and send HTTP requests
-app-emacs/verilog-ext 0.2.1: SystemVerilog Extensions
-app-emacs/verilog-ts-mode 0.1.0: Verilog Tree-sitter major mode
+app-emacs/verilog-ext 0.3.0: SystemVerilog Extensions
+app-emacs/verilog-ts-mode 0.1.1: Verilog Tree-sitter major mode
 app-emacs/vertico 1.4: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 6.1: prescient.el + Vertico
 app-emacs/vertigo 1.0: Jump across lines using the home row.
-app-emacs/vhdl-ext 0.2.0: VHDL Extensions
+app-emacs/vhdl-ext 0.3.0: VHDL Extensions
 app-emacs/vhdl-tools 6.2: Utilities for navigating vhdl sources.
 app-emacs/vhdl-ts-mode 0.1.0: VHDL Tree-sitter major mode
 app-emacs/vim-region 0.3.0: Select region as vim
@@ -2855,7 +2859,7 @@ app-emacs/winum 2.1.0: Navigate windows and frames using numbers.
 app-emacs/wisp-mode 1.0.11: Tools for wisp: the Whitespace-to-Lisp preprocessor
 app-emacs/wispjs-mode 0.2.0: Major mode for Wisp code.
 app-emacs/with-editor 3.3.2: Use the Emacsclient as $EDITOR
-app-emacs/with-shell-interpreter 0.2.4: Helper for shell command APIs
+app-emacs/with-shell-interpreter 0.2.5: Helper for shell command APIs
 app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interactively
 app-emacs/with-venv 0.0.2: Execute with Python virtual environment activated
 app-emacs/wn-mode 1.4: numeric window switching shortcuts
