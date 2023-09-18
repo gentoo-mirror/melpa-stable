@@ -19,6 +19,7 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/verilog-mode
+	app-emacs/verilog-ts-mode
 	app-emacs/eglot
 	app-emacs/lsp-mode
 	app-emacs/ag
@@ -26,11 +27,11 @@ DEPEND="app-emacs/verilog-mode
 	app-emacs/hydra
 	app-emacs/apheleia
 	app-emacs/yasnippet
-	app-emacs/company
 	app-emacs/flycheck
 	app-emacs/outshine
 	app-emacs/async"
 RDEPEND="app-emacs/verilog-mode
+	app-emacs/verilog-ts-mode
 	app-emacs/eglot
 	app-emacs/lsp-mode
 	app-emacs/ag
@@ -38,7 +39,6 @@ RDEPEND="app-emacs/verilog-mode
 	app-emacs/hydra
 	app-emacs/apheleia
 	app-emacs/yasnippet
-	app-emacs/company
 	app-emacs/flycheck
 	app-emacs/outshine
 	app-emacs/async"
