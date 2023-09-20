@@ -750,7 +750,7 @@ app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics.
 app-emacs/eri 2.6.3.20230914: Enhanced relative indentation (eri)
 app-emacs/erk 0.3.2: Elisp (GitHub) Repository Kit
-app-emacs/erlang 26.0.2: Erlang major mode
+app-emacs/erlang 26.1: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/ert-async 0.1.2: Async support for ERT
 app-emacs/ert-junit 0.4.1: JUnit XML reports from ert results
