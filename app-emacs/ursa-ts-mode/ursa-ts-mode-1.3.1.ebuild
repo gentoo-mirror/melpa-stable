@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Tree-sitter support for Ursa"
+DESCRIPTION="Major mode for Ursa, using tree-sitter"
 
 HOMEPAGE="https://github.com/ursalang/ursa-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
