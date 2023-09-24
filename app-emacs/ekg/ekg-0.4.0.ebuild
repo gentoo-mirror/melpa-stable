@@ -18,5 +18,7 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/triples"
-RDEPEND="app-emacs/triples"
+DEPEND="app-emacs/triples
+	app-emacs/llm"
+RDEPEND="app-emacs/triples
+	app-emacs/llm"
