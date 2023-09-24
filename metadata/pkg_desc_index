@@ -642,7 +642,7 @@ app-emacs/eglot-jl 2.2.1: Julia support for eglot
 app-emacs/eide 2.3.1: IDE interface
 app-emacs/eink-theme 1.0.0: E Ink color theme
 app-emacs/ejc-sql 0.4.1: Emacs SQL client uses Clojure JDBC.
-app-emacs/ekg 0.3.3: A system for recording and linking information
+app-emacs/ekg 0.4.0: A system for recording and linking information
 app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
@@ -2032,7 +2032,7 @@ app-emacs/org-starter 0.2.10: A basic configuration framework for org mode
 app-emacs/org-starter-swiper 0.2.10: Swiper for org-starter
 app-emacs/org-static-blog 1.6.0: a simple org-mode based static blog generator
 app-emacs/org-sticky-header 1.1: Show off-screen Org heading at top of window
-app-emacs/org-super-agenda 1.2: Supercharge your agenda
+app-emacs/org-super-agenda 1.3: Supercharge your agenda
 app-emacs/org-superstar-mode 1.5.0: Prettify headings and plain lists in Org mode
 app-emacs/org-sync 0.3.0: Synchronize Org documents with External Issue Trackers
 app-emacs/org-table-comment 0.2.0: Org table comment modes.
