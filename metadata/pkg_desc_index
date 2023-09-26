@@ -490,7 +490,7 @@ app-emacs/dashboard-ls 0.3.0: Display files/directories in current directory on 
 app-emacs/dashboard-project-status 0.0.1: Display a git project status in a dashboard widget.
 app-emacs/date-at-point 0.1: Add `date' to `thing-at-point' function
 app-emacs/date-field 0.0.1: Date widget
-app-emacs/datetime 0.9: Parsing, formatting and matching timestamps
+app-emacs/datetime 0.9.1: Parsing, formatting and matching timestamps
 app-emacs/dbc 0.1: Control how to open buffers
 app-emacs/ddskk-posframe 1.0.0: Show Henkan tooltip for ddskk via posframe
 app-emacs/deadgrep 0.12: fast, friendly searching with ripgrep
@@ -1164,7 +1164,7 @@ app-emacs/goto-char-preview 0.1.0: Preview character when executing `goto-char` 
 app-emacs/goto-chg 1.7.5: Go to last change
 app-emacs/goto-last-change 1.2.1: Move point through buffer-undo-list positions
 app-emacs/goto-line-preview 0.1.1: Preview line when executing `goto-line` command
-app-emacs/govc 0.30.7: Interface to govc for managing VMware ESXi and vCenter
+app-emacs/govc 0.31.0: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
@@ -1745,7 +1745,7 @@ app-emacs/metamorph 1.0.0: Transform your buffers with lisp
 app-emacs/metaweblog 1.1.16: An XML-RPC MetaWeblog and WordPress API client
 app-emacs/mew 6.9: Messaging in the Emacs World
 app-emacs/meyvn 1.0: Emacs meyvn Client
-app-emacs/mgmtconfig-mode 0.0.23: mgmt configuration management language
+app-emacs/mgmtconfig-mode 0.0.24: mgmt configuration management language
 app-emacs/mhc 1.2.4: Message Harmonized Calendaring system.
 app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
