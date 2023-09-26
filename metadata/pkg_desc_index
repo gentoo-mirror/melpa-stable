@@ -1840,7 +1840,7 @@ app-emacs/navi-mode 2.0: major-mode for easy buffer-navigation
 app-emacs/navigel 0.7.0: Facilitate the creation of tabulated-list based UIs
 app-emacs/navorski 0.2.7: Helping you live in the terminal, like Viktor did.
 app-emacs/ncl-mode 0.99: Major Mode for editing NCL scripts and other goodies
-app-emacs/neil 0.1.60: companion for Babashka Neil
+app-emacs/neil 0.2.61: companion for Babashka Neil
 app-emacs/nemerle 1.2: major mode for editing nemerle programs
 app-emacs/neon-mode 1.3.0: Simple major mode for editing neon files
 app-emacs/neotree 0.6.0: A tree plugin like NerdTree for Vim
