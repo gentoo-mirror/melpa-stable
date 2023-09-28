@@ -753,7 +753,7 @@ app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics.
 app-emacs/eri 2.6.3.20230914: Enhanced relative indentation (eri)
 app-emacs/erk 0.3.2: Elisp (GitHub) Repository Kit
-app-emacs/erlang 26.1: Erlang major mode
+app-emacs/erlang 26.1.1: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/ert-async 0.1.2: Async support for ERT
 app-emacs/ert-junit 0.4.1: JUnit XML reports from ert results
@@ -1452,7 +1452,7 @@ app-emacs/iplayer 0.1: Browse and download BBC TV/radio shows
 app-emacs/ipp 0.7: Implementation of the Internet Printing Protocol
 app-emacs/ipython-shell-send 1.1.1: Send code (including magics) to ipython shell
 app-emacs/ir-black-theme 1.0.1: Port of ir-black theme
-app-emacs/irony 1.5.0: C/C++ minor mode powered by libclang
+app-emacs/irony 1.6.0: C/C++ minor mode powered by libclang
 app-emacs/isearch-project 0.2.6: Incremental search through the whole project
 app-emacs/isgd 1.1: Shorten URLs using the isgd.com shortener service
 app-emacs/islisp-mode 0.3.1: Major mode for ISLisp programming
