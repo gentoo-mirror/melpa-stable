@@ -2133,7 +2133,7 @@ app-emacs/parse-it 0.2.1: Basic Parser in Emacs Lisp
 app-emacs/parsebib 4.3: A library for parsing bib files
 app-emacs/parsec 0.1.4: Parser combinator library
 app-emacs/parseclj 1.1.0: Clojure/EDN parser
-app-emacs/parseedn 1.1.0: Clojure/EDN parser
+app-emacs/parseedn 1.2.0: Clojure/EDN parser
 app-emacs/pass 2.0: Major mode for password-store.el
 app-emacs/passmm 1.0.0: A minor mode for pass (Password Store)
 app-emacs/password-store 1.7.4: Password store (pass) support
