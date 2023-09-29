@@ -19,8 +19,10 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/popup
+	app-emacs/pos-tip
 	app-emacs/chinese-word-at-point
 	app-emacs/names"
 RDEPEND="app-emacs/popup
+	app-emacs/pos-tip
 	app-emacs/chinese-word-at-point
 	app-emacs/names"
