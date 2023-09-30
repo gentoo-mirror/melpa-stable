@@ -199,7 +199,7 @@ app-emacs/blackboard-theme 1.0: TextMate Blackboard Theme
 app-emacs/blacken 0.2.0: Reformat python buffers using the "black" formatter
 app-emacs/blackjack 1.0.3: The game of Blackjack
 app-emacs/blackout 1.0: Better mode lighter overriding.
-app-emacs/blamer 0.7.2: Show git blame info about current line
+app-emacs/blamer 0.7.3: Show git blame info about current line
 app-emacs/blitzmax-mode 1.0.0: A major mode for editing BlitzMax source code
 app-emacs/blox 0.3.0: Interaction with Roblox tooling
 app-emacs/bluesound 0.2: Play, pause, resume music on a Bluesound player
@@ -2605,7 +2605,7 @@ app-emacs/sway 0.7: Communication with the Sway window manager
 app-emacs/sway-lang-mode 0.1.0: Major mode for sway
 app-emacs/sweetgreen 0.5: Order Salads from sweetgreen.com
 app-emacs/swift-helpful 0.3: Show documentation for Swift programs.
-app-emacs/swift-mode 9.0.0: Major-mode for Apple's Swift programming language
+app-emacs/swift-mode 9.1.0: Major-mode for Apple's Swift programming language
 app-emacs/swift3-mode 2.1.1: Major-mode for Apple's Swift programming language.
 app-emacs/swiper 0.14.0: Isearch with an overview. Oh, man!
 app-emacs/swiper-helm 0.2.0: Helm version of Swiper.
