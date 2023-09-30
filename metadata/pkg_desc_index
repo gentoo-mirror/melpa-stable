@@ -86,7 +86,7 @@ app-emacs/angular-snippets 0.2.3: Yasnippets for AngularJS
 app-emacs/anki-mode 0.1: TODO
 app-emacs/annalist 1.0.1: Record and display information such as keybindings
 app-emacs/annotate 1.4.3: annotate files without changing them
-app-emacs/annotation 2.6.3.20230914: Functions for annotating text with faces and help bubbles
+app-emacs/annotation 2.6.3.20230930: Functions for annotating text with faces and help bubbles
 app-emacs/annoying-arrows-mode 0.1.0: Ring the bell if using arrows too much
 app-emacs/ansi 0.4.1: Turn string into ansi strings
 app-emacs/ansible 0.3.2: Ansible minor mode
@@ -645,7 +645,7 @@ app-emacs/eglot-jl 2.2.1: Julia support for eglot
 app-emacs/eide 2.3.1: IDE interface
 app-emacs/eink-theme 1.0.0: E Ink color theme
 app-emacs/ejc-sql 0.4.1: Emacs SQL client uses Clojure JDBC.
-app-emacs/ekg 0.4.0: A system for recording and linking information
+app-emacs/ekg 0.4.1: A system for recording and linking information
 app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
@@ -751,7 +751,7 @@ app-emacs/ercn 1.1.1: Flexible ERC notifications
 app-emacs/eredis 0.9.6: eredis, a Redis client in emacs lisp
 app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics.
-app-emacs/eri 2.6.3.20230914: Enhanced relative indentation (eri)
+app-emacs/eri 2.6.3.20230930: Enhanced relative indentation (eri)
 app-emacs/erk 0.3.2: Elisp (GitHub) Repository Kit
 app-emacs/erlang 26.1.1: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
