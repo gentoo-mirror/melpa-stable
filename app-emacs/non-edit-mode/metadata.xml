@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Show mu4e maildirs summary in mu4e-main-view</longdescription>
+	<longdescription>Minor mode that disables editing</longdescription>
 </pkgmetadata>

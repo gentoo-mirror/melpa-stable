@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="mu4e-maildirs-extension"
+REALNAME="non-edit-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show mu4e maildirs summary in mu4e-main-view"
+DESCRIPTION="Minor mode that disables editing"
 
-HOMEPAGE="http://github.com/agpchil/mu4e-maildirs-extension"
+HOMEPAGE="https://gitlab.com/aragaer/non-edit-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
