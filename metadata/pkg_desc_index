@@ -1808,7 +1808,6 @@ app-emacs/msvc 1.4.3: Microsoft Visual C/C++ mode
 app-emacs/mtg-deck-mode 0.2: Major mode to edit MTG decks
 app-emacs/mu4e-alert 1.0: Desktop notification for mu4e
 app-emacs/mu4e-column-faces 1.2.1: Faces for individual mu4e columns
-app-emacs/mu4e-maildirs-extension 0.8: Show mu4e maildirs summary in mu4e-main-view
 app-emacs/mu4e-overview 0.2.0: Show overview of maildir
 app-emacs/mu4e-views 0.5: View emails in mu4e using xwidget-webkit
 app-emacs/mu4easy 1.0: Packages + configs for using mu4e with multiple accounts
@@ -1873,6 +1872,7 @@ app-emacs/nodemcu-mode 0.1.0: Minor mode for NodeMCU
 app-emacs/nofrils-acme-theme 0.1.0: Port of "No Frils Acme" Vim theme.
 app-emacs/noir-mode 1.0.0: Description
 app-emacs/noir-ts-mode 1.0.0: tree-sitter support for Noir
+app-emacs/non-edit-mode 0.2.0: Minor mode that disables editing
 app-emacs/nord-theme 0.5.0: An arctic, north-bluish clean and elegant theme
 app-emacs/nordic-night-theme 2.0.2: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 0.2: A mostly colorless version of nord-theme
@@ -2165,7 +2165,7 @@ app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
 app-emacs/pet 2.0.0: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: a simple wrapper around asynchronous processes
-app-emacs/pg 0.20: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
+app-emacs/pg 0.24: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/ph 0.1.0: A global minor mode for managing multiple projects.
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: another incremental search & replace, compatible with "multiple-cursors"
@@ -2677,7 +2677,7 @@ app-emacs/timonier 0.1.0: Timonier, Manage Kubernetes Applications from Emacs
 app-emacs/timu-caribbean-theme 1.5: Color theme with cyan as a dominant color
 app-emacs/timu-macos-theme 1.2: Color theme inspired by the macOS UI
 app-emacs/timu-rouge-theme 1.9: Color theme inspired by the Rouge Theme for VSCode
-app-emacs/timu-spacegrey-theme 2.6: Color theme inspired by the Spacegray theme in Sublime Text
+app-emacs/timu-spacegrey-theme 2.9: Color theme inspired by the Spacegray theme in Sublime Text
 app-emacs/titlecase 0.4.1: Title-case phrases
 app-emacs/toc-org 1.2.0: add table of contents to org-mode files (formerly, org-toc)
 app-emacs/tokei 0.2: Display codebase statistics
