@@ -613,6 +613,7 @@ app-emacs/e2wm-sww 0.0.3: Plugin of e2wm.el to switch plugin quickly
 app-emacs/e2wm-term 0.0.5: Perspective of e2wm.el for work in terminal
 app-emacs/eacl 2.2.0: Auto-complete lines by grepping project
 app-emacs/eask 0.8.3: Core Eask APIs, for Eask CLI development
+app-emacs/eask-mode 0.1.0: major mode for editing Eask files
 app-emacs/easy-hugo 3.10.59: Write blogs made with hugo by markdown or org-mode
 app-emacs/easy-jekyll 2.6.30: Major mode managing jekyll blogs
 app-emacs/easy-kill 0.9.4: kill & mark things easily
@@ -2675,6 +2676,7 @@ app-emacs/timer-revert 0.1: minor mode to revert buffer for a given time interva
 app-emacs/timesheet 0.5.0: Timesheet management add-on for org-mode
 app-emacs/timonier 0.1.0: Timonier, Manage Kubernetes Applications from Emacs
 app-emacs/timu-caribbean-theme 1.5: Color theme with cyan as a dominant color
+app-emacs/timu-line 0.8: Custom and simple mode line
 app-emacs/timu-macos-theme 1.2: Color theme inspired by the macOS UI
 app-emacs/timu-rouge-theme 1.9: Color theme inspired by the Rouge Theme for VSCode
 app-emacs/timu-spacegrey-theme 2.9: Color theme inspired by the Spacegray theme in Sublime Text
@@ -2753,6 +2755,7 @@ app-emacs/unify-opening 2.2.0: Unify the mechanism to open files
 app-emacs/unisonlang-mode 0.2.0: Simple major mode for editing Unison
 app-emacs/units-mode 0.1.1: Mode for conversion between different units
 app-emacs/universal-sidecar 1.4.0: A universal sidecar buffer
+app-emacs/universal-sidecar-elfeed-related 1.4.0: Related Papers Sidecar Section for Elfeed
 app-emacs/universal-sidecar-elfeed-score 1.4.0: Show Elfeed Score information in sidecar
 app-emacs/unkillable-scratch 1.0.0: Disallow the \*scratch\* buffer from being killed
 app-emacs/unmodified-buffer 1.1.0: Auto revert modified buffer state
@@ -2919,7 +2922,7 @@ app-emacs/yeetube 2.0.0: YouTube & Invidious Front End
 app-emacs/yequake 0.1: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 0.1.0: Display ghostly yesql defqueries inline
 app-emacs/yoshi-theme 7.0.0: Theme named after my cat
-app-emacs/youdao-dictionary 0.5.1: Youdao Dictionary interface for Emacs
+app-emacs/youdao-dictionary 0.5.2: Youdao Dictionary interface for Emacs
 app-emacs/ytdl 1.3.6: Emacs Interface for youtube-dl
 app-emacs/zen-mode 0.8.20200609: A major mode for the Zen programming language
 app-emacs/zenburn-theme 2.8.0: A low contrast color theme for Emacs.
