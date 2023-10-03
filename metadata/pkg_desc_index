@@ -1230,7 +1230,7 @@ app-emacs/heaven-and-hell 0.0.5: easy toggle light/dark themes
 app-emacs/helm 3.9.5: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-ack 0.13: Ack command with helm interface
 app-emacs/helm-ag 0.64: The silver searcher with helm interface
-app-emacs/helm-apt 1.0: Helm interface for Debian/Ubuntu packages (apt-*)
+app-emacs/helm-apt 1.1: Helm interface for Debian/Ubuntu packages (apt-*)
 app-emacs/helm-aws 1.0.0: Manage AWS EC2 server instances directly from Emacs
 app-emacs/helm-backup 1.1.1: Backup each file change using git
 app-emacs/helm-bbdb 1.1: Helm interface for bbdb
@@ -2904,7 +2904,7 @@ app-emacs/yafolding 0.4.1: Folding code blocks based on indentation
 app-emacs/yagist 0.8.12: Yet Another Emacs integration for gist.github.com
 app-emacs/yaml 0.5.4: YAML parser for Elisp
 app-emacs/yaml-imenu 1.0.3: Enhancement of the imenu support in yaml-mode.
-app-emacs/yaml-mode 0.0.15: Major mode for editing YAML files
+app-emacs/yaml-mode 0.0.16: Major mode for editing YAML files
 app-emacs/yaml-pro 0.3.3: Parser-aided YAML editing features
 app-emacs/yang-mode 0.9.9: major mode for editing YANG files
 app-emacs/yankpad 1.6: Paste snippets from an org-mode file
@@ -2919,7 +2919,7 @@ app-emacs/yatex 1.83: Yet Another tex-mode for emacs //野鳥//
 app-emacs/yaxception 0.3.3: Provide framework about exception like Java for Elisp
 app-emacs/ycmd 1.2: emacs bindings to the ycmd completion server
 app-emacs/ydk-mode 1.0.0: Language support for Yu-Gi-Oh! deck files
-app-emacs/yeetube 2.0.4: YouTube Front End
+app-emacs/yeetube 2.0.5: YouTube Front End
 app-emacs/yequake 0.1: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 0.1.0: Display ghostly yesql defqueries inline
 app-emacs/yoshi-theme 7.0.0: Theme named after my cat
