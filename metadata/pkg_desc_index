@@ -668,6 +668,7 @@ app-emacs/elescope 0.2: Seach and clone projects from the minibuffer
 app-emacs/elf-mode 0.1.0: Show symbols in binaries
 app-emacs/elfeed 3.4.1: an Emacs Atom/RSS feed reader
 app-emacs/elfeed-autotag 0.1.2: Easy auto-tagging for elfeed
+app-emacs/elfeed-curate 0.1.0: Elfeed entry curation
 app-emacs/elfeed-protocol 0.9.0: Provide fever/newsblur/owncloud/ttrss protocols for elfeed
 app-emacs/elfeed-score 1.2.7: Gnus-style scoring for Elfeed
 app-emacs/elfeed-summary 0.1.0: Feed summary interface for elfeed
