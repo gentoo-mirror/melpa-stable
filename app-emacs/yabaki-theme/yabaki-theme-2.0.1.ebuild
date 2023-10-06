@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Yabaki, the cast shadow"
 
-HOMEPAGE="https://github.com/seamacs/yabaki-theme"
+HOMEPAGE="https://codeberg.org/seahorse/yabaki-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
