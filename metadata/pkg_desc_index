@@ -86,7 +86,7 @@ app-emacs/angular-snippets 0.2.3: Yasnippets for AngularJS
 app-emacs/anki-mode 0.1: TODO
 app-emacs/annalist 1.0.1: Record and display information such as keybindings
 app-emacs/annotate 1.4.3: annotate files without changing them
-app-emacs/annotation 2.6.3.20230930: Functions for annotating text with faces and help bubbles
+app-emacs/annotation 2.6.4: Functions for annotating text with faces and help bubbles
 app-emacs/annoying-arrows-mode 0.1.0: Ring the bell if using arrows too much
 app-emacs/ansi 0.4.1: Turn string into ansi strings
 app-emacs/ansible 0.3.2: Ansible minor mode
@@ -161,7 +161,7 @@ app-emacs/back-button 0.6.6: Visual navigation through mark rings
 app-emacs/backline 1.0.0: Preserve appearance of outline headings
 app-emacs/badwolf-theme 1.2: Bad Wolf color theme
 app-emacs/banner-comment 2.7: For producing banner comments.
-app-emacs/base16-theme 3.1: Collection of themes built on combinations of 16 base colors
+app-emacs/base16-theme 3.2: Collection of themes built on combinations of 16 base colors
 app-emacs/bash-completion 3.1.1: Bash completion for the shell buffer
 app-emacs/basic-ide 0.0.3: BASIC IDE c64
 app-emacs/basic-mode 1.2.0: Major mode for editing BASIC code
@@ -239,7 +239,7 @@ app-emacs/bundler 1.1.0: Interact with Bundler from Emacs
 app-emacs/burly 0.3: Save and restore frame/window configurations with buffers
 app-emacs/bury-successful-compilation 0.1.2: Bury the *compilation* buffer after successful compilation
 app-emacs/butler 0.2.6: Emacs client for Jenkins
-app-emacs/buttercup 1.31: Behavior-Driven Emacs Lisp Testing
+app-emacs/buttercup 1.32: Behavior-Driven Emacs Lisp Testing
 app-emacs/buttercup-junit 1.1.1: JUnit reporting for Buttercup
 app-emacs/button-lock 1.0.2: Clickable text defined by regular expression
 app-emacs/buttons 0.0.3: Define and visualize hierarchies of keymaps
@@ -335,7 +335,7 @@ app-emacs/clues-theme 1.0.1: an Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.6: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.27.6: major-mode for editing CMake sources
+app-emacs/cmake-mode 3.27.7: major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -357,7 +357,7 @@ app-emacs/comment-tags 0.1: Highlight and navigate comment tags like TODO, FIXME
 app-emacs/commentary-theme 0.4.1: A minimal theme with contrasting comments
 app-emacs/commenter 0.5.2: multiline-comment support package
 app-emacs/common-lisp-snippets 0.1.2: Yasnippets for Common Lisp
-app-emacs/company 0.9.13: Modular text completion framework
+app-emacs/company 0.10.1: Modular text completion framework
 app-emacs/company-anaconda 0.2.0: Anaconda backend for company-mode
 app-emacs/company-ansible 0.8.0: A company back-end for ansible
 app-emacs/company-cabal 0.2.1: company-mode cabal backend
@@ -753,7 +753,7 @@ app-emacs/ercn 1.1.1: Flexible ERC notifications
 app-emacs/eredis 0.9.6: eredis, a Redis client in emacs lisp
 app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics.
-app-emacs/eri 2.6.3.20230930: Enhanced relative indentation (eri)
+app-emacs/eri 2.6.4: Enhanced relative indentation (eri)
 app-emacs/erk 0.3.2: Elisp (GitHub) Repository Kit
 app-emacs/erlang 26.1.1: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
@@ -1534,7 +1534,7 @@ app-emacs/kaesar-mode 0.9.4: AES encrypt/decrypt buffer
 app-emacs/kaesar-pbkdf2 0.9.1: PBKDF2 extension for kaesar.el
 app-emacs/kakapo-mode 1.2: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
 app-emacs/kaocha-runner 0.3.0: A package for running Kaocha tests via CIDER.
-app-emacs/kaolin-themes 1.6.8: A set of eye pleasing themes
+app-emacs/kaolin-themes 1.6.9: A set of eye pleasing themes
 app-emacs/karma 0.1.0: Karma Test Runner Emacs Integration
 app-emacs/keepass-mode 0.0.5: Mode for KeePass DB.
 app-emacs/kele 0.4.1: Spritzy Kubernetes cluster management
@@ -1628,7 +1628,7 @@ app-emacs/literate-elisp 0.8: literate program to write elisp codes in org mode
 app-emacs/litex-mode 0.3.0: Minor mode for converting lisp to LaTeX
 app-emacs/live-code-talks 0.2.1: Support for slides with live code in them
 app-emacs/live-preview 0.1.2: Live preview by any shell command while editing
-app-emacs/live-py-mode 4.10.2: Live Coding in Python
+app-emacs/live-py-mode 4.11.0: Live Coding in Python
 app-emacs/lively 0.2: interactively updating text
 app-emacs/llama 0.3.1: Compact syntax for short lambda
 app-emacs/lms 1.1: Squeezebox / Logitech Media Server frontend
@@ -1719,7 +1719,7 @@ app-emacs/markup 2.0.1: Simple markup generation helpers.
 app-emacs/markup-faces 1.0.0: collection of faces for markup language modes
 app-emacs/marquee-header 0.1.0: Code interface for displaying marquee in header
 app-emacs/marshal 0.9.1: eieio extension for automatic (un)marshalling
-app-emacs/mastodon 1.0.0: Client for Mastodon
+app-emacs/mastodon 1.0.5: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 1.4: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 5.1.1: Preview TeX math equations inline
 app-emacs/math-symbol-lists 1.3: Lists of Unicode math symbols and latex commands
@@ -2265,7 +2265,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 24.3: major mode for editing protocol buffers.
+app-emacs/protobuf-mode 24.4: major mode for editing protocol buffers.
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions.
 app-emacs/psalm 0.6.0: Interface to Psalm
@@ -2582,7 +2582,7 @@ app-emacs/standard-dirs 2.0.0: Platform-specific paths for config, cache, and ot
 app-emacs/starhugger 0.4.0: Hugging Face/AI-powered text & code completion client
 app-emacs/stash 0.4.1: lightweight persistent caching
 app-emacs/status 0.3: This package adds support for status icons to Emacs.
-app-emacs/stgit 2.3.2: major mode for StGit interaction
+app-emacs/stgit 2.3.3: major mode for StGit interaction
 app-emacs/stock-tracker 0.1.6: Track stock price
 app-emacs/streak 3.0.0: Track a daily streak in your Mode Line
 app-emacs/string-edit-at-point 1.0.0: Avoid escape nightmares by editing string in separate buffer
@@ -2704,7 +2704,7 @@ app-emacs/tray 0.1.1: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.51: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.59: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.1.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
@@ -2899,7 +2899,7 @@ app-emacs/xresources-theme 1.0.0: Use your .Xresources as your emacs theme
 app-emacs/xterm-color 2.0: ANSI, XTERM 256 and Truecolor support
 app-emacs/xtest 1.1.0: Simple Testing with Emacs & ERT
 app-emacs/xwidgets-reuse 0.2: Reuse xwidgets sessions to reduce resource consumption
-app-emacs/yabaki-theme 2.0.0: Yabaki, the cast shadow
+app-emacs/yabaki-theme 2.0.1: Yabaki, the cast shadow
 app-emacs/yafolding 0.4.1: Folding code blocks based on indentation
 app-emacs/yagist 0.8.12: Yet Another Emacs integration for gist.github.com
 app-emacs/yaml 0.5.4: YAML parser for Elisp
@@ -2923,7 +2923,7 @@ app-emacs/yeetube 2.0.5: YouTube Front End
 app-emacs/yequake 0.1: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 0.1.0: Display ghostly yesql defqueries inline
 app-emacs/yoshi-theme 7.0.0: Theme named after my cat
-app-emacs/youdao-dictionary 0.5.2: Youdao Dictionary interface for Emacs
+app-emacs/youdao-dictionary 0.5.3: Youdao Dictionary interface for Emacs
 app-emacs/ytdl 1.3.6: Emacs Interface for youtube-dl
 app-emacs/zen-mode 0.8.20200609: A major mode for the Zen programming language
 app-emacs/zenburn-theme 2.8.0: A low contrast color theme for Emacs.
