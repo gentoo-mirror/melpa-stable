@@ -54,6 +54,7 @@ app-emacs/aes 1.0: Implementation of AES
 app-emacs/affe 0.7: Asynchronous Fuzzy Finder for Emacs
 app-emacs/ag 0.48: A front-end for ag ('the silver searcher'), the C ack replacement.
 app-emacs/age 0.1.4: The Age Encryption Library
+app-emacs/agenix 1.1: Decrypt and encrypt agenix secrets
 app-emacs/aggressive-indent 1.10.0: Minor mode to aggressively keep your code always indented
 app-emacs/ahk-mode 1.5.6: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 1.10.0: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry).
@@ -669,7 +670,7 @@ app-emacs/elf-mode 0.1.0: Show symbols in binaries
 app-emacs/elfeed 3.4.1: an Emacs Atom/RSS feed reader
 app-emacs/elfeed-autotag 0.1.2: Easy auto-tagging for elfeed
 app-emacs/elfeed-curate 0.1.0: Elfeed entry curation
-app-emacs/elfeed-protocol 0.9.0: Provide fever/newsblur/owncloud/ttrss protocols for elfeed
+app-emacs/elfeed-protocol 0.9.1: Provide fever/newsblur/owncloud/ttrss protocols for elfeed
 app-emacs/elfeed-score 1.2.7: Gnus-style scoring for Elfeed
 app-emacs/elfeed-summary 0.1.0: Feed summary interface for elfeed
 app-emacs/elfeed-tube 0.15: YouTube integration for Elfeed
@@ -1208,6 +1209,7 @@ app-emacs/gxref 0.1: xref backend using GNU Global.
 app-emacs/hack-mode 1.2: Major mode for the Hack programming language
 app-emacs/hacker-typer 1.0.6: Pretend to write code like a pro
 app-emacs/hackernews 0.6.1: Hacker News Client for Emacs
+app-emacs/halloweenie-theme 0.1.0: Dark and spooky Halloween color theme
 app-emacs/ham-mode 1.1.2: Html As Markdown. Transparently edit an html file using markdown
 app-emacs/hamburger-menu 1.0.6: Mode line hamburger menu
 app-emacs/haml-mode 3.1.9: Major mode for editing Haml files
@@ -1372,6 +1374,7 @@ app-emacs/huecycle 1.0.0: Idle color animation
 app-emacs/hugsql-ghosts 0.1.4: Display hugsql defqueries in clojure code as an overlay
 app-emacs/humanoid-themes 0.3: Color themes with a dark and light variant
 app-emacs/hungry-delete 1.1.5: hungry delete minor mode
+app-emacs/hush 0.1.3: Pluggable secret manager
 app-emacs/hy-mode 1.0.4: Major mode for Hylang
 app-emacs/hyai 1.0.0: Haskell Yet Another Indentation
 app-emacs/hydandata-light-theme 0.9.0: A light color theme that is easy on your eyes
@@ -1847,6 +1850,7 @@ app-emacs/nemerle 1.2: major mode for editing nemerle programs
 app-emacs/neon-mode 1.3.0: Simple major mode for editing neon files
 app-emacs/neotree 0.6.0: A tree plugin like NerdTree for Vim
 app-emacs/nerd-icons 0.1.0: Emacs Nerd Font Icons Library
+app-emacs/nerd-icons-corfu 0.2.0: Icons for Corfu via nerd-icons
 app-emacs/nerd-icons-ibuffer 1.0.0: Display nerd icons in ibuffer
 app-emacs/nerd-icons-ivy-rich 1.0.0: Excellent experience with nerd icons for ivy/counsel
 app-emacs/netease-cloud-music 2.0: Netease Cloud Music client
