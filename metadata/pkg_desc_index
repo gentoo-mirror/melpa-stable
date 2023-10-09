@@ -319,7 +319,7 @@ app-emacs/clingo-mode 0.4.0: A major mode for editing Answer Set Programs
 app-emacs/clipetty 0.1: Send every kill from a TTY frame to the system clipboard
 app-emacs/cliphist 0.6.3: paste from clipboard managers
 app-emacs/clips-mode 0.7: Major mode for editing CLIPS code and REPL
-app-emacs/clj-refactor 3.9.4: A collection of commands for refactoring Clojure code
+app-emacs/clj-refactor 3.10.0: A collection of commands for refactoring Clojure code
 app-emacs/cljr-helm 0.11: Wraps clojure refactor commands with helm
 app-emacs/clocker 0.0.11: Note taker and clock-in enforcer
 app-emacs/clockodo 0.8.0: A small integration for the clockodo api
@@ -599,7 +599,7 @@ app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
 app-emacs/dtrt-indent 1.15: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
-app-emacs/dune 3.11.0: Integration with the dune build system
+app-emacs/dune 3.11.1: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
 app-emacs/duplexer 0.1.0: Handle conflicts between local minor modes and reuse rules
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
@@ -2723,7 +2723,7 @@ app-emacs/treemacs-perspective 3.1: Perspective integration for treemacs
 app-emacs/treemacs-projectile 3.1: Projectile integration for treemacs
 app-emacs/treemacs-tab-bar 3.1: Tab bar integration for treemacs
 app-emacs/treepy 0.1.2: Generic tree traversal tools
-app-emacs/treesit-auto 0.6.3: Automatically use tree-sitter enhanced major modes
+app-emacs/treesit-auto 0.6.4: Automatically use tree-sitter enhanced major modes
 app-emacs/trinary 1.2.1: Trinary logic
 app-emacs/tron-legacy-theme 2.6.0: An original retro-futuristic theme inspired by Tron: Legacy
 app-emacs/trr 2.0.0: a type-writing training program on GNU Emacs.
