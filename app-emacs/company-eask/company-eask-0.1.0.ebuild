@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="hush"
+REALNAME="company-eask"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Pluggable secret manager"
+DESCRIPTION="Company backend for Eask-file"
 
-HOMEPAGE="https://github.com/tirimia/hush"
+HOMEPAGE="https://github.com/emacs-eask/company-eask"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/company
+	app-emacs/eask"
+RDEPEND="app-emacs/company
+	app-emacs/eask"
