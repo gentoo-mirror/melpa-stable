@@ -325,8 +325,8 @@ app-emacs/clocker 0.0.11: Note taker and clock-in enforcer
 app-emacs/clockodo 0.8.0: A small integration for the clockodo api
 app-emacs/clojure-essential-ref 0.1.1: Cider-doc to "Clojure, The Essential Reference"
 app-emacs/clojure-essential-ref-nov 0.1.1: Cider-doc to "Clojure, The Essential Reference" (EPUB)
-app-emacs/clojure-mode 5.17.0: Major mode for Clojure code
-app-emacs/clojure-mode-extra-font-locking 5.17.0: Extra font-locking for Clojure mode
+app-emacs/clojure-mode 5.17.1: Major mode for Clojure code
+app-emacs/clojure-mode-extra-font-locking 5.17.1: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 0.1.0: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 1.0.1: Yasnippets for clojure
 app-emacs/clojure-ts-mode 0.2.0: Major mode for Clojure code
@@ -757,7 +757,7 @@ app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics.
 app-emacs/eri 2.6.4: Enhanced relative indentation (eri)
 app-emacs/erk 0.3.2: Elisp (GitHub) Repository Kit
-app-emacs/erlang 26.1.1: Erlang major mode
+app-emacs/erlang 26.1.2: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/ert-async 0.1.2: Async support for ERT
 app-emacs/ert-junit 0.4.1: JUnit XML reports from ert results
@@ -1211,7 +1211,7 @@ app-emacs/gxref 0.1: xref backend using GNU Global.
 app-emacs/hack-mode 1.2: Major mode for the Hack programming language
 app-emacs/hacker-typer 1.0.6: Pretend to write code like a pro
 app-emacs/hackernews 0.6.1: Hacker News Client for Emacs
-app-emacs/halloweenie-theme 0.1.0: Dark and spooky Halloween color theme
+app-emacs/halloweenie-theme 0.1.1: Dark and spooky Halloween color theme
 app-emacs/ham-mode 1.1.2: Html As Markdown. Transparently edit an html file using markdown
 app-emacs/hamburger-menu 1.0.6: Mode line hamburger menu
 app-emacs/haml-mode 3.1.9: Major mode for editing Haml files
@@ -1724,7 +1724,7 @@ app-emacs/markup 2.0.1: Simple markup generation helpers.
 app-emacs/markup-faces 1.0.0: collection of faces for markup language modes
 app-emacs/marquee-header 0.1.0: Code interface for displaying marquee in header
 app-emacs/marshal 0.9.1: eieio extension for automatic (un)marshalling
-app-emacs/mastodon 1.0.6: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 1.0.7: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 1.4: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 5.1.1: Preview TeX math equations inline
 app-emacs/math-symbol-lists 1.3: Lists of Unicode math symbols and latex commands
@@ -2710,7 +2710,7 @@ app-emacs/tray 0.1.1: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.62: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.70: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.1.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
