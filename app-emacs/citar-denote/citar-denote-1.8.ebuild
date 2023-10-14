@@ -19,6 +19,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/citar
-	app-emacs/denote"
+	app-emacs/denote
+	app-emacs/dash"
 RDEPEND="app-emacs/citar
-	app-emacs/denote"
+	app-emacs/denote
+	app-emacs/dash"
