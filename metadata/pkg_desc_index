@@ -1382,6 +1382,7 @@ app-emacs/hyai 1.0.0: Haskell Yet Another Indentation
 app-emacs/hydandata-light-theme 0.9.0: A light color theme that is easy on your eyes
 app-emacs/hyde 0.2: No description available.
 app-emacs/hydra 0.15.0: Make bindings that stick around.
+app-emacs/hyperdrive 0.2: P2P filesystem
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
 app-emacs/ialign 0.4.2: visual align-regexp
