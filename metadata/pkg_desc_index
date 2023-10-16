@@ -54,7 +54,7 @@ app-emacs/aes 1.0: Implementation of AES
 app-emacs/affe 0.7: Asynchronous Fuzzy Finder for Emacs
 app-emacs/ag 0.48: A front-end for ag ('the silver searcher'), the C ack replacement.
 app-emacs/age 0.1.4: The Age Encryption Library
-app-emacs/agenix 1.1: Decrypt and encrypt agenix secrets
+app-emacs/agenix 1.2: Decrypt and encrypt agenix secrets
 app-emacs/aggressive-indent 1.10.0: Minor mode to aggressively keep your code always indented
 app-emacs/ahk-mode 1.5.6: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 1.10.0: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry).
@@ -296,7 +296,7 @@ app-emacs/chroma 1.1.0: Color manipulation library
 app-emacs/chronometrist 0.10.0: Friendly and powerful personal time tracker and analyzer
 app-emacs/chronometrist-key-values 0.10.0: add key-values to Chronometrist data
 app-emacs/chronometrist-spark 0.10.0: Show sparklines in Chronometrist buffers
-app-emacs/cider 1.8.1: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 1.8.2: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-eval-sexp-fu 1.2: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 0.1.0: Hydras for CIDER.
 app-emacs/cil-mode 0.4: Common Intermediate Language mode
@@ -422,6 +422,7 @@ app-emacs/consult-lsp 1.1: LSP-mode Consult integration
 app-emacs/consult-notmuch 0.8.1: Notmuch search using consult
 app-emacs/consult-project-extra 0.1: Consult integration for project.el
 app-emacs/consult-recoll 0.8: Recoll queries using consult
+app-emacs/consult-tex 0.1.0: Consult powered completion for tex
 app-emacs/contextual 1.0.1: Contextual profile management system
 app-emacs/contextual-menubar 1.0.0: display the menubar only on a graphical display
 app-emacs/conventional-changelog 1.1.0: Conventional Changelog Generator
@@ -661,6 +662,7 @@ app-emacs/elbank 1.2: Personal finances reporting application
 app-emacs/elcouch 0.11.0: View and manipulate CouchDB databases
 app-emacs/eldev 1.6: Elisp development tool
 app-emacs/eldoc-box 1.11.1: Display documentation in childframe
+app-emacs/eldoc-eask 0.1.0: Eldoc support for Eask-file
 app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use.
 app-emacs/eldoc-stan 10.2.0: Eldoc support for stan functions
 app-emacs/electric-cursor 0.2: Change cursor automatically depending on mode
@@ -1091,7 +1093,7 @@ app-emacs/git-annex 1.1: Mode for easy editing of git-annex'd files
 app-emacs/git-attr 1.0.0: Git attributes of buffer file
 app-emacs/git-auto-commit-mode 4.7.0: Emacs Minor mode to automatically commit and push
 app-emacs/git-backup 0.0.1: Backup each file change using git
-app-emacs/git-cliff 0.4.2: Generate and update changelog using git-cliff
+app-emacs/git-cliff 0.4.3: Generate and update changelog using git-cliff
 app-emacs/git-command 0.2.0: Yet another Git interface
 app-emacs/git-commit 3.3.0: Edit Git commit messages.
 app-emacs/git-commit-insert-issue 0.4.1: Get issues list when typing "Fixes #"
@@ -1726,7 +1728,7 @@ app-emacs/markup 2.0.1: Simple markup generation helpers.
 app-emacs/markup-faces 1.0.0: collection of faces for markup language modes
 app-emacs/marquee-header 0.1.0: Code interface for displaying marquee in header
 app-emacs/marshal 0.9.1: eieio extension for automatic (un)marshalling
-app-emacs/mastodon 1.0.10: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 1.0.12: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 1.4: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 5.1.1: Preview TeX math equations inline
 app-emacs/math-symbol-lists 1.3: Lists of Unicode math symbols and latex commands
@@ -1854,7 +1856,7 @@ app-emacs/nemerle 1.2: major mode for editing nemerle programs
 app-emacs/neon-mode 1.3.0: Simple major mode for editing neon files
 app-emacs/neotree 0.6.0: A tree plugin like NerdTree for Vim
 app-emacs/nerd-icons 0.1.0: Emacs Nerd Font Icons Library
-app-emacs/nerd-icons-corfu 0.2.0: Icons for Corfu via nerd-icons
+app-emacs/nerd-icons-corfu 0.3.0: Icons for Corfu via nerd-icons
 app-emacs/nerd-icons-ibuffer 1.0.0: Display nerd icons in ibuffer
 app-emacs/nerd-icons-ivy-rich 1.0.0: Excellent experience with nerd icons for ivy/counsel
 app-emacs/netease-cloud-music 2.0: Netease Cloud Music client
@@ -2013,6 +2015,7 @@ app-emacs/org-modern 0.10: Modern looks for Org
 app-emacs/org-movies 0.1: Manage watchlist with Org mode
 app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persistent history
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
+app-emacs/org-newtab 0.0.1: Supercharge your browser's new tab page
 app-emacs/org-outlook 0.11: Outlook org
 app-emacs/org-page 0.41: a static site generator based on org mode
 app-emacs/org-pomodoro 2.1.0: Pomodoro implementation for org-mode.
@@ -2054,6 +2057,7 @@ app-emacs/org-tagged 0.0.4: Dynamic block for tagged org-mode todos
 app-emacs/org-tfl 0.4.0: Transport for London meets Orgmode
 app-emacs/org-themis 0.4.1: Experimental project management mode for org-mode
 app-emacs/org-time-budgets 1.0.1: Define time budgets and display clocked time.
+app-emacs/org-timeblock 0.1: Schedule your days visually, using timeblocking technique inside Emacs.
 app-emacs/org-timeline 0.4.0: Add graphical view of agenda to agenda buffer.
 app-emacs/org-toodledo 2.1.0: No description available.
 app-emacs/org-tracktable 0.3.1: Track your writing progress in an org-table
@@ -2766,6 +2770,7 @@ app-emacs/units-mode 0.1.1: Mode for conversion between different units
 app-emacs/universal-sidecar 1.4.0: A universal sidecar buffer
 app-emacs/universal-sidecar-elfeed-related 1.4.0: Related Papers Sidecar Section for Elfeed
 app-emacs/universal-sidecar-elfeed-score 1.4.0: Show Elfeed Score information in sidecar
+app-emacs/universal-sidecar-roam 1.4.0: Integrate universal-sidecar and org-roam
 app-emacs/unkillable-scratch 1.0.0: Disallow the \*scratch\* buffer from being killed
 app-emacs/unmodified-buffer 1.1.0: Auto revert modified buffer state
 app-emacs/unobtrusive-magit-theme 0.4: An unobtrusive Magit theme
