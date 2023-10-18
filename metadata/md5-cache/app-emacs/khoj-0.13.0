@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/clojure-mode
-DESCRIPTION=Extra font-locking for Clojure mode
+DEPEND=app-emacs/transient app-emacs/dash
+DESCRIPTION=AI copilot for your Second Brain
 EAPI=8
-HOMEPAGE=https://github.com/clojure-emacs/clojure-mode
+HOMEPAGE=https://github.com/khoj-ai/khoj/tree/master/src/interface/emacs
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/clojure-mode >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/transient app-emacs/dash >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/clojure-mode-extra-font-locking-5.17.1.tar
+SRC_URI=https://stable.melpa.org/packages/khoj-0.13.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	b3b15bdbe800c721e93b69b70cce2b67	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=6187eea3816f1f3ca4fa6158ed65bd69
+_md5_=ab8aa48f42066281b6e88b79e1d407ff
