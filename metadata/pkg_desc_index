@@ -296,7 +296,7 @@ app-emacs/chroma 1.1.0: Color manipulation library
 app-emacs/chronometrist 0.10.0: Friendly and powerful personal time tracker and analyzer
 app-emacs/chronometrist-key-values 0.10.0: add key-values to Chronometrist data
 app-emacs/chronometrist-spark 0.10.0: Show sparklines in Chronometrist buffers
-app-emacs/cider 1.8.2: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 1.8.3: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-eval-sexp-fu 1.2: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 0.1.0: Hydras for CIDER.
 app-emacs/cil-mode 0.4: Common Intermediate Language mode
@@ -1462,7 +1462,7 @@ app-emacs/iplayer 0.1: Browse and download BBC TV/radio shows
 app-emacs/ipp 0.7: Implementation of the Internet Printing Protocol
 app-emacs/ipython-shell-send 1.1.1: Send code (including magics) to ipython shell
 app-emacs/ir-black-theme 1.0.1: Port of ir-black theme
-app-emacs/irony 1.6.0: C/C++ minor mode powered by libclang
+app-emacs/irony 1.6.1: C/C++ minor mode powered by libclang
 app-emacs/isearch-project 0.2.6: Incremental search through the whole project
 app-emacs/isgd 1.1: Shorten URLs using the isgd.com shortener service
 app-emacs/islisp-mode 0.3.1: Major mode for ISLisp programming
