@@ -2609,7 +2609,7 @@ app-emacs/subsonic 0.4.1: Browse and play music from subsonic servers with mpv
 app-emacs/sudo-edit 0.1.1: Open files as another user
 app-emacs/sudo-utils 3.0.1: Sudo utilities
 app-emacs/suggest 0.7: suggest elisp functions that give the output requested
-app-emacs/sumibi 1.9.0: Japanese input method powered by ChatGPT API
+app-emacs/sumibi 2.0.0: Japanese input method powered by ChatGPT API
 app-emacs/suomalainen-kalenteri 2023.1.2: Finnish national and Christian holidays for calendar
 app-emacs/super-save 0.3.0: Auto-save buffers, based on your activity.
 app-emacs/svg-mode-line-themes 0.1.3: SVG-based themes for mode-line
@@ -2644,6 +2644,7 @@ app-emacs/systemd 1.6: Major mode for editing systemd units
 app-emacs/ta 1.5: A tool to deal with Chinese homophonic characters
 app-emacs/tabbar 2.2: Display a tab bar in the header line
 app-emacs/tabbar-ruler 0.45: Pretty tabbar, autohide, use both tabbar/ruler
+app-emacs/tablist 1.1: Extended tabulated-list-mode
 app-emacs/tagedit 1.4.0: Some paredit-like features for html-mode
 app-emacs/talonscript-mode 1.0.0: Major mode for Talon Voice's .talon files
 app-emacs/tao-theme 1.1.1: This package provides two parametrized uncoloured color themes for Emacs: tao-yin and tao-yang.
