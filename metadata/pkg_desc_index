@@ -304,9 +304,9 @@ app-emacs/cilk-mode 0.3.1: Minor mode for Cilk code editing
 app-emacs/circadian 0.3.3: Theme-switching based on daytime
 app-emacs/circe 2.12: Client for IRC in Emacs
 app-emacs/circe-notifications 1.0: Add desktop notifications to Circe.
-app-emacs/citar 1.3.1: Citation-related commands for org, latex, markdown
+app-emacs/citar 1.4.0: Citation-related commands for org, latex, markdown
 app-emacs/citar-denote 1.8: Minor mode to integrate Citar and Denote
-app-emacs/citar-embark 1.3.1: Citar/Embark integration
+app-emacs/citar-embark 1.4.0: Citar/Embark integration
 app-emacs/citar-org-roam 0.5.1: Citar/org-roam integration
 app-emacs/citeproc-el 0.9.3: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 0.2.4: Render org-mode references in CSL styles
@@ -2776,7 +2776,7 @@ app-emacs/unkillable-scratch 1.0.0: Disallow the \*scratch\* buffer from being k
 app-emacs/unmodified-buffer 1.1.0: Auto revert modified buffer state
 app-emacs/unobtrusive-magit-theme 0.4: An unobtrusive Magit theme
 app-emacs/uptimes 3.8: Track and display Emacs session uptimes.
-app-emacs/ursa-ts-mode 1.3.2: Major mode for Ursa, using tree-sitter
+app-emacs/ursa-ts-mode 1.3.3: Major mode for Ursa, using tree-sitter
 app-emacs/urscript-mode 0.0.2: major mode for editing URScript.
 app-emacs/use-package 2.4.4: A configuration macro for simplifying your .emacs
 app-emacs/use-package-chords 2.4.4: key-chord keyword for use-package
