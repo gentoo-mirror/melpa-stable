@@ -1409,7 +1409,7 @@ app-emacs/idomenu 0.1: imenu tag selection with ido
 app-emacs/idris-mode 1.0: Major mode for editing Idris code
 app-emacs/iedit 0.9.9.9.9: Edit multiple regions in the same way simultaneously.
 app-emacs/iflipb 1.6: Interactively flip between recently visited buffers
-app-emacs/igist 1.4.1: List, create, update and delete GitHub gists
+app-emacs/igist 1.5.0: List, create, update and delete GitHub gists
 app-emacs/ignoramus 0.7.4: Ignore backups, build files, et al.
 app-emacs/image+ 0.6.2: Image manipulate extensions for Emacs
 app-emacs/image-archive 0.0.7: Image thumbnails in archive file with non-blocking
@@ -1588,6 +1588,7 @@ app-emacs/language-id 0.19: Library to work with programming language identifier
 app-emacs/languagetool 1.3.0: LanguageTool integration for grammar and spell check
 app-emacs/lastfm 1.2: Last.fm API for Emacs Lisp
 app-emacs/latex-extra 1.14: Adds several useful functionalities to LaTeX-mode.
+app-emacs/latex-labeler 1.0.0: Simplify equation labeling in LaTeX
 app-emacs/latex-math-preview 0.7.3: preview LaTeX mathematical expressions.
 app-emacs/latex-table-wizard 1.5.0: Magic editing of LaTeX tables
 app-emacs/latex-unicode-math-mode 0.3.1: Input method for Unicode math symbols
@@ -1602,6 +1603,7 @@ app-emacs/leanote 0.4.0: A minor mode writing markdown leanote
 app-emacs/ledger-import 1.1.0: Fetch OFX files from bank and push them to Ledger
 app-emacs/ledger-mode 4.0.0: Helper code for use with the "ledger" command-line tool
 app-emacs/leetcode 0.1.27: An leetcode client
+app-emacs/lem 0.3: A basic lemmy client
 app-emacs/lentic 0.11: One buffer as a view of another
 app-emacs/less-css-mode 0.21: Major mode for editing LESS CSS files (lesscss.org)
 app-emacs/letcheck 0.4: Check the erroneous assignments in let forms
@@ -1614,7 +1616,6 @@ app-emacs/liblouis 0.2: Mode for editing liblouis braille translation tables
 app-emacs/libmpdel 2.0.0: Communication with an MPD server
 app-emacs/lice 0.3: License And Header Template
 app-emacs/license-templates 0.1.3: Create LICENSE using GitHub API
-app-emacs/ligo-mode 1.0.0: A major mode for editing LIGO source code
 app-emacs/line-reminder 0.5.1: Line annotation for changed and saved lines
 app-emacs/line-up-words 1.0.0: Align words in an intelligent way
 app-emacs/lingr 0.2: Lingr Client for GNU Emacs
