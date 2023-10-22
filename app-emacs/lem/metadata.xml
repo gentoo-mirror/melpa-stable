@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A major mode for editing LIGO source code</longdescription>
+	<longdescription>A basic lemmy client</longdescription>
 </pkgmetadata>

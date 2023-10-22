@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="ligo-mode"
+REALNAME="lem"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A major mode for editing LIGO source code"
+DESCRIPTION="A basic lemmy client"
 
-HOMEPAGE="https://gitlab.com/ligolang/ligo/-/tree/dev/tools/emacs"
+HOMEPAGE="https://codeberg.org/martianh/lem.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/fedi
+	app-emacs/markdown-mode"
+RDEPEND="app-emacs/fedi
+	app-emacs/markdown-mode"
