@@ -192,7 +192,7 @@ app-emacs/bind-key 2.4.4: A simple way to manage personal keybindings
 app-emacs/bind-map 1.1.1: Bind personal keymaps in multiple locations
 app-emacs/binder 0.4.4: Global minor mode to facilitate multi-file writing projects
 app-emacs/bing-dict 0.2.4: Minimalists' English-Chinese Bing dictionary
-app-emacs/binky 1.4.0: Jump between points like a rabbit
+app-emacs/binky 1.4.1: Jump between points like a rabbit
 app-emacs/birds-of-paradise-plus-theme 0.1.1: A brown/orange light-on-dark theme for Emacs 24 (deftheme).
 app-emacs/bison-mode 0.3: Major mode for editing bison, yacc and lex files.
 app-emacs/bitpack 1.0.1: Bit packing functions
@@ -423,6 +423,7 @@ app-emacs/consult-notmuch 0.8.1: Notmuch search using consult
 app-emacs/consult-project-extra 0.1: Consult integration for project.el
 app-emacs/consult-recoll 0.8: Recoll queries using consult
 app-emacs/consult-tex 0.1.0: Consult powered completion for tex
+app-emacs/consult-todo 0.4.1: Search hl-todo keywords in consult
 app-emacs/contextual 1.0.1: Contextual profile management system
 app-emacs/contextual-menubar 1.0.0: display the menubar only on a graphical display
 app-emacs/conventional-changelog 1.1.0: Conventional Changelog Generator
@@ -758,7 +759,7 @@ app-emacs/eredis 0.9.6: eredis, a Redis client in emacs lisp
 app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics.
 app-emacs/eri 2.6.4: Enhanced relative indentation (eri)
-app-emacs/erk 0.3.2: Elisp (GitHub) Repository Kit
+app-emacs/erk 0.4.0: Elisp (GitHub) Repository Kit
 app-emacs/erlang 26.1.2: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/ert-async 0.1.2: Async support for ERT
@@ -927,6 +928,7 @@ app-emacs/flycheck-color-mode-line 0.3: Change mode line color with Flycheck sta
 app-emacs/flycheck-crystal 0.1.0: Add support for Crystal to Flycheck
 app-emacs/flycheck-deno 0.1.0: Flycheck for deno-lint
 app-emacs/flycheck-dmd-dub 0.12: Sets flycheck-dmd-include-paths from dub package information
+app-emacs/flycheck-eask 0.1.0: Eask support in Flycheck
 app-emacs/flycheck-eldev 1.1: Eldev support in Flycheck
 app-emacs/flycheck-falco-rules 1.0.0: On-the-fly syntax checking for falco rules files
 app-emacs/flycheck-gometalinter 0.1.4: flycheck checker for gometalinter
@@ -1296,7 +1298,7 @@ app-emacs/helm-notmuch 1.2: Search emails with Notmuch and Helm
 app-emacs/helm-open-github 0.15: Utilities of Opening Github Page
 app-emacs/helm-org 1.0: Helm for org headlines and keywords completion
 app-emacs/helm-org-multi-wiki 0.4.0: Helm interface to org-multi-wiki
-app-emacs/helm-org-ql 0.7.2: Helm support for org-ql
+app-emacs/helm-org-ql 0.7.3: Helm support for org-ql
 app-emacs/helm-org-rifle 1.7.1: Rifle through your Org files
 app-emacs/helm-orgcard 0.2: browse the orgcard by helm
 app-emacs/helm-pages 0.1.1: Pages in current buffer as Helm datasource
@@ -2025,7 +2027,7 @@ app-emacs/org-project-capture 3.1.0: Repository todo capture and management for 
 app-emacs/org-projectile 3.1.0: Repository todo capture and management for org-mode with projectile
 app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
-app-emacs/org-ql 0.7.2: Org Query Language, search command, and agenda-like view
+app-emacs/org-ql 0.7.3: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
 app-emacs/org-re-reveal 3.23.0: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
@@ -2115,7 +2117,7 @@ app-emacs/ox-pandoc 2.0: An Org-mode exporter using pandoc
 app-emacs/ox-report 0.4: Export your org file to minutes report PDF file
 app-emacs/ox-review 0.3.0: Re:VIEW Back-End for Org Export Engine
 app-emacs/ox-timeline 0.1.0: HTML Timeline Back-End for Org Export Engine
-app-emacs/ox-tufte 3.0.2: Tufte HTML org-mode export backend
+app-emacs/ox-tufte 3.0.3: Tufte HTML org-mode export backend
 app-emacs/ox-twbs 1.1.4: Bootstrap compatible HTML Back-End for Org
 app-emacs/ox-wk 0.3.0: Wiki Back-End for Org Export Engine
 app-emacs/ox-yaow 1.0: Generate html pages from org files
@@ -2592,7 +2594,7 @@ app-emacs/ssh-deploy 3.1.16: Deployment via Tramp, global or per directory.
 app-emacs/stan-mode 10.2.0: Major mode for editing Stan files
 app-emacs/stan-snippets 10.2.0: Yasnippets for Stan
 app-emacs/standard-dirs 2.0.0: Platform-specific paths for config, cache, and other data
-app-emacs/starhugger 0.4.0: Hugging Face/AI-powered text & code completion client
+app-emacs/starhugger 0.4.1: Hugging Face/AI-powered text & code completion client
 app-emacs/stash 0.4.1: lightweight persistent caching
 app-emacs/status 0.3: This package adds support for status icons to Emacs.
 app-emacs/stgit 2.4.0: major mode for StGit interaction
@@ -2681,7 +2683,8 @@ app-emacs/textx-mode 0.0.2: Major mode for editing TextX files
 app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
-app-emacs/thrift 2023.10.16.0: major mode for fbthrift and Apache Thrift files
+app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
+app-emacs/thrift 2023.10.23.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.4: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2769,10 +2772,10 @@ app-emacs/unicode-whitespace 0.2.4: teach whitespace-mode about fancy characters
 app-emacs/unify-opening 2.2.0: Unify the mechanism to open files
 app-emacs/unisonlang-mode 0.2.0: Simple major mode for editing Unison
 app-emacs/units-mode 0.1.1: Mode for conversion between different units
-app-emacs/universal-sidecar 1.4.0: A universal sidecar buffer
-app-emacs/universal-sidecar-elfeed-related 1.4.0: Related Papers Sidecar Section for Elfeed
-app-emacs/universal-sidecar-elfeed-score 1.4.0: Show Elfeed Score information in sidecar
-app-emacs/universal-sidecar-roam 1.4.0: Integrate universal-sidecar and org-roam
+app-emacs/universal-sidecar 1.4.1: A universal sidecar buffer
+app-emacs/universal-sidecar-elfeed-related 1.4.1: Related Papers Sidecar Section for Elfeed
+app-emacs/universal-sidecar-elfeed-score 1.4.1: Show Elfeed Score information in sidecar
+app-emacs/universal-sidecar-roam 1.4.1: Integrate universal-sidecar and org-roam
 app-emacs/unkillable-scratch 1.0.0: Disallow the \*scratch\* buffer from being killed
 app-emacs/unmodified-buffer 1.1.0: Auto revert modified buffer state
 app-emacs/unobtrusive-magit-theme 0.4: An unobtrusive Magit theme
