@@ -5,20 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="erk"
+REALNAME="third-time"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Elisp (GitHub) Repository Kit"
+DESCRIPTION="Third Time: A Better Way to Work"
 
-HOMEPAGE="http://github.com/positron-solutions/elisp-repo-kit"
+HOMEPAGE="https://git.sr.ht/~swflint/busylight"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/auto-compile
-	app-emacs/dash"
-RDEPEND="app-emacs/auto-compile
-	app-emacs/dash"
+DEPEND=""
+RDEPEND=""

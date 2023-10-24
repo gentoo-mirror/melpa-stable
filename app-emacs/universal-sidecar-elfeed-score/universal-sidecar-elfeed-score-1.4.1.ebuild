@@ -19,10 +19,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/universal-sidecar
-	app-emacs/bibtex-completion
 	app-emacs/elfeed
 	app-emacs/elfeed-score"
 RDEPEND="app-emacs/universal-sidecar
-	app-emacs/bibtex-completion
 	app-emacs/elfeed
 	app-emacs/elfeed-score"
