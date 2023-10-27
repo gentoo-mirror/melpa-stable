@@ -1892,7 +1892,7 @@ app-emacs/non-edit-mode 0.2.0: Minor mode that disables editing
 app-emacs/nord-theme 0.5.0: An arctic, north-bluish clean and elegant theme
 app-emacs/nordic-night-theme 2.0.2: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 0.2: A mostly colorless version of nord-theme
-app-emacs/notmuch 0.38: run notmuch within emacs
+app-emacs/notmuch 0.38.1: run notmuch within emacs
 app-emacs/notmuch-addr 0.2.2: An alternative to notmuch-address.el
 app-emacs/notmuch-bookmarks 0.2: Add bookmark handling for notmuch buffers
 app-emacs/notmuch-labeler 0.1: Improve notmuch way of displaying labels
