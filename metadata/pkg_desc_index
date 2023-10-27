@@ -1823,7 +1823,7 @@ app-emacs/msvc 1.4.3: Microsoft Visual C/C++ mode
 app-emacs/mtg-deck-mode 0.2: Major mode to edit MTG decks
 app-emacs/mu4e-alert 1.0: Desktop notification for mu4e
 app-emacs/mu4e-column-faces 1.2.1: Faces for individual mu4e columns
-app-emacs/mu4e-overview 0.2.0: Show overview of maildir
+app-emacs/mu4e-overview 0.3.0: Show overview of maildir
 app-emacs/mu4e-views 0.5: View emails in mu4e using xwidget-webkit
 app-emacs/mu4easy 1.0: Packages + configs for using mu4e with multiple accounts
 app-emacs/mugur 2.0: Configurator for QMK compatible keyboards
