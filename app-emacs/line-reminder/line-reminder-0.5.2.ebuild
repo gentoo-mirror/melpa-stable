@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/indicators
 	app-emacs/fringe-helper
+	app-emacs/ov
 	app-emacs/ht"
 RDEPEND="app-emacs/indicators
 	app-emacs/fringe-helper
+	app-emacs/ov
 	app-emacs/ht"
