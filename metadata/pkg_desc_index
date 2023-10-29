@@ -2073,7 +2073,7 @@ app-emacs/org-unique-id 0.4.1: Create unique IDs for org headers
 app-emacs/org-upcoming-modeline 0.1.6: Show next org event in mode line
 app-emacs/org-vcard 0.2.0: org-mode support for vCard export and import.
 app-emacs/org-visibility 1.1.12: Persistent org tree visibility
-app-emacs/org-web-tools 1.1.1: Display and capture web content with Org-mode
+app-emacs/org-web-tools 1.2: Display and capture web content with Org-mode
 app-emacs/org-wild-notifier 0.5.0: Customizable org-agenda notifications
 app-emacs/org-working-set 2.6.4: Manage and visit a small set of org-nodes.
 app-emacs/org-zettelkasten 0.7.0: A Zettelkasten mode leveraging Org
