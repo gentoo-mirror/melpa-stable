@@ -661,7 +661,7 @@ app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
 app-emacs/el2org 0.6.0: Convert elisp file to org file
 app-emacs/elbank 1.2: Personal finances reporting application
 app-emacs/elcouch 0.11.0: View and manipulate CouchDB databases
-app-emacs/eldev 1.6: Elisp development tool
+app-emacs/eldev 1.7: Elisp development tool
 app-emacs/eldoc-box 1.11.1: Display documentation in childframe
 app-emacs/eldoc-eask 0.1.0: Eldoc support for Eask-file
 app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use.
@@ -759,7 +759,7 @@ app-emacs/eredis 0.9.6: eredis, a Redis client in emacs lisp
 app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics.
 app-emacs/eri 2.6.4: Enhanced relative indentation (eri)
-app-emacs/erk 0.4.0: Elisp (GitHub) Repository Kit
+app-emacs/erk 0.5.0: Elisp (GitHub) Repository Kit
 app-emacs/erlang 26.1.2: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/ert-async 0.1.2: Async support for ERT
@@ -2854,7 +2854,7 @@ app-emacs/web-search 0.1.2: Open a web search
 app-emacs/weblio 0.3.4: Look up Japanese words on Weblio.jp
 app-emacs/weblorg 0.1.2: Static Site Generator for org-mode
 app-emacs/webpaste 3.2.2: Paste to pastebin-like services
-app-emacs/websocket 1.14: Emacs WebSocket client and server
+app-emacs/websocket 1.15: Emacs WebSocket client and server
 app-emacs/weechat 0.5.0: Chat via WeeChat's relay protocol in Emacs
 app-emacs/weibo 1.0: No description available.
 app-emacs/wgrep 3.0.0: Writable grep buffer
