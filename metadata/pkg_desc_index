@@ -277,7 +277,7 @@ app-emacs/cerbere 0.1.0: Unit testing in Emacs for several programming languages
 app-emacs/cern-ldap 0.0.4: Library to interact with CERN's LDAP servers
 app-emacs/cern-root-mode 0.1.4: Major-mode for running C++ code with ROOT
 app-emacs/ceylon-mode 0.2: Major mode for editing Ceylon source code
-app-emacs/cfn-mode 1.0.3: AWS cloudformation mode
+app-emacs/cfn-mode 1.0.4: AWS cloudformation mode
 app-emacs/cframe 0.4: Customize a frame and fast switch size and positions
 app-emacs/cfrs 1.6.0: Child-frame based read-string
 app-emacs/cg 1.4.6: Major mode for editing Constraint Grammar files
@@ -422,7 +422,7 @@ app-emacs/consult-lsp 1.1: LSP-mode Consult integration
 app-emacs/consult-notmuch 0.8.1: Notmuch search using consult
 app-emacs/consult-project-extra 0.1: Consult integration for project.el
 app-emacs/consult-recoll 0.8: Recoll queries using consult
-app-emacs/consult-tex 0.1.0: Consult powered completion for tex
+app-emacs/consult-tex 0.1.1: Consult powered completion for tex
 app-emacs/consult-todo 0.4.1: Search hl-todo keywords in consult
 app-emacs/contextual 1.0.1: Contextual profile management system
 app-emacs/contextual-menubar 1.0.0: display the menubar only on a graphical display
@@ -979,6 +979,7 @@ app-emacs/flymake-collection 1.0.1: Collection of checkers for flymake, bringing
 app-emacs/flymake-css 0.3: Flymake support for css using csslint
 app-emacs/flymake-cursor 1.0.2: Show flymake messages in the minibuffer after delay
 app-emacs/flymake-diagnostic-at-point 1.2.0: Display flymake diagnostics at point
+app-emacs/flymake-eask 0.1.0: Eask support in Flymake
 app-emacs/flymake-easy 0.10: Helpers for easily building flymake checkers
 app-emacs/flymake-elisp-config 1.0.0: Setup load-path for flymake on Emacs Lisp mode
 app-emacs/flymake-eslint 1.5.0: A Flymake backend for Javascript using eslint
@@ -1766,6 +1767,7 @@ app-emacs/mhc 1.2.4: Message Harmonized Calendaring system.
 app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 0.4: Command line search and direct jump with Milkode
+app-emacs/mini-echo 0.5.1: Echo buffer status in minibuffer window
 app-emacs/mini-modeline 20200408.729: Display modeline in minibuffer
 app-emacs/minibuffer-complete-cycle 1.25.20130814: Cycle through the *Completions* buffer
 app-emacs/minibuffer-cua 1.0.0: Make CUA mode's S-up/S-down work in minibuffer
