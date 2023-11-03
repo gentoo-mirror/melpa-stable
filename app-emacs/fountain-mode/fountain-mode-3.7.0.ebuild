@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for screenwriting in Fountain markup"
 
-HOMEPAGE="https://github.com/rnkn/fountain-mode"
+HOMEPAGE="https://www.fountain-mode.org"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
