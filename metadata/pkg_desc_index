@@ -278,7 +278,7 @@ app-emacs/cern-ldap 0.0.4: Library to interact with CERN's LDAP servers
 app-emacs/cern-root-mode 0.1.4: Major-mode for running C++ code with ROOT
 app-emacs/ceylon-mode 0.2: Major mode for editing Ceylon source code
 app-emacs/cfn-mode 1.0.4: AWS cloudformation mode
-app-emacs/cframe 0.4: Customize a frame and fast switch size and positions
+app-emacs/cframe 1.0: Customize a frame and fast switch size and positions
 app-emacs/cfrs 1.6.0: Child-frame based read-string
 app-emacs/cg 1.4.6: Major mode for editing Constraint Grammar files
 app-emacs/champagne 0.2.0: Graphical countdowns
@@ -624,7 +624,7 @@ app-emacs/easy-kill 0.9.4: kill & mark things easily
 app-emacs/easy-kill-extras 0.9.11: Extra functions for easy-kill.
 app-emacs/easy-repeat 0.2: Repeat easily
 app-emacs/ebf 1.0.0: brainfuck language transpiler to Emacs Lisp
-app-emacs/ebib 2.39.3: a BibTeX database manager
+app-emacs/ebib 2.39.4: a BibTeX database manager
 app-emacs/eclim 0.4: An interface to the Eclipse IDE.
 app-emacs/ecukes 0.6.18: Cucumber for Emacs.
 app-emacs/edbi 0.1.2: Emacs Database Interface
@@ -759,7 +759,7 @@ app-emacs/eredis 0.9.6: eredis, a Redis client in emacs lisp
 app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics.
 app-emacs/eri 2.6.4: Enhanced relative indentation (eri)
-app-emacs/erk 0.5.1: Elisp (GitHub) Repository Kit
+app-emacs/erk 0.5.3: Elisp (GitHub) Repository Kit
 app-emacs/erlang 26.1.2: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/ert-async 0.1.2: Async support for ERT
@@ -1033,7 +1033,7 @@ app-emacs/format-all 0.5.0: Auto-format C, C++, JS, Python, Ruby and 50 other la
 app-emacs/format-sql 0.4: Use format-sql to make your SQL readable in directly Emacs.
 app-emacs/format-table 0.0.1: Parse and reformat tabular data.
 app-emacs/fortune-cookie 1.0.0: Print a fortune in your scratch buffer.
-app-emacs/fountain-mode 3.6.3: Major mode for screenwriting in Fountain markup
+app-emacs/fountain-mode 3.7.0: Major mode for screenwriting in Fountain markup
 app-emacs/fpga 0.2.0: FPGA & ASIC Utils
 app-emacs/frame-purpose 1.0: Purpose-specific frames
 app-emacs/frames-only-mode 1.0.0: Use frames instead of Emacs windows
@@ -1108,7 +1108,7 @@ app-emacs/git-identity 0.2.1: Identity management for (ma)git
 app-emacs/git-lens 0.7.0: Show new, deleted or modified files in branch
 app-emacs/git-link 0.8.6: Get the GitHub/Bitbucket/GitLab URL for a buffer location
 app-emacs/git-messenger 0.18: Pop up last commit information of current line
-app-emacs/git-modes 1.4.1: Major modes for editing Git configuration files
+app-emacs/git-modes 1.4.2: Major modes for editing Git configuration files
 app-emacs/git-ps1-mode 0.2.2: Global minor-mode to print __git_ps1
 app-emacs/git-timemachine 4.13: Walk through git revisions of a file
 app-emacs/git-walktree 0.1.0: Browse Git tree and blob objects
@@ -1899,7 +1899,7 @@ app-emacs/notmuch-addr 0.2.2: An alternative to notmuch-address.el
 app-emacs/notmuch-bookmarks 0.2: Add bookmark handling for notmuch buffers
 app-emacs/notmuch-labeler 0.1: Improve notmuch way of displaying labels
 app-emacs/notmuch-maildir 0.2.2: Visualize maildirs as a tree
-app-emacs/notmuch-transient 0.2.0: Command dispatchers for Notmuch
+app-emacs/notmuch-transient 0.2.1: Command dispatchers for Notmuch
 app-emacs/nov 0.4.0: Featureful EPUB reader mode
 app-emacs/noxml-fold 0.0.2: Fold away XML things.
 app-emacs/npm 0.2: Run your npm workflows
@@ -2283,7 +2283,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 24.4: major mode for editing protocol buffers.
+app-emacs/protobuf-mode 25.0: major mode for editing protocol buffers.
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions.
 app-emacs/psalm 0.6.0: Interface to Psalm
@@ -2720,11 +2720,11 @@ app-emacs/transpose-frame 0.2.1: Transpose windows arrangement in a frame
 app-emacs/transwin 0.1.4: Make window/frame transparent
 app-emacs/trashed 2.1.4: Viewing/editing system trash can
 app-emacs/travis 0.6.0: Emacs client for Travis
-app-emacs/tray 0.1.1: Various transient menus
+app-emacs/tray 0.1.2: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.74: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.75: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.1.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
@@ -2737,7 +2737,7 @@ app-emacs/treemacs-perspective 3.1: Perspective integration for treemacs
 app-emacs/treemacs-projectile 3.1: Projectile integration for treemacs
 app-emacs/treemacs-tab-bar 3.1: Tab bar integration for treemacs
 app-emacs/treepy 0.1.2: Generic tree traversal tools
-app-emacs/treesit-auto 0.6.4: Automatically use tree-sitter enhanced major modes
+app-emacs/treesit-auto 0.6.5: Automatically use tree-sitter enhanced major modes
 app-emacs/trinary 1.2.1: Trinary logic
 app-emacs/tron-legacy-theme 2.6.0: An original retro-futuristic theme inspired by Tron: Legacy
 app-emacs/trr 2.0.0: a type-writing training program on GNU Emacs.
@@ -2875,8 +2875,8 @@ app-emacs/whois 0.3: Syntax highlighted domain name queries using system whois
 app-emacs/whole-line-or-region 2.0: Operate on current line if region undefined
 app-emacs/widget-mvc 0.0.2: MVC framework for the emacs widgets
 app-emacs/wiki-nav 1.0.2: Simple file navigation using [[WikiStrings]]
-app-emacs/wildcharm-light-theme 0.6: Port of vim-wildcharm (light) colorscheme
-app-emacs/wildcharm-theme 0.6: Port of vim-wildcharm colorscheme
+app-emacs/wildcharm-light-theme 0.7: Port of vim-wildcharm (light) colorscheme
+app-emacs/wildcharm-theme 0.7: Port of vim-wildcharm colorscheme
 app-emacs/win-switch 1.1.4: fast, dynamic bindings for window-switching/resizing
 app-emacs/window-end-visible 0.1.0: Find the last visible point in a window
 app-emacs/window-layout 1.4: window layout manager
