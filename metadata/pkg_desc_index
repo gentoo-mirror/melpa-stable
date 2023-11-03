@@ -2129,8 +2129,8 @@ app-emacs/pacfiles-mode 1.2: The pacnew and pacsave merging tool
 app-emacs/pack 0.1.1: Pack and unpack archive files
 app-emacs/package+ 1.4.0: Extensions for the package library.
 app-emacs/package-build 4.0.0: Tools for assembling a package archive
-app-emacs/package-lint 0.19: A linting library for elisp package authors
-app-emacs/package-lint-flymake 0.19: A package-lint Flymake backend
+app-emacs/package-lint 0.20: A linting library for elisp package authors
+app-emacs/package-lint-flymake 0.20: A package-lint Flymake backend
 app-emacs/package-safe-delete 0.1.7: Safely delete package.el packages
 app-emacs/package-utils 1.0.1: Extensions for package.el
 app-emacs/packed 3.1.0: Package manager agnostic Emacs Lisp package utilities
