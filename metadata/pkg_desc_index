@@ -1033,7 +1033,7 @@ app-emacs/format-all 0.5.0: Auto-format C, C++, JS, Python, Ruby and 50 other la
 app-emacs/format-sql 0.4: Use format-sql to make your SQL readable in directly Emacs.
 app-emacs/format-table 0.0.1: Parse and reformat tabular data.
 app-emacs/fortune-cookie 1.0.0: Print a fortune in your scratch buffer.
-app-emacs/fountain-mode 3.7.0: Major mode for screenwriting in Fountain markup
+app-emacs/fountain-mode 3.7.1: Major mode for screenwriting in Fountain markup
 app-emacs/fpga 0.2.0: FPGA & ASIC Utils
 app-emacs/frame-purpose 1.0: Purpose-specific frames
 app-emacs/frames-only-mode 1.0.0: Use frames instead of Emacs windows
@@ -1767,7 +1767,7 @@ app-emacs/mhc 1.2.4: Message Harmonized Calendaring system.
 app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 0.4: Command line search and direct jump with Milkode
-app-emacs/mini-echo 0.5.2: Echo buffer status in minibuffer window
+app-emacs/mini-echo 0.5.3: Echo buffer status in minibuffer window
 app-emacs/mini-modeline 20200408.729: Display modeline in minibuffer
 app-emacs/minibuffer-complete-cycle 1.25.20130814: Cycle through the *Completions* buffer
 app-emacs/minibuffer-cua 1.0.0: Make CUA mode's S-up/S-down work in minibuffer
@@ -1947,7 +1947,7 @@ app-emacs/oer-reveal 4.12.0: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
-app-emacs/olivetti 2.0.4: Minor mode for a nice writing environment
+app-emacs/olivetti 2.0.5: Minor mode for a nice writing environment
 app-emacs/omni-kill 0.6.0: Kill all the things
 app-emacs/omni-log 0.4.0: Logging utilities
 app-emacs/omni-quotes 0.5.1: Random quotes displayer
@@ -2737,7 +2737,7 @@ app-emacs/treemacs-perspective 3.1: Perspective integration for treemacs
 app-emacs/treemacs-projectile 3.1: Projectile integration for treemacs
 app-emacs/treemacs-tab-bar 3.1: Tab bar integration for treemacs
 app-emacs/treepy 0.1.2: Generic tree traversal tools
-app-emacs/treesit-auto 0.6.5: Automatically use tree-sitter enhanced major modes
+app-emacs/treesit-auto 0.6.6: Automatically use tree-sitter enhanced major modes
 app-emacs/trinary 1.2.1: Trinary logic
 app-emacs/tron-legacy-theme 2.6.0: An original retro-futuristic theme inspired by Tron: Legacy
 app-emacs/trr 2.0.0: a type-writing training program on GNU Emacs.
