@@ -2359,7 +2359,7 @@ app-emacs/realgud 1.5.1: A modular front-end for interacting with external debug
 app-emacs/realgud-lldb 1.0.2: Realgud front-end to lldb
 app-emacs/realgud-pry 1.0.0: Realgud front-end to the Ruby pry debugger
 app-emacs/realgud-trepan-ni 1.0.1: Realgud front-end to trepan-ni
-app-emacs/reaper 1.3.0: Interact with Harvest time tracking app
+app-emacs/reaper 1.4.0: Interact with Harvest time tracking app
 app-emacs/reason-mode 0.3.0: A major emacs mode for editing Reason (based on rust-mode)
 app-emacs/reazon 0.4.1: miniKanren for Emacs
 app-emacs/rebecca-theme 1.2.1: Rebecca Purple Theme
