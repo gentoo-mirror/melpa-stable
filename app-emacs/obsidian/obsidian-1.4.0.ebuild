@@ -18,12 +18,14 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/s
+DEPEND="app-emacs/f
+	app-emacs/s
 	app-emacs/dash
 	app-emacs/markdown-mode
 	app-emacs/elgrep
 	app-emacs/yaml"
-RDEPEND="app-emacs/s
+RDEPEND="app-emacs/f
+	app-emacs/s
 	app-emacs/dash
 	app-emacs/markdown-mode
 	app-emacs/elgrep
