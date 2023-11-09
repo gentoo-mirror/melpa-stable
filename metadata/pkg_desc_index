@@ -277,7 +277,7 @@ app-emacs/cerbere 0.1.0: Unit testing in Emacs for several programming languages
 app-emacs/cern-ldap 0.0.4: Library to interact with CERN's LDAP servers
 app-emacs/cern-root-mode 0.1.4: Major-mode for running C++ code with ROOT
 app-emacs/ceylon-mode 0.2: Major mode for editing Ceylon source code
-app-emacs/cfn-mode 1.0.4: AWS cloudformation mode
+app-emacs/cfn-mode 1.0.5: AWS cloudformation mode
 app-emacs/cframe 1.0: Customize a frame and fast switch size and positions
 app-emacs/cfrs 1.6.0: Child-frame based read-string
 app-emacs/cg 1.4.6: Major mode for editing Constraint Grammar files
