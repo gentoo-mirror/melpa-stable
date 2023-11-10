@@ -575,7 +575,7 @@ app-emacs/ditz-mode 0.3: Emacs interface to Ditz issue tracking system
 app-emacs/dix 0.4.1: Apertium XML editing minor mode
 app-emacs/dix-evil 0.4.1: optional evil-integration with dix.el
 app-emacs/django-commands 1.4.1: Run django commands
-app-emacs/docker 2.2.0: Interface to Docker
+app-emacs/docker 2.3.1: Interface to Docker
 app-emacs/docker-cli 1.0.0: Running various commands in docker containers
 app-emacs/docker-compose-mode 1.1.0: Major mode for editing docker-compose files
 app-emacs/docker-tramp 0.1.1: TRAMP integration for docker containers
@@ -1413,7 +1413,7 @@ app-emacs/idomenu 0.1: imenu tag selection with ido
 app-emacs/idris-mode 1.0: Major mode for editing Idris code
 app-emacs/iedit 0.9.9.9.9: Edit multiple regions in the same way simultaneously.
 app-emacs/iflipb 1.6: Interactively flip between recently visited buffers
-app-emacs/igist 1.5.0: List, create, update and delete GitHub gists
+app-emacs/igist 1.5.1: List, create, update and delete GitHub gists
 app-emacs/ignoramus 0.7.4: Ignore backups, build files, et al.
 app-emacs/image+ 0.6.2: Image manipulate extensions for Emacs
 app-emacs/image-archive 0.0.7: Image thumbnails in archive file with non-blocking
@@ -1565,7 +1565,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.10: Import, edit and create calendar events through khal
 app-emacs/khardel 1.0.0: Integrate with khard
-app-emacs/khoj 0.13.0: AI copilot for your Second Brain
+app-emacs/khoj 0.14.0: AI copilot for your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
