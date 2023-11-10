@@ -115,7 +115,7 @@ app-emacs/assess 0.6: Test support functions
 app-emacs/astro-ts-mode 2.0.0: Major mode for editing Astro templates
 app-emacs/async 1.9.7: Asynchronous processing in Emacs
 app-emacs/async-await 1.1: Async/Await
-app-emacs/asyncloop 0.3.3: Non-blocking series of functions
+app-emacs/asyncloop 0.4.1: Non-blocking series of functions
 app-emacs/atcoder-tools 0.4.0: An atcoder-tools client
 app-emacs/atl-long-lines 0.2.0: Turn off truncate-lines when the line is long
 app-emacs/atl-markup 0.1.5: Automatically truncate lines for markup languages
@@ -673,7 +673,7 @@ app-emacs/elescope 0.2: Seach and clone projects from the minibuffer
 app-emacs/elf-mode 0.1.0: Show symbols in binaries
 app-emacs/elfeed 3.4.1: an Emacs Atom/RSS feed reader
 app-emacs/elfeed-autotag 0.1.2: Easy auto-tagging for elfeed
-app-emacs/elfeed-curate 0.1.0: Elfeed entry curation
+app-emacs/elfeed-curate 0.2.0: Elfeed entry curation
 app-emacs/elfeed-protocol 0.9.1: Provide fever/newsblur/owncloud/ttrss protocols for elfeed
 app-emacs/elfeed-score 1.2.7: Gnus-style scoring for Elfeed
 app-emacs/elfeed-summary 0.1.0: Feed summary interface for elfeed
