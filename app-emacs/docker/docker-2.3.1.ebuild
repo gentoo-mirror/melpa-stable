@@ -20,15 +20,11 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/emacs-aio
 	app-emacs/dash
-	app-emacs/docker-tramp
-	app-emacs/json-mode
 	app-emacs/s
 	app-emacs/tablist
 	app-emacs/transient"
 RDEPEND="app-emacs/emacs-aio
 	app-emacs/dash
-	app-emacs/docker-tramp
-	app-emacs/json-mode
 	app-emacs/s
 	app-emacs/tablist
 	app-emacs/transient"
