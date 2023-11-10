@@ -422,7 +422,7 @@ app-emacs/consult-lsp 1.1: LSP-mode Consult integration
 app-emacs/consult-notmuch 0.8.1: Notmuch search using consult
 app-emacs/consult-project-extra 0.1: Consult integration for project.el
 app-emacs/consult-recoll 0.8: Recoll queries using consult
-app-emacs/consult-tex 0.1.1: Consult powered completion for tex
+app-emacs/consult-tex 0.1.2: Consult powered completion for tex
 app-emacs/consult-todo 0.4.1: Search hl-todo keywords in consult
 app-emacs/contextual 1.0.1: Contextual profile management system
 app-emacs/contextual-menubar 1.0.0: display the menubar only on a graphical display
