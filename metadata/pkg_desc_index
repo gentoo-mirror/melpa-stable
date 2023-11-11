@@ -416,7 +416,7 @@ app-emacs/consult-compile-multi 0.5: Consulting read support for `compile-multi'
 app-emacs/consult-dir 0.1: Insert paths into the minibuffer prompt
 app-emacs/consult-eglot 0.2.0: A consulting-read interface for eglot
 app-emacs/consult-flycheck 0.9: Provides the command `consult-flycheck'
-app-emacs/consult-ghq 0.0.4: Ghq interface using consult
+app-emacs/consult-ghq 0.0.5: Ghq interface using consult
 app-emacs/consult-hatena-bookmark 0.3.1: Consult commands for the Hatena Bookmark
 app-emacs/consult-lsp 1.1: LSP-mode Consult integration
 app-emacs/consult-notmuch 0.8.1: Notmuch search using consult
