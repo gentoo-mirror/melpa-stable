@@ -115,7 +115,7 @@ app-emacs/assess 0.6: Test support functions
 app-emacs/astro-ts-mode 2.0.0: Major mode for editing Astro templates
 app-emacs/async 1.9.7: Asynchronous processing in Emacs
 app-emacs/async-await 1.1: Async/Await
-app-emacs/asyncloop 0.4.1: Non-blocking series of functions
+app-emacs/asyncloop 0.4.2: Non-blocking series of functions
 app-emacs/atcoder-tools 0.4.0: An atcoder-tools client
 app-emacs/atl-long-lines 0.2.0: Turn off truncate-lines when the line is long
 app-emacs/atl-markup 0.1.5: Automatically truncate lines for markup languages
@@ -427,7 +427,7 @@ app-emacs/consult-todo 0.4.1: Search hl-todo keywords in consult
 app-emacs/contextual 1.0.1: Contextual profile management system
 app-emacs/contextual-menubar 1.0.0: display the menubar only on a graphical display
 app-emacs/conventional-changelog 1.1.0: Conventional Changelog Generator
-app-emacs/copy-as-format 0.0.8: Copy buffer locations as GitHub/Slack/JIRA/HipChat/... formatted code
+app-emacs/copy-as-format 0.0.9: Copy buffer locations as GitHub/Slack/JIRA etc... formatted code
 app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
 app-emacs/copyit-pandoc 0.1.0: Copy it, yank anything!
@@ -616,7 +616,7 @@ app-emacs/e2wm-pkgex4pl 0.0.1: Plugin of e2wm.el for package explorer of Perl
 app-emacs/e2wm-sww 0.0.3: Plugin of e2wm.el to switch plugin quickly
 app-emacs/e2wm-term 0.0.5: Perspective of e2wm.el for work in terminal
 app-emacs/eacl 2.2.0: Auto-complete lines by grepping project
-app-emacs/eask 0.8.3: Core Eask APIs, for Eask CLI development
+app-emacs/eask 0.8.6: Core Eask APIs, for Eask CLI development
 app-emacs/eask-mode 0.1.0: major mode for editing Eask files
 app-emacs/easy-hugo 3.10.59: Write blogs made with hugo by markdown or org-mode
 app-emacs/easy-jekyll 2.6.30: Major mode managing jekyll blogs
@@ -1255,7 +1255,7 @@ app-emacs/helm-cider 0.5.0: Helm interface to CIDER
 app-emacs/helm-circe 0.4: helm circe buffer management.
 app-emacs/helm-codesearch 0.6.0: helm interface for codesearch
 app-emacs/helm-commandlinefu 0.3: Search and browse commandlinefu.com from helm
-app-emacs/helm-company 0.2.7: Helm interface for company-mode
+app-emacs/helm-company 0.2.8: Helm interface for company-mode
 app-emacs/helm-core 3.9.5: Development files for Helm
 app-emacs/helm-cscope 0.1.1: Helm interface for xcscope.el.
 app-emacs/helm-dash 1.3.0: Offline documentation browser for +150 APIs using Dash docsets.
@@ -1356,7 +1356,7 @@ app-emacs/highlight-parentheses 2.1.1: Highlight surrounding parentheses
 app-emacs/highlight-quoted 0.1: Highlight Lisp quotes and quoted symbols
 app-emacs/highlight-symbol 1.3: automatic and manual symbol highlighting
 app-emacs/himalaya 0.3: Interface for the himalaya email client
-app-emacs/hindent 6.1.0: Indent haskell code using the "hindent" program
+app-emacs/hindent 6.1.1: Indent haskell code using the "hindent" program
 app-emacs/hippie-expand-slime 0.1: Hook slime's completion into hippie-expand
 app-emacs/hippie-namespace 0.5.8: Special treatment for namespace prefixes in hippie-expand
 app-emacs/history 1.0.0: History utility for source code navigation
@@ -1857,7 +1857,7 @@ app-emacs/navi-mode 2.0: major-mode for easy buffer-navigation
 app-emacs/navigel 0.7.0: Facilitate the creation of tabulated-list based UIs
 app-emacs/navorski 0.2.7: Helping you live in the terminal, like Viktor did.
 app-emacs/ncl-mode 0.99: Major Mode for editing NCL scripts and other goodies
-app-emacs/neil 0.2.62: companion for Babashka Neil
+app-emacs/neil 0.2.63: companion for Babashka Neil
 app-emacs/nemerle 1.2: major mode for editing nemerle programs
 app-emacs/neon-mode 1.3.0: Simple major mode for editing neon files
 app-emacs/neotree 0.6.0: A tree plugin like NerdTree for Vim
