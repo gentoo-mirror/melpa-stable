@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="copy-as-format"
+REALNAME="asyncloop"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Copy buffer locations as GitHub/Slack/JIRA/HipChat/... formatted code"
+DESCRIPTION="Non-blocking series of functions"
 
-HOMEPAGE="https://github.com/sshaw/copy-as-format"
+HOMEPAGE="https://github.com/meedstrom/asyncloop"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/named-timer"
+RDEPEND="app-emacs/named-timer"
