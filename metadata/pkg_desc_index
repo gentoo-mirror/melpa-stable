@@ -336,7 +336,7 @@ app-emacs/clues-theme 1.0.1: an Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.6: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.27.7: major-mode for editing CMake sources
+app-emacs/cmake-mode 3.27.8: major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -661,7 +661,7 @@ app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
 app-emacs/el2org 0.6.0: Convert elisp file to org file
 app-emacs/elbank 1.2: Personal finances reporting application
 app-emacs/elcouch 0.11.0: View and manipulate CouchDB databases
-app-emacs/eldev 1.7: Elisp development tool
+app-emacs/eldev 1.8: Elisp development tool
 app-emacs/eldoc-box 1.11.1: Display documentation in childframe
 app-emacs/eldoc-eask 0.1.0: Eldoc support for Eask-file
 app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use.
@@ -1228,7 +1228,7 @@ app-emacs/harvest 0.3.8: Harvest integration
 app-emacs/haskell-emacs 4.0.3: Write emacs extensions in haskell
 app-emacs/haskell-emacs-base 4.0.3: Haskell functions from Prelude
 app-emacs/haskell-emacs-text 4.0.3: Haskell functions from Data.Text
-app-emacs/haskell-mode 17.4: A Haskell editing mode
+app-emacs/haskell-mode 17.5: A Haskell editing mode
 app-emacs/haskell-snippets 0.1.0: Yasnippets for Haskell
 app-emacs/haskell-tab-indent 0.3: tab-based indentation for haskell-mode
 app-emacs/hasklig-mode 0.2: Hasklig ligatures
@@ -1767,7 +1767,7 @@ app-emacs/mhc 1.2.4: Message Harmonized Calendaring system.
 app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 0.4: Command line search and direct jump with Milkode
-app-emacs/mini-echo 0.5.3: Echo buffer status in minibuffer window
+app-emacs/mini-echo 0.5.4: Echo buffer status in minibuffer window
 app-emacs/mini-modeline 20200408.729: Display modeline in minibuffer
 app-emacs/minibuffer-complete-cycle 1.25.20130814: Cycle through the *Completions* buffer
 app-emacs/minibuffer-cua 1.0.0: Make CUA mode's S-up/S-down work in minibuffer
@@ -2724,7 +2724,7 @@ app-emacs/tray 0.1.2: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.78: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.79: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.1.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
