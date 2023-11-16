@@ -115,7 +115,7 @@ app-emacs/assess 0.6: Test support functions
 app-emacs/astro-ts-mode 2.0.0: Major mode for editing Astro templates
 app-emacs/async 1.9.7: Asynchronous processing in Emacs
 app-emacs/async-await 1.1: Async/Await
-app-emacs/asyncloop 0.4.3: Non-blocking series of functions
+app-emacs/asyncloop 0.4.5: Non-blocking series of functions
 app-emacs/atcoder-tools 0.4.0: An atcoder-tools client
 app-emacs/atl-long-lines 0.2.0: Turn off truncate-lines when the line is long
 app-emacs/atl-markup 0.1.5: Automatically truncate lines for markup languages
@@ -2283,7 +2283,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 25.0: major mode for editing protocol buffers.
+app-emacs/protobuf-mode 25.1: major mode for editing protocol buffers.
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions.
 app-emacs/psalm 0.6.0: Interface to Psalm
