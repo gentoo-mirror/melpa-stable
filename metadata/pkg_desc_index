@@ -2655,7 +2655,7 @@ app-emacs/tagedit 1.4.0: Some paredit-like features for html-mode
 app-emacs/talonscript-mode 1.0.0: Major mode for Talon Voice's .talon files
 app-emacs/tao-theme 1.1.1: This package provides two parametrized uncoloured color themes for Emacs: tao-yin and tao-yang.
 app-emacs/taskpaper-mode 1.0: Major mode for working with TaskPaper files
-app-emacs/tawny-mode 2.3.0: Ontology Editing with Tawny-OWL
+app-emacs/tawny-mode 2.3.3: Ontology Editing with Tawny-OWL
 app-emacs/telega 0.8.3: Telegram client (unofficial)
 app-emacs/telepathy 1.0: Access Telepathy from Emacs
 app-emacs/telephone-line 0.6: Rewrite of Powerline
