@@ -624,7 +624,7 @@ app-emacs/easy-kill 0.9.4: kill & mark things easily
 app-emacs/easy-kill-extras 0.9.11: Extra functions for easy-kill.
 app-emacs/easy-repeat 0.2: Repeat easily
 app-emacs/ebf 1.0.0: brainfuck language transpiler to Emacs Lisp
-app-emacs/ebib 2.39.4: a BibTeX database manager
+app-emacs/ebib 2.40.3: a BibTeX database manager
 app-emacs/eclim 0.4: An interface to the Eclipse IDE.
 app-emacs/ecukes 0.6.18: Cucumber for Emacs.
 app-emacs/edbi 0.1.2: Emacs Database Interface
