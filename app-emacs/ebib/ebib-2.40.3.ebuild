@@ -18,5 +18,7 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/parsebib"
-RDEPEND="app-emacs/parsebib"
+DEPEND="app-emacs/parsebib
+	app-emacs/compat"
+RDEPEND="app-emacs/parsebib
+	app-emacs/compat"
