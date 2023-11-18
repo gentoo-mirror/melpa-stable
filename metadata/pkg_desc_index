@@ -2411,7 +2411,7 @@ app-emacs/rivet-mode 4.1.0: A minor mode for editing Apache Rivet files
 app-emacs/rjsx-mode 0.5.0: Real support for JSX
 app-emacs/robe 0.8.3: Code navigation, documentation lookup and completion for Ruby
 app-emacs/robot-log 0.1.4: Major mode for viewing RobotFramework debug log files
-app-emacs/robot-mode 0.7.0: Major-mode for Robot Framework files
+app-emacs/robot-mode 0.8.0: Major-mode for Robot Framework files
 app-emacs/robots-txt-mode 0.0.9: Major mode for editing robots.txt
 app-emacs/roguel-ike 0.1.1: A coffee-break roguelike
 app-emacs/rope-read-mode 0.3.4: Rearrange lines to read text smoothly
