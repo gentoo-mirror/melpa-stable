@@ -1767,7 +1767,7 @@ app-emacs/mhc 1.2.4: Message Harmonized Calendaring system.
 app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 0.4: Command line search and direct jump with Milkode
-app-emacs/mini-echo 0.5.4: Echo buffer status in minibuffer window
+app-emacs/mini-echo 0.6.0: Echo buffer status in minibuffer window
 app-emacs/mini-modeline 20200408.729: Display modeline in minibuffer
 app-emacs/minibuffer-complete-cycle 1.25.20130814: Cycle through the *Completions* buffer
 app-emacs/minibuffer-cua 1.0.0: Make CUA mode's S-up/S-down work in minibuffer
