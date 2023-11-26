@@ -1566,7 +1566,7 @@ app-emacs/keypress-multi-event 1.0: Perform different actions for the same keypr
 app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.10: Import, edit and create calendar events through khal
-app-emacs/khardel 1.0.0: Integrate with khard
+app-emacs/khardel 2.0.0: Integrate with khard
 app-emacs/khoj 1.0.1: AI copilot for your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
@@ -1945,7 +1945,7 @@ app-emacs/ocamlformat 0.26.1: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
 app-emacs/octicons 0.1: octicons utility
-app-emacs/oer-reveal 4.13.0: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.15.0: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -2470,7 +2470,7 @@ app-emacs/selectrum-prescient 6.2: prescient.el + Selectrum
 app-emacs/seml-mode 1.6.0: major-mode for SEML, S-Expression Markup Language, file
 app-emacs/sensei 0.43.3: A client for sensei
 app-emacs/separedit 0.3.37: Edit comment/string/docstring/code block in separate buffer
-app-emacs/sequential-yank 0.1.2: Minor mode to copy and paste strings sequentially
+app-emacs/sequential-yank 0.1.3: Minor mode to copy and paste strings sequentially
 app-emacs/seriestracker 1.3.1: Series tracker
 app-emacs/servant 0.3.0: ELPA server written in Emacs Lisp
 app-emacs/services 1.7: Services database access functions.
