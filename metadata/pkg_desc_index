@@ -2717,6 +2717,7 @@ app-emacs/toxi-theme 0.1.2: A dark color theme by toxi
 app-emacs/tr-ime 0.5.0: Emulator of IME patch for Windows
 app-emacs/traad 3.1.1: emacs interface to the traad refactoring server.
 app-emacs/tracking 2.12: Buffer modification tracking
+app-emacs/transducers 1.0.0: Ergonomic, efficient data processing
 app-emacs/transient 0.4.3: Transient commands
 app-emacs/translate-mode 1.0.2: Paragraph-oriented side-by-side doc translation workflow
 app-emacs/transmission 0.12.2: Interface to a Transmission session
