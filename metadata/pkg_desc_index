@@ -165,7 +165,7 @@ app-emacs/banner-comment 2.7: For producing banner comments.
 app-emacs/base16-theme 3.2: Collection of themes built on combinations of 16 base colors
 app-emacs/bash-completion 3.1.1: Bash completion for the shell buffer
 app-emacs/basic-ide 0.0.3: BASIC IDE c64
-app-emacs/basic-mode 1.2.0: Major mode for editing BASIC code
+app-emacs/basic-mode 1.2.1: Major mode for editing BASIC code
 app-emacs/battery-notifier 0.2.2: Notify when battery capacity is low
 app-emacs/bbcode-mode 2.3.0: Major mode for phpBB posts (BBCode markup)
 app-emacs/bbdb 3.2: core of BBDB
@@ -608,7 +608,7 @@ app-emacs/duplexer 0.1.0: Handle conflicts between local minor modes and reuse r
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
 app-emacs/dylan 0.1.0: Dylan editing modes
 app-emacs/dynamic-fonts 0.6.4: Set faces based on available fonts
-app-emacs/dynamic-ruler 0.1.6: Displays a dynamic ruler at point.
+app-emacs/dynamic-ruler 0.1.7: Displays a dynamic ruler at point.
 app-emacs/dynaring 0.3: A dynamically sized ring structure
 app-emacs/e2wm 1.4: simple window manager for emacs
 app-emacs/e2wm-R 0.4: some e2wm plugin and perspective for GNU R
@@ -652,7 +652,7 @@ app-emacs/eglot-jl 2.2.1: Julia support for eglot
 app-emacs/eide 2.3.1: IDE interface
 app-emacs/eink-theme 1.0.0: E Ink color theme
 app-emacs/ejc-sql 0.4.1: Emacs SQL client uses Clojure JDBC.
-app-emacs/ekg 0.4.2: A system for recording and linking information
+app-emacs/ekg 0.4.3: A system for recording and linking information
 app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
@@ -1679,6 +1679,7 @@ app-emacs/lsp-p4 0.1: P4 support for lsp-mode
 app-emacs/lsp-pyright 0.2.0: Python LSP client using Pyright
 app-emacs/lsp-python-ms 0.7.3: The lsp-mode client for Microsoft python-language-server
 app-emacs/lsp-scheme 0.1.1: Scheme support for lsp-mode
+app-emacs/lsp-shader 0.0.1: LSP Clients for ShaderLab
 app-emacs/lsp-sonarlint 0.1.0: Emacs Sonarlint lsp client
 app-emacs/lsp-tailwindcss 0.2: A lsp-mode client for tailwindcss
 app-emacs/lsp-treemacs 0.4: LSP treemacs
@@ -1945,7 +1946,7 @@ app-emacs/ocamlformat 0.26.1: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
 app-emacs/octicons 0.1: octicons utility
-app-emacs/oer-reveal 4.15.0: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.16.0: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
