@@ -502,7 +502,7 @@ app-emacs/debian-el 37.4: Emacs helpers specific to Debian users
 app-emacs/debpaste 0.1.5: Interface for getting/posting/deleting pastes from paste.debian.net
 app-emacs/decide 0.9.1: rolling dice and other random things
 app-emacs/declutter 0.1.0: Read html content and paywall sites without clutter
-app-emacs/decor 1.1.0: Modify visual decorations
+app-emacs/decor 1.2.0: Modify visual decorations
 app-emacs/dedicated 1.0.0: A very simple minor mode for dedicated buffers
 app-emacs/default-text-scale 0.2: Easily adjust the font size in all frames
 app-emacs/deferred 0.5.1: Simple asynchronous functions for emacs lisp
@@ -602,7 +602,7 @@ app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
 app-emacs/dtrt-indent 1.15: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
-app-emacs/dune 3.12.0: Integration with the dune build system
+app-emacs/dune 3.12.1: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
 app-emacs/duplexer 0.1.0: Handle conflicts between local minor modes and reuse rules
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
@@ -670,7 +670,7 @@ app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use.
 app-emacs/eldoc-stan 10.2.0: Eldoc support for stan functions
 app-emacs/electric-cursor 0.2: Change cursor automatically depending on mode
 app-emacs/electric-operator 1.1.0: Automatically add spaces around operators
-app-emacs/electric-ospl 2.1.0: Electric OSPL Mode
+app-emacs/electric-ospl 3.0.0: Electric OSPL Mode
 app-emacs/elescope 0.2: Seach and clone projects from the minibuffer
 app-emacs/elf-mode 0.1.0: Show symbols in binaries
 app-emacs/elfeed 3.4.1: an Emacs Atom/RSS feed reader
@@ -1770,7 +1770,7 @@ app-emacs/mhc 1.2.4: Message Harmonized Calendaring system.
 app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 0.4: Command line search and direct jump with Milkode
-app-emacs/mini-echo 0.6.0: Echo buffer status in minibuffer window
+app-emacs/mini-echo 0.6.1: Echo buffer status in minibuffer window
 app-emacs/mini-modeline 20200408.729: Display modeline in minibuffer
 app-emacs/minibuffer-complete-cycle 1.25.20130814: Cycle through the *Completions* buffer
 app-emacs/minibuffer-cua 1.0.0: Make CUA mode's S-up/S-down work in minibuffer
@@ -2730,7 +2730,7 @@ app-emacs/tray 0.1.2: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.79: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.81: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.1.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
@@ -2758,7 +2758,7 @@ app-emacs/turing-machine 0.2.0: Single-tape Turing machine simulator
 app-emacs/twilight-anti-bright-theme 0.3.0: A soothing Emacs 24 light-on-dark theme
 app-emacs/twittering-mode 3.0.0: Major mode for Twitter
 app-emacs/typescript-mode 0.4: Major mode for editing typescript
-app-emacs/typewriter-roll-mode 1.0.0: Aid for distraction-free writing
+app-emacs/typewriter-roll-mode 1.0.1: Aid for distraction-free writing
 app-emacs/typit 0.3.0: Typing game similar to tests on 10 fast fingers
 app-emacs/typo 1.1: Minor mode for typographic editing
 app-emacs/typo-suggest 0.0.4: Don't make typos with the help of helm and company
