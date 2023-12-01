@@ -51,7 +51,7 @@ app-emacs/ado-mode 16.1.4: Major mode for editing Stata-related files
 app-emacs/adoc-mode 0.7.0: a major-mode for editing AsciiDoc files
 app-emacs/adwaita-dark-theme 1.1.0: A dark color scheme inspired by Adwaita
 app-emacs/aes 1.0: Implementation of AES
-app-emacs/affe 0.7: Asynchronous Fuzzy Finder for Emacs
+app-emacs/affe 0.8: Asynchronous Fuzzy Finder for Emacs
 app-emacs/ag 0.48: A front-end for ag ('the silver searcher'), the C ack replacement.
 app-emacs/age 0.1.4: The Age Encryption Library
 app-emacs/agenix 1.2: Decrypt and encrypt agenix secrets
@@ -259,7 +259,7 @@ app-emacs/call-graph 0.1.0: Library to generate call graph for cpp functions
 app-emacs/camcorder 1.0: Record screencasts in gif or other formats.
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cangjie 0.7.4: Retrieve cangjie code for han characters
-app-emacs/cape 0.17: Completion At Point Extensions
+app-emacs/cape 1.0: Completion At Point Extensions
 app-emacs/capnp-mode 1.0.1.1: Major mode for editing Capn' Proto Files
 app-emacs/cargo 0.4.1: Emacs Minor Mode for Cargo, Rust's Package Manager.
 app-emacs/caseformat 0.1.0: Format based letter case converter
@@ -409,13 +409,13 @@ app-emacs/conda 0.0.12: Work with your conda environments
 app-emacs/conkeror-minor-mode 1.6.2: Mode for editing conkeror javascript files.
 app-emacs/conllu-mode 0.5.0: editing mode for CoNLL-U files
 app-emacs/connection 1.11: TCP-based client connection
-app-emacs/consult 0.35: Consulting completing-read
+app-emacs/consult 1.0: Consulting completing-read
 app-emacs/consult-ag 0.2.0: The silver searcher integration using Consult
 app-emacs/consult-codesearch 0.3: Consult interface for codesearch
 app-emacs/consult-compile-multi 0.5: Consulting read support for `compile-multi'
 app-emacs/consult-dir 0.1: Insert paths into the minibuffer prompt
 app-emacs/consult-eglot 0.2.0: A consulting-read interface for eglot
-app-emacs/consult-flycheck 0.9: Provides the command `consult-flycheck'
+app-emacs/consult-flycheck 1.0: Provides the command `consult-flycheck'
 app-emacs/consult-ghq 0.0.5: Ghq interface using consult
 app-emacs/consult-hatena-bookmark 0.3.1: Consult commands for the Hatena Bookmark
 app-emacs/consult-lsp 1.1: LSP-mode Consult integration
@@ -431,7 +431,7 @@ app-emacs/copy-as-format 0.0.9: Copy buffer locations as GitHub/Slack/JIRA etc..
 app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
 app-emacs/copyit-pandoc 0.1.0: Copy it, yank anything!
-app-emacs/corfu 0.38: COmpletion in Region FUnction
+app-emacs/corfu 1.0: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 1.3: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 6.2: prescient.el + Corfu
 app-emacs/corral 0.3: Quickly surround text with delimiters
@@ -760,7 +760,7 @@ app-emacs/ercn 1.1.1: Flexible ERC notifications
 app-emacs/eredis 0.9.6: eredis, a Redis client in emacs lisp
 app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics.
-app-emacs/eri 2.6.4: Enhanced relative indentation (eri)
+app-emacs/eri 2.6.4.1: Enhanced relative indentation (eri)
 app-emacs/erk 0.5.3: Elisp (GitHub) Repository Kit
 app-emacs/erlang 26.1.2: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
@@ -2020,7 +2020,7 @@ app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various M
 app-emacs/org-make-toc 0.5: Automatic tables of contents for Org files
 app-emacs/org-mime 0.3.2: org html export for text/html MIME emails
 app-emacs/org-ml 5.8.8: Functional Org Mode API
-app-emacs/org-modern 0.10: Modern looks for Org
+app-emacs/org-modern 1.0: Modern looks for Org
 app-emacs/org-movies 0.1: Manage watchlist with Org mode
 app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persistent history
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
@@ -2094,7 +2094,7 @@ app-emacs/orgstrap 1.5.5: Bootstrap an Org file using file local variables
 app-emacs/orgtbl-show-header 1.0.0: Show the header of the current column in the minibuffer
 app-emacs/origami-predef 1.0: Apply folding when finding (opening) files
 app-emacs/orthodox-christian-new-calendar-holidays 1.3.3: Feasts (NS)
-app-emacs/osm 0.14: OpenStreetMap viewer
+app-emacs/osm 1.0: OpenStreetMap viewer
 app-emacs/osx-browse 0.8.8: Web browsing helpers for OS X
 app-emacs/osx-clipboard 0.1: Use the OS X clipboard from terminal Emacs
 app-emacs/osx-dictionary 0.4: Interface for OSX Dictionary.app
@@ -2664,7 +2664,7 @@ app-emacs/tawny-mode 2.3.3: Ontology Editing with Tawny-OWL
 app-emacs/telega 0.8.3: Telegram client (unofficial)
 app-emacs/telepathy 1.0: Access Telepathy from Emacs
 app-emacs/telephone-line 0.6: Rewrite of Powerline
-app-emacs/tempel 0.8: Tempo templates/snippets with in-buffer field editing
+app-emacs/tempel 1.0: Tempo templates/snippets with in-buffer field editing
 app-emacs/templatel 0.1.6: Templating language;
 app-emacs/ten-hundred-mode 1.0.1: use only the ten hundred most usual words
 app-emacs/term-alert 1.2: Notifications when commands complete in term.el.
@@ -2820,7 +2820,7 @@ app-emacs/vegetative-theme 1.0.2: A Theme based on green CRT terminals
 app-emacs/verb 2.15.0: Organize and send HTTP requests
 app-emacs/verilog-ext 0.3.1: SystemVerilog Extensions
 app-emacs/verilog-ts-mode 0.1.1: Verilog Tree-sitter major mode
-app-emacs/vertico 1.4: VERTical Interactive COmpletion
+app-emacs/vertico 1.5: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 6.2: prescient.el + Vertico
 app-emacs/vertigo 1.0: Jump across lines using the home row.
 app-emacs/vhdl-ext 0.3.1: VHDL Extensions
