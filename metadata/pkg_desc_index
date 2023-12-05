@@ -192,7 +192,7 @@ app-emacs/bind-key 2.4.4: A simple way to manage personal keybindings
 app-emacs/bind-map 1.1.1: Bind personal keymaps in multiple locations
 app-emacs/binder 0.4.4: Global minor mode to facilitate multi-file writing projects
 app-emacs/bing-dict 0.2.4: Minimalists' English-Chinese Bing dictionary
-app-emacs/binky 1.4.1: Jump between points like a rabbit
+app-emacs/binky 1.4.2: Jump between points like a rabbit
 app-emacs/birds-of-paradise-plus-theme 0.1.1: A brown/orange light-on-dark theme for Emacs 24 (deftheme).
 app-emacs/bison-mode 0.3: Major mode for editing bison, yacc and lex files.
 app-emacs/bitpack 1.0.1: Bit packing functions
@@ -291,7 +291,7 @@ app-emacs/chee 0.3.0: Interface to chee using dired and image-dired
 app-emacs/chezmoi 0.0.1: A package for interacting with chezmoi
 app-emacs/chinese-word-at-point 0.2.3: Add `chinese-word' thing to `thing-at-point'
 app-emacs/choice-program 0.14: Parameter based program
-app-emacs/chordpro-mode 2.1.0: Major mode for ChordPro lead sheet file format
+app-emacs/chordpro-mode 2.2.0: Major mode for ChordPro lead sheet file format
 app-emacs/chroma 1.1.0: Color manipulation library
 app-emacs/chronometrist 0.10.0: Friendly and powerful personal time tracker and analyzer
 app-emacs/chronometrist-key-values 0.10.0: add key-values to Chronometrist data
@@ -319,7 +319,7 @@ app-emacs/clingo-mode 0.4.0: A major mode for editing Answer Set Programs
 app-emacs/clipetty 0.1: Send every kill from a TTY frame to the system clipboard
 app-emacs/cliphist 0.6.3: paste from clipboard managers
 app-emacs/clips-mode 0.7: Major mode for editing CLIPS code and REPL
-app-emacs/clj-refactor 3.11.0: A collection of commands for refactoring Clojure code
+app-emacs/clj-refactor 3.11.2: A collection of commands for refactoring Clojure code
 app-emacs/cljr-helm 0.11: Wraps clojure refactor commands with helm
 app-emacs/clocker 0.0.11: Note taker and clock-in enforcer
 app-emacs/clockodo 0.8.0: A small integration for the clockodo api
@@ -726,7 +726,7 @@ app-emacs/embark-consult 0.23: Consult integration for Embark
 app-emacs/embrace 0.1.4: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 1.1.0: Test runner and report viewer for Midje
 app-emacs/emmet-mode 1.0.8: Unofficial Emmet's support for emacs
-app-emacs/emms 16: The Emacs Multimedia System
+app-emacs/emms 17: The Emacs Multimedia System
 app-emacs/emms-mode-line-cycle 0.2.5: Display the emms mode line as a ticker
 app-emacs/emms-player-simple-mpv 0.4.0: An extension of emms-player-simple.el for mpv JSON IPC
 app-emacs/emms-state 0.2: Display track description and playing time in the mode line
@@ -1390,7 +1390,7 @@ app-emacs/hyai 1.0.0: Haskell Yet Another Indentation
 app-emacs/hydandata-light-theme 0.9.0: A light color theme that is easy on your eyes
 app-emacs/hyde 0.2: No description available.
 app-emacs/hydra 0.15.0: Make bindings that stick around.
-app-emacs/hyperdrive 0.2: P2P filesystem
+app-emacs/hyperdrive 0.3.0: P2P filesystem
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
 app-emacs/ialign 0.4.2: visual align-regexp
@@ -1531,6 +1531,7 @@ app-emacs/json-rpc-server 0.3.1: Server-side JSON-RPC library.
 app-emacs/json-snatcher 1.0.0: Grabs the path to JSON values in a JSON file
 app-emacs/jsonian 0.1.0: A major mode for editing JSON files
 app-emacs/jsonnet-mode 0.1.3: Major mode for editing jsonnet files
+app-emacs/jtsx 0.3.0: Extends default support for JSX/TSX
 app-emacs/julia-mode 0.4: Major mode for editing Julia source code
 app-emacs/julia-repl 1.3.0: A minor mode for a Julia REPL
 app-emacs/julia-snail 1.2.3: Julia Snail
@@ -1759,6 +1760,7 @@ app-emacs/merlin-ac 4.1: Merlin and auto-complete integration.
 app-emacs/merlin-company 4.1: Merlin and company mode integration.
 app-emacs/merlin-eldoc 1.3: eldoc for OCaml and Reason
 app-emacs/merlin-iedit 4.1: Merlin and iedit integration.
+app-emacs/mermaid-docker-mode 1.2.0: Render mermaid graphs with Docker service
 app-emacs/meson-mode 0.3: Major mode for the Meson build system files
 app-emacs/meta-presenter 1.1.0: A simple multi-file presentation tool for Emacs
 app-emacs/metamorph 1.0.0: Transform your buffers with lisp
@@ -1805,7 +1807,7 @@ app-emacs/monkeytype 0.1.5: Mode for speed typing
 app-emacs/monky 0.1: Control Hg from Emacs.
 app-emacs/monokai-theme 3.5.3: A fruity color theme for Emacs.
 app-emacs/monroe 0.3.1: Yet another client for nREPL
-app-emacs/mood-line 3.0.0: A minimal mode line inspired by doom-modeline
+app-emacs/mood-line 3.0.1: A minimal mode line inspired by doom-modeline
 app-emacs/mood-one-theme 1.2.2: A dark color scheme inspired by the Doom One theme
 app-emacs/moody 1.0.0: Tabs and ribbons for the mode line
 app-emacs/moom 1.6.0: Commands to control frame position and size
@@ -1941,7 +1943,7 @@ app-emacs/ob-translate 0.1.2: Translation of text blocks in org-mode.
 app-emacs/ob-uart 0.1.0: org-babel support for UART communication
 app-emacs/obfusurl 2.1: Obfuscate URLs so they aren't spoilers
 app-emacs/objed 0.8.1: Navigate and edit text objects.
-app-emacs/obsidian 1.4.0: Obsidian Notes interface
+app-emacs/obsidian 1.4.1: Obsidian Notes interface
 app-emacs/ocamlformat 0.26.1: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
@@ -2155,8 +2157,8 @@ app-emacs/parrot 1.1.1: Party Parrot rotates gracefully in mode-line.
 app-emacs/parse-it 0.2.1: Basic Parser in Emacs Lisp
 app-emacs/parsebib 4.3: A library for parsing bib files
 app-emacs/parsec 0.1.4: Parser combinator library
-app-emacs/parseclj 1.1.0: Clojure/EDN parser
-app-emacs/parseedn 1.2.0: Clojure/EDN parser
+app-emacs/parseclj 1.1.1: Clojure/EDN parser
+app-emacs/parseedn 1.2.1: Clojure/EDN parser
 app-emacs/pass 2.0: Major mode for password-store.el
 app-emacs/passmm 1.0.0: A minor mode for pass (Password Store)
 app-emacs/password-store 1.7.4: Password store (pass) support
@@ -2557,7 +2559,7 @@ app-emacs/snoopy 0.2.0: minor mode for number row unshifted character insertion
 app-emacs/soccer 1.6.2: Fixtures, results, table etc for soccer
 app-emacs/socyl 0.3.0: Frontend for several search tools
 app-emacs/solaire-mode 2.0.4: make certain buffers grossly incandescent
-app-emacs/solarized-theme 2.0.3: The Solarized color theme
+app-emacs/solarized-theme 2.0.4: The Solarized color theme
 app-emacs/solidity-flycheck 0.1.10: Flycheck integration for solidity emacs mode
 app-emacs/solidity-mode 0.1.10: Major mode for ethereum's solidity language
 app-emacs/solo-jazz-theme 0.9.0: The Solo-Jazz color theme
@@ -2601,7 +2603,7 @@ app-emacs/ssh-deploy 3.1.16: Deployment via Tramp, global or per directory.
 app-emacs/stan-mode 10.2.0: Major mode for editing Stan files
 app-emacs/stan-snippets 10.2.0: Yasnippets for Stan
 app-emacs/standard-dirs 2.0.0: Platform-specific paths for config, cache, and other data
-app-emacs/starhugger 0.4.1: Hugging Face/AI-powered text & code completion client
+app-emacs/starhugger 0.4.2: Hugging Face/AI-powered text & code completion client
 app-emacs/stash 0.4.1: lightweight persistent caching
 app-emacs/status 0.3: This package adds support for status icons to Emacs.
 app-emacs/stgit 2.4.0: major mode for StGit interaction
@@ -2692,7 +2694,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2023.11.27.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2023.12.4.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.4: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2730,7 +2732,7 @@ app-emacs/tray 0.1.2: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.81: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.82: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.1.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
