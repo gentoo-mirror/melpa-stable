@@ -1098,7 +1098,7 @@ app-emacs/git-annex 1.1: Mode for easy editing of git-annex'd files
 app-emacs/git-attr 1.0.0: Git attributes of buffer file
 app-emacs/git-auto-commit-mode 4.7.0: Emacs Minor mode to automatically commit and push
 app-emacs/git-backup 0.0.1: Backup each file change using git
-app-emacs/git-cliff 0.4.3: Generate and update changelog using git-cliff
+app-emacs/git-cliff 0.4.4: Generate and update changelog using git-cliff
 app-emacs/git-command 0.2.0: Yet another Git interface
 app-emacs/git-commit 3.3.0: Edit Git commit messages.
 app-emacs/git-commit-insert-issue 0.4.1: Get issues list when typing "Fixes #"
@@ -1636,7 +1636,7 @@ app-emacs/lispy 0.27.0: vi-like Paredit
 app-emacs/list-packages-ext 0.1.0: Extras for list-packages
 app-emacs/list-unicode-display 0.1: Search for and list unicode characters by name
 app-emacs/list-utils 0.4.6: List-manipulation utility functions
-app-emacs/lister 0.9.4: Yet another list printer
+app-emacs/lister 0.9.5: Yet another list printer
 app-emacs/lit-mode 0.1.1: Major mode for lit
 app-emacs/litanize 0.2: Generate "Latour Litanies"
 app-emacs/literal-string 0.5: edit string literals in a dedicated buffer
@@ -1645,7 +1645,7 @@ app-emacs/literate-elisp 0.8: literate program to write elisp codes in org mode
 app-emacs/litex-mode 0.3.0: Minor mode for converting lisp to LaTeX
 app-emacs/live-code-talks 0.2.1: Support for slides with live code in them
 app-emacs/live-preview 0.1.2: Live preview by any shell command while editing
-app-emacs/live-py-mode 4.11.0: Live Coding in Python
+app-emacs/live-py-mode 4.11.1: Live Coding in Python
 app-emacs/lively 0.2: interactively updating text
 app-emacs/llama 0.3.1: Compact syntax for short lambda
 app-emacs/lms 1.1: Squeezebox / Logitech Media Server frontend
