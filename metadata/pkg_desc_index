@@ -1984,7 +1984,7 @@ app-emacs/org-autolist 0.14: Improved list management in org-mode
 app-emacs/org-babel-eval-in-repl 1.6: Eval org-mode babel code blocks in various REPLs.
 app-emacs/org-beautify-theme 0.3.1: A sub-theme to make org-mode more beautiful.
 app-emacs/org-board 1018: bookmarking and web archival system for Org mode.
-app-emacs/org-bookmark-heading 1.3: Emacs bookmark support for Org mode
+app-emacs/org-bookmark-heading 1.3.1: Emacs bookmark support for Org mode
 app-emacs/org-books 0.3.0: Reading list management with Org mode and helm
 app-emacs/org-bulletproof 0.3: Automatic plain list bullet cycling
 app-emacs/org-bullets 0.2.4: Show bullets in org-mode as UTF-8 characters
