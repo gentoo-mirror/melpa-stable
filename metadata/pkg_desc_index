@@ -49,7 +49,7 @@ app-emacs/add-node-modules-path 1.3.1: Add node_modules to your exec-path
 app-emacs/addressbook-bookmark 1.0: An address book based on Standard Emacs bookmarks.
 app-emacs/ado-mode 16.1.4: Major mode for editing Stata-related files
 app-emacs/adoc-mode 0.7.0: a major-mode for editing AsciiDoc files
-app-emacs/adwaita-dark-theme 1.1.0: A dark color scheme inspired by Adwaita
+app-emacs/adwaita-dark-theme 1.3.0: A dark color scheme inspired by Adwaita
 app-emacs/aes 1.0: Implementation of AES
 app-emacs/affe 0.8: Asynchronous Fuzzy Finder for Emacs
 app-emacs/ag 0.48: A front-end for ag ('the silver searcher'), the C ack replacement.
@@ -1610,7 +1610,7 @@ app-emacs/leanote 0.4.0: A minor mode writing markdown leanote
 app-emacs/ledger-import 1.1.0: Fetch OFX files from bank and push them to Ledger
 app-emacs/ledger-mode 4.0.0: Helper code for use with the "ledger" command-line tool
 app-emacs/leetcode 0.1.27: An leetcode client
-app-emacs/lem 0.3: A basic lemmy client
+app-emacs/lem 0.4: A basic lemmy client
 app-emacs/lentic 0.11: One buffer as a view of another
 app-emacs/less-css-mode 0.21: Major mode for editing LESS CSS files (lesscss.org)
 app-emacs/letcheck 0.4: Check the erroneous assignments in let forms
@@ -1807,7 +1807,7 @@ app-emacs/monkeytype 0.1.5: Mode for speed typing
 app-emacs/monky 0.1: Control Hg from Emacs.
 app-emacs/monokai-theme 3.5.3: A fruity color theme for Emacs.
 app-emacs/monroe 0.3.1: Yet another client for nREPL
-app-emacs/mood-line 3.0.1: A minimal mode line inspired by doom-modeline
+app-emacs/mood-line 3.1.0: A minimal mode line inspired by doom-modeline
 app-emacs/mood-one-theme 1.2.2: A dark color scheme inspired by the Doom One theme
 app-emacs/moody 1.0.0: Tabs and ribbons for the mode line
 app-emacs/moom 1.6.0: Commands to control frame position and size
@@ -2623,7 +2623,7 @@ app-emacs/sudo-utils 3.0.1: Sudo utilities
 app-emacs/suggest 0.7: suggest elisp functions that give the output requested
 app-emacs/sumibi 2.0.0: Japanese input method powered by ChatGPT API
 app-emacs/suomalainen-kalenteri 2023.1.2: Finnish national and Christian holidays for calendar
-app-emacs/super-save 0.3.0: Auto-save buffers, based on your activity.
+app-emacs/super-save 0.4.0: Auto-save buffers, based on your activity.
 app-emacs/svg-mode-line-themes 0.1.3: SVG-based themes for mode-line
 app-emacs/svgo 1.0.3: SVG optimization with SVGO
 app-emacs/swagger-to-org 0.0.2: Convert a swagger.json file into an org-mode file
