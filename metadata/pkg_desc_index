@@ -502,7 +502,7 @@ app-emacs/debian-el 37.4: Emacs helpers specific to Debian users
 app-emacs/debpaste 0.1.5: Interface for getting/posting/deleting pastes from paste.debian.net
 app-emacs/decide 0.9.1: rolling dice and other random things
 app-emacs/declutter 0.1.0: Read html content and paywall sites without clutter
-app-emacs/decor 1.2.0: Modify visual decorations
+app-emacs/decor 1.3.0: Modify visual decorations
 app-emacs/dedicated 1.0.0: A very simple minor mode for dedicated buffers
 app-emacs/default-text-scale 0.2: Easily adjust the font size in all frames
 app-emacs/deferred 0.5.1: Simple asynchronous functions for emacs lisp
@@ -1807,7 +1807,7 @@ app-emacs/monkeytype 0.1.5: Mode for speed typing
 app-emacs/monky 0.1: Control Hg from Emacs.
 app-emacs/monokai-theme 3.5.3: A fruity color theme for Emacs.
 app-emacs/monroe 0.3.1: Yet another client for nREPL
-app-emacs/mood-line 3.1.0: A minimal mode line inspired by doom-modeline
+app-emacs/mood-line 3.1.1: A minimal mode line inspired by doom-modeline
 app-emacs/mood-one-theme 1.2.2: A dark color scheme inspired by the Doom One theme
 app-emacs/moody 1.0.0: Tabs and ribbons for the mode line
 app-emacs/moom 1.6.0: Commands to control frame position and size
