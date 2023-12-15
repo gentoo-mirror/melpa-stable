@@ -336,7 +336,7 @@ app-emacs/clues-theme 1.0.1: an Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.6: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.28.0: major-mode for editing CMake sources
+app-emacs/cmake-mode 3.28.1: major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -1453,6 +1453,7 @@ app-emacs/inform7 0.1.1: Major mode for working with Inform 7 files
 app-emacs/inherit-local 1.1.1: Inherited buffer-local variables
 app-emacs/inheritenv 0.2: Make temp buffers inherit buffer-local environment variables
 app-emacs/ini-mode 0.0.7: Major mode for Windows-style ini files.
+app-emacs/init-dir 0.1: Init directory instead of just a single file
 app-emacs/init-loader 0.2: Loader for configuration files
 app-emacs/init-open-recentf 0.2.1: Invoke a command immediately after startup
 app-emacs/initsplit 1.6: No description available.
