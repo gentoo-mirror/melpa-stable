@@ -24,11 +24,13 @@ DEPEND="app-emacs/dash
 	app-emacs/queue
 	app-emacs/string-inflection
 	app-emacs/org-mode
-	app-emacs/parsebib"
+	app-emacs/parsebib
+	app-emacs/compat"
 RDEPEND="app-emacs/dash
 	app-emacs/s
 	app-emacs/f
 	app-emacs/queue
 	app-emacs/string-inflection
 	app-emacs/org-mode
-	app-emacs/parsebib"
+	app-emacs/parsebib
+	app-emacs/compat"
