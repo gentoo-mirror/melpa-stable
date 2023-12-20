@@ -20,7 +20,6 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/verilog-mode
 	app-emacs/verilog-ts-mode
-	app-emacs/eglot
 	app-emacs/lsp-mode
 	app-emacs/ag
 	app-emacs/ripgrep
@@ -32,7 +31,6 @@ DEPEND="app-emacs/verilog-mode
 	app-emacs/async"
 RDEPEND="app-emacs/verilog-mode
 	app-emacs/verilog-ts-mode
-	app-emacs/eglot
 	app-emacs/lsp-mode
 	app-emacs/ag
 	app-emacs/ripgrep
