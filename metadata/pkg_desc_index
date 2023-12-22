@@ -691,7 +691,7 @@ app-emacs/elisp-refs 1.5: find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.4.3: Tool for interacting with LLMs
+app-emacs/ellama 0.4.5: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
@@ -1571,7 +1571,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.10: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.1.0: AI copilot for your Second Brain
+app-emacs/khoj 1.2.0: AI copilot for your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
