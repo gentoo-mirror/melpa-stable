@@ -1184,7 +1184,7 @@ app-emacs/govc 0.34.1: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
-app-emacs/gptel 0.5.0: A simple multi-LLM client
+app-emacs/gptel 0.5.5: A simple multi-LLM client
 app-emacs/grab-mac-link 0.3: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 0.5: Grab links from X11 apps and insert into Emacs
 app-emacs/gradle-mode 0.5.5: Gradle integration with Emacs' compile
@@ -1304,7 +1304,7 @@ app-emacs/helm-notmuch 1.2: Search emails with Notmuch and Helm
 app-emacs/helm-open-github 0.15: Utilities of Opening Github Page
 app-emacs/helm-org 1.0: Helm for org headlines and keywords completion
 app-emacs/helm-org-multi-wiki 0.4.0: Helm interface to org-multi-wiki
-app-emacs/helm-org-ql 0.7.4: Helm support for org-ql
+app-emacs/helm-org-ql 0.8: Helm support for org-ql
 app-emacs/helm-org-rifle 1.7.1: Rifle through your Org files
 app-emacs/helm-orgcard 0.2: browse the orgcard by helm
 app-emacs/helm-pages 0.1.1: Pages in current buffer as Helm datasource
@@ -1384,7 +1384,7 @@ app-emacs/httpcode 0.1: explains the meaning of an HTTP status code
 app-emacs/httprepl 1.1: An HTTP REPL
 app-emacs/huecycle 1.0.0: Idle color animation
 app-emacs/hugsql-ghosts 0.1.4: Display hugsql defqueries in clojure code as an overlay
-app-emacs/humanoid-themes 0.3: Color themes with a dark and light variant
+app-emacs/humanoid-themes 0.4: Color themes with a dark and light variant
 app-emacs/hungry-delete 1.1.5: hungry delete minor mode
 app-emacs/hush 0.1.4: Pluggable secret manager (auth-source alternative)
 app-emacs/hy-mode 1.0.4: Major mode for Hylang
@@ -2041,7 +2041,7 @@ app-emacs/org-project-capture 3.1.0: Repository todo capture and management for 
 app-emacs/org-projectile 3.1.0: Repository todo capture and management for org-mode with projectile
 app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
-app-emacs/org-ql 0.7.4: Org Query Language, search command, and agenda-like view
+app-emacs/org-ql 0.8: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
 app-emacs/org-re-reveal 3.24.0: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
@@ -2651,7 +2651,7 @@ app-emacs/symbol-overlay 4.2: Highlight symbols with keymap-enabled overlays
 app-emacs/symbolword-mode 1.0: No description available.
 app-emacs/symex 1.0: An evil way to edit Lisp symbolic expressions as trees
 app-emacs/symon 20160630: tiny graphical system monitor
-app-emacs/syncthing 1.4.2: Client for Syncthing
+app-emacs/syncthing 1.5.0: Client for Syncthing
 app-emacs/synosaurus 0.2.0: An extensible thesaurus supporting lookup and substitution.
 app-emacs/syntactic-sugar 0.9.4: Effect-free forms such as if/then/else
 app-emacs/syntax-subword 0.2: make operations on words more fine-grained
