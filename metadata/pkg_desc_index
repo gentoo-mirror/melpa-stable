@@ -2102,7 +2102,7 @@ app-emacs/orgstrap 1.5.5: Bootstrap an Org file using file local variables
 app-emacs/orgtbl-show-header 1.0.0: Show the header of the current column in the minibuffer
 app-emacs/origami-predef 1.0: Apply folding when finding (opening) files
 app-emacs/orthodox-christian-new-calendar-holidays 1.3.3: Feasts (NS)
-app-emacs/osm 1.0: OpenStreetMap viewer
+app-emacs/osm 1.1: OpenStreetMap viewer
 app-emacs/osx-browse 0.8.8: Web browsing helpers for OS X
 app-emacs/osx-clipboard 0.1: Use the OS X clipboard from terminal Emacs
 app-emacs/osx-dictionary 0.4: Interface for OSX Dictionary.app
