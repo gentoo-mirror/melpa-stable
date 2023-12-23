@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for editing JSON files."
+DESCRIPTION="Major mode for editing JSON files"
 
 HOMEPAGE="https://github.com/joshwnj/json-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
