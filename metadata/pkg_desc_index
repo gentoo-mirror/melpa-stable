@@ -1924,7 +1924,7 @@ app-emacs/nvm 0.3.0: Manage Node versions within Emacs
 app-emacs/nyan-mode 1.1.3: Nyan Cat shows position in current buffer in mode-line.
 app-emacs/ob-ada-spark 1.3.0: Babel functions for Ada & SPARK
 app-emacs/ob-async 1.0.0: Asynchronous org-babel src block execution
-app-emacs/ob-base64 1.1.3: Org-babel for base64 content
+app-emacs/ob-base64 1.1.4: Org-babel for base64 content
 app-emacs/ob-blockdiag 20170728.113: org-babel functions for blockdiag evaluation
 app-emacs/ob-coffeescript 1.0.0: org-babel functions for coffee-script evaluation, and fully implementation!
 app-emacs/ob-compile 0.2: Run compile by org-babel
@@ -1953,7 +1953,7 @@ app-emacs/ocamlformat 0.26.1: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
 app-emacs/octicons 0.1: octicons utility
-app-emacs/oer-reveal 4.18.0: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.18.1: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -1981,7 +1981,7 @@ app-emacs/org-ac 0.0.2: Some auto-complete sources for org-mode
 app-emacs/org-agenda-files-track 0.4.0: Fine-track `org-agenda-files' to speed-up `org-agenda'
 app-emacs/org-agenda-files-track-ql 0.4.0: Fine-track `org-agenda-files' to speed-up `org-ql-views'
 app-emacs/org-agenda-property 1.3.1: Display org properties in the agenda buffer.
-app-emacs/org-ai 0.4.2: Use ChatGPT and other LLMs in org-mode and beyond
+app-emacs/org-ai 0.4.3: Use ChatGPT and other LLMs in org-mode and beyond
 app-emacs/org-alert 0.2.0: Notify org deadlines via notify-send
 app-emacs/org-analyzer 1.0.4: org-analyzer is a tool that extracts time tracking data from org files.
 app-emacs/org-anki 3.1.4: Synchronize org-mode entries to Anki
@@ -2046,7 +2046,7 @@ app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.8: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
-app-emacs/org-re-reveal 3.25.0: Org export to reveal.js presentations
+app-emacs/org-re-reveal 3.25.1: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
 app-emacs/org-re-reveal-ref 1.0.0: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
@@ -2708,7 +2708,7 @@ app-emacs/thrift 2024.1.1.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.4: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
-app-emacs/tiktoken 0.2.0: Count BPE Tokens
+app-emacs/tiktoken 0.2.1: Count BPE Tokens
 app-emacs/time-block 1.6.2: Block running commands using time
 app-emacs/timer-revert 0.1: minor mode to revert buffer for a given time interval.
 app-emacs/timesheet 0.5.0: Timesheet management add-on for org-mode
