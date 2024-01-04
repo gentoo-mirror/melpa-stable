@@ -714,7 +714,7 @@ app-emacs/emacs-ansilove 2.0.0: Display buffers as PNG images using ansilove
 app-emacs/emacs-crystal-mode 0.1.0: Major mode for editing Crystal files
 app-emacs/emacs-el-fetch 3.3.0: Show system information in Neofetch-like style (eg CPU, RAM)
 app-emacs/emacs-websearch 2.1.1: Query search engines
-app-emacs/emacsc 1.4.20220420: helper for emacsc(1)
+app-emacs/emacsc 1.5.20230104: helper for emacsc(1)
 app-emacs/emacsql 3.1.1: High-level SQL database front-end
 app-emacs/emacsql-mysql 3.1.1: EmacSQL back-end for MySQL
 app-emacs/emacsql-pg 3.1.1: EmacSQL back-end for PostgreSQL via pg
@@ -1304,7 +1304,7 @@ app-emacs/helm-notmuch 1.2: Search emails with Notmuch and Helm
 app-emacs/helm-open-github 0.15: Utilities of Opening Github Page
 app-emacs/helm-org 1.0: Helm for org headlines and keywords completion
 app-emacs/helm-org-multi-wiki 0.4.0: Helm interface to org-multi-wiki
-app-emacs/helm-org-ql 0.8: Helm support for org-ql
+app-emacs/helm-org-ql 0.8.1: Helm support for org-ql
 app-emacs/helm-org-rifle 1.7.1: Rifle through your Org files
 app-emacs/helm-orgcard 0.2: browse the orgcard by helm
 app-emacs/helm-pages 0.1.1: Pages in current buffer as Helm datasource
@@ -1953,7 +1953,7 @@ app-emacs/ocamlformat 0.26.1: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
 app-emacs/octicons 0.1: octicons utility
-app-emacs/oer-reveal 4.18.1: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.19.0: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -2044,7 +2044,7 @@ app-emacs/org-project-capture 3.1.0: Repository todo capture and management for 
 app-emacs/org-projectile 3.1.0: Repository todo capture and management for org-mode with projectile
 app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
-app-emacs/org-ql 0.8: Org Query Language, search command, and agenda-like view
+app-emacs/org-ql 0.8.1: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
 app-emacs/org-re-reveal 3.25.1: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
@@ -2794,10 +2794,10 @@ app-emacs/unicode-whitespace 0.2.4: teach whitespace-mode about fancy characters
 app-emacs/unify-opening 2.2.0: Unify the mechanism to open files
 app-emacs/unisonlang-mode 0.2.0: Simple major mode for editing Unison
 app-emacs/units-mode 0.1.1: Mode for conversion between different units
-app-emacs/universal-sidecar 1.4.1: A universal sidecar buffer
-app-emacs/universal-sidecar-elfeed-related 1.4.1: Related Papers Sidecar Section for Elfeed
-app-emacs/universal-sidecar-elfeed-score 1.4.1: Show Elfeed Score information in sidecar
-app-emacs/universal-sidecar-roam 1.4.1: Integrate universal-sidecar and org-roam
+app-emacs/universal-sidecar 1.4.3: A universal sidecar buffer
+app-emacs/universal-sidecar-elfeed-related 1.4.3: Related Papers Sidecar Section for Elfeed
+app-emacs/universal-sidecar-elfeed-score 1.4.3: Show Elfeed Score information in sidecar
+app-emacs/universal-sidecar-roam 1.4.3: Integrate universal-sidecar and org-roam
 app-emacs/unkillable-scratch 1.0.0: Disallow the \*scratch\* buffer from being killed
 app-emacs/unmodified-buffer 1.1.0: Auto revert modified buffer state
 app-emacs/unobtrusive-magit-theme 0.4: An unobtrusive Magit theme
