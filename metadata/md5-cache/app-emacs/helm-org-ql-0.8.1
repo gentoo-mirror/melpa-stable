@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/org-re-reveal
-DESCRIPTION=OER with reveal.js, plugins, and org-re-reveal
+DEPEND=app-emacs/dash app-emacs/s app-emacs/helm-org app-emacs/org-ql
+DESCRIPTION=Helm support for org-ql
 EAPI=8
-HOMEPAGE=https://gitlab.com/oer/oer-reveal
+HOMEPAGE=https://github.com/alphapapa/org-ql
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/org-re-reveal >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/dash app-emacs/s app-emacs/helm-org app-emacs/org-ql >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/oer-reveal-4.18.1.tar
+SRC_URI=https://stable.melpa.org/packages/helm-org-ql-0.8.1.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=c9fa5f40c7ef6670385345a1f68ac377
+_md5_=f18be514238b2a622cec0060bf0b6845
