@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A deep blue theme with cool autumnal colors"
 
-HOMEPAGE="https://github.com/super3ggo/kuronami"
+HOMEPAGE="https://github.com/inj0h/kuronami"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
