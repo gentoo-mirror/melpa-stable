@@ -573,6 +573,7 @@ app-emacs/discover 0.3: discover more of Emacs
 app-emacs/discover-my-major 1.0: Discover key bindings and their meaning for the current Emacs major mode
 app-emacs/dispass 1.1.2: Emacs wrapper for DisPass
 app-emacs/display-wttr 2.1.0: Display wttr(weather) in the mode line
+app-emacs/dist-file-mode 1.0.0: Dispatch major mode for *.dist files
 app-emacs/ditz-mode 0.3: Emacs interface to Ditz issue tracking system
 app-emacs/dix 0.4.1: Apertium XML editing minor mode
 app-emacs/dix-evil 0.4.1: optional evil-integration with dix.el
@@ -634,7 +635,7 @@ app-emacs/edbi 0.1.2: Emacs Database Interface
 app-emacs/ede-php-autoload 1.1.0: Simple EDE PHP Project
 app-emacs/ede-php-autoload-composer-installers 0.1.0: Composer installers support for ede-php-autoload
 app-emacs/ede-php-autoload-drupal 0.1.1: Drupal support for ede-php-autoload
-app-emacs/edit-indirect 0.1.10: Edit regions in separate buffers
+app-emacs/edit-indirect 0.1.11: Edit regions in separate buffers
 app-emacs/edit-list 0.3: edit a single list
 app-emacs/edit-server 1.16: server that responds to edit requests from Chrome
 app-emacs/editorconfig 0.10.1: EditorConfig Emacs Plugin
@@ -644,6 +645,7 @@ app-emacs/ednc 0.2: Emacs Desktop Notification Center
 app-emacs/edts 1.2.0: Erlang Development Tool Suite
 app-emacs/edwina 0.2.0: Dynamic window manager
 app-emacs/efar 1.29: FAR-like file manager
+app-emacs/eff 0.2: Show symbols in Executable File Formats
 app-emacs/eg 1.1: Norton Guide reader
 app-emacs/egalgo 1.0.2: Genetic algorithm for Emacs
 app-emacs/egg 1.1.4: Emacs Got Git - Emacs interface to Git
@@ -691,7 +693,7 @@ app-emacs/elisp-refs 1.5: find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.5.1: Tool for interacting with LLMs
+app-emacs/ellama 0.5.6: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
@@ -1180,7 +1182,7 @@ app-emacs/goto-char-preview 0.1.0: Preview character when executing `goto-char` 
 app-emacs/goto-chg 1.7.5: Go to last change
 app-emacs/goto-last-change 1.2.1: Move point through buffer-undo-list positions
 app-emacs/goto-line-preview 0.1.1: Preview line when executing `goto-line` command
-app-emacs/govc 0.34.1: Interface to govc for managing VMware ESXi and vCenter
+app-emacs/govc 0.34.2: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
@@ -1552,6 +1554,7 @@ app-emacs/kaesar 0.9.5: AES algorithm encrypt/decrypt
 app-emacs/kaesar-file 0.9.2: AES encrypt/decrypt file
 app-emacs/kaesar-mode 0.9.4: AES encrypt/decrypt buffer
 app-emacs/kaesar-pbkdf2 0.9.1: PBKDF2 extension for kaesar.el
+app-emacs/kagi 0.1: Kagi API integration
 app-emacs/kakapo-mode 1.2: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
 app-emacs/kaocha-runner 0.3.0: A package for running Kaocha tests via CIDER.
 app-emacs/kaolin-themes 1.6.9: A set of eye pleasing themes
@@ -2678,6 +2681,7 @@ app-emacs/telega 0.8.3: Telegram client (unofficial)
 app-emacs/telepathy 1.0: Access Telepathy from Emacs
 app-emacs/telephone-line 0.6: Rewrite of Powerline
 app-emacs/tempel 1.0: Tempo templates/snippets with in-buffer field editing
+app-emacs/templ-ts-mode 0.3: Major mode for editing Templ files
 app-emacs/templatel 0.1.6: Templating language;
 app-emacs/ten-hundred-mode 1.0.1: use only the ten hundred most usual words
 app-emacs/term-alert 1.2: Notifications when commands complete in term.el.
