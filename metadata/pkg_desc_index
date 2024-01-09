@@ -451,7 +451,7 @@ app-emacs/coverage 0.5: Code coverage line highlighting
 app-emacs/coverlay 3.0.2: Test coverage overlays
 app-emacs/cpp-auto-include 0.2.0: Insert and delete C++ header files automatically
 app-emacs/cpputils-cmake 5.5: Easy real time C++ syntax check and intellisense if you use CMake
-app-emacs/creamsody-theme 1.0.6: Straight from the soda fountain
+app-emacs/creamsody-theme 1.0.9: Straight from the soda fountain
 app-emacs/create-link 1.0: Formatted link generator in browser
 app-emacs/creds 0.0.6.1: A parser credentials file library (not limited to credentials entries)
 app-emacs/cricbuzz 0.3.6: Cricket scores from cricbuzz in emacs
@@ -1306,7 +1306,7 @@ app-emacs/helm-notmuch 1.2: Search emails with Notmuch and Helm
 app-emacs/helm-open-github 0.15: Utilities of Opening Github Page
 app-emacs/helm-org 1.0: Helm for org headlines and keywords completion
 app-emacs/helm-org-multi-wiki 0.4.0: Helm interface to org-multi-wiki
-app-emacs/helm-org-ql 0.8.1: Helm support for org-ql
+app-emacs/helm-org-ql 0.8.2: Helm support for org-ql
 app-emacs/helm-org-rifle 1.7.1: Rifle through your Org files
 app-emacs/helm-orgcard 0.2: browse the orgcard by helm
 app-emacs/helm-pages 0.1.1: Pages in current buffer as Helm datasource
@@ -1622,7 +1622,7 @@ app-emacs/lentic 0.11: One buffer as a view of another
 app-emacs/less-css-mode 0.21: Major mode for editing LESS CSS files (lesscss.org)
 app-emacs/letcheck 0.4: Check the erroneous assignments in let forms
 app-emacs/leuven-theme 1.1.8: Elegant Emacs color theme for a white background
-app-emacs/lfe-mode 2.1.3: Lisp Flavoured Erlang mode
+app-emacs/lfe-mode 2.1.4: Lisp Flavoured Erlang mode
 app-emacs/libbcel 0.4.0: Library to connect to basecamp 3 API
 app-emacs/libelcouch 0.11.0: Communication with CouchDB
 app-emacs/liberime 0.0.6: Rime elisp binding
@@ -2047,7 +2047,7 @@ app-emacs/org-project-capture 3.1.0: Repository todo capture and management for 
 app-emacs/org-projectile 3.1.0: Repository todo capture and management for org-mode with projectile
 app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
-app-emacs/org-ql 0.8.1: Org Query Language, search command, and agenda-like view
+app-emacs/org-ql 0.8.2: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
 app-emacs/org-re-reveal 3.25.1: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
@@ -2138,7 +2138,7 @@ app-emacs/ox-pandoc 2.0: An Org-mode exporter using pandoc
 app-emacs/ox-report 0.4: Export your org file to minutes report PDF file
 app-emacs/ox-review 0.3.0: Re:VIEW Back-End for Org Export Engine
 app-emacs/ox-timeline 0.1.0: HTML Timeline Back-End for Org Export Engine
-app-emacs/ox-tufte 3.0.3: Tufte HTML org-mode export backend
+app-emacs/ox-tufte 3.0.4: Tufte HTML org-mode export backend
 app-emacs/ox-twbs 1.1.4: Bootstrap compatible HTML Back-End for Org
 app-emacs/ox-wk 0.3.0: Wiki Back-End for Org Export Engine
 app-emacs/ox-yaow 1.0: Generate html pages from org files
