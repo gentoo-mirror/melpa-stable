@@ -1044,6 +1044,7 @@ app-emacs/fpga 0.2.0: FPGA & ASIC Utils
 app-emacs/frame-purpose 1.0: Purpose-specific frames
 app-emacs/frames-only-mode 1.0.0: Use frames instead of Emacs windows
 app-emacs/frameshot 0.2.6: Take screenshots of a frame
+app-emacs/frecency 1.0: Library for sorting items by frequency and recency of access
 app-emacs/free-keys 1.0.0: Show free keybindings for modkeys or prefixes
 app-emacs/freeze-it 0.2.2: Minor mode to make your previous writing read-only
 app-emacs/friendly-remote-shell 0.2.5: Human-friendly remote interactive shells
@@ -1306,7 +1307,7 @@ app-emacs/helm-notmuch 1.2: Search emails with Notmuch and Helm
 app-emacs/helm-open-github 0.15: Utilities of Opening Github Page
 app-emacs/helm-org 1.0: Helm for org headlines and keywords completion
 app-emacs/helm-org-multi-wiki 0.4.0: Helm interface to org-multi-wiki
-app-emacs/helm-org-ql 0.8.2: Helm support for org-ql
+app-emacs/helm-org-ql 0.8.3: Helm support for org-ql
 app-emacs/helm-org-rifle 1.7.1: Rifle through your Org files
 app-emacs/helm-orgcard 0.2: browse the orgcard by helm
 app-emacs/helm-pages 0.1.1: Pages in current buffer as Helm datasource
@@ -1562,7 +1563,7 @@ app-emacs/karma 0.1.0: Karma Test Runner Emacs Integration
 app-emacs/keepass-mode 0.0.5: Mode for KeePass DB.
 app-emacs/kele 0.4.1: Spritzy Kubernetes cluster management
 app-emacs/key-assist 1.0: Minibuffer keybinding cheatsheet and launcher
-app-emacs/key-chord 0.6: map pairs of simultaneously pressed keys to commands
+app-emacs/key-chord 0.7: map pairs of simultaneously pressed keys to commands
 app-emacs/key-combo 1.6: map key sequence to commands
 app-emacs/key-seq 1.0.1: map pairs of sequentially pressed keys to commands
 app-emacs/keycast 1.3.3: Show current command and its binding
@@ -2047,7 +2048,7 @@ app-emacs/org-project-capture 3.1.0: Repository todo capture and management for 
 app-emacs/org-projectile 3.1.0: Repository todo capture and management for org-mode with projectile
 app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
-app-emacs/org-ql 0.8.2: Org Query Language, search command, and agenda-like view
+app-emacs/org-ql 0.8.3: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
 app-emacs/org-re-reveal 3.25.1: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
@@ -2203,7 +2204,7 @@ app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
 app-emacs/pet 2.0.0: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: a simple wrapper around asynchronous processes
-app-emacs/pg 0.24: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
+app-emacs/pg 0.27: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/ph 0.1.0: A global minor mode for managing multiple projects.
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: another incremental search & replace, compatible with "multiple-cursors"
@@ -2301,7 +2302,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 25.1: major mode for editing protocol buffers.
+app-emacs/protobuf-mode 25.2: major mode for editing protocol buffers.
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions.
 app-emacs/psalm 0.6.0: Interface to Psalm
@@ -2964,7 +2965,7 @@ app-emacs/yatex 1.83: Yet Another tex-mode for emacs //野鳥//
 app-emacs/yaxception 1.0.0: Provide framework about exception like Java for Elisp
 app-emacs/ycmd 1.2: emacs bindings to the ycmd completion server
 app-emacs/ydk-mode 1.0.0: Language support for Yu-Gi-Oh! deck files
-app-emacs/yeetube 2.0.7: YouTube Front End
+app-emacs/yeetube 2.0.8: YouTube Front End
 app-emacs/yequake 0.1: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 0.1.0: Display ghostly yesql defqueries inline
 app-emacs/yoshi-theme 7.0.0: Theme named after my cat
