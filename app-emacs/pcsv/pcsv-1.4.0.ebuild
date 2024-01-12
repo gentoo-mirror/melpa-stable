@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Parser of csv"
 
-HOMEPAGE="https://github.com/mhayashi1120/Emacs-pcsv/raw/master/pcsv.el"
+HOMEPAGE="https://github.com/mhayashi1120/Emacs-pcsv"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
