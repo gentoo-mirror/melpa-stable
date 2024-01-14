@@ -200,7 +200,7 @@ app-emacs/blackboard-theme 1.0: TextMate Blackboard Theme
 app-emacs/blacken 0.2.0: Reformat python buffers using the "black" formatter
 app-emacs/blackjack 1.0.3: The game of Blackjack
 app-emacs/blackout 1.0: Better mode lighter overriding.
-app-emacs/blamer 0.7.4: Show git blame info about current line
+app-emacs/blamer 0.8.0: Show git blame info about current line
 app-emacs/blitzmax-mode 1.0.0: A major mode for editing BlitzMax source code
 app-emacs/blox 0.3.0: Interaction with Roblox tooling
 app-emacs/bluesound 0.2: Play, pause, resume music on a Bluesound player
@@ -693,7 +693,7 @@ app-emacs/elisp-refs 1.5: find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.5.6: Tool for interacting with LLMs
+app-emacs/ellama 0.5.7: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
@@ -2026,6 +2026,7 @@ app-emacs/org-incoming 0.1: Sort incoming PDFs into your org files
 app-emacs/org-index 7.4.4: No description available.
 app-emacs/org-inline-anim 0.3: Inline playback of animated GIF/PNG for Org
 app-emacs/org-inline-pdf 0.5: Inline PDF previewing for Org
+app-emacs/org-jami-bot 0.0.4: Capture GNU Jami messages as notes and todos in Org mode
 app-emacs/org-jira 4.4.1: Syncing between Jira and Org-mode.
 app-emacs/org-journal 2.2.0: a simple org-mode based journaling mode
 app-emacs/org-journal-tags 0.4.0: Tagging and querying system of org-journal
@@ -2801,10 +2802,10 @@ app-emacs/unicode-whitespace 0.2.4: teach whitespace-mode about fancy characters
 app-emacs/unify-opening 2.2.0: Unify the mechanism to open files
 app-emacs/unisonlang-mode 0.2.0: Simple major mode for editing Unison
 app-emacs/units-mode 0.1.1: Mode for conversion between different units
-app-emacs/universal-sidecar 1.5.0: A universal sidecar buffer
-app-emacs/universal-sidecar-elfeed-related 1.5.0: Related Papers Sidecar Section for Elfeed
-app-emacs/universal-sidecar-elfeed-score 1.5.0: Show Elfeed Score information in sidecar
-app-emacs/universal-sidecar-roam 1.5.0: Integrate universal-sidecar and org-roam
+app-emacs/universal-sidecar 1.5.1: A universal sidecar buffer
+app-emacs/universal-sidecar-elfeed-related 1.5.1: Related Papers Sidecar Section for Elfeed
+app-emacs/universal-sidecar-elfeed-score 1.5.1: Show Elfeed Score information in sidecar
+app-emacs/universal-sidecar-roam 1.5.1: Integrate universal-sidecar and org-roam
 app-emacs/unkillable-scratch 1.0.0: Disallow the \*scratch\* buffer from being killed
 app-emacs/unmodified-buffer 1.1.0: Auto revert modified buffer state
 app-emacs/unobtrusive-magit-theme 0.4: An unobtrusive Magit theme
