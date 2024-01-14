@@ -1556,7 +1556,7 @@ app-emacs/kaesar 0.9.5: AES algorithm encrypt/decrypt
 app-emacs/kaesar-file 0.9.2: AES encrypt/decrypt file
 app-emacs/kaesar-mode 0.9.4: AES encrypt/decrypt buffer
 app-emacs/kaesar-pbkdf2 0.9.1: PBKDF2 extension for kaesar.el
-app-emacs/kagi 0.1: Kagi API integration
+app-emacs/kagi 0.2: Kagi API integration
 app-emacs/kakapo-mode 1.2: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
 app-emacs/kaocha-runner 0.3.0: A package for running Kaocha tests via CIDER.
 app-emacs/kaolin-themes 1.6.9: A set of eye pleasing themes
