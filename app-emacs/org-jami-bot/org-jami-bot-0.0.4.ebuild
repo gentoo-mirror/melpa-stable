@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="blamer"
+REALNAME="org-jami-bot"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show git blame info about current line"
+DESCRIPTION="Capture GNU Jami messages as notes and todos in Org mode"
 
-HOMEPAGE="https://github.com/artawower/blamer.el"
+HOMEPAGE="https://gitlab.com/hperrey/org-jami-bot"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/posframe"
-RDEPEND="app-emacs/posframe"
+DEPEND="app-emacs/jami-bot"
+RDEPEND="app-emacs/jami-bot"
