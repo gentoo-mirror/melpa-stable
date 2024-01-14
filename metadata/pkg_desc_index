@@ -1223,7 +1223,7 @@ app-emacs/gvariant 1.0.0: GVariant (GLib) helpers
 app-emacs/gxref 0.1: xref backend using GNU Global.
 app-emacs/hack-mode 1.2: Major mode for the Hack programming language
 app-emacs/hacker-typer 1.0.6: Pretend to write code like a pro
-app-emacs/hackernews 0.6.1: Hacker News Client for Emacs
+app-emacs/hackernews 0.7.0: Hacker News Client for Emacs
 app-emacs/halloweenie-theme 0.1.1: Dark and spooky Halloween color theme
 app-emacs/ham-mode 1.1.2: Html As Markdown. Transparently edit an html file using markdown
 app-emacs/hamburger-menu 1.0.6: Mode line hamburger menu
