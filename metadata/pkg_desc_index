@@ -687,7 +687,7 @@ app-emacs/elfeed-tube-mpv 0.15: Control mpv from Elfeed
 app-emacs/elfeed-web 3.4.1: web interface to Elfeed
 app-emacs/elgrep 1.0.0: Searching files for regular expressions
 app-emacs/elisp-def 1.1: macro-aware go-to-definition for elisp
-app-emacs/elisp-demos 2020.2.19: Elisp API Demos
+app-emacs/elisp-demos 2024.1.16: Elisp API Demos
 app-emacs/elisp-lint 0.4.0: Basic linting for Emacs Lisp
 app-emacs/elisp-refs 1.5: find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
@@ -770,6 +770,7 @@ app-emacs/erlang 26.2.1: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/ert-async 0.1.2: Async support for ERT
 app-emacs/ert-junit 0.4.1: JUnit XML reports from ert results
+app-emacs/ert-results 1.0.6: Filter ERT test results display
 app-emacs/ert-runner 0.8.0: Opinionated Ert testing workflow
 app-emacs/es-lib 0.4: A collection of emacs utilities
 app-emacs/es-mode 4.3.0: A major mode for editing Elasticsearch queries
@@ -2005,7 +2006,7 @@ app-emacs/org-books 0.3.0: Reading list management with Org mode and helm
 app-emacs/org-bulletproof 0.3: Automatic plain list bullet cycling
 app-emacs/org-bullets 0.2.4: Show bullets in org-mode as UTF-8 characters
 app-emacs/org-category-capture 3.1.0: Contextualy capture of org-mode TODOs.
-app-emacs/org-cite-sidecar 1.5.1: Sidecar to show references in Org Mode
+app-emacs/org-cite-sidecar 1.5.2: Sidecar to show references in Org Mode
 app-emacs/org-clock-csv 1.2: Export `org-mode' clock entries to CSV format.
 app-emacs/org-commentary 0.3.0: generate or update conventional library headers using Org mode files
 app-emacs/org-d20 0.5: minor mode for d20 tabletop roleplaying games
@@ -2715,7 +2716,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2024.1.8.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2024.1.15.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.4: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2805,10 +2806,10 @@ app-emacs/unicode-whitespace 0.2.4: teach whitespace-mode about fancy characters
 app-emacs/unify-opening 2.2.0: Unify the mechanism to open files
 app-emacs/unisonlang-mode 0.2.0: Simple major mode for editing Unison
 app-emacs/units-mode 0.1.1: Mode for conversion between different units
-app-emacs/universal-sidecar 1.5.1: A universal sidecar buffer
-app-emacs/universal-sidecar-elfeed-related 1.5.1: Related Papers Sidecar Section for Elfeed
-app-emacs/universal-sidecar-elfeed-score 1.5.1: Show Elfeed Score information in sidecar
-app-emacs/universal-sidecar-roam 1.5.1: Integrate universal-sidecar and org-roam
+app-emacs/universal-sidecar 1.5.2: A universal sidecar buffer
+app-emacs/universal-sidecar-elfeed-related 1.5.2: Related Papers Sidecar Section for Elfeed
+app-emacs/universal-sidecar-elfeed-score 1.5.2: Show Elfeed Score information in sidecar
+app-emacs/universal-sidecar-roam 1.5.2: Integrate universal-sidecar and org-roam
 app-emacs/unkillable-scratch 1.0.0: Disallow the \*scratch\* buffer from being killed
 app-emacs/unmodified-buffer 1.1.0: Auto revert modified buffer state
 app-emacs/unobtrusive-magit-theme 0.4: An unobtrusive Magit theme
