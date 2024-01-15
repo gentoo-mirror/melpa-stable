@@ -296,7 +296,7 @@ app-emacs/chroma 1.1.0: Color manipulation library
 app-emacs/chronometrist 0.10.0: Friendly and powerful personal time tracker and analyzer
 app-emacs/chronometrist-key-values 0.10.0: add key-values to Chronometrist data
 app-emacs/chronometrist-spark 0.10.0: Show sparklines in Chronometrist buffers
-app-emacs/cider 1.12.0: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 1.13.0: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-eval-sexp-fu 1.2: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 0.1.0: Hydras for CIDER.
 app-emacs/cil-mode 0.4: Common Intermediate Language mode
@@ -730,7 +730,7 @@ app-emacs/embark-consult 1.0: Consult integration for Embark
 app-emacs/embrace 0.1.4: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 1.1.0: Test runner and report viewer for Midje
 app-emacs/emmet-mode 1.0.8: Unofficial Emmet's support for emacs
-app-emacs/emms 17: The Emacs Multimedia System
+app-emacs/emms 18: The Emacs Multimedia System
 app-emacs/emms-mode-line-cycle 0.2.5: Display the emms mode line as a ticker
 app-emacs/emms-player-simple-mpv 0.4.0: An extension of emms-player-simple.el for mpv JSON IPC
 app-emacs/emms-state 0.2: Display track description and playing time in the mode line
@@ -1504,6 +1504,7 @@ app-emacs/ix 0.7: Emacs client for http://ix.io pastebin
 app-emacs/j-mode 1.1.1: Major mode for editing J programs
 app-emacs/jack 1.0: HTML renderer library
 app-emacs/jade-mode 1.0.0: Major mode for editing .jade files
+app-emacs/jami-bot 0.0.2: An extendable chat bot for the private messenger GNU Jami
 app-emacs/java-imports 0.1.0: Code for dealing with Java imports
 app-emacs/javadoc-lookup 1.1.0: Javadoc Emacs integration with Maven
 app-emacs/jdecomp 0.2.0: Interface to Java decompilers
@@ -1516,6 +1517,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 1.1: Enchanted Spell Checker
+app-emacs/jirascope 0.2.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
 app-emacs/jq-format 1.0.0: Reformat JSON and JSONLines using jq
@@ -2003,6 +2005,7 @@ app-emacs/org-books 0.3.0: Reading list management with Org mode and helm
 app-emacs/org-bulletproof 0.3: Automatic plain list bullet cycling
 app-emacs/org-bullets 0.2.4: Show bullets in org-mode as UTF-8 characters
 app-emacs/org-category-capture 3.1.0: Contextualy capture of org-mode TODOs.
+app-emacs/org-cite-sidecar 1.5.1: Sidecar to show references in Org Mode
 app-emacs/org-clock-csv 1.2: Export `org-mode' clock entries to CSV format.
 app-emacs/org-commentary 0.3.0: generate or update conventional library headers using Org mode files
 app-emacs/org-d20 0.5: minor mode for d20 tabletop roleplaying games
