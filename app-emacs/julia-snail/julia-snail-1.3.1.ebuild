@@ -22,11 +22,9 @@ DEPEND="app-emacs/dash
 	app-emacs/julia-mode
 	app-emacs/s
 	app-emacs/spinner
-	app-emacs/vterm
 	app-emacs/popup"
 RDEPEND="app-emacs/dash
 	app-emacs/julia-mode
 	app-emacs/s
 	app-emacs/spinner
-	app-emacs/vterm
 	app-emacs/popup"
