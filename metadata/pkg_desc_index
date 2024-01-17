@@ -108,7 +108,7 @@ app-emacs/apropospriate-theme 0.2.0: A colorful, low-contrast, light & dark them
 app-emacs/archive-rpm 0.1: RPM and CPIO support for archive-mode
 app-emacs/artbollocks-mode 1.1.2: Improve your writing (especially about art)
 app-emacs/arview 1.2: extract and view archives in the temporary directory
-app-emacs/arxiv-mode 0.3.1: Read and search for articles on arXiv.org
+app-emacs/arxiv-mode 0.4.0: Read and search for articles on arXiv.org
 app-emacs/asilea 0.2.1: Find best compiler options using simulated annealing
 app-emacs/asm-blox 0.4.1: Programming game involving WAT
 app-emacs/assess 0.6: Test support functions
@@ -319,7 +319,7 @@ app-emacs/clingo-mode 0.4.0: A major mode for editing Answer Set Programs
 app-emacs/clipetty 0.1: Send every kill from a TTY frame to the system clipboard
 app-emacs/cliphist 0.6.3: paste from clipboard managers
 app-emacs/clips-mode 0.7: Major mode for editing CLIPS code and REPL
-app-emacs/clj-refactor 3.11.2: A collection of commands for refactoring Clojure code
+app-emacs/clj-refactor 3.11.3: A collection of commands for refactoring Clojure code
 app-emacs/cljr-helm 0.11: Wraps clojure refactor commands with helm
 app-emacs/clocker 0.0.11: Note taker and clock-in enforcer
 app-emacs/clockodo 0.8.0: A small integration for the clockodo api
@@ -604,7 +604,7 @@ app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
 app-emacs/dtrt-indent 1.16: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
-app-emacs/dune 3.12.2: Integration with the dune build system
+app-emacs/dune 3.13.0: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
 app-emacs/duplexer 0.1.0: Handle conflicts between local minor modes and reuse rules
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
@@ -2087,7 +2087,7 @@ app-emacs/org-tagged 0.0.4: Dynamic block for tagged org-mode todos
 app-emacs/org-tfl 0.4.0: Transport for London meets Orgmode
 app-emacs/org-themis 0.4.1: Experimental project management mode for org-mode
 app-emacs/org-time-budgets 1.0.1: Define time budgets and display clocked time.
-app-emacs/org-timeblock 0.1: Schedule your days visually, using timeblocking technique inside Emacs.
+app-emacs/org-timeblock 0.2: Interactive SVG calendar for orgmode tasks
 app-emacs/org-timeline 0.4.0: Add graphical view of agenda to agenda buffer.
 app-emacs/org-toodledo 2.1.0: No description available.
 app-emacs/org-tracktable 0.3.1: Track your writing progress in an org-table
@@ -2145,7 +2145,7 @@ app-emacs/ox-pandoc 2.0: An Org-mode exporter using pandoc
 app-emacs/ox-report 0.4: Export your org file to minutes report PDF file
 app-emacs/ox-review 0.3.0: Re:VIEW Back-End for Org Export Engine
 app-emacs/ox-timeline 0.1.0: HTML Timeline Back-End for Org Export Engine
-app-emacs/ox-tufte 4.0.0: Tufte HTML org-mode export backend
+app-emacs/ox-tufte 4.0.1: Tufte HTML org-mode export backend
 app-emacs/ox-twbs 1.1.4: Bootstrap compatible HTML Back-End for Org
 app-emacs/ox-wk 0.3.0: Wiki Back-End for Org Export Engine
 app-emacs/ox-yaow 1.0: Generate html pages from org files
