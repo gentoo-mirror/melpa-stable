@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Schedule your days visually, using timeblocking technique inside Emacs.</longdescription>
+	<longdescription>Interactive SVG calendar for orgmode tasks</longdescription>
 </pkgmetadata>
