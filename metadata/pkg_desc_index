@@ -693,7 +693,7 @@ app-emacs/elisp-refs 1.5: find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.5.8: Tool for interacting with LLMs
+app-emacs/ellama 0.6.0: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
@@ -2971,7 +2971,7 @@ app-emacs/yatex 1.83: Yet Another tex-mode for emacs //野鳥//
 app-emacs/yaxception 1.0.0: Provide framework about exception like Java for Elisp
 app-emacs/ycmd 1.2: emacs bindings to the ycmd completion server
 app-emacs/ydk-mode 1.0.0: Language support for Yu-Gi-Oh! deck files
-app-emacs/yeetube 2.0.8: YouTube Front End
+app-emacs/yeetube 2.0.9: YouTube Front End
 app-emacs/yequake 0.1: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 0.1.0: Display ghostly yesql defqueries inline
 app-emacs/yoshi-theme 7.0.0: Theme named after my cat
