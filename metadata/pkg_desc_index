@@ -1518,7 +1518,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 1.1: Enchanted Spell Checker
-app-emacs/jirascope 0.2.0: A Jira client
+app-emacs/jirascope 0.2.1: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
 app-emacs/jq-format 1.0.0: Reformat JSON and JSONLines using jq
@@ -2767,7 +2767,7 @@ app-emacs/treemacs-perspective 3.1: Perspective integration for treemacs
 app-emacs/treemacs-projectile 3.1: Projectile integration for treemacs
 app-emacs/treemacs-tab-bar 3.1: Tab bar integration for treemacs
 app-emacs/treepy 0.1.2: Generic tree traversal tools
-app-emacs/treesit-auto 1.0.1: Automatically use tree-sitter enhanced major modes
+app-emacs/treesit-auto 1.0.2: Automatically use tree-sitter enhanced major modes
 app-emacs/trinary 1.2.1: Trinary logic
 app-emacs/tron-legacy-theme 2.6.0: An original retro-futuristic theme inspired by Tron: Legacy
 app-emacs/trr 2.0.0: a type-writing training program on GNU Emacs.
