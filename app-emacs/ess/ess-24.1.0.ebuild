@@ -12,11 +12,11 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs Speaks Statistics"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://ess.r-project.org/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/julia-mode"
-RDEPEND="app-emacs/julia-mode"
+DEPEND=""
+RDEPEND=""
