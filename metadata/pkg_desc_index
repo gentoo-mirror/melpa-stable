@@ -163,6 +163,7 @@ app-emacs/backline 1.0.0: Preserve appearance of outline headings
 app-emacs/badwolf-theme 1.2: Bad Wolf color theme
 app-emacs/banner-comment 2.7: For producing banner comments.
 app-emacs/base16-theme 3.2: Collection of themes built on combinations of 16 base colors
+app-emacs/base32 0.8: Base32 support
 app-emacs/bash-completion 3.1.1: Bash completion for the shell buffer
 app-emacs/basic-ide 0.0.3: BASIC IDE c64
 app-emacs/basic-mode 1.2.1: Major mode for editing BASIC code
@@ -588,7 +589,7 @@ app-emacs/docstr 5.7.0: A document string minor mode
 app-emacs/dogears 0.1: Never lose your place again
 app-emacs/dokuwiki-mode 0.1.1: Major mode for DokuWiki document
 app-emacs/doom 1.3: DOM implementation and manipulation library
-app-emacs/doom-modeline 4.0.1: A minimal and modern mode-line
+app-emacs/doom-modeline 4.1.0: A minimal and modern mode-line
 app-emacs/doom-themes 2.3.0: an opinionated pack of modern color-themes
 app-emacs/dot-env 1.0.1: Dotenv functionality
 app-emacs/dotenv-mode 0.2.5: Major mode for .env files
@@ -627,6 +628,7 @@ app-emacs/easy-jekyll 2.6.30: Major mode managing jekyll blogs
 app-emacs/easy-kill 0.9.4: kill & mark things easily
 app-emacs/easy-kill-extras 0.9.14: Extra functions for easy-kill.
 app-emacs/easy-repeat 0.2: Repeat easily
+app-emacs/ebdb-mua-sidecar 1.5.2: EBDB Integration for Universal Sidecar
 app-emacs/ebf 1.0.0: brainfuck language transpiler to Emacs Lisp
 app-emacs/ebib 2.40.3: a BibTeX database manager
 app-emacs/eclim 0.4: An interface to the Eclipse IDE.
@@ -988,6 +990,7 @@ app-emacs/flymake-cursor 1.0.2: Show flymake messages in the minibuffer after de
 app-emacs/flymake-diagnostic-at-point 1.2.0: Display flymake diagnostics at point
 app-emacs/flymake-eask 0.1.0: Eask support in Flymake
 app-emacs/flymake-easy 0.10: Helpers for easily building flymake checkers
+app-emacs/flymake-eldev 0.9: Eldev support in Flymake
 app-emacs/flymake-elisp-config 1.0.0: Setup load-path for flymake on Emacs Lisp mode
 app-emacs/flymake-eslint 1.5.0: A Flymake backend for Javascript using eslint
 app-emacs/flymake-flycheck 0.2: Use flycheck checkers as flymake backends
@@ -2406,7 +2409,7 @@ app-emacs/related-files 0.3.0: Easily find files related to the current one
 app-emacs/repeatable-motion 0.2: Make repeatable versions of motions
 app-emacs/repl-toggle 0.7.2: Switch to/from repl buffer for current major-mode
 app-emacs/replace-symbol 1.1: Rename symbols in expressions or buffers
-app-emacs/replace-with-inflections 0.3.1: Inflection aware `query-replace'
+app-emacs/replace-with-inflections 0.3.2: Inflection aware `query-replace'
 app-emacs/repo 0.2.0: Running repo from Emacs
 app-emacs/req-package 1.2: A use-package wrapper for package runtime dependencies management
 app-emacs/request 0.3.2: Compatible layer for URL request in Emacs
@@ -2549,7 +2552,7 @@ app-emacs/skewer-mode 1.8.0: live browser JavaScript, CSS, and HTML interaction
 app-emacs/sl 0.2: An Emacs clone of sl(1)
 app-emacs/slideview 0.6.1: File slideshow
 app-emacs/slim-mode 1.1: Major mode for editing Slim files
-app-emacs/slime 2.28: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 2.29: Superior Lisp Interaction Mode for Emacs
 app-emacs/slime-company 1.6: slime completion backend for company mode
 app-emacs/slime-docker 0.8.3: Integration of SLIME with Docker containers
 app-emacs/slime-volleyball 1.1: An SVG Slime Volleyball Game
@@ -2737,6 +2740,7 @@ app-emacs/toml 0.1.0: TOML (Tom's Obvious, Minimal Language) parser
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/torus 2.2: A buffer groups manager
 app-emacs/total-lines 0.2.0: Keep track of a buffer's total number of lines
+app-emacs/totp-auth 0.8: RFC6238 TOTP
 app-emacs/tox 0.4.0: Launch current python test with tox
 app-emacs/toxi-theme 0.1.2: A dark color theme by toxi
 app-emacs/tr-ime 0.5.0: Emulator of IME patch for Windows
@@ -2807,6 +2811,7 @@ app-emacs/unify-opening 2.2.0: Unify the mechanism to open files
 app-emacs/unisonlang-mode 0.2.0: Simple major mode for editing Unison
 app-emacs/units-mode 0.1.1: Mode for conversion between different units
 app-emacs/universal-sidecar 1.5.2: A universal sidecar buffer
+app-emacs/universal-sidecar-citeproc 1.5.2: Centralise Citeproc Support for Universal Sidecar
 app-emacs/universal-sidecar-elfeed-related 1.5.2: Related Papers Sidecar Section for Elfeed
 app-emacs/universal-sidecar-elfeed-score 1.5.2: Show Elfeed Score information in sidecar
 app-emacs/universal-sidecar-roam 1.5.2: Integrate universal-sidecar and org-roam
