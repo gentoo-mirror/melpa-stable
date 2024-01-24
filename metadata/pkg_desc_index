@@ -163,7 +163,7 @@ app-emacs/backline 1.0.0: Preserve appearance of outline headings
 app-emacs/badwolf-theme 1.2: Bad Wolf color theme
 app-emacs/banner-comment 2.7: For producing banner comments.
 app-emacs/base16-theme 3.2: Collection of themes built on combinations of 16 base colors
-app-emacs/base32 0.8: Base32 support
+app-emacs/base32 0.9: Base32 support
 app-emacs/bash-completion 3.1.1: Bash completion for the shell buffer
 app-emacs/basic-ide 0.0.3: BASIC IDE c64
 app-emacs/basic-mode 1.2.1: Major mode for editing BASIC code
@@ -2740,7 +2740,7 @@ app-emacs/toml 0.1.0: TOML (Tom's Obvious, Minimal Language) parser
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/torus 2.2: A buffer groups manager
 app-emacs/total-lines 0.2.0: Keep track of a buffer's total number of lines
-app-emacs/totp-auth 0.8: RFC6238 TOTP
+app-emacs/totp-auth 0.9: RFC6238 TOTP
 app-emacs/tox 0.4.0: Launch current python test with tox
 app-emacs/toxi-theme 0.1.2: A dark color theme by toxi
 app-emacs/tr-ime 0.5.0: Emulator of IME patch for Windows
