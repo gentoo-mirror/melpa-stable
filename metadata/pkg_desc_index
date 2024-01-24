@@ -668,7 +668,7 @@ app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
 app-emacs/el2org 0.6.0: Convert elisp file to org file
 app-emacs/elbank 1.2: Personal finances reporting application
 app-emacs/elcouch 0.11.0: View and manipulate CouchDB databases
-app-emacs/eldev 1.8.1: Elisp development tool
+app-emacs/eldev 1.8.2: Elisp development tool
 app-emacs/eldoc-box 1.11.1: Display documentation in childframe
 app-emacs/eldoc-eask 0.1.0: Eldoc support for Eask-file
 app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use.
@@ -1666,7 +1666,7 @@ app-emacs/llama 0.3.1: Compact syntax for short lambda
 app-emacs/lms 1.1: Squeezebox / Logitech Media Server frontend
 app-emacs/load-relative 1.3.2: Relative file load (within a multi-file Emacs package)
 app-emacs/loc-changes 1.1: Helps users and programs keep track of positions even after buffer changes.
-app-emacs/log4e 0.4.0: provide logging framework for elisp
+app-emacs/log4e 0.4.1: provide logging framework for elisp
 app-emacs/log4j-mode 1.7.1: Major mode for viewing log files
 app-emacs/logalimacs 1.0.0: Front-end to logaling-command for Ruby gems
 app-emacs/logito 0.2.0: logging library for Emacs
@@ -2134,7 +2134,7 @@ app-emacs/outshine 3.0.1: outline with outshine outshines outline
 app-emacs/ov 1.0.6: Overlay library for Emacs Lisp
 app-emacs/overcast-theme 1.3.0: A dark but vibrant color theme for Emacs
 app-emacs/overseer 0.3.0: Ert-runner Integration Into Emacs
-app-emacs/owdriver 0.2.0: Quickly perform various actions on other windows
+app-emacs/owdriver 0.3.1: Quickly perform various actions on other windows
 app-emacs/ox-bb 0.0.1: BBCode Back-End for Org Export Engine
 app-emacs/ox-epub 0.3: Export org mode projects to EPUB
 app-emacs/ox-gfm 1.0: Github Flavored Markdown Back-End for Org Export Engine
@@ -2552,7 +2552,7 @@ app-emacs/skewer-mode 1.8.0: live browser JavaScript, CSS, and HTML interaction
 app-emacs/sl 0.2: An Emacs clone of sl(1)
 app-emacs/slideview 0.6.1: File slideshow
 app-emacs/slim-mode 1.1: Major mode for editing Slim files
-app-emacs/slime 2.29: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 2.29.1: Superior Lisp Interaction Mode for Emacs
 app-emacs/slime-company 1.6: slime completion backend for company mode
 app-emacs/slime-docker 0.8.3: Integration of SLIME with Docker containers
 app-emacs/slime-volleyball 1.1: An SVG Slime Volleyball Game
