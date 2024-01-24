@@ -18,9 +18,7 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/smartrep
-	app-emacs/log4e
+DEPEND="app-emacs/log4e
 	app-emacs/yaxception"
-RDEPEND="app-emacs/smartrep
-	app-emacs/log4e
+RDEPEND="app-emacs/log4e
 	app-emacs/yaxception"
