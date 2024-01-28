@@ -889,7 +889,6 @@ app-emacs/faust-mode 0.6: Faust syntax colorizer for Emacs.
 app-emacs/faustine 0.4: Edit, visualize, build and run Faust code
 app-emacs/fcitx 0.2.3: Make fcitx better in Emacs
 app-emacs/fd-dired 0.1.0: find-dired alternative using fd
-app-emacs/feather 0.0.1: 
 app-emacs/feature-mode 0.4: Major mode for editing Gherkin (i.e. Cucumber) user stories
 app-emacs/feed-discovery 1.0.0: Discover feed url by RSS/Atom autodiscovery
 app-emacs/feline 1.1: A modeline with very little
@@ -2159,7 +2158,6 @@ app-emacs/package+ 1.4.0: Extensions for the package library.
 app-emacs/package-build 4.0.0: Tools for assembling a package archive
 app-emacs/package-lint 0.21: A linting library for elisp package authors
 app-emacs/package-lint-flymake 0.21: A package-lint Flymake backend
-app-emacs/package-safe-delete 0.1.7: Safely delete package.el packages
 app-emacs/package-utils 1.0.1: Extensions for package.el
 app-emacs/packed 3.1.0: Package manager agnostic Emacs Lisp package utilities
 app-emacs/pact-mode 0.0.5: Mode for Pact, a LISPlike smart contract language.
