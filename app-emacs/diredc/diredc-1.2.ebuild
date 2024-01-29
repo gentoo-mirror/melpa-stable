@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="eask"
+REALNAME="diredc"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Core Eask APIs, for Eask CLI development"
+DESCRIPTION="Midnight Commander features (plus) for dired"
 
-HOMEPAGE="https://github.com/emacs-eask/eask"
+HOMEPAGE="https://github.com/Boruch-Baum/emacs-diredc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/dash"
-RDEPEND="app-emacs/dash"
+DEPEND="app-emacs/key-assist"
+RDEPEND="app-emacs/key-assist"

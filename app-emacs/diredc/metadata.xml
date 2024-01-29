@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Extensions for dired</longdescription>
+	<longdescription>Midnight Commander features (plus) for dired</longdescription>
 </pkgmetadata>

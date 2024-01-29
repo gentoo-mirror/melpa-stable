@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="diredc"
+REALNAME="eask"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Extensions for dired"
+DESCRIPTION="Core Eask APIs, for Eask CLI development"
 
-HOMEPAGE="https://github.com/Boruch-Baum/emacs-diredc"
+HOMEPAGE="https://github.com/emacs-eask/eask"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
