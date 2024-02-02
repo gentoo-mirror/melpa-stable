@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="No description available."
+DESCRIPTION="Ranked and incremental search among selected org-headlines"
 
 HOMEPAGE="https://github.com/marcIhm/org-index"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
