@@ -297,7 +297,7 @@ app-emacs/chroma 1.1.0: Color manipulation library
 app-emacs/chronometrist 0.10.0: Friendly and powerful personal time tracker and analyzer
 app-emacs/chronometrist-key-values 0.10.0: add key-values to Chronometrist data
 app-emacs/chronometrist-spark 0.10.0: Show sparklines in Chronometrist buffers
-app-emacs/cider 1.13.0: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 1.13.1: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-eval-sexp-fu 1.2: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 0.1.0: Hydras for CIDER.
 app-emacs/cil-mode 0.4: Common Intermediate Language mode
@@ -2029,7 +2029,7 @@ app-emacs/org-hyperscheduler 1.0.0: UI (web) representation of org-agenda
 app-emacs/org-id-cleanup 1.7.1: Interactively find, present and maybe clean up unused IDs of org-id
 app-emacs/org-if 0.2.0: Interactive Fiction Authoring System for Org-Mode.
 app-emacs/org-incoming 0.1: Sort incoming PDFs into your org files
-app-emacs/org-index 7.4.4: No description available.
+app-emacs/org-index 7.4.5: Ranked and incremental search among selected org-headlines
 app-emacs/org-inline-anim 0.3: Inline playback of animated GIF/PNG for Org
 app-emacs/org-inline-pdf 0.5: Inline PDF previewing for Org
 app-emacs/org-jami-bot 0.0.4: Capture GNU Jami messages as notes and todos in Org mode
