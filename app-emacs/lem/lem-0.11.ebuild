@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A basic lemmy client"
+DESCRIPTION="A lemmy client"
 
 HOMEPAGE="https://codeberg.org/martianh/lem.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
