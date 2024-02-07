@@ -2417,7 +2417,7 @@ app-emacs/request-deferred 0.3.2: Wrap request.el by deferred
 app-emacs/requirejs 1.1: Requirejs import manipulation and source traversal.
 app-emacs/resize-window 0.7: easily resize windows
 app-emacs/restart-emacs 0.1.1: Restart emacs from within emacs
-app-emacs/restclient-test 0.3: Run tests with restclient.el
+app-emacs/restclient-test 1.0: Run tests with restclient.el
 app-emacs/revbufs 1.2: No description available.
 app-emacs/reveal-in-folder 0.1.2: Reveal current file in folder
 app-emacs/reveal-in-osx-finder 0.3.3: Reveal file associated with buffer in OS X Finder
