@@ -700,7 +700,7 @@ app-emacs/ellama 0.7.6: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
-app-emacs/elmpd 0.2.3: A tight, ergonomic, async client library for mpd
+app-emacs/elmpd 0.2.4: A tight, ergonomic, async client library for mpd
 app-emacs/elogcat 0.2.0: logcat interface
 app-emacs/elpa-audit 0.4: Handy functions for inspecting and comparing package archives
 app-emacs/elpa-clone 0.4.0: Clone ELPA archive
@@ -769,7 +769,7 @@ app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics.
 app-emacs/eri 2.6.4.1: Enhanced relative indentation (eri)
 app-emacs/erk 0.5.3: Elisp (GitHub) Repository Kit
-app-emacs/erlang 26.2.1: Erlang major mode
+app-emacs/erlang 26.2.2: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/ert-async 0.1.2: Async support for ERT
 app-emacs/ert-junit 0.4.1: JUnit XML reports from ert results
