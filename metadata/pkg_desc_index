@@ -1233,6 +1233,7 @@ app-emacs/ham-mode 1.1.2: Html As Markdown. Transparently edit an html file usin
 app-emacs/hamburger-menu 1.0.6: Mode line hamburger menu
 app-emacs/haml-mode 3.1.9: Major mode for editing Haml files
 app-emacs/hammy 0.2.1: Programmable, interactive interval timers
+app-emacs/haproxy-mode 0.9: Major mode for editing HAProxy config files
 app-emacs/hardcore-mode 0.1.0: Disable arrow keys + optionally backspace and return
 app-emacs/hardhat 0.4.6: Protect against clobbering user-writable files
 app-emacs/harvest 0.3.8: Harvest integration
@@ -2978,7 +2979,7 @@ app-emacs/yatex 1.83: Yet Another tex-mode for emacs //野鳥//
 app-emacs/yaxception 1.0.0: Provide framework about exception like Java for Elisp
 app-emacs/ycmd 1.2: emacs bindings to the ycmd completion server
 app-emacs/ydk-mode 1.0.0: Language support for Yu-Gi-Oh! deck files
-app-emacs/yeetube 2.1.0: YouTube Front End
+app-emacs/yeetube 2.1.1: YouTube Front End
 app-emacs/yequake 0.1: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 0.1.0: Display ghostly yesql defqueries inline
 app-emacs/yoshi-theme 7.0.0: Theme named after my cat
