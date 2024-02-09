@@ -2492,7 +2492,7 @@ app-emacs/secretaria 0.2.9: A personal assistant based on org-mode
 app-emacs/sekka 1.8.0: A client for Sekka IME server
 app-emacs/selcand 2.0: Select a candidate from a tree of hint characters
 app-emacs/select-themes 0.1.4: Color theme selection with completing-read
-app-emacs/selected-window-accent-mode 0.5.0: Accent Selected Window
+app-emacs/selected-window-accent-mode 0.6.0: Accent Selected Window
 app-emacs/selectric-mode 1.4.2: IBM Selectric mode for Emacs
 app-emacs/selectrum 3.1: Easily select item from list
 app-emacs/selectrum-prescient 6.2: prescient.el + Selectrum
