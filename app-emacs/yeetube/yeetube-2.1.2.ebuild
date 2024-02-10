@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="YouTube Front End"
 
-HOMEPAGE="https://git.thanosapollo.org/yeetube"
+HOMEPAGE="https://thanosapollo.org/projects/yeetube/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
