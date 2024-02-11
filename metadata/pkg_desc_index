@@ -602,7 +602,7 @@ app-emacs/draft-mode 0.1.1: Rough drafting for Emacs.
 app-emacs/drag-stuff 0.3.0: Drag stuff (lines, words, region, etc...) around
 app-emacs/drupal-mode 0.7.3: Advanced minor mode for Drupal development
 app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
-app-emacs/dtrt-indent 1.16: Adapt to foreign indentation offsets
+app-emacs/dtrt-indent 1.17: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
 app-emacs/dune 3.13.1: Integration with the dune build system
@@ -696,7 +696,7 @@ app-emacs/elisp-refs 1.5: find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.7.7: Tool for interacting with LLMs
+app-emacs/ellama 0.8.0: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
@@ -1936,7 +1936,7 @@ app-emacs/nvm 0.3.0: Manage Node versions within Emacs
 app-emacs/nyan-mode 1.1.3: Nyan Cat shows position in current buffer in mode-line.
 app-emacs/ob-ada-spark 1.3.0: Babel functions for Ada & SPARK
 app-emacs/ob-async 1.0.0: Asynchronous org-babel src block execution
-app-emacs/ob-base64 1.1.4: Org-babel for base64 content
+app-emacs/ob-base64 1.1.5: Org-babel for base64 content
 app-emacs/ob-blockdiag 20170728.113: org-babel functions for blockdiag evaluation
 app-emacs/ob-coffeescript 1.0.0: org-babel functions for coffee-script evaluation, and fully implementation!
 app-emacs/ob-compile 0.2: Run compile by org-babel
