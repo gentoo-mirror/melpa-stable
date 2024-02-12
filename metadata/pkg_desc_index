@@ -605,7 +605,7 @@ app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
 app-emacs/dtrt-indent 1.17: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
-app-emacs/dune 3.13.1: Integration with the dune build system
+app-emacs/dune 3.14.0: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
 app-emacs/duplexer 0.1.0: Handle conflicts between local minor modes and reuse rules
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
@@ -696,7 +696,7 @@ app-emacs/elisp-refs 1.5: find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.8.0: Tool for interacting with LLMs
+app-emacs/ellama 0.8.1: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
@@ -1149,6 +1149,7 @@ app-emacs/gmail2bbdb 0.0.6: import email and name into bbdb from vcard.
 app-emacs/gmpl-mode 0.1.0: Major mode for editing GMPL(MathProg) files
 app-emacs/gn-mode 0.4.1: major mode for editing GN (generate ninja) files
 app-emacs/gnome-screencast 1.4: Use Gnome screen recording functionality using elisp
+app-emacs/gnosis 0.1.5: Spaced Repetition System For Note Taking & Self Testing
 app-emacs/gntp 0.1: Growl Notification Protocol for Emacs
 app-emacs/gnuplot 0.8.1: Major-mode and interactive frontend for gnuplot
 app-emacs/gnus-desktop-notify 1.4: Gnus Desktop Notification global minor mode
@@ -2020,6 +2021,7 @@ app-emacs/org-drill 2.7.0: Self-testing using spaced repetition
 app-emacs/org-edit-latex 0.8.3: Edit embedded LaTeX in a dedicated buffer
 app-emacs/org-elisp-help 1.0.0: org links to emacs-lisp documentation
 app-emacs/org-elp 0.1: Preview latex equations in org mode while editing
+app-emacs/org-epa-gpg 2.1.0: Patch to enable EasyPG .gpg images in Org mode inline
 app-emacs/org-evil 0.6.0: Evil extensions for Org.
 app-emacs/org-fragtog 0.4.2: Auto-toggle Org LaTeX fragments
 app-emacs/org-gcal 0.4.2: Org sync with Google Calendar
@@ -2632,7 +2634,7 @@ app-emacs/standard-dirs 2.0.0: Platform-specific paths for config, cache, and ot
 app-emacs/starhugger 0.4.2: Hugging Face/AI-powered text & code completion client
 app-emacs/stash 0.4.1: lightweight persistent caching
 app-emacs/status 0.3: This package adds support for status icons to Emacs.
-app-emacs/stgit 2.4.3: major mode for StGit interaction
+app-emacs/stgit 2.4.4: major mode for StGit interaction
 app-emacs/stock-tracker 0.1.6: Track stock price
 app-emacs/streak 3.0.0: Track a daily streak in your Mode Line
 app-emacs/string-edit-at-point 1.0.0: Avoid escape nightmares by editing string in separate buffer
