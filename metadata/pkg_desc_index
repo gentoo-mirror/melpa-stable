@@ -1729,7 +1729,7 @@ app-emacs/magit-section 3.3.0: Sections for read-only buffers
 app-emacs/magit-stgit 2.2.1: StGit extension for Magit
 app-emacs/magit-svn 2.2.3: Git-Svn extension for Magit
 app-emacs/magit-tbdiff 1.1.1: Magit extension for range diffs
-app-emacs/magit-todos 1.7: Show source file TODOs in Magit
+app-emacs/magit-todos 1.7.1: Show source file TODOs in Magit
 app-emacs/magit-topgit 2.1.2: TopGit extension for Magit
 app-emacs/magithub 0.1.7: Magit interfaces for GitHub
 app-emacs/major-mode-hydra 0.2.2: Major mode keybindings managed by Hydra
@@ -2763,7 +2763,7 @@ app-emacs/tray 0.1.2: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.109: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.110: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
