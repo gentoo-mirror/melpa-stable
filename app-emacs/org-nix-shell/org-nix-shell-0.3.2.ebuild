@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="flycheck"
+REALNAME="org-nix-shell"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="On-the-fly syntax checking"
+DESCRIPTION="Org local nix-shell"
 
-HOMEPAGE="http://www.flycheck.org"
+HOMEPAGE="https://github.com/AntonHakansson/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/seq"
-RDEPEND="app-emacs/seq"
+DEPEND="app-emacs/org-mode"
+RDEPEND="app-emacs/org-mode"
