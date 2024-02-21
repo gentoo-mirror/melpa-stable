@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Spaced Repetition System For Note Taking & Self Testing"
 
-HOMEPAGE="https://git.thanosapollo.org/gnosis"
+HOMEPAGE="https://thanosapollo.org/projects/gnosis"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
