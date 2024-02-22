@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Allow Multiple Major Modes in a buffer"
 
-HOMEPAGE="https://github.com/purcell/mmm-mode"
+HOMEPAGE="https://github.com/dgutov/mmm-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

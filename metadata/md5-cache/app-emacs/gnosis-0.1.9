@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Electric OSPL Mode
+DEPEND=app-emacs/compat app-emacs/emacsql
+DESCRIPTION=Spaced Repetition System For Note Taking & Self Testing
 EAPI=8
-HOMEPAGE=https://git.sr.ht/~swflint/electric-ospl-mode
+HOMEPAGE=https://thanosapollo.org/projects/gnosis
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/compat app-emacs/emacsql >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/electric-ospl-3.0.0.tar
+SRC_URI=https://stable.melpa.org/packages/gnosis-0.1.9.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=002da63dd04037e73ee02df94eb354df
+_md5_=e0cf579f347504220fbbb086b67f6c4f
