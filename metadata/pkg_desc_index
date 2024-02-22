@@ -678,7 +678,7 @@ app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use.
 app-emacs/eldoc-stan 10.2.0: Eldoc support for stan functions
 app-emacs/electric-cursor 0.2: Change cursor automatically depending on mode
 app-emacs/electric-operator 1.1.0: Automatically add spaces around operators
-app-emacs/electric-ospl 3.0.0: Electric OSPL Mode
+app-emacs/electric-ospl 3.1.0: Electric OSPL Mode
 app-emacs/elescope 0.2: Seach and clone projects from the minibuffer
 app-emacs/elf-mode 0.1.0: Show symbols in binaries
 app-emacs/elfeed 3.4.1: an Emacs Atom/RSS feed reader
@@ -1151,7 +1151,7 @@ app-emacs/gmail2bbdb 0.0.6: import email and name into bbdb from vcard.
 app-emacs/gmpl-mode 0.1.0: Major mode for editing GMPL(MathProg) files
 app-emacs/gn-mode 0.4.1: major mode for editing GN (generate ninja) files
 app-emacs/gnome-screencast 1.4: Use Gnome screen recording functionality using elisp
-app-emacs/gnosis 0.1.8: Spaced Repetition System For Note Taking & Self Testing
+app-emacs/gnosis 0.1.9: Spaced Repetition System For Note Taking & Self Testing
 app-emacs/gntp 0.1: Growl Notification Protocol for Emacs
 app-emacs/gnuplot 0.8.1: Major-mode and interactive frontend for gnuplot
 app-emacs/gnus-desktop-notify 1.4: Gnus Desktop Notification global minor mode
@@ -1315,7 +1315,7 @@ app-emacs/helm-notmuch 1.2: Search emails with Notmuch and Helm
 app-emacs/helm-open-github 0.15: Utilities of Opening Github Page
 app-emacs/helm-org 1.0: Helm for org headlines and keywords completion
 app-emacs/helm-org-multi-wiki 0.4.0: Helm interface to org-multi-wiki
-app-emacs/helm-org-ql 0.8.4: Helm support for org-ql
+app-emacs/helm-org-ql 0.8.5: Helm support for org-ql
 app-emacs/helm-org-rifle 1.7.1: Rifle through your Org files
 app-emacs/helm-orgcard 0.2: browse the orgcard by helm
 app-emacs/helm-pages 0.1.1: Pages in current buffer as Helm datasource
@@ -1806,7 +1806,7 @@ app-emacs/mistty 1.0: Shell/Comint alternative based on term.el
 app-emacs/mixed-pitch 1.1.1: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mlscroll 0.1.8: A scroll bar for the modeline
 app-emacs/mmm-jinja2 0.1: MMM submode class for Jinja2 Templates
-app-emacs/mmm-mode 0.5.10: Allow Multiple Major Modes in a buffer
+app-emacs/mmm-mode 0.5.11: Allow Multiple Major Modes in a buffer
 app-emacs/mmt 0.2.0: Missing macro tools for Emacs Lisp
 app-emacs/mocha 1.1: Run Mocha or Jasmine tests
 app-emacs/mocha-snippets 2.0.0: Yasnippets for the Mocha JS Testing Framework
@@ -2220,7 +2220,7 @@ app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
 app-emacs/pet 2.0.0: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: a simple wrapper around asynchronous processes
-app-emacs/pg 0.27: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
+app-emacs/pg 0.28: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/ph 0.1.0: A global minor mode for managing multiple projects.
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: another incremental search & replace, compatible with "multiple-cursors"
@@ -2768,7 +2768,7 @@ app-emacs/tray 0.1.2: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.135: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.137: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
@@ -2869,7 +2869,7 @@ app-emacs/vim-region 0.3.0: Select region as vim
 app-emacs/vimgolf 0.10.3: VimGolf interface for the One True Editor
 app-emacs/vimish-fold 0.2.3: Fold text like in Vim
 app-emacs/virtualenvwrapper 0.2.0: a featureful virtualenv tool for Emacs
-app-emacs/visual-fill-column 2.5.2: fill-column for visual-line-mode
+app-emacs/visual-fill-column 2.6.0: fill-column for visual-line-mode
 app-emacs/visual-regexp 1.1.2: A regexp/replace command for Emacs with interactive visual feedback
 app-emacs/visual-regexp-steroids 1.1.0: Extends visual-regexp to support other regexp engines
 app-emacs/vlf 1.7.1: View Large Files
