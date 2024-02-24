@@ -19,6 +19,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/map
-	app-emacs/seq"
+	app-emacs/seq
+	app-emacs/compat"
 RDEPEND="app-emacs/map
-	app-emacs/seq"
+	app-emacs/seq
+	app-emacs/compat"
