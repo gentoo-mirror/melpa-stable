@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/transient
 	app-emacs/s
-	app-emacs/f"
+	app-emacs/f
+	app-emacs/inheritenv"
 RDEPEND="app-emacs/transient
 	app-emacs/s
-	app-emacs/f"
+	app-emacs/f
+	app-emacs/inheritenv"
