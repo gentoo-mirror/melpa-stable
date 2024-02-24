@@ -1681,8 +1681,8 @@ app-emacs/logstash-conf 0.4: basic mode for editing logstash configuration
 app-emacs/logview 0.17.1: Major mode for viewing log files
 app-emacs/loop 1.3: friendly imperative loop structures
 app-emacs/loophole 0.8.3: Manage temporary key bindings
-app-emacs/loopy 0.11.0: A looping macro
-app-emacs/loopy-dash 0.11.0: Dash destructuring for `loopy'
+app-emacs/loopy 0.12.0: A looping macro
+app-emacs/loopy-dash 0.12.0: Dash destructuring for `loopy'
 app-emacs/lox-mode 1.3: Major mode for the Lox programming language
 app-emacs/lsp-dart 1.24.3: Dart support lsp-mode
 app-emacs/lsp-focus 1.0.1: focus.el support for lsp-mode
