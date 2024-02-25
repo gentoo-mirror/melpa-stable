@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="YouTube Front End"
+DESCRIPTION="YouTube Front End | Interface for yt-dlp | mpv control |"
 
 HOMEPAGE="https://thanosapollo.org/projects/yeetube/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

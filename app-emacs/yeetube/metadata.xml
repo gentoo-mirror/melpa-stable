@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>YouTube Front End</longdescription>
+	<longdescription>YouTube Front End | Interface for yt-dlp | mpv control |</longdescription>
 </pkgmetadata>
