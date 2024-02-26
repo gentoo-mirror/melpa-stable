@@ -5,18 +5,22 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="magik-mode"
+REALNAME="vertico-prescient"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="mode for editing Magik + some utils."
+DESCRIPTION="prescient.el + Vertico"
 
-HOMEPAGE="http://github.com/roadrunner1776/magik"
+HOMEPAGE="https://github.com/radian-software/prescient.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/compat"
-RDEPEND="app-emacs/compat"
+DEPEND="app-emacs/prescient
+	app-emacs/vertico
+	app-emacs/compat"
+RDEPEND="app-emacs/prescient
+	app-emacs/vertico
+	app-emacs/compat"
