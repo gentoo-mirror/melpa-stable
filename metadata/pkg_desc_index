@@ -459,7 +459,7 @@ app-emacs/creds 0.0.6.1: A parser credentials file library (not limited to crede
 app-emacs/cricbuzz 0.3.6: Cricket scores from cricbuzz in emacs
 app-emacs/crm-custom 0.5: Alternate `completing-read-multiple' that uses `completing-read'
 app-emacs/crossword 1.0: Download and play crossword puzzles
-app-emacs/crux 0.4.0: A Collection of Ridiculously Useful eXtensions
+app-emacs/crux 0.5.0: A Collection of Ridiculously Useful eXtensions
 app-emacs/cryptol-mode 0.1.0: Cryptol major mode for Emacs
 app-emacs/csharp-mode 2.0.0: C# mode derived mode
 app-emacs/csound-mode 0.2.1: A major mode for interacting and coding Csound
