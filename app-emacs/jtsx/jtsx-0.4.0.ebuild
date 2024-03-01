@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Extends default support for JSX/TSX"
+DESCRIPTION="Extends JSX/TSX built-in support"
 
 HOMEPAGE="https://github.com/llemaitre19/jtsx"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
