@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A darker, more colorful version of the lovely Nord theme</longdescription>
+	<longdescription>Java extension for the eglot LSP client</longdescription>
 </pkgmetadata>
