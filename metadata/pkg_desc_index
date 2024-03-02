@@ -270,7 +270,7 @@ app-emacs/caskxy 0.0.5: Control Cask in Emacs
 app-emacs/catmacs 0.1.1: Simple CAT interface for Yaesu FT991A
 app-emacs/catppuccin-theme 0.1.0: Catppuccin Theme
 app-emacs/cbm 0.6: Switch to similar buffers.
-app-emacs/cc-isearch-menu 1.0.3: A Transient menu for isearch
+app-emacs/cc-isearch-menu 1.1.1: A Transient menu for isearch
 app-emacs/cdlatex 4.7: Fast input methods for LaTeX environments and math
 app-emacs/cdnjs 0.2.1: A front end for http://cdnjs.com
 app-emacs/celery 0.0.3: a minor mode to draw stats from celery and more?
@@ -655,6 +655,7 @@ app-emacs/egalgo 1.0.2: Genetic algorithm for Emacs
 app-emacs/egg 1.1.4: Emacs Got Git - Emacs interface to Git
 app-emacs/egison-mode 4.1.3: Egison editing mode
 app-emacs/eglot-fsharp 2.0: fsharp-mode eglot integration
+app-emacs/eglot-java 1.32: Java extension for the eglot LSP client
 app-emacs/eglot-jl 2.2.1: Julia support for eglot
 app-emacs/eglot-signature-eldoc-talkative 0.0.6: Make Eglot make ElDoc echo docs
 app-emacs/eide 2.3.1: IDE interface
@@ -1917,7 +1918,6 @@ app-emacs/noir-mode 1.0.0: Description
 app-emacs/noir-ts-mode 1.0.0: tree-sitter support for Noir
 app-emacs/non-edit-mode 0.2.0: Minor mode that disables editing
 app-emacs/nord-theme 0.5.0: An arctic, north-bluish clean and elegant theme
-app-emacs/nordic-night-theme 2.0.2: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 0.2: A mostly colorless version of nord-theme
 app-emacs/notmuch 0.38.2: run notmuch within emacs
 app-emacs/notmuch-addr 0.2.2: An alternative to notmuch-address.el
