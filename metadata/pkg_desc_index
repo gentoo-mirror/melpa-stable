@@ -733,6 +733,7 @@ app-emacs/emamux 0.14: Interact with tmux
 app-emacs/emaps 0.2.0: Utilities for working with keymaps
 app-emacs/embark 1.0: Conveniently act on minibuffer completions
 app-emacs/embark-consult 1.0: Consult integration for Embark
+app-emacs/embark-org-roam 0.2: Embark export buffer for org roam nodes
 app-emacs/embrace 0.1.4: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 1.1.0: Test runner and report viewer for Midje
 app-emacs/emmet-mode 1.0.8: Unofficial Emmet's support for emacs
@@ -1812,7 +1813,7 @@ app-emacs/mmt 0.2.0: Missing macro tools for Emacs Lisp
 app-emacs/mocha 1.1: Run Mocha or Jasmine tests
 app-emacs/mocha-snippets 2.0.0: Yasnippets for the Mocha JS Testing Framework
 app-emacs/mocker 0.5.0: mocking framework for emacs
-app-emacs/modaled 0.8.1: Build your own minor modes for modal editing
+app-emacs/modaled 0.8.2: Build your own minor modes for modal editing
 app-emacs/modalka 0.1.5: Easily introduce native modal editing of your own design
 app-emacs/mode-icons 0.4.0: Show icons for modes
 app-emacs/mode-line-bell 0.2: Flash the mode line instead of ringing the bell
@@ -1918,6 +1919,7 @@ app-emacs/noir-mode 1.0.0: Description
 app-emacs/noir-ts-mode 1.0.0: tree-sitter support for Noir
 app-emacs/non-edit-mode 0.2.0: Minor mode that disables editing
 app-emacs/nord-theme 0.5.0: An arctic, north-bluish clean and elegant theme
+app-emacs/nordic-night-theme 2.0.2: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 0.2: A mostly colorless version of nord-theme
 app-emacs/notmuch 0.38.2: run notmuch within emacs
 app-emacs/notmuch-addr 0.2.2: An alternative to notmuch-address.el
@@ -2013,6 +2015,7 @@ app-emacs/org-bookmark-heading 1.3.1: Emacs bookmark support for Org mode
 app-emacs/org-books 0.3.0: Reading list management with Org mode and helm
 app-emacs/org-bulletproof 0.3: Automatic plain list bullet cycling
 app-emacs/org-bullets 0.2.4: Show bullets in org-mode as UTF-8 characters
+app-emacs/org-caldav 3.1: Sync org files with external calendar through CalDAV
 app-emacs/org-category-capture 3.1.0: Contextualy capture of org-mode TODOs.
 app-emacs/org-cite-sidecar 1.5.2: Sidecar to show references in Org Mode
 app-emacs/org-clock-csv 1.2: Export `org-mode' clock entries to CSV format.
@@ -2220,7 +2223,7 @@ app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
 app-emacs/pet 2.0.0: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: a simple wrapper around asynchronous processes
-app-emacs/pg 0.28: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
+app-emacs/pg 0.29: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/ph 0.1.0: A global minor mode for managing multiple projects.
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: another incremental search & replace, compatible with "multiple-cursors"
@@ -2740,7 +2743,7 @@ app-emacs/timesheet 0.5.0: Timesheet management add-on for org-mode
 app-emacs/timonier 0.1.0: Timonier, Manage Kubernetes Applications from Emacs
 app-emacs/timu-caribbean-theme 1.5: Color theme with cyan as a dominant color
 app-emacs/timu-line 0.8: Custom and simple mode line
-app-emacs/timu-macos-theme 1.2: Color theme inspired by the macOS UI
+app-emacs/timu-macos-theme 1.3: Color theme inspired by the macOS UI
 app-emacs/timu-rouge-theme 1.9: Color theme inspired by the Rouge Theme for VSCode
 app-emacs/timu-spacegrey-theme 2.9: Color theme inspired by the Spacegray theme in Sublime Text
 app-emacs/titlecase 0.4.1: Title-case phrases
@@ -2768,7 +2771,7 @@ app-emacs/tray 0.1.2: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.148: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.149: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
@@ -2846,7 +2849,7 @@ app-emacs/vagrant 0.6.2: Manage a vagrant box from emacs
 app-emacs/vbasense 0.1.1: provide a environment like Visual Basic Editor.
 app-emacs/vc-hgcmd 1.14.1: VC mercurial backend that uses hg command server
 app-emacs/vc-msg 1.1.1: Show commit information of current line
-app-emacs/vcomp 1.0.0: compare version strings
+app-emacs/vcomp 1.1.0: Compare version strings
 app-emacs/vdf-mode 1.1: Major mode for editing Valve VDF files.
 app-emacs/vdiff 0.2.2: A diff tool similar to vimdiff
 app-emacs/vdiff-magit 0.3.2: magit integration for vdiff
@@ -2856,7 +2859,7 @@ app-emacs/vdm-mode 0.0.4: Major mode for the Vienna Development Method
 app-emacs/vdm-snippets 0.0.4: YASnippets for VDM mode
 app-emacs/vector-utils 0.1.2: Vector-manipulation utility functions
 app-emacs/vegetative-theme 1.0.2: A Theme based on green CRT terminals
-app-emacs/verb 2.15.0: Organize and send HTTP requests
+app-emacs/verb 2.16.0: Organize and send HTTP requests
 app-emacs/verilog-ext 0.4.1: SystemVerilog Extensions
 app-emacs/verilog-ts-mode 0.1.2: Verilog Tree-sitter major mode
 app-emacs/vertico 1.7: VERTical Interactive COmpletion
@@ -2972,7 +2975,7 @@ app-emacs/yagist 0.8.12: Yet Another Emacs integration for gist.github.com
 app-emacs/yaml 0.5.5: YAML parser for Elisp
 app-emacs/yaml-imenu 1.0.3: Enhancement of the imenu support in yaml-mode.
 app-emacs/yaml-mode 0.0.16: Major mode for editing YAML files
-app-emacs/yaml-pro 0.3.5: Parser-aided YAML editing features
+app-emacs/yaml-pro 1.0.0: Parser-aided YAML editing features
 app-emacs/yang-mode 0.9.9: major mode for editing YANG files
 app-emacs/yankpad 1.6: Paste snippets from an org-mode file
 app-emacs/yapfify 0.0.6: (automatically) format python buffers using YAPF.
