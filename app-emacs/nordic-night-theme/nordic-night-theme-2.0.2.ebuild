@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="vcomp"
+REALNAME="nordic-night-theme"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="compare version strings"
+DESCRIPTION="A darker, more colorful version of the lovely Nord theme"
 
-HOMEPAGE="https://github.com/tarsius/vcomp"
+HOMEPAGE="https://sr.ht/~ashton314/nordic-night/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
