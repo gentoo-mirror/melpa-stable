@@ -270,7 +270,7 @@ app-emacs/caskxy 0.0.5: Control Cask in Emacs
 app-emacs/catmacs 0.1.1: Simple CAT interface for Yaesu FT991A
 app-emacs/catppuccin-theme 0.1.0: Catppuccin Theme
 app-emacs/cbm 0.6: Switch to similar buffers.
-app-emacs/cc-isearch-menu 1.1.1: A Transient menu for isearch
+app-emacs/cc-isearch-menu 1.2.0: A Transient menu for isearch
 app-emacs/cdlatex 4.7: Fast input methods for LaTeX environments and math
 app-emacs/cdnjs 0.2.1: A front end for http://cdnjs.com
 app-emacs/celery 0.0.3: a minor mode to draw stats from celery and more?
@@ -631,7 +631,7 @@ app-emacs/easy-kill-extras 0.9.14: Extra functions for easy-kill.
 app-emacs/easy-repeat 0.2: Repeat easily
 app-emacs/ebdb-mua-sidecar 1.5.2: EBDB Integration for Universal Sidecar
 app-emacs/ebf 1.0.0: brainfuck language transpiler to Emacs Lisp
-app-emacs/ebib 2.40.4: a BibTeX database manager
+app-emacs/ebib 2.40.5: a BibTeX database manager
 app-emacs/ebib-sidecar 1.5.2: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/eclim 0.4: An interface to the Eclipse IDE.
 app-emacs/ecukes 0.6.18: Cucumber for Emacs.
