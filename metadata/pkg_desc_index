@@ -672,14 +672,14 @@ app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
 app-emacs/el2org 0.6.0: Convert elisp file to org file
 app-emacs/elbank 1.2: Personal finances reporting application
 app-emacs/elcouch 0.11.0: View and manipulate CouchDB databases
-app-emacs/eldev 1.8.2: Elisp development tool
+app-emacs/eldev 1.9: Elisp development tool
 app-emacs/eldoc-box 1.11.1: Display documentation in childframe
 app-emacs/eldoc-eask 0.1.0: Eldoc support for Eask-file
 app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use.
 app-emacs/eldoc-stan 10.2.0: Eldoc support for stan functions
 app-emacs/electric-cursor 0.2: Change cursor automatically depending on mode
 app-emacs/electric-operator 1.1.0: Automatically add spaces around operators
-app-emacs/electric-ospl 3.1.0: Electric OSPL Mode
+app-emacs/electric-ospl 3.1.1: Electric OSPL Mode
 app-emacs/elescope 0.2: Seach and clone projects from the minibuffer
 app-emacs/elf-mode 0.1.0: Show symbols in binaries
 app-emacs/elfeed 3.4.1: an Emacs Atom/RSS feed reader
@@ -2990,7 +2990,7 @@ app-emacs/yatex 1.83: Yet Another tex-mode for emacs //野鳥//
 app-emacs/yaxception 1.0.0: Provide framework about exception like Java for Elisp
 app-emacs/ycmd 1.2: emacs bindings to the ycmd completion server
 app-emacs/ydk-mode 1.0.0: Language support for Yu-Gi-Oh! deck files
-app-emacs/yeetube 2.1.3: YouTube Front End | Interface for yt-dlp | mpv control |
+app-emacs/yeetube 2.1.4: Scrape YouTube - Play with mpv & Download with yt-dlp |
 app-emacs/yequake 0.1: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 0.1.0: Display ghostly yesql defqueries inline
 app-emacs/yoshi-theme 7.0.0: Theme named after my cat
