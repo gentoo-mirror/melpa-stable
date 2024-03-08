@@ -819,7 +819,7 @@ app-emacs/evil 1.14.2: Extensible Vi layer for Emacs.
 app-emacs/evil-anzu 0.3: anzu for evil-mode
 app-emacs/evil-args 1.0: Motions and text objects for delimited arguments in Evil.
 app-emacs/evil-colemak-basics 2.2.1: Basic Colemak key bindings for evil-mode
-app-emacs/evil-collection 0.0.9: A set of keybindings for Evil mode
+app-emacs/evil-collection 0.0.10: A set of keybindings for Evil mode
 app-emacs/evil-commentary 2.2.0: Comment stuff out. A port of vim-commentary.
 app-emacs/evil-embrace 0.1.1: Evil integration of embrace.el
 app-emacs/evil-escape 3.16: Escape from anything with a customizable key sequence
@@ -1154,7 +1154,7 @@ app-emacs/gmail2bbdb 0.0.6: import email and name into bbdb from vcard.
 app-emacs/gmpl-mode 0.1.0: Major mode for editing GMPL(MathProg) files
 app-emacs/gn-mode 0.4.1: major mode for editing GN (generate ninja) files
 app-emacs/gnome-screencast 1.4: Use Gnome screen recording functionality using elisp
-app-emacs/gnosis 0.1.9: Spaced Repetition System For Note Taking & Self Testing
+app-emacs/gnosis 0.2.0: Spaced Repetition System For Note Taking & Self Testing
 app-emacs/gntp 0.1: Growl Notification Protocol for Emacs
 app-emacs/gnuplot 0.8.1: Major-mode and interactive frontend for gnuplot
 app-emacs/gnus-desktop-notify 1.4: Gnus Desktop Notification global minor mode
@@ -1193,7 +1193,7 @@ app-emacs/goto-char-preview 0.1.0: Preview character when executing `goto-char` 
 app-emacs/goto-chg 1.7.5: Go to last change
 app-emacs/goto-last-change 1.2.1: Move point through buffer-undo-list positions
 app-emacs/goto-line-preview 0.1.1: Preview line when executing `goto-line` command
-app-emacs/govc 0.35.0: Interface to govc for managing VMware ESXi and vCenter
+app-emacs/govc 0.36.0: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
@@ -1591,7 +1591,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.10: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.6.1: AI copilot for your Second Brain
+app-emacs/khoj 1.6.2: AI copilot for your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
