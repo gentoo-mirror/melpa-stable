@@ -2310,7 +2310,7 @@ app-emacs/project-abbrev 0.0.4: Customize abbreviation expansion in the project
 app-emacs/project-explorer 0.14.3: A project explorer sidebar
 app-emacs/project-persist 1.0.1: A minor mode to allow loading and saving of project settings.
 app-emacs/project-persist-drawer 0.0.4: Use a project drawer with project-persist.
-app-emacs/project-tasks 0.4.1: Efficient task management for your project
+app-emacs/project-tasks 0.5.0: Efficient task management for your project
 app-emacs/projectile 2.8.0: Manage and navigate projects in Emacs easily
 app-emacs/projectile-git-autofetch 0.1.2: automatically fetch git repositories
 app-emacs/projectile-rails 0.22.0: Minor mode for Rails projects based on projectile-mode
