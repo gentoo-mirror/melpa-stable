@@ -1838,7 +1838,7 @@ app-emacs/morlock 1.0.5: More font-lock keywords for elisp
 app-emacs/mosey 0.2: Mosey around your buffers
 app-emacs/most-used-words 0.2: Display most used words in buffer
 app-emacs/move-dup 2.0.0: Eclipse-like moving and duplicating lines or rectangles
-app-emacs/move-mode 1.0: A major-mode for editing Move language
+app-emacs/move-mode 1.0.1: A major-mode for editing Move language
 app-emacs/move-text 2.0.10: Move current line or region with M-up or M-down.
 app-emacs/mowedline 3.3.0: elisp utilities for using mowedline
 app-emacs/mozc 2.29.5268.102: minor mode to input Japanese with Mozc
@@ -1922,7 +1922,7 @@ app-emacs/non-edit-mode 0.2.0: Minor mode that disables editing
 app-emacs/nord-theme 0.5.0: An arctic, north-bluish clean and elegant theme
 app-emacs/nordic-night-theme 2.0.2: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 0.2: A mostly colorless version of nord-theme
-app-emacs/notmuch 0.38.2: run notmuch within emacs
+app-emacs/notmuch 0.38.3: run notmuch within emacs
 app-emacs/notmuch-addr 0.2.2: An alternative to notmuch-address.el
 app-emacs/notmuch-bookmarks 0.2: Add bookmark handling for notmuch buffers
 app-emacs/notmuch-labeler 0.1: Improve notmuch way of displaying labels
