@@ -52,6 +52,7 @@ app-emacs/adoc-mode 0.7.0: a major-mode for editing AsciiDoc files
 app-emacs/adwaita-dark-theme 1.3.0: A dark color scheme inspired by Adwaita
 app-emacs/aes 1.0: Implementation of AES
 app-emacs/affe 0.8: Asynchronous Fuzzy Finder for Emacs
+app-emacs/afterglow 0.2.0: Temporary Highlighting after Function Calls
 app-emacs/ag 0.48: A front-end for ag ('the silver searcher'), the C ack replacement.
 app-emacs/age 0.1.4: The Age Encryption Library
 app-emacs/agenix 1.2: Decrypt and encrypt agenix secrets
@@ -321,7 +322,7 @@ app-emacs/clingo-mode 0.4.0: A major mode for editing Answer Set Programs
 app-emacs/clipetty 0.1: Send every kill from a TTY frame to the system clipboard
 app-emacs/cliphist 0.6.3: paste from clipboard managers
 app-emacs/clips-mode 0.7: Major mode for editing CLIPS code and REPL
-app-emacs/clj-refactor 3.11.3: A collection of commands for refactoring Clojure code
+app-emacs/clj-refactor 3.12.0: A collection of commands for refactoring Clojure code
 app-emacs/cljr-helm 0.11: Wraps clojure refactor commands with helm
 app-emacs/clocker 0.0.11: Note taker and clock-in enforcer
 app-emacs/clockodo 0.8.0: A small integration for the clockodo api
@@ -1791,7 +1792,7 @@ app-emacs/metaweblog 1.1.16: An XML-RPC MetaWeblog and WordPress API client
 app-emacs/mew 6.9: Messaging in the Emacs World
 app-emacs/meyvn 1.0: Emacs meyvn Client
 app-emacs/mgmtconfig-mode 0.0.24: mgmt configuration management language
-app-emacs/mhc 1.2.5: Message Harmonized Calendaring system.
+app-emacs/mhc 1.2.6: Message Harmonized Calendaring system.
 app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 0.4: Command line search and direct jump with Milkode
