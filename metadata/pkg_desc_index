@@ -607,7 +607,7 @@ app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
 app-emacs/dtrt-indent 1.17: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
-app-emacs/dune 3.14.1: Integration with the dune build system
+app-emacs/dune 3.14.2: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
 app-emacs/duplexer 0.1.0: Handle conflicts between local minor modes and reuse rules
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
@@ -1194,7 +1194,7 @@ app-emacs/goto-char-preview 0.1.0: Preview character when executing `goto-char` 
 app-emacs/goto-chg 1.7.5: Go to last change
 app-emacs/goto-last-change 1.2.1: Move point through buffer-undo-list positions
 app-emacs/goto-line-preview 0.1.1: Preview line when executing `goto-line` command
-app-emacs/govc 0.36.0: Interface to govc for managing VMware ESXi and vCenter
+app-emacs/govc 0.36.1: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
@@ -1842,7 +1842,7 @@ app-emacs/move-dup 2.0.0: Eclipse-like moving and duplicating lines or rectangle
 app-emacs/move-mode 1.0.1: A major-mode for editing Move language
 app-emacs/move-text 2.0.10: Move current line or region with M-up or M-down.
 app-emacs/mowedline 3.3.0: elisp utilities for using mowedline
-app-emacs/mozc 2.29.5268.102: minor mode to input Japanese with Mozc
+app-emacs/mozc 2.29.5374.102: minor mode to input Japanese with Mozc
 app-emacs/mozc-temp 1.0.0: Use mozc temporarily
 app-emacs/mpdel 2.1.0: Play and control your MPD music
 app-emacs/mpdel-embark 0.4.0: Integrate MPDel with Embark
@@ -2049,6 +2049,7 @@ app-emacs/org-jira 4.4.1: Syncing between Jira and Org-mode.
 app-emacs/org-journal 2.2.0: a simple org-mode based journaling mode
 app-emacs/org-journal-tags 0.4.0: Tagging and querying system of org-journal
 app-emacs/org-kanban 0.6.5: kanban dynamic block for org-mode.
+app-emacs/org-link-beautify 1.2.3: Beautify Org Links
 app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
 app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various Mac apps
@@ -2324,7 +2325,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 25.3: major mode for editing protocol buffers.
+app-emacs/protobuf-mode 26.0: major mode for editing protocol buffers.
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions.
 app-emacs/psalm 0.6.0: Interface to Psalm
