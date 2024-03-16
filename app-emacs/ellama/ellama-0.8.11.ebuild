@@ -19,8 +19,6 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/llm
-	app-emacs/spinner
-	app-emacs/dash"
+	app-emacs/spinner"
 RDEPEND="app-emacs/llm
-	app-emacs/spinner
-	app-emacs/dash"
+	app-emacs/spinner"
