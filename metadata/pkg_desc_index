@@ -700,7 +700,7 @@ app-emacs/elisp-refs 1.5: find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.8.11: Tool for interacting with LLMs
+app-emacs/ellama 0.8.13: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
@@ -1198,7 +1198,7 @@ app-emacs/govc 0.36.1: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
-app-emacs/gptel 0.7.0: Interact with ChatGPT or other LLMs
+app-emacs/gptel 0.8.0: Interact with ChatGPT or other LLMs
 app-emacs/grab-mac-link 0.3: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 0.5: Grab links from X11 apps and insert into Emacs
 app-emacs/gradle-mode 0.5.5: Gradle integration with Emacs' compile
@@ -1695,7 +1695,7 @@ app-emacs/lsp-ivy 0.5: LSP ivy integration
 app-emacs/lsp-java 3.1: Java support for lsp-mode
 app-emacs/lsp-jedi 1.2.2: Lsp client plugin for Python Jedi Language Server
 app-emacs/lsp-julia 0.7.2: Julia support for lsp-mode
-app-emacs/lsp-latex 3.6.1: LSP-mode client for LaTeX, on texlab
+app-emacs/lsp-latex 3.7.0: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 0.2.1: LSP Clients for LTEX
 app-emacs/lsp-metals 1.2.0: Scala Client settings
 app-emacs/lsp-mode 8.0.0: LSP mode
@@ -2161,7 +2161,7 @@ app-emacs/ox-pandoc 2.0: An Org-mode exporter using pandoc
 app-emacs/ox-report 0.4: Export your org file to minutes report PDF file
 app-emacs/ox-review 0.3.0: Re:VIEW Back-End for Org Export Engine
 app-emacs/ox-timeline 0.1.0: HTML Timeline Back-End for Org Export Engine
-app-emacs/ox-tufte 4.0.4: Tufte HTML org-mode export backend
+app-emacs/ox-tufte 4.1.1: Tufte HTML org-mode export backend
 app-emacs/ox-twbs 1.1.4: Bootstrap compatible HTML Back-End for Org
 app-emacs/ox-wk 0.3.0: Wiki Back-End for Org Export Engine
 app-emacs/ox-yaow 1.0: Generate html pages from org files
@@ -2774,7 +2774,7 @@ app-emacs/tray 0.1.2: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.158: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.160: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
