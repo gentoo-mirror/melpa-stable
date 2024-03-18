@@ -5,20 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="org-cite-sidecar"
+REALNAME="sops"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Sidecar to show references in Org Mode"
+DESCRIPTION="SOPS encrypt and decrypt without leaving the editor."
 
-HOMEPAGE="https://git.sr.ht/~swflint/emacs-universal-sidecar"
+HOMEPAGE="http://github.com/djgoku/sops"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/citeproc-el
-	app-emacs/universal-sidecar"
-RDEPEND="app-emacs/citeproc-el
-	app-emacs/universal-sidecar"
+DEPEND=""
+RDEPEND=""
