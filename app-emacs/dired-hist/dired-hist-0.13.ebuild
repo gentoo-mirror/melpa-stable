@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="modus-themes"
+REALNAME="dired-hist"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Elegant, highly legible and customizable themes"
+DESCRIPTION="Traverse Dired buffer history: back, forward"
 
-HOMEPAGE="https://git.sr.ht/~protesilaos/modus-themes"
+HOMEPAGE="https://github.com/Anoncheg1/dired-hist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
