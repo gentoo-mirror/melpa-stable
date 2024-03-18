@@ -549,6 +549,7 @@ app-emacs/dired-explorer 0.6: minor-mode provides Explorer like select file at d
 app-emacs/dired-fdclone 1.6.1: dired functions and settings to mimic FDclone
 app-emacs/dired-gitignore 0.2.0: A minor mode to hide gitignored files in a dired buffer
 app-emacs/dired-hide-dotfiles 0.1: Hde dotfiles in dired
+app-emacs/dired-hist 0.13: Traverse Dired buffer history: back, forward
 app-emacs/dired-icon 0.5: A minor mode to display a list of associated icons in dired buffers.
 app-emacs/dired-imenu 0.5.0: imenu binding for dired mode
 app-emacs/dired-k 0.19: highlight dired buffer by file size, modified time, git status
@@ -673,7 +674,7 @@ app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
 app-emacs/el2org 0.6.0: Convert elisp file to org file
 app-emacs/elbank 1.2: Personal finances reporting application
 app-emacs/elcouch 0.11.0: View and manipulate CouchDB databases
-app-emacs/eldev 1.9: Elisp development tool
+app-emacs/eldev 1.9.1: Elisp development tool
 app-emacs/eldoc-box 1.11.1: Display documentation in childframe
 app-emacs/eldoc-eask 0.1.0: Eldoc support for Eask-file
 app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use.
@@ -693,6 +694,7 @@ app-emacs/elfeed-tube 0.15: YouTube integration for Elfeed
 app-emacs/elfeed-tube-mpv 0.15: Control mpv from Elfeed
 app-emacs/elfeed-web 3.4.1: web interface to Elfeed
 app-emacs/elgrep 1.0.0: Searching files for regular expressions
+app-emacs/elisa 0.1.2: Emacs Lisp Information System Assistant
 app-emacs/elisp-def 1.1: macro-aware go-to-definition for elisp
 app-emacs/elisp-demos 2024.1.16: Elisp API Demos
 app-emacs/elisp-lint 0.4.0: Basic linting for Emacs Lisp
@@ -1610,6 +1612,7 @@ app-emacs/kubernetes-evil 0.18.0: Kubernetes keybindings for evil-mode.
 app-emacs/kurecolor 1.7.1: color editing goodies
 app-emacs/kuronami-theme 2.0: A deep blue theme with cool autumnal colors
 app-emacs/laas 1.1: A bundle of as-you-type LaTeX snippets
+app-emacs/lab 2.0.0: An interface for GitLab
 app-emacs/labburn-theme 1.0.0: A lab color space zenburn theme.
 app-emacs/lacquer 1.2.2: Switch theme/font by selecting from a cache
 app-emacs/lambdapi-mode 2.5.0: A major mode for editing Lambdapi source code
@@ -1824,7 +1827,7 @@ app-emacs/modelica-mode 2.0.0: Major mode for editing Modelica files
 app-emacs/modern-cpp-font-lock 0.1.3: Font-locking for "Modern C++"
 app-emacs/modern-fringes 4.5: Replaces default fringe bitmaps with better looking ones
 app-emacs/modular-config 0.0.5: Organize your config into small and loadable modules
-app-emacs/modus-themes 4.3.0: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 4.4.0: Elegant, highly legible and customizable themes
 app-emacs/moe-theme 1.0.1: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/monitor 0.3.0: Utilities for monitoring expressions.
 app-emacs/monkeytype 0.1.5: Mode for speed typing
@@ -2019,7 +2022,6 @@ app-emacs/org-bulletproof 0.3: Automatic plain list bullet cycling
 app-emacs/org-bullets 0.2.4: Show bullets in org-mode as UTF-8 characters
 app-emacs/org-caldav 3.1: Sync org files with external calendar through CalDAV
 app-emacs/org-category-capture 3.1.0: Contextualy capture of org-mode TODOs.
-app-emacs/org-cite-sidecar 1.5.2: Sidecar to show references in Org Mode
 app-emacs/org-clock-csv 1.2: Export `org-mode' clock entries to CSV format.
 app-emacs/org-commentary 0.3.0: generate or update conventional library headers using Org mode files
 app-emacs/org-d20 0.5: minor mode for d20 tabletop roleplaying games
@@ -2072,7 +2074,7 @@ app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.8.5: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
-app-emacs/org-re-reveal 3.25.1: Org export to reveal.js presentations
+app-emacs/org-re-reveal 3.26.0: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
 app-emacs/org-re-reveal-ref 1.0.0: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
@@ -2161,7 +2163,7 @@ app-emacs/ox-pandoc 2.0: An Org-mode exporter using pandoc
 app-emacs/ox-report 0.4: Export your org file to minutes report PDF file
 app-emacs/ox-review 0.3.0: Re:VIEW Back-End for Org Export Engine
 app-emacs/ox-timeline 0.1.0: HTML Timeline Back-End for Org Export Engine
-app-emacs/ox-tufte 4.1.1: Tufte HTML org-mode export backend
+app-emacs/ox-tufte 4.2.0: Tufte HTML org-mode export backend
 app-emacs/ox-twbs 1.1.4: Bootstrap compatible HTML Back-End for Org
 app-emacs/ox-wk 0.3.0: Wiki Back-End for Org Export Engine
 app-emacs/ox-yaow 1.0: Generate html pages from org files
@@ -2188,7 +2190,7 @@ app-emacs/paredit 26: minor mode for editing parentheses
 app-emacs/paredit-everywhere 0.4: Enable some paredit features in non-lisp buffers
 app-emacs/paren-face 1.1.0: A face for parentheses in lisp modes
 app-emacs/parent-mode 2.3.1: get major mode's parent modes
-app-emacs/parinfer-rust-mode 0.8.3: An interface for the parinfer-rust library
+app-emacs/parinfer-rust-mode 0.8.4: An interface for the parinfer-rust library
 app-emacs/parrot 1.1.1: Party Parrot rotates gracefully in mode-line.
 app-emacs/parse-it 0.2.1: Basic Parser in Emacs Lisp
 app-emacs/parsebib 4.3: A library for parsing bib files
@@ -2604,6 +2606,7 @@ app-emacs/solidity-mode 0.1.10: Major mode for ethereum's solidity language
 app-emacs/solo-jazz-theme 0.9.0: The Solo-Jazz color theme
 app-emacs/soong-mode 1.0.0: Major mode for editing Soong build files
 app-emacs/soothe-theme 2.1.8: A dark colorful theme
+app-emacs/sops 0.1.0: SOPS encrypt and decrypt without leaving the editor.
 app-emacs/soria-theme 0.4.2: A xoria256 theme with some colors from openSUSE
 app-emacs/sotclojure 1.3.1: Write clojure at the speed of thought.
 app-emacs/sotlisp 1.6.2: Write lisp at the speed of thought.
