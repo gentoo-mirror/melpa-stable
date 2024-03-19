@@ -1976,7 +1976,7 @@ app-emacs/ocamlformat 0.26.1: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
 app-emacs/octicons 0.1: octicons utility
-app-emacs/oer-reveal 4.21.0: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.22.0: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -2190,7 +2190,7 @@ app-emacs/paredit 26: minor mode for editing parentheses
 app-emacs/paredit-everywhere 0.4: Enable some paredit features in non-lisp buffers
 app-emacs/paren-face 1.1.0: A face for parentheses in lisp modes
 app-emacs/parent-mode 2.3.1: get major mode's parent modes
-app-emacs/parinfer-rust-mode 0.8.4: An interface for the parinfer-rust library
+app-emacs/parinfer-rust-mode 0.8.5: An interface for the parinfer-rust library
 app-emacs/parrot 1.1.1: Party Parrot rotates gracefully in mode-line.
 app-emacs/parse-it 0.2.1: Basic Parser in Emacs Lisp
 app-emacs/parsebib 4.3: A library for parsing bib files
