@@ -131,7 +131,7 @@ app-emacs/auth-source-gopass 0.0.3: Gopass integration for auth-source
 app-emacs/auth-source-keytar 0.1.3: Integrate auth-source with keytar
 app-emacs/auth-source-kwallet 0.0.1: KWallet integration for auth-source
 app-emacs/auth-source-xoauth2 1.0: Integrate auth-source with XOAUTH2
-app-emacs/auto-compile 1.8.2: Automatically compile Emacs Lisp libraries
+app-emacs/auto-compile 2.0.0: Automatically compile Emacs Lisp libraries
 app-emacs/auto-complete 1.5.1: Auto Completion for GNU Emacs
 app-emacs/auto-complete-clang-async 0.5: Auto Completion source for clang for GNU Emacs
 app-emacs/auto-complete-exuberant-ctags 0.0.7: Exuberant ctags auto-complete.el source
@@ -177,7 +177,7 @@ app-emacs/bbdb2erc 0.1.5: make bbdb show if pal is online with ERC, click i to c
 app-emacs/beacon 1.3.4: Highlight the cursor whenever the window scrolls
 app-emacs/beeminder 1.2.0: Emacs interface for Beeminder
 app-emacs/beginend 2.4.0: Redefine M-< and M-> for some modes
-app-emacs/benchmark-init 1.1: Benchmarks for require and load calls
+app-emacs/benchmark-init 1.2: Benchmarks for require and load calls
 app-emacs/benchstat 1.0.0: proper benchmarking made simple
 app-emacs/better-scroll 0.1.4: Improve user experience when scrolling window
 app-emacs/better-shell 1.2.1: Better shell management
@@ -271,13 +271,13 @@ app-emacs/caskxy 0.0.5: Control Cask in Emacs
 app-emacs/catmacs 0.1.1: Simple CAT interface for Yaesu FT991A
 app-emacs/catppuccin-theme 0.1.0: Catppuccin Theme
 app-emacs/cbm 0.6: Switch to similar buffers.
-app-emacs/cc-isearch-menu 1.3.0: A Transient menu for isearch
+app-emacs/cc-isearch-menu 1.3.1: A Transient menu for isearch
 app-emacs/cdlatex 4.7: Fast input methods for LaTeX environments and math
 app-emacs/cdnjs 0.2.1: A front end for http://cdnjs.com
 app-emacs/celery 0.0.3: a minor mode to draw stats from celery and more?
 app-emacs/centaur-tabs 3.2: Aesthetic, modern looking customizable tabs plugin
 app-emacs/cerbere 0.1.0: Unit testing in Emacs for several programming languages
-app-emacs/cern-ldap 0.0.4: Library to interact with CERN's LDAP servers
+app-emacs/cern-ldap 0.0.5: Library to interact with CERN's LDAP servers
 app-emacs/cern-root-mode 0.1.4: Major-mode for running C++ code with ROOT
 app-emacs/ceylon-mode 0.2: Major mode for editing Ceylon source code
 app-emacs/cfn-mode 1.0.5: AWS cloudformation mode
@@ -339,7 +339,7 @@ app-emacs/clues-theme 1.0.1: an Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.6: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.28.3: major-mode for editing CMake sources
+app-emacs/cmake-mode 3.29.0: major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -663,7 +663,7 @@ app-emacs/eglot-signature-eldoc-talkative 0.0.6: Make Eglot make ElDoc echo docs
 app-emacs/eide 2.3.1: IDE interface
 app-emacs/eink-theme 1.0.0: E Ink color theme
 app-emacs/ejc-sql 0.4.1: Emacs SQL client uses Clojure JDBC.
-app-emacs/ekg 0.5.0: A system for recording and linking information
+app-emacs/ekg 0.5.1: A system for recording and linking information
 app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
@@ -681,7 +681,7 @@ app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use.
 app-emacs/eldoc-stan 10.2.0: Eldoc support for stan functions
 app-emacs/electric-cursor 0.2: Change cursor automatically depending on mode
 app-emacs/electric-operator 1.1.0: Automatically add spaces around operators
-app-emacs/electric-ospl 3.1.1: Electric OSPL Mode
+app-emacs/electric-ospl 3.1.2: Electric OSPL Mode
 app-emacs/elescope 0.2: Seach and clone projects from the minibuffer
 app-emacs/elf-mode 0.1.0: Show symbols in binaries
 app-emacs/elfeed 3.4.1: an Emacs Atom/RSS feed reader
@@ -1175,7 +1175,7 @@ app-emacs/go-guru 1.6.0: Integration of the Go 'guru' analysis tool into Emacs.
 app-emacs/go-imenu 0.1.0: Imenu for go language
 app-emacs/go-impl 0.14: impl integration for go-mode
 app-emacs/go-mode 1.6.0: Major mode for the Go programming language
-app-emacs/go-playground 1.8.2: Local Golang playground for short snippets.
+app-emacs/go-playground 1.9.0: Local Golang playground for short snippets.
 app-emacs/go-rename 1.6.0: Integration of the 'gorename' tool into Emacs.
 app-emacs/go-scratch 0.0.1: *scratch* buffer for Go
 app-emacs/go-tag 1.1.1: Edit Golang struct field tag
@@ -1435,7 +1435,7 @@ app-emacs/idomenu 0.1: imenu tag selection with ido
 app-emacs/idris-mode 1.0: Major mode for editing Idris code
 app-emacs/iedit 0.9.9.9.9: Edit multiple regions in the same way simultaneously.
 app-emacs/iflipb 1.6: Interactively flip between recently visited buffers
-app-emacs/igist 1.6.0: List, create, update and delete GitHub gists
+app-emacs/igist 1.6.1: List, create, update and delete GitHub gists
 app-emacs/ignoramus 0.7.4: Ignore backups, build files, et al.
 app-emacs/image+ 0.6.2: Image manipulate extensions for Emacs
 app-emacs/image-archive 0.0.7: Image thumbnails in archive file with non-blocking
@@ -1739,7 +1739,7 @@ app-emacs/magit-section 3.3.0: Sections for read-only buffers
 app-emacs/magit-stgit 2.2.1: StGit extension for Magit
 app-emacs/magit-svn 2.2.3: Git-Svn extension for Magit
 app-emacs/magit-tbdiff 1.1.1: Magit extension for range diffs
-app-emacs/magit-todos 1.7.1: Show source file TODOs in Magit
+app-emacs/magit-todos 1.7.2: Show source file TODOs in Magit
 app-emacs/magit-topgit 2.1.2: TopGit extension for Magit
 app-emacs/magithub 0.1.7: Magit interfaces for GitHub
 app-emacs/major-mode-hydra 0.2.2: Major mode keybindings managed by Hydra
@@ -1998,7 +1998,7 @@ app-emacs/opensource 0.2.0: Client for Opensource API
 app-emacs/opensub 0.1.0: Search and download from open-subtitles
 app-emacs/operate-on-number 1.3.0: Operate on number at point with arithmetic functions
 app-emacs/orangey-bits-theme 1.0.2: A Theme with smashing orangey bits
-app-emacs/orderless 1.0: Completion style for matching regexps in any order
+app-emacs/orderless 1.1: Completion style for matching regexps in any order
 app-emacs/ordinal 1.0.0: Convert number to ordinal number notation
 app-emacs/org-ac 0.0.2: Some auto-complete sources for org-mode
 app-emacs/org-agenda-files-track 0.4.0: Fine-track `org-agenda-files' to speed-up `org-agenda'
@@ -2766,7 +2766,7 @@ app-emacs/tr-ime 0.5.0: Emulator of IME patch for Windows
 app-emacs/traad 3.1.1: emacs interface to the traad refactoring server.
 app-emacs/tracking 2.13: Buffer modification tracking
 app-emacs/transducers 1.1.0: Ergonomic, efficient data processing
-app-emacs/transient 0.5.3: Transient commands
+app-emacs/transient 0.6.0: Transient commands
 app-emacs/translate-mode 1.0.2: Paragraph-oriented side-by-side doc translation workflow
 app-emacs/transmission 0.12.2: Interface to a Transmission session
 app-emacs/transpose-frame 0.2.1: Transpose windows arrangement in a frame
@@ -2796,7 +2796,7 @@ app-emacs/tron-legacy-theme 2.6.0: An original retro-futuristic theme inspired b
 app-emacs/trr 2.0.0: a type-writing training program on GNU Emacs.
 app-emacs/truthy 0.2.8: Test the content of a value
 app-emacs/try 0.0.1: Try out Emacs packages.
-app-emacs/ts 0.2.2: Timestamp and date/time library
+app-emacs/ts 0.3: Timestamp and date/time library
 app-emacs/tsc 0.18.0: Core Tree-sitter APIs
 app-emacs/tss 0.6.0: provide a interface for auto-complete.el/flymake.el on typescript-mode.
 app-emacs/tuareg 3.0.1: OCaml mode
@@ -2941,7 +2941,7 @@ app-emacs/windsize 0.1: Simple, intuitive window resizing
 app-emacs/windswap 0.1: Like windmove, but swaps buffers while moving point
 app-emacs/winring 5.1: Window configuration rings
 app-emacs/winum 2.1.0: Navigate windows and frames using numbers.
-app-emacs/wisp-mode 1.0.11: Tools for wisp: the Whitespace-to-Lisp preprocessor
+app-emacs/wisp-mode 1.0.12: Tools for wisp: the Whitespace-to-Lisp preprocessor
 app-emacs/wispjs-mode 0.2.0: Major mode for Wisp code.
 app-emacs/with-editor 3.3.2: Use the Emacsclient as $EDITOR
 app-emacs/with-shell-interpreter 0.2.5: Helper for shell command APIs
