@@ -694,7 +694,7 @@ app-emacs/elfeed-tube 0.15: YouTube integration for Elfeed
 app-emacs/elfeed-tube-mpv 0.15: Control mpv from Elfeed
 app-emacs/elfeed-web 3.4.1: web interface to Elfeed
 app-emacs/elgrep 1.0.0: Searching files for regular expressions
-app-emacs/elisa 0.1.2: Emacs Lisp Information System Assistant
+app-emacs/elisa 0.1.3: Emacs Lisp Information System Assistant
 app-emacs/elisp-def 1.1: macro-aware go-to-definition for elisp
 app-emacs/elisp-demos 2024.1.16: Elisp API Demos
 app-emacs/elisp-lint 0.4.0: Basic linting for Emacs Lisp
