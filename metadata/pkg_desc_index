@@ -1594,7 +1594,7 @@ app-emacs/keymap-utils 4.0.0: Keymap utilities
 app-emacs/keypress-multi-event 1.0: Perform different actions for the same keypress.
 app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
-app-emacs/khalel 0.1.10: Import, edit and create calendar events through khal
+app-emacs/khalel 0.1.11: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
 app-emacs/khoj 1.7.0: AI copilot for your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
@@ -2076,7 +2076,7 @@ app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.8.5: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
-app-emacs/org-re-reveal 3.27.0: Org export to reveal.js presentations
+app-emacs/org-re-reveal 3.27.1: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
 app-emacs/org-re-reveal-ref 1.0.0: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
@@ -2741,7 +2741,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2024.3.18.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2024.3.25.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.4: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
