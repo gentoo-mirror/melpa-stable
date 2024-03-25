@@ -2076,7 +2076,7 @@ app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.8.5: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
-app-emacs/org-re-reveal 3.26.0: Org export to reveal.js presentations
+app-emacs/org-re-reveal 3.27.0: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
 app-emacs/org-re-reveal-ref 1.0.0: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
@@ -2549,7 +2549,7 @@ app-emacs/shrink-whitespace 0.0.4: Whitespace removal DWIM key
 app-emacs/shroud 1.105: Shroud secrets
 app-emacs/shut-up 0.3.3: Shut up would you!
 app-emacs/shx 1.5.0: Extras for the comint-mode shell
-app-emacs/side-hustle 0.2.0: Hustle through Imenu in a side window
+app-emacs/side-hustle 0.3.0: Hustle through Imenu in a side window
 app-emacs/side-notes 0.4.1: Easy access to a directory notes file
 app-emacs/sideline 0.1.1: Show informations on the side
 app-emacs/sideline-blame 0.1.0: Show blame messages with sideline
