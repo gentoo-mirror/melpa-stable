@@ -796,7 +796,7 @@ app-emacs/eshell-git-prompt 0.1.3: Some Eshell prompt for Git users
 app-emacs/eshell-info-banner 0.8.8: System information as your Eshell banner
 app-emacs/eshell-outline 2020.8.31: Enhanced outline-mode for Eshell
 app-emacs/eshell-prompt-extras 1.1: Display extra information for your eshell prompt.
-app-emacs/eshell-syntax-highlighting 0.5: Highlight eshell commands
+app-emacs/eshell-syntax-highlighting 0.6: Highlight eshell commands
 app-emacs/eshell-up 0.0.4: Quickly go to a specific parent directory in eshell
 app-emacs/eshell-z 0.4: cd to frequent directory in eshell
 app-emacs/eslint-disable-rule 0.3.0: Commands to add JS comments disabling eslint rules
