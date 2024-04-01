@@ -242,7 +242,7 @@ app-emacs/bundler 1.1.0: Interact with Bundler from Emacs
 app-emacs/burly 0.3: Save and restore frame/window configurations with buffers
 app-emacs/bury-successful-compilation 0.1.2: Bury the *compilation* buffer after successful compilation
 app-emacs/butler 0.2.6: Emacs client for Jenkins
-app-emacs/buttercup 1.34: Behavior-Driven Emacs Lisp Testing
+app-emacs/buttercup 1.35: Behavior-Driven Emacs Lisp Testing
 app-emacs/buttercup-junit 1.1.1: JUnit reporting for Buttercup
 app-emacs/button-lock 1.0.2: Clickable text defined by regular expression
 app-emacs/buttons 0.0.3: Define and visualize hierarchies of keymaps
@@ -268,11 +268,11 @@ app-emacs/caseformat 0.1.0: Format based letter case converter
 app-emacs/cask-mode 0.1: major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
 app-emacs/caskxy 0.0.5: Control Cask in Emacs
-app-emacs/casual 1.2.1: Transient UI for Calc
+app-emacs/casual 1.3.0: Transient UI for Calc
 app-emacs/catmacs 0.1.1: Simple CAT interface for Yaesu FT991A
 app-emacs/catppuccin-theme 0.1.0: Catppuccin Theme
 app-emacs/cbm 0.6: Switch to similar buffers.
-app-emacs/cc-isearch-menu 1.3.1: A Transient menu for isearch
+app-emacs/cc-isearch-menu 1.4.1: A Transient menu for isearch
 app-emacs/cdlatex 4.7: Fast input methods for LaTeX environments and math
 app-emacs/cdnjs 0.2.1: A front end for http://cdnjs.com
 app-emacs/celery 0.0.3: a minor mode to draw stats from celery and more?
@@ -372,7 +372,7 @@ app-emacs/company-ctags 0.0.7: Fastest company-mode completion backend for ctags
 app-emacs/company-dict 1.2.8: A backend that emulates ac-source-dictionary
 app-emacs/company-eask 0.1.0: Company backend for Eask-file
 app-emacs/company-emacs-eclim 0.4: company-mode backend for eclim
-app-emacs/company-emoji 2.8.0: company-mode backend for emoji
+app-emacs/company-emoji 3.0.0: company-mode backend for emoji
 app-emacs/company-emojify 0.1.0: Company completion for Emojify
 app-emacs/company-erlang 0.1.1: company backend based on ivy-erlang-complete
 app-emacs/company-fuzzy 1.4.0: Fuzzy matching for `company-mode'
@@ -406,7 +406,7 @@ app-emacs/competitive-programming-snippets 1.1.4: Competitive Programming snippe
 app-emacs/compile-multi 0.5: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 0.5: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 0.5: compile-multi integration for `embark'
-app-emacs/compiler-explorer 0.2.0: Compiler explorer client (godbolt.org)
+app-emacs/compiler-explorer 0.3.0: Compiler explorer client (godbolt.org)
 app-emacs/composable 0.0.1: composable editing
 app-emacs/composer 0.2.0: Interface to PHP Composer
 app-emacs/concurrent 0.5.1: Concurrent utility functions for emacs lisp
@@ -499,7 +499,7 @@ app-emacs/dashboard-ls 0.3.0: Display files/directories in current directory on 
 app-emacs/dashboard-project-status 0.0.1: Display a git project status in a dashboard widget.
 app-emacs/date-at-point 0.1: Add `date' to `thing-at-point' function
 app-emacs/date-field 0.0.1: Date widget
-app-emacs/datetime 0.9.1: Parsing, formatting and matching timestamps
+app-emacs/datetime 0.10: Parsing, formatting and matching timestamps
 app-emacs/dbc 0.1: Control how to open buffers
 app-emacs/ddskk-posframe 1.0.0: Show Henkan tooltip for ddskk via posframe
 app-emacs/deadgrep 0.12: fast, friendly searching with ripgrep
@@ -660,6 +660,7 @@ app-emacs/egison-mode 4.1.3: Egison editing mode
 app-emacs/eglot-fsharp 2.0: fsharp-mode eglot integration
 app-emacs/eglot-java 1.34: Java extension for the eglot LSP client
 app-emacs/eglot-jl 2.3.0: Julia support for eglot
+app-emacs/eglot-luau 0.1.1: Luau language server integration for eglot
 app-emacs/eglot-signature-eldoc-talkative 0.0.6: Make Eglot make ElDoc echo docs
 app-emacs/eide 2.3.1: IDE interface
 app-emacs/eink-theme 1.0.0: E Ink color theme
@@ -750,7 +751,7 @@ app-emacs/emoji-cheat-sheet-plus 1.2.2: emoji-cheat-sheet for emacs
 app-emacs/emoji-fontset 0.1.1: Set font face for Emoji.
 app-emacs/emoji-github 0.2.3: Display list of GitHub's emoji. (cheat sheet)
 app-emacs/emojify 1.2: Display emojis in Emacs
-app-emacs/empv 4.0.0: A multimedia player/manager, YouTube interface
+app-emacs/empv 4.1.0: A multimedia player/manager, YouTube interface
 app-emacs/emr 0.4: Emacs refactoring system.
 app-emacs/enclose 0.0.2: Enclose cursor within punctuation pairs
 app-emacs/encrypt-region 1.0: Encrypts and decrypts regions
@@ -1053,7 +1054,7 @@ app-emacs/format-all 0.6.0: Auto-format C, C++, JS, Python, Ruby and 50 other la
 app-emacs/format-sql 0.4: Use format-sql to make your SQL readable in directly Emacs.
 app-emacs/format-table 0.0.1: Parse and reformat tabular data.
 app-emacs/fortune-cookie 1.0.0: Print a fortune in your scratch buffer.
-app-emacs/fountain-mode 3.7.2: Major mode for screenwriting in Fountain markup
+app-emacs/fountain-mode 3.7.3: Major mode for screenwriting in Fountain markup
 app-emacs/fpga 0.2.0: FPGA & ASIC Utils
 app-emacs/frame-purpose 1.0: Purpose-specific frames
 app-emacs/frames-only-mode 1.0.0: Use frames instead of Emacs windows
@@ -1117,7 +1118,7 @@ app-emacs/git-annex 1.1: Mode for easy editing of git-annex'd files
 app-emacs/git-attr 1.0.0: Git attributes of buffer file
 app-emacs/git-auto-commit-mode 4.7.0: Emacs Minor mode to automatically commit and push
 app-emacs/git-backup 0.0.1: Backup each file change using git
-app-emacs/git-cliff 0.5.0: Generate and update changelog using git-cliff
+app-emacs/git-cliff 0.6.0: Generate and update changelog using git-cliff
 app-emacs/git-command 0.2.0: Yet another Git interface
 app-emacs/git-commit 3.3.0: Edit Git commit messages.
 app-emacs/git-commit-insert-issue 0.4.1: Get issues list when typing "Fixes #"
@@ -1376,7 +1377,7 @@ app-emacs/highlight-defined 0.1.6: Syntax highlighting of known Elisp symbols
 app-emacs/highlight-function-calls 0.1: Highlight function/macro calls
 app-emacs/highlight-indentation 0.7.0: Minor modes for highlighting indentation
 app-emacs/highlight-numbers 0.2.3: Highlight numbers in source code
-app-emacs/highlight-parentheses 2.1.1: Highlight surrounding parentheses
+app-emacs/highlight-parentheses 2.2.1: Highlight surrounding parentheses
 app-emacs/highlight-quoted 0.1: Highlight Lisp quotes and quoted symbols
 app-emacs/highlight-symbol 1.3: automatic and manual symbol highlighting
 app-emacs/himalaya 0.3: Interface for the himalaya email client
@@ -1475,7 +1476,7 @@ app-emacs/inform7 0.1.1: Major mode for working with Inform 7 files
 app-emacs/inherit-local 1.1.1: Inherited buffer-local variables
 app-emacs/inheritenv 0.2: Make temp buffers inherit buffer-local environment variables
 app-emacs/ini-mode 0.0.7: Major mode for Windows-style ini files.
-app-emacs/init-dir 0.1: Init directory instead of just a single file
+app-emacs/init-dir 0.2: Init directory instead of just a single file
 app-emacs/init-loader 0.2: Loader for configuration files
 app-emacs/init-open-recentf 0.2.1: Invoke a command immediately after startup
 app-emacs/initsplit 1.6: No description available.
@@ -1566,7 +1567,7 @@ app-emacs/julia-ts-mode 0.2.5: Major mode for Julia source code using tree-sitte
 app-emacs/julia-vterm 0.22: A mode for Julia REPL using vterm
 app-emacs/jump 2.6: build functions which contextually jump between files
 app-emacs/jump-to-line 0.2.0: Jump to line number at point.
-app-emacs/jupyter 0.8.3: Jupyter
+app-emacs/jupyter 1.0: Jupyter
 app-emacs/just-mode 0.1.8: Justfile editing mode
 app-emacs/justl 0.14: Major mode for driving just files
 app-emacs/jvm-mode 0.2.0: Monitor and manage your JVMs
@@ -1596,7 +1597,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.11: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.7.0: AI copilot for your Second Brain
+app-emacs/khoj 1.8.0: AI copilot for your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
@@ -1629,6 +1630,7 @@ app-emacs/latex-math-preview 0.7.3: preview LaTeX mathematical expressions.
 app-emacs/latex-table-wizard 1.5.0: Magic editing of LaTeX tables
 app-emacs/latex-unicode-math-mode 0.3.2: Input method for Unicode math symbols
 app-emacs/lavenderless-theme 0.2: A mostly colorless version of lavender-theme
+app-emacs/lazy-ruff 0.2.2: Integration with the Ruff Python linter/formatter
 app-emacs/lcb-mode 0.1.1: LiveCode Builder major mode
 app-emacs/lcr 1.5: lightweight coroutines
 app-emacs/leaf 4.1.0: Simplify your init.el configuration, extended use-package
@@ -1766,7 +1768,7 @@ app-emacs/markup 2.0.1: Simple markup generation helpers.
 app-emacs/markup-faces 1.0.0: collection of faces for markup language modes
 app-emacs/marquee-header 0.1.0: Code interface for displaying marquee in header
 app-emacs/marshal 0.9.1: eieio extension for automatic (un)marshalling
-app-emacs/mastodon 1.0.18: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 1.0.19: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 1.4: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 5.1.1: Preview TeX math equations inline
 app-emacs/math-symbol-lists 1.3: Lists of Unicode math symbols and latex commands
@@ -1796,7 +1798,7 @@ app-emacs/metamorph 1.0.0: Transform your buffers with lisp
 app-emacs/metaweblog 1.1.16: An XML-RPC MetaWeblog and WordPress API client
 app-emacs/mew 6.9: Messaging in the Emacs World
 app-emacs/meyvn 1.0: Emacs meyvn Client
-app-emacs/mgmtconfig-mode 0.0.25: mgmt configuration management language
+app-emacs/mgmtconfig-mode 0.0.26: mgmt configuration management language
 app-emacs/mhc 1.2.6: Message Harmonized Calendaring system.
 app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
@@ -1820,7 +1822,7 @@ app-emacs/mmt 0.2.0: Missing macro tools for Emacs Lisp
 app-emacs/mocha 1.1: Run Mocha or Jasmine tests
 app-emacs/mocha-snippets 2.0.0: Yasnippets for the Mocha JS Testing Framework
 app-emacs/mocker 0.5.0: mocking framework for emacs
-app-emacs/modaled 0.8.2: Build your own minor modes for modal editing
+app-emacs/modaled 0.8.3: Build your own minor modes for modal editing
 app-emacs/modalka 0.1.5: Easily introduce native modal editing of your own design
 app-emacs/mode-icons 0.4.0: Show icons for modes
 app-emacs/mode-line-bell 0.2: Flash the mode line instead of ringing the bell
@@ -1859,7 +1861,7 @@ app-emacs/msvc 1.4.3: Microsoft Visual C/C++ mode
 app-emacs/mtg-deck-mode 0.2: Major mode to edit MTG decks
 app-emacs/mu4e-alert 1.0: Desktop notification for mu4e
 app-emacs/mu4e-column-faces 1.2.1: Faces for individual mu4e columns
-app-emacs/mu4e-overview 0.3.0: Show overview of maildir
+app-emacs/mu4e-overview 0.4.0: Show overview of maildir
 app-emacs/mu4e-views 0.5: View emails in mu4e using xwidget-webkit
 app-emacs/mu4easy 1.0: Packages + configs for using mu4e with multiple accounts
 app-emacs/mugur 2.0: Configurator for QMK compatible keyboards
@@ -2076,7 +2078,7 @@ app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.8.5: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
-app-emacs/org-re-reveal 3.27.1: Org export to reveal.js presentations
+app-emacs/org-re-reveal 3.28.0: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
 app-emacs/org-re-reveal-ref 1.0.0: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
@@ -2174,8 +2176,8 @@ app-emacs/pacfiles-mode 1.2: The pacnew and pacsave merging tool
 app-emacs/pack 0.1.1: Pack and unpack archive files
 app-emacs/package+ 1.4.0: Extensions for the package library.
 app-emacs/package-build 4.0.0: Tools for assembling a package archive
-app-emacs/package-lint 0.22: A linting library for elisp package authors
-app-emacs/package-lint-flymake 0.22: A package-lint Flymake backend
+app-emacs/package-lint 0.23: A linting library for elisp package authors
+app-emacs/package-lint-flymake 0.23: A package-lint Flymake backend
 app-emacs/package-utils 1.0.1: Extensions for package.el
 app-emacs/packed 3.1.0: Package manager agnostic Emacs Lisp package utilities
 app-emacs/pact-mode 0.0.5: Mode for Pact, a LISPlike smart contract language.
@@ -2230,7 +2232,7 @@ app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
 app-emacs/pet 2.0.0: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: a simple wrapper around asynchronous processes
-app-emacs/pg 0.30: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
+app-emacs/pg 0.31: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/ph 0.1.0: A global minor mode for managing multiple projects.
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: another incremental search & replace, compatible with "multiple-cursors"
@@ -2268,7 +2270,7 @@ app-emacs/po-mode 0.21: major mode for GNU gettext PO files
 app-emacs/pocket-lib 0.1: Library for accessing getpocket.com API
 app-emacs/pocket-reader 0.3: Client for Pocket reading list
 app-emacs/poe-lootfilter-mode 1.0.0: Major mode for editing Path of Exile lootfilters
-app-emacs/poetry 0.1.0: poetry in Emacs
+app-emacs/poetry 0.2.0: Interface to Poetry
 app-emacs/point-pos 0.1: Save and restore point positions
 app-emacs/poly-R 0.2.2: Various polymodes for R language
 app-emacs/poly-ansible 0.3.0: Polymode for Ansible: Jinja2 in YAML
@@ -2329,7 +2331,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 26.0: major mode for editing protocol buffers.
+app-emacs/protobuf-mode 26.1: major mode for editing protocol buffers.
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions.
 app-emacs/psalm 0.6.0: Interface to Psalm
@@ -2543,7 +2545,7 @@ app-emacs/show-eol 0.0.5: Show end of line symbol in buffer
 app-emacs/showtip 0.1: Show tip at cursor
 app-emacs/shpec-mode 0.1.0: Minor mode for shpec specification
 app-emacs/shr-tag-pre-highlight 2: Syntax highlighting code block in HTML
-app-emacs/shrface 2.6.3: Extend shr/eww with org features and analysis capability
+app-emacs/shrface 2.6.4: Extend shr/eww with org features and analysis capability
 app-emacs/shrink-path 0.3.1: fish-style path
 app-emacs/shrink-whitespace 0.0.4: Whitespace removal DWIM key
 app-emacs/shroud 1.105: Shroud secrets
@@ -2752,7 +2754,7 @@ app-emacs/timesheet 0.5.0: Timesheet management add-on for org-mode
 app-emacs/timonier 0.1.0: Timonier, Manage Kubernetes Applications from Emacs
 app-emacs/timu-caribbean-theme 1.5: Color theme with cyan as a dominant color
 app-emacs/timu-line 0.8: Custom and simple mode line
-app-emacs/timu-macos-theme 1.3: Color theme inspired by the macOS UI
+app-emacs/timu-macos-theme 1.4: Color theme inspired by the macOS UI
 app-emacs/timu-rouge-theme 1.9: Color theme inspired by the Rouge Theme for VSCode
 app-emacs/timu-spacegrey-theme 2.9: Color theme inspired by the Spacegray theme in Sublime Text
 app-emacs/titlecase 0.4.1: Title-case phrases
@@ -2780,7 +2782,7 @@ app-emacs/tray 0.1.2: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.163: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.167: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
@@ -2793,7 +2795,7 @@ app-emacs/treemacs-perspective 3.1: Perspective integration for treemacs
 app-emacs/treemacs-projectile 3.1: Projectile integration for treemacs
 app-emacs/treemacs-tab-bar 3.1: Tab bar integration for treemacs
 app-emacs/treepy 0.1.2: Generic tree traversal tools
-app-emacs/treesit-auto 1.0.4: Automatically use tree-sitter enhanced major modes
+app-emacs/treesit-auto 1.0.5: Automatically use tree-sitter enhanced major modes
 app-emacs/trinary 1.2.1: Trinary logic
 app-emacs/tron-legacy-theme 2.6.0: An original retro-futuristic theme inspired by Tron: Legacy
 app-emacs/trr 2.0.0: a type-writing training program on GNU Emacs.
@@ -2977,7 +2979,7 @@ app-emacs/xref-js2 1.6: Jump to references/definitions using ag & js2-mode's AST
 app-emacs/xresources-theme 1.0.0: Use your .Xresources as your emacs theme
 app-emacs/xterm-color 2.0: ANSI, XTERM 256 and Truecolor support
 app-emacs/xtest 1.1.0: Simple Testing with Emacs & ERT
-app-emacs/xwidgets-reuse 0.2: Reuse xwidgets sessions to reduce resource consumption
+app-emacs/xwidgets-reuse 0.3: Reuse xwidgets sessions to reduce resource consumption
 app-emacs/yabaki-theme 2.0.1: Yabaki, the cast shadow
 app-emacs/yafolding 0.4.1: Folding code blocks based on indentation
 app-emacs/yagist 0.8.12: Yet Another Emacs integration for gist.github.com
