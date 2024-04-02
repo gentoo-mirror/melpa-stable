@@ -268,7 +268,7 @@ app-emacs/caseformat 0.1.0: Format based letter case converter
 app-emacs/cask-mode 0.1: major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
 app-emacs/caskxy 0.0.5: Control Cask in Emacs
-app-emacs/casual 1.3.0: Transient UI for Calc
+app-emacs/casual 1.3.1: Transient UI for Calc
 app-emacs/catmacs 0.1.1: Simple CAT interface for Yaesu FT991A
 app-emacs/catppuccin-theme 0.1.0: Catppuccin Theme
 app-emacs/cbm 0.6: Switch to similar buffers.
@@ -660,7 +660,7 @@ app-emacs/egison-mode 4.1.3: Egison editing mode
 app-emacs/eglot-fsharp 2.0: fsharp-mode eglot integration
 app-emacs/eglot-java 1.34: Java extension for the eglot LSP client
 app-emacs/eglot-jl 2.3.0: Julia support for eglot
-app-emacs/eglot-luau 0.1.1: Luau language server integration for eglot
+app-emacs/eglot-luau 0.1.2: Luau language server integration for eglot
 app-emacs/eglot-signature-eldoc-talkative 0.0.6: Make Eglot make ElDoc echo docs
 app-emacs/eide 2.3.1: IDE interface
 app-emacs/eink-theme 1.0.0: E Ink color theme
@@ -696,7 +696,7 @@ app-emacs/elfeed-tube 0.15: YouTube integration for Elfeed
 app-emacs/elfeed-tube-mpv 0.15: Control mpv from Elfeed
 app-emacs/elfeed-web 3.4.1: web interface to Elfeed
 app-emacs/elgrep 1.0.0: Searching files for regular expressions
-app-emacs/elisa 0.1.3: Emacs Lisp Information System Assistant
+app-emacs/elisa 0.1.4: Emacs Lisp Information System Assistant
 app-emacs/elisp-def 1.1: macro-aware go-to-definition for elisp
 app-emacs/elisp-demos 2024.1.16: Elisp API Demos
 app-emacs/elisp-lint 0.4.0: Basic linting for Emacs Lisp
@@ -1199,7 +1199,7 @@ app-emacs/goto-char-preview 0.1.0: Preview character when executing `goto-char` 
 app-emacs/goto-chg 1.7.5: Go to last change
 app-emacs/goto-last-change 1.2.1: Move point through buffer-undo-list positions
 app-emacs/goto-line-preview 0.1.1: Preview line when executing `goto-line` command
-app-emacs/govc 0.36.2: Interface to govc for managing VMware ESXi and vCenter
+app-emacs/govc 0.36.3: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
@@ -1391,7 +1391,6 @@ app-emacs/hl-sentence 3: highlight a sentence based on customizable face
 app-emacs/hl-todo 3.6.0: Highlight TODO and similar keywords
 app-emacs/hmac 1.0: Hash-based message authentication code
 app-emacs/home-end 1.0: Smart multi-purpose home / end keys
-app-emacs/homebrew-mode 2.0.0: minor mode for editing Homebrew formulae
 app-emacs/hookify 0.2.1: Interactive commands to create temporary hooks
 app-emacs/hound 1.1.0: Display hound search results in a compilation window
 app-emacs/hover 1.2.3: Package to use hover with flutter
@@ -2194,7 +2193,7 @@ app-emacs/paredit 26: minor mode for editing parentheses
 app-emacs/paredit-everywhere 0.4: Enable some paredit features in non-lisp buffers
 app-emacs/paren-face 1.1.0: A face for parentheses in lisp modes
 app-emacs/parent-mode 2.3.1: get major mode's parent modes
-app-emacs/parinfer-rust-mode 0.8.5: An interface for the parinfer-rust library
+app-emacs/parinfer-rust-mode 0.8.6: An interface for the parinfer-rust library
 app-emacs/parrot 1.1.1: Party Parrot rotates gracefully in mode-line.
 app-emacs/parse-it 0.2.1: Basic Parser in Emacs Lisp
 app-emacs/parsebib 4.3: A library for parsing bib files
@@ -2743,7 +2742,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2024.3.25.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2024.4.1.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.4: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
