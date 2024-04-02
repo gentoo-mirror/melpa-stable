@@ -1285,11 +1285,9 @@ app-emacs/helm-cscope 0.1.1: Helm interface for xcscope.el.
 app-emacs/helm-dash 1.3.0: Offline documentation browser for +150 APIs using Dash docsets.
 app-emacs/helm-descbinds 1.13: A convenient `describe-bindings' with `helm'
 app-emacs/helm-directory 0.6.4: selecting directory before select the file
-app-emacs/helm-dired-history 1.3: Show dired history with helm.el support.
 app-emacs/helm-dogears 0.1: Helm source for Dogears
 app-emacs/helm-emms 1.3: Emms for Helm.
 app-emacs/helm-esa 1.1.0: Esa with helm interface
-app-emacs/helm-etags-plus 1.1: Another Etags helm.el interface
 app-emacs/helm-evil-markers 1.0.0: Show evil markers with helm
 app-emacs/helm-eww 1.2: Helm UI wrapper for EWW.
 app-emacs/helm-ext 0.1.2: A few extensions to Helm
@@ -1500,7 +1498,6 @@ app-emacs/iter2 1.4: Reimplementation of Elisp generators
 app-emacs/ivy 0.14.2: Incremental Vertical completYon
 app-emacs/ivy-avy 0.14.2: Avy integration for Ivy
 app-emacs/ivy-bibtex 2.0.0: A BibTeX bibliography manager based on Ivy
-app-emacs/ivy-dired-history 1.0: use ivy to open recent directories
 app-emacs/ivy-erlang-complete 0.3.2: Erlang context sensitive completion at point using ivy. It also support xref and eldoc.
 app-emacs/ivy-explorer 0.3.2: Dynamic file browsing grid using ivy
 app-emacs/ivy-file-preview 0.4.5: Preview the current ivy file selection
@@ -1892,7 +1889,7 @@ app-emacs/navi-mode 2.0: major-mode for easy buffer-navigation
 app-emacs/navigel 0.7.0: Facilitate the creation of tabulated-list based UIs
 app-emacs/navorski 0.2.7: Helping you live in the terminal, like Viktor did.
 app-emacs/ncl-mode 0.99: Major Mode for editing NCL scripts and other goodies
-app-emacs/neil 0.2.63: companion for Babashka Neil
+app-emacs/neil 0.3.65: companion for Babashka Neil
 app-emacs/nemerle 1.2: major mode for editing nemerle programs
 app-emacs/neon-mode 1.3.0: Simple major mode for editing neon files
 app-emacs/neotree 0.6.0: A tree plugin like NerdTree for Vim
@@ -1979,7 +1976,7 @@ app-emacs/ocamlformat 0.26.1: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
 app-emacs/octicons 0.1: octicons utility
-app-emacs/oer-reveal 4.22.0: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.23.0: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
