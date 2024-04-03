@@ -609,7 +609,7 @@ app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
 app-emacs/dtrt-indent 1.17: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
-app-emacs/dune 3.14.2: Integration with the dune build system
+app-emacs/dune 3.15.0: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
 app-emacs/duplexer 0.1.0: Handle conflicts between local minor modes and reuse rules
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
@@ -1626,7 +1626,7 @@ app-emacs/latex-math-preview 0.7.3: preview LaTeX mathematical expressions.
 app-emacs/latex-table-wizard 1.5.0: Magic editing of LaTeX tables
 app-emacs/latex-unicode-math-mode 0.3.2: Input method for Unicode math symbols
 app-emacs/lavenderless-theme 0.2: A mostly colorless version of lavender-theme
-app-emacs/lazy-ruff 0.2.2: Integration with the Ruff Python linter/formatter
+app-emacs/lazy-ruff 0.2.4: Integration with the Ruff Python linter/formatter
 app-emacs/lcb-mode 0.1.1: LiveCode Builder major mode
 app-emacs/lcr 1.5: lightweight coroutines
 app-emacs/leaf 4.1.0: Simplify your init.el configuration, extended use-package
