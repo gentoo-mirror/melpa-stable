@@ -1203,7 +1203,7 @@ app-emacs/govc 0.36.3: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
-app-emacs/gptel 0.8.0: Interact with ChatGPT or other LLMs
+app-emacs/gptel 0.8.5: Interact with ChatGPT or other LLMs
 app-emacs/grab-mac-link 0.3: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 0.5: Grab links from X11 apps and insert into Emacs
 app-emacs/gradle-mode 0.5.5: Gradle integration with Emacs' compile
@@ -1322,7 +1322,7 @@ app-emacs/helm-notmuch 1.2: Search emails with Notmuch and Helm
 app-emacs/helm-open-github 0.15: Utilities of Opening Github Page
 app-emacs/helm-org 1.0: Helm for org headlines and keywords completion
 app-emacs/helm-org-multi-wiki 0.4.0: Helm interface to org-multi-wiki
-app-emacs/helm-org-ql 0.8.5: Helm support for org-ql
+app-emacs/helm-org-ql 0.8.6: Helm support for org-ql
 app-emacs/helm-org-rifle 1.7.1: Rifle through your Org files
 app-emacs/helm-orgcard 0.2: browse the orgcard by helm
 app-emacs/helm-pages 0.1.1: Pages in current buffer as Helm datasource
@@ -1530,7 +1530,7 @@ app-emacs/jet 1.1.1: Emacs integration for jet Clojure tool
 app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
-app-emacs/jinx 1.4: Enchanted Spell Checker
+app-emacs/jinx 1.5: Enchanted Spell Checker
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -1752,7 +1752,7 @@ app-emacs/manage-minor-mode-table 0.1.3: Manage minor-modes in table
 app-emacs/map-progress 1.0.0: mapping macros that report progress
 app-emacs/map-regexp 1.0.0: map over matches of a regular expression
 app-emacs/marcopolo 0.3.0: Emacs client for Docker API
-app-emacs/marginalia 1.5: Enrich existing commands with completion annotations
+app-emacs/marginalia 1.6: Enrich existing commands with completion annotations
 app-emacs/mark-thing-at 1.0.0: Mark a pattern at the current point
 app-emacs/mark-tools 0.3: Some simple tools to access the mark-ring in Emacs
 app-emacs/markdown-changelog 0.0.2: Maintain changelog entries
@@ -2072,7 +2072,7 @@ app-emacs/org-project-capture 3.1.0: Repository todo capture and management for 
 app-emacs/org-projectile 3.1.0: Repository todo capture and management for org-mode with projectile
 app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
-app-emacs/org-ql 0.8.5: Org Query Language, search command, and agenda-like view
+app-emacs/org-ql 0.8.6: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
 app-emacs/org-re-reveal 3.28.0: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
