@@ -436,7 +436,7 @@ app-emacs/copy-as-format 0.0.9: Copy buffer locations as GitHub/Slack/JIRA etc..
 app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
 app-emacs/copyit-pandoc 0.1.0: Copy it, yank anything!
-app-emacs/corfu 1.2: COmpletion in Region FUnction
+app-emacs/corfu 1.3: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 1.3: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 6.3: prescient.el + Corfu
 app-emacs/corral 0.3: Quickly surround text with delimiters
@@ -1779,6 +1779,7 @@ app-emacs/md4rd 0.3.1: Mode for reddit (browse it).
 app-emacs/mediawiki 2.3.1: mediawiki frontend
 app-emacs/meghanada 1.3.2: A better java development mode
 app-emacs/melpa-upstream-visit 1.0.0: A set of kludges to visit a melpa-hosted package's homepage
+app-emacs/memento-mori 0.3: Reminder of our mortality
 app-emacs/memoize 1.1: Memoization functions
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
 app-emacs/meow 1.4.5: Yet Another modal editing
@@ -1950,7 +1951,7 @@ app-emacs/ob-async 1.0.0: Asynchronous org-babel src block execution
 app-emacs/ob-base64 1.1.5: Org-babel for base64 content
 app-emacs/ob-blockdiag 20170728.113: org-babel functions for blockdiag evaluation
 app-emacs/ob-coffeescript 1.0.0: org-babel functions for coffee-script evaluation, and fully implementation!
-app-emacs/ob-compile 0.3: Run compile by org-babel
+app-emacs/ob-compile 0.4: Run compile by org-babel
 app-emacs/ob-d2 0.0.3: Org-babel functions for d2
 app-emacs/ob-deno 1.0.1: Babel Functions for Javascript/TypeScript with Deno
 app-emacs/ob-ess-julia 1.0.3: Org babel support for Julia language
@@ -1976,7 +1977,7 @@ app-emacs/ocamlformat 0.26.1: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
 app-emacs/octicons 0.1: octicons utility
-app-emacs/oer-reveal 4.23.0: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.24.2: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -1995,7 +1996,7 @@ app-emacs/opencl-mode 1.0: Syntax coloring for opencl kernels
 app-emacs/opener 0.2.2: opening urls as buffers
 app-emacs/openfoam 0.13: OpenFOAM files and directories
 app-emacs/opensource 0.2.0: Client for Opensource API
-app-emacs/opensub 0.1.0: Search and download from open-subtitles
+app-emacs/opensub 0.2.0: Search and download from open-subtitles
 app-emacs/operate-on-number 1.3.0: Operate on number at point with arithmetic functions
 app-emacs/orangey-bits-theme 1.0.2: A Theme with smashing orangey bits
 app-emacs/orderless 1.1: Completion style for matching regexps in any order
@@ -2074,7 +2075,7 @@ app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.8.6: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
-app-emacs/org-re-reveal 3.28.0: Org export to reveal.js presentations
+app-emacs/org-re-reveal 3.28.1: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
 app-emacs/org-re-reveal-ref 1.0.0: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
