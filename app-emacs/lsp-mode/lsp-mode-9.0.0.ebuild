@@ -23,10 +23,12 @@ DEPEND="app-emacs/dash
 	app-emacs/ht
 	app-emacs/spinner
 	app-emacs/markdown-mode
-	app-emacs/lv"
+	app-emacs/lv
+	app-emacs/eldoc"
 RDEPEND="app-emacs/dash
 	app-emacs/f
 	app-emacs/ht
 	app-emacs/spinner
 	app-emacs/markdown-mode
-	app-emacs/lv"
+	app-emacs/lv
+	app-emacs/eldoc"
