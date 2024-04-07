@@ -25,7 +25,8 @@ DEPEND="app-emacs/dash
 	app-emacs/s
 	app-emacs/lsp-treemacs
 	app-emacs/posframe
-	app-emacs/ht"
+	app-emacs/ht
+	app-emacs/lsp-docker"
 RDEPEND="app-emacs/dash
 	app-emacs/lsp-mode
 	app-emacs/bui
@@ -33,4 +34,5 @@ RDEPEND="app-emacs/dash
 	app-emacs/s
 	app-emacs/lsp-treemacs
 	app-emacs/posframe
-	app-emacs/ht"
+	app-emacs/ht
+	app-emacs/lsp-docker"

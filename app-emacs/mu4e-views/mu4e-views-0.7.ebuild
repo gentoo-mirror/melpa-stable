@@ -19,6 +19,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/xwidgets-reuse
-	app-emacs/ht"
+	app-emacs/ht
+	app-emacs/esxml"
 RDEPEND="app-emacs/xwidgets-reuse
-	app-emacs/ht"
+	app-emacs/ht
+	app-emacs/esxml"
