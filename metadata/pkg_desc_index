@@ -54,7 +54,7 @@ app-emacs/aes 1.0: Implementation of AES
 app-emacs/affe 0.8: Asynchronous Fuzzy Finder for Emacs
 app-emacs/afterglow 0.2.1: Temporary Highlighting after Function Calls
 app-emacs/ag 0.48: A front-end for ag ('the silver searcher'), the C ack replacement.
-app-emacs/age 0.1.4: The Age Encryption Library
+app-emacs/age 0.1.5: The Age Encryption Library
 app-emacs/agenix 1.2: Decrypt and encrypt agenix secrets
 app-emacs/aggressive-indent 1.10.0: Minor mode to aggressively keep your code always indented
 app-emacs/ahk-mode 1.5.6: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
@@ -1844,7 +1844,7 @@ app-emacs/morlock 1.0.5: More font-lock keywords for elisp
 app-emacs/mosey 0.2: Mosey around your buffers
 app-emacs/most-used-words 0.2: Display most used words in buffer
 app-emacs/move-dup 2.0.0: Eclipse-like moving and duplicating lines or rectangles
-app-emacs/move-mode 1.0.1: A major-mode for editing Move language
+app-emacs/move-mode 1.1.0: A major-mode for editing Move language
 app-emacs/move-text 2.0.10: Move current line or region with M-up or M-down.
 app-emacs/mowedline 3.3.0: elisp utilities for using mowedline
 app-emacs/mozc 2.29.5374.102: minor mode to input Japanese with Mozc
@@ -2200,6 +2200,7 @@ app-emacs/parseclj 1.1.1: Clojure/EDN parser
 app-emacs/parseedn 1.2.1: Clojure/EDN parser
 app-emacs/pass 2.0: Major mode for password-store.el
 app-emacs/passmm 1.0.0: A minor mode for pass (Password Store)
+app-emacs/password-menu 0.1.0: Password Menu for auth-source secrets
 app-emacs/password-store 1.7.4: Password store (pass) support
 app-emacs/password-store-otp 0.1.5: Password store (pass) OTP extension support
 app-emacs/pastehub 0.5.2: A client for the PasteHub cloud service
@@ -2811,7 +2812,7 @@ app-emacs/typewriter-roll-mode 1.1.0: Aid for distraction-free writing
 app-emacs/typit 0.3.0: Typing game similar to tests on 10 fast fingers
 app-emacs/typo 1.1: Minor mode for typographic editing
 app-emacs/typo-suggest 0.0.4: Don't make typos with the help of helm and company
-app-emacs/tzc 0.2.0: Converts time between different time zones
+app-emacs/tzc 0.3.0: Converts time between different time zones
 app-emacs/ubuntu-theme 0.5.2: A theme inspired by the default terminal colors in Ubuntu
 app-emacs/uci-mode 0.5.5: Major-mode for chess engine interaction
 app-emacs/ucs-utils 0.8.4: Utilities for Unicode characters
