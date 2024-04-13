@@ -713,7 +713,7 @@ app-emacs/elmpd 0.2.4: A tight, ergonomic, async client library for mpd
 app-emacs/elogcat 0.2.0: logcat interface
 app-emacs/elpa-audit 0.4: Handy functions for inspecting and comparing package archives
 app-emacs/elpa-clone 0.4.0: Clone ELPA archive
-app-emacs/elpa-mirror 2.2.2: Create local package repository from installed packages
+app-emacs/elpa-mirror 2.3.0: Create local package repository from installed packages
 app-emacs/elpher 3.6.0: A friendly gopher and gemini client
 app-emacs/elpy 1.35.0: Emacs Python Development Environment
 app-emacs/elquery 1.1.0: The HTML library for elisp
@@ -1200,7 +1200,7 @@ app-emacs/goto-char-preview 0.1.0: Preview character when executing `goto-char` 
 app-emacs/goto-chg 1.7.5: Go to last change
 app-emacs/goto-last-change 1.2.1: Move point through buffer-undo-list positions
 app-emacs/goto-line-preview 0.1.1: Preview line when executing `goto-line` command
-app-emacs/govc 0.36.3: Interface to govc for managing VMware ESXi and vCenter
+app-emacs/govc 0.37.0: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
@@ -1579,7 +1579,7 @@ app-emacs/kaocha-runner 0.3.0: A package for running Kaocha tests via CIDER.
 app-emacs/kaolin-themes 1.7.0: A set of eye pleasing themes
 app-emacs/karma 0.1.0: Karma Test Runner Emacs Integration
 app-emacs/keepass-mode 0.0.5: Mode for KeePass DB.
-app-emacs/kele 0.4.2: Spritzy Kubernetes cluster management
+app-emacs/kele 0.5.0: Spritzy Kubernetes cluster management
 app-emacs/key-assist 1.0: Minibuffer keybinding cheatsheet and launcher
 app-emacs/key-chord 0.7: map pairs of simultaneously pressed keys to commands
 app-emacs/key-combo 1.6: map key sequence to commands
