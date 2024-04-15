@@ -566,7 +566,7 @@ app-emacs/dired-single 0.3.1: Reuse the current dired buffer
 app-emacs/dired-toggle 0.1.5: Show dired as sidebar and will not create new buffers when changing dir
 app-emacs/dired-toggle-sudo 1.0: Browse directory with sudo privileges.
 app-emacs/dired-view-data 1.0: View data from dired via ESS and R
-app-emacs/diredc 1.2: Midnight Commander features (plus) for dired
+app-emacs/diredc 1.4: Midnight Commander features (plus) for dired
 app-emacs/diredfl 0.4: Extra font lock rules for a more colourful dired
 app-emacs/diredful 1.10: colorful file names in dired buffers
 app-emacs/direnv 2.2.0: Support for direnv
@@ -705,7 +705,7 @@ app-emacs/elisp-refs 1.5: find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.9.0: Tool for interacting with LLMs
+app-emacs/ellama 0.9.1: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
@@ -783,7 +783,6 @@ app-emacs/erk 0.5.3: Elisp (GitHub) Repository Kit
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/ert-async 0.1.2: Async support for ERT
 app-emacs/ert-junit 0.4.1: JUnit XML reports from ert results
-app-emacs/ert-results 1.0.6: Filter ERT test results display
 app-emacs/ert-runner 0.8.0: Opinionated Ert testing workflow
 app-emacs/es-lib 0.4: A collection of emacs utilities
 app-emacs/es-mode 4.3.0: A major mode for editing Elasticsearch queries
@@ -1978,7 +1977,7 @@ app-emacs/ocamlformat 0.26.1: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
 app-emacs/octicons 0.1: octicons utility
-app-emacs/oer-reveal 4.24.2: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.24.3: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -2230,7 +2229,7 @@ app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
 app-emacs/pet 2.0.0: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: a simple wrapper around asynchronous processes
-app-emacs/pg 0.31: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
+app-emacs/pg 0.32: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/ph 0.1.0: A global minor mode for managing multiple projects.
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: another incremental search & replace, compatible with "multiple-cursors"
@@ -2436,6 +2435,7 @@ app-emacs/requirejs 1.1: Requirejs import manipulation and source traversal.
 app-emacs/resize-window 0.7: easily resize windows
 app-emacs/restart-emacs 0.1.1: Restart emacs from within emacs
 app-emacs/restclient-test 1.0: Run tests with restclient.el
+app-emacs/retraction-viewer 1.0.2: View retraction information for current citation
 app-emacs/revbufs 1.2: No description available.
 app-emacs/reveal-in-folder 0.1.2: Reveal current file in folder
 app-emacs/reveal-in-osx-finder 0.3.3: Reveal file associated with buffer in OS X Finder
@@ -2780,7 +2780,7 @@ app-emacs/tray 0.1.2: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.171: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.174: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
