@@ -157,7 +157,7 @@ app-emacs/avy-embark-collect 1.0: Use avy to jump to Embark Collect entries
 app-emacs/avy-menu 0.1.1: Library providing avy-powered popup menu
 app-emacs/avy-migemo 0.3.2: avy with migemo
 app-emacs/avy-zap 0.1.4: Zap to char using `avy'
-app-emacs/babashka 1.0.6: Babashka Tasks Interface
+app-emacs/babashka 1.0.7: Babashka Tasks Interface
 app-emacs/babel 1.7: interface to web translation services such as Babelfish
 app-emacs/back-button 0.6.6: Visual navigation through mark rings
 app-emacs/backline 1.0.0: Preserve appearance of outline headings
@@ -428,7 +428,7 @@ app-emacs/consult-lsp 1.1: LSP-mode Consult integration
 app-emacs/consult-notmuch 0.8.1: Notmuch search using consult
 app-emacs/consult-project-extra 0.1: Consult integration for project.el
 app-emacs/consult-recoll 0.8.1: Recoll queries using consult
-app-emacs/consult-tex 0.2.0: Consult powered completion for tex
+app-emacs/consult-tex 0.3.0: Consult powered completion for tex
 app-emacs/consult-todo 0.4.1: Search hl-todo keywords in consult
 app-emacs/contextual 1.0.1: Contextual profile management system
 app-emacs/contextual-menubar 1.0.0: display the menubar only on a graphical display
@@ -610,7 +610,7 @@ app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
 app-emacs/dtrt-indent 1.17: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
-app-emacs/dune 3.15.0: Integration with the dune build system
+app-emacs/dune 3.15.1: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
 app-emacs/duplexer 0.1.0: Handle conflicts between local minor modes and reuse rules
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
@@ -1685,7 +1685,7 @@ app-emacs/logito 0.2.0: logging library for Emacs
 app-emacs/logms 0.3.1: Log message with clickable links to context
 app-emacs/lognav-mode 0.0.8: Navigate Log Error Messages
 app-emacs/logstash-conf 0.4: basic mode for editing logstash configuration
-app-emacs/logview 0.17.2: Major mode for viewing log files
+app-emacs/logview 0.17.3: Major mode for viewing log files
 app-emacs/loop 1.3: friendly imperative loop structures
 app-emacs/loophole 0.8.3: Manage temporary key bindings
 app-emacs/loopy 0.12.1: A looping macro
@@ -2270,7 +2270,7 @@ app-emacs/poe-lootfilter-mode 1.0.0: Major mode for editing Path of Exile lootfi
 app-emacs/poetry 0.2.0: Interface to Poetry
 app-emacs/point-pos 0.1: Save and restore point positions
 app-emacs/poly-R 0.2.2: Various polymodes for R language
-app-emacs/poly-ansible 0.3.0: Polymode for Ansible: Jinja2 in YAML
+app-emacs/poly-ansible 0.3.1: Polymode for Ansible: Jinja2 in YAML
 app-emacs/poly-erb 0.2.2: Polymode for erb
 app-emacs/poly-markdown 0.2.2: Polymode for markdown-mode
 app-emacs/poly-noweb 0.2.2: Polymode for noweb
