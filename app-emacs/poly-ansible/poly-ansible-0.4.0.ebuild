@@ -21,10 +21,8 @@ KEYWORDS="~amd64 ~x86"
 DEPEND="app-emacs/ansible
 	app-emacs/ansible-doc
 	app-emacs/jinja2-mode
-	app-emacs/polymode
-	app-emacs/yaml-mode"
+	app-emacs/polymode"
 RDEPEND="app-emacs/ansible
 	app-emacs/ansible-doc
 	app-emacs/jinja2-mode
-	app-emacs/polymode
-	app-emacs/yaml-mode"
+	app-emacs/polymode"
