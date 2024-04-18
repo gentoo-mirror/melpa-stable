@@ -407,7 +407,7 @@ app-emacs/competitive-programming-snippets 1.1.4: Competitive Programming snippe
 app-emacs/compile-multi 0.5: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 0.5: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 0.5: compile-multi integration for `embark'
-app-emacs/compiler-explorer 0.3.0: Compiler explorer client (godbolt.org)
+app-emacs/compiler-explorer 0.4.0: Compiler explorer client (godbolt.org)
 app-emacs/composable 0.0.1: composable editing
 app-emacs/composer 0.2.0: Interface to PHP Composer
 app-emacs/concurrent 0.5.1: Concurrent utility functions for emacs lisp
@@ -500,7 +500,7 @@ app-emacs/dashboard-ls 0.3.0: Display files/directories in current directory on 
 app-emacs/dashboard-project-status 0.0.1: Display a git project status in a dashboard widget.
 app-emacs/date-at-point 0.1: Add `date' to `thing-at-point' function
 app-emacs/date-field 0.0.1: Date widget
-app-emacs/datetime 0.10: Parsing, formatting and matching timestamps
+app-emacs/datetime 0.10.1: Parsing, formatting and matching timestamps
 app-emacs/dbc 0.1: Control how to open buffers
 app-emacs/ddskk-posframe 1.0.0: Show Henkan tooltip for ddskk via posframe
 app-emacs/deadgrep 0.12: fast, friendly searching with ripgrep
@@ -1199,7 +1199,7 @@ app-emacs/goto-char-preview 0.1.0: Preview character when executing `goto-char` 
 app-emacs/goto-chg 1.7.5: Go to last change
 app-emacs/goto-last-change 1.2.1: Move point through buffer-undo-list positions
 app-emacs/goto-line-preview 0.1.1: Preview line when executing `goto-line` command
-app-emacs/govc 0.37.0: Interface to govc for managing VMware ESXi and vCenter
+app-emacs/govc 0.37.1: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
@@ -2270,7 +2270,7 @@ app-emacs/poe-lootfilter-mode 1.0.0: Major mode for editing Path of Exile lootfi
 app-emacs/poetry 0.2.0: Interface to Poetry
 app-emacs/point-pos 0.1: Save and restore point positions
 app-emacs/poly-R 0.2.2: Various polymodes for R language
-app-emacs/poly-ansible 0.3.1: Polymode for Ansible: Jinja2 in YAML
+app-emacs/poly-ansible 0.4.0: Polymode for Ansible: Jinja2 in YAML
 app-emacs/poly-erb 0.2.2: Polymode for erb
 app-emacs/poly-markdown 0.2.2: Polymode for markdown-mode
 app-emacs/poly-noweb 0.2.2: Polymode for noweb
