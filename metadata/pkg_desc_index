@@ -812,7 +812,7 @@ app-emacs/ess-smart-underscore 0.81: Ess Smart Underscore
 app-emacs/ess-view-data 1.4: View Data
 app-emacs/esup 0.7.1: the Emacs StartUp Profiler (ESUP)
 app-emacs/esxml 0.3.7: Library for working with xml via esxml and sxml
-app-emacs/etc-sudoers-mode 1.1.0: Edit Sudo security policies
+app-emacs/etc-sudoers-mode 1.1.1: Edit Sudo security policies
 app-emacs/etd 2.1.2: Examples to Tests and Docs
 app-emacs/eterm-256color 0.3.13: Customizable 256 colors for term.
 app-emacs/ethan-wspace 0.7.1: whitespace customizations for emacs
@@ -1973,7 +1973,7 @@ app-emacs/ob-uart 0.1.0: org-babel support for UART communication
 app-emacs/obfusurl 2.1: Obfuscate URLs so they aren't spoilers
 app-emacs/objed 0.8.1: Navigate and edit text objects.
 app-emacs/obsidian 1.4.4: Obsidian Notes interface
-app-emacs/ocamlformat 0.26.1: Utility functions to format ocaml code
+app-emacs/ocamlformat 0.26.2: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
 app-emacs/octicons 0.1: octicons utility
@@ -2918,6 +2918,7 @@ app-emacs/webpaste 3.2.2: Paste to pastebin-like services
 app-emacs/websocket 1.15: Emacs WebSocket client and server
 app-emacs/weechat 0.5.0: Chat via WeeChat's relay protocol in Emacs
 app-emacs/weibo 1.0: No description available.
+app-emacs/wfnames 1.2: Edit filenames
 app-emacs/wgrep 3.0.0: Writable grep buffer
 app-emacs/wgrep-ack 1.0.0: Writable ack-and-a-half buffer
 app-emacs/wgrep-ag 3.0.0: Writable ag buffer
