@@ -415,7 +415,7 @@ app-emacs/conda 0.0.12: Work with your conda environments
 app-emacs/conkeror-minor-mode 1.6.2: Mode for editing conkeror javascript files.
 app-emacs/conllu-mode 0.5.0: editing mode for CoNLL-U files
 app-emacs/connection 1.11: TCP-based client connection
-app-emacs/consult 1.4: Consulting completing-read
+app-emacs/consult 1.5: Consulting completing-read
 app-emacs/consult-ag 0.2.0: The silver searcher integration using Consult
 app-emacs/consult-codesearch 0.3: Consult interface for codesearch
 app-emacs/consult-compile-multi 0.5: Consulting read support for `compile-multi'
