@@ -315,7 +315,7 @@ app-emacs/citar-embark 1.4.0: Citar/Embark integration
 app-emacs/citar-org-roam 0.5.1: Citar/org-roam integration
 app-emacs/citeproc-el 0.9.4: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 0.2.4: Render org-mode references in CSL styles
-app-emacs/citre 0.3.1: Ctags IDE on the True Editor
+app-emacs/citre 0.4: Ctags IDE on the True Editor
 app-emacs/cl-format 1.2.1: CL format routine.
 app-emacs/cl-libify 0.2: Update elisp code to use cl-lib instead of cl
 app-emacs/clang-capf 1.2.3: Completion-at-point backend for c/c++ using clang
@@ -1686,7 +1686,7 @@ app-emacs/logito 0.2.0: logging library for Emacs
 app-emacs/logms 0.3.1: Log message with clickable links to context
 app-emacs/lognav-mode 0.0.8: Navigate Log Error Messages
 app-emacs/logstash-conf 0.4: basic mode for editing logstash configuration
-app-emacs/logview 0.17.3: Major mode for viewing log files
+app-emacs/logview 0.17.4: Major mode for viewing log files
 app-emacs/loop 1.3: friendly imperative loop structures
 app-emacs/loophole 0.8.3: Manage temporary key bindings
 app-emacs/loopy 0.12.1: A looping macro
@@ -2076,7 +2076,7 @@ app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.8.6: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
-app-emacs/org-re-reveal 3.28.1: Org export to reveal.js presentations
+app-emacs/org-re-reveal 3.28.2: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
 app-emacs/org-re-reveal-ref 1.0.0: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
@@ -2782,7 +2782,7 @@ app-emacs/tray 0.1.2: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.175: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.178: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
