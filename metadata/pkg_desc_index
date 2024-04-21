@@ -1625,6 +1625,7 @@ app-emacs/latex-labeler 2.1.0: Simplify equation labeling in LaTeX
 app-emacs/latex-math-preview 0.7.3: preview LaTeX mathematical expressions.
 app-emacs/latex-table-wizard 1.5.0: Magic editing of LaTeX tables
 app-emacs/latex-unicode-math-mode 0.3.2: Input method for Unicode math symbols
+app-emacs/launch 1.1.0: launch files with OS-standard associated applications.
 app-emacs/lavenderless-theme 0.2: A mostly colorless version of lavender-theme
 app-emacs/lazy-ruff 0.2.4: Integration with the Ruff Python linter/formatter
 app-emacs/lcb-mode 0.1.1: LiveCode Builder major mode
@@ -1812,7 +1813,7 @@ app-emacs/mint-mode 2.0.0: Major mode for the Mint programming language
 app-emacs/mips-mode 1.2.0: Major-mode for MIPS assembly
 app-emacs/mistty 1.0: Shell/Comint alternative based on term.el
 app-emacs/mixed-pitch 1.1.1: Use a variable pitch, keeping fixed pitch where it's sensible
-app-emacs/mlscroll 0.1.8: A scroll bar for the modeline
+app-emacs/mlscroll 0.1.10: A scroll bar for the modeline
 app-emacs/mmm-jinja2 0.1: MMM submode class for Jinja2 Templates
 app-emacs/mmm-mode 0.5.11: Allow Multiple Major Modes in a buffer
 app-emacs/mmt 0.2.0: Missing macro tools for Emacs Lisp
