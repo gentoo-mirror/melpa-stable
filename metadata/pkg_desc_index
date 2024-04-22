@@ -783,6 +783,7 @@ app-emacs/erk 0.5.3: Elisp (GitHub) Repository Kit
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/ert-async 0.1.2: Async support for ERT
 app-emacs/ert-junit 0.4.1: JUnit XML reports from ert results
+app-emacs/ert-results 1.0.6: Filter ERT test results display
 app-emacs/ert-runner 0.8.0: Opinionated Ert testing workflow
 app-emacs/es-lib 0.4: A collection of emacs utilities
 app-emacs/es-mode 4.3.0: A major mode for editing Elasticsearch queries
@@ -2782,7 +2783,7 @@ app-emacs/tray 0.1.2: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.178: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.179: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
@@ -2965,7 +2966,7 @@ app-emacs/writegood-mode 2.2.0: Polish up poor writing on the fly
 app-emacs/writeroom-mode 3.11: Minor mode for distraction-free writing
 app-emacs/ws-butler 0.6: Unobtrusively remove trailing whitespace.
 app-emacs/wsd-mode 0.5.0: Emacs major-mode for www.websequencediagrams.com
-app-emacs/wttrin 0.1.0: Emacs frontend for weather web service wttr.in
+app-emacs/wttrin 0.2.3: Emacs Frontend for the Weather Web Service wttr.in
 app-emacs/wucuo 0.3.0: Fastest solution to spell check camel case code or plain text
 app-emacs/x86-lookup 1.2.1: jump to x86 instruction documentation
 app-emacs/xcode-project 1.0.0: A package for reading Xcode project files.
