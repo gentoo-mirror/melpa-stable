@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="wttrin"
+REALNAME="ert-results"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs frontend for weather web service wttr.in"
+DESCRIPTION="Filter ERT test results display"
 
-HOMEPAGE="https://github.com/bcbcarl/emacs-wttrin"
+HOMEPAGE="https://github.com/rswgnu/ert-results"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/xterm-color"
-RDEPEND="app-emacs/xterm-color"
+DEPEND=""
+RDEPEND=""
