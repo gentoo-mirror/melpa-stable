@@ -245,7 +245,7 @@ app-emacs/burly 0.3: Save and restore frame/window configurations with buffers
 app-emacs/bury-successful-compilation 0.1.2: Bury the *compilation* buffer after successful compilation
 app-emacs/butler 0.2.6: Emacs client for Jenkins
 app-emacs/buttercup 1.35: Behavior-Driven Emacs Lisp Testing
-app-emacs/buttercup-junit 1.1.1: JUnit reporting for Buttercup
+app-emacs/buttercup-junit 1.1.2: JUnit reporting for Buttercup
 app-emacs/button-lock 1.0.2: Clickable text defined by regular expression
 app-emacs/buttons 0.0.3: Define and visualize hierarchies of keymaps
 app-emacs/ca65-mode 0.3.3: Major mode for ca65 assembly files
@@ -636,7 +636,7 @@ app-emacs/easy-kill-extras 0.9.14: Extra functions for easy-kill.
 app-emacs/easy-repeat 0.2: Repeat easily
 app-emacs/ebdb-mua-sidecar 1.5.2: EBDB Integration for Universal Sidecar
 app-emacs/ebf 1.0.0: brainfuck language transpiler to Emacs Lisp
-app-emacs/ebib 2.40.5: a BibTeX database manager
+app-emacs/ebib 2.40.6: a BibTeX database manager
 app-emacs/ebib-sidecar 1.5.2: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/eclim 0.4: An interface to the Eclipse IDE.
 app-emacs/ecukes 0.6.18: Cucumber for Emacs.
@@ -663,7 +663,7 @@ app-emacs/eglot-fsharp 2.0: fsharp-mode eglot integration
 app-emacs/eglot-java 1.34: Java extension for the eglot LSP client
 app-emacs/eglot-jl 2.3.0: Julia support for eglot
 app-emacs/eglot-luau 0.1.2: Luau language server integration for eglot
-app-emacs/eglot-signature-eldoc-talkative 0.0.6: Make Eglot make ElDoc echo docs
+app-emacs/eglot-signature-eldoc-talkative 0.0.7: Make Eglot make ElDoc echo docs
 app-emacs/eide 2.3.1: IDE interface
 app-emacs/eink-theme 1.0.0: E Ink color theme
 app-emacs/ejc-sql 0.4.1: Emacs SQL client uses Clojure JDBC.
