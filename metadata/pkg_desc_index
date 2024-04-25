@@ -636,7 +636,7 @@ app-emacs/easy-kill-extras 0.9.14: Extra functions for easy-kill.
 app-emacs/easy-repeat 0.2: Repeat easily
 app-emacs/ebdb-mua-sidecar 1.5.2: EBDB Integration for Universal Sidecar
 app-emacs/ebf 1.0.0: brainfuck language transpiler to Emacs Lisp
-app-emacs/ebib 2.40.6: a BibTeX database manager
+app-emacs/ebib 2.41.1: a BibTeX database manager
 app-emacs/ebib-sidecar 1.5.2: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/eclim 0.4: An interface to the Eclipse IDE.
 app-emacs/ecukes 0.6.18: Cucumber for Emacs.
@@ -905,6 +905,7 @@ app-emacs/feature-mode 0.4: Major mode for editing Gherkin (i.e. Cucumber) user 
 app-emacs/fedi 0.2: Helper functions for fediverse clients
 app-emacs/feed-discovery 1.0.0: Discover feed url by RSS/Atom autodiscovery
 app-emacs/feline 1.1: A modeline with very little
+app-emacs/fennel-mode 0.9.1: A major-mode for editing Fennel code
 app-emacs/ffmpeg-player 0.2.1: Play video using ffmpeg
 app-emacs/file-info 0.6.1: Show pretty information about current file
 app-emacs/fill-column-indicator 1.90: Graphically indicate the fill column
@@ -1574,7 +1575,7 @@ app-emacs/kaesar 0.9.5: AES algorithm encrypt/decrypt
 app-emacs/kaesar-file 0.9.2: AES encrypt/decrypt file
 app-emacs/kaesar-mode 0.9.4: AES encrypt/decrypt buffer
 app-emacs/kaesar-pbkdf2 0.9.1: PBKDF2 extension for kaesar.el
-app-emacs/kagi 0.4: Kagi API integration
+app-emacs/kagi 0.5: Kagi API integration
 app-emacs/kakapo-mode 1.2: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
 app-emacs/kaocha-runner 0.3.0: A package for running Kaocha tests via CIDER.
 app-emacs/kaolin-themes 1.7.0: A set of eye pleasing themes
@@ -1595,7 +1596,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.11: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.10.2: AI copilot for your Second Brain
+app-emacs/khoj 1.11.0: AI copilot for your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
@@ -2430,7 +2431,7 @@ app-emacs/repeatable-motion 0.2: Make repeatable versions of motions
 app-emacs/repl-toggle 0.7.2: Switch to/from repl buffer for current major-mode
 app-emacs/replace-symbol 1.1: Rename symbols in expressions or buffers
 app-emacs/replace-with-inflections 0.3.2: Inflection aware `query-replace'
-app-emacs/repo 0.2.0: Running repo from Emacs
+app-emacs/repo 0.3.0: Running repo from Emacs
 app-emacs/req-package 1.2: A use-package wrapper for package runtime dependencies management
 app-emacs/request 0.3.2: Compatible layer for URL request in Emacs
 app-emacs/request-deferred 0.3.2: Wrap request.el by deferred
@@ -2506,7 +2507,7 @@ app-emacs/scratch 1.4: Mode-specific scratch buffers
 app-emacs/scratch-comment 1.0.0: Insert Elisp result as comment in scratch buffer
 app-emacs/scrollkeeper 0.1.1: Custom scrolling commands with visual guidelines
 app-emacs/scss-mode 0.5.0: Major mode for editing SCSS files
-app-emacs/sculpture-themes 1.4.3: Themes with vivid colors
+app-emacs/sculpture-themes 1.5.1: Themes with vivid colors
 app-emacs/search-web 1.1: Post web search queries using `browse-url'.
 app-emacs/searcher 0.4.1: Searcher in pure elisp
 app-emacs/secretaria 0.2.9: A personal assistant based on org-mode
@@ -2784,7 +2785,7 @@ app-emacs/tray 0.1.2: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.180: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.181: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
@@ -2875,7 +2876,7 @@ app-emacs/vegetative-theme 1.0.2: A Theme based on green CRT terminals
 app-emacs/verb 2.16.0: Organize and send HTTP requests
 app-emacs/verilog-ext 0.5.0: SystemVerilog Extensions
 app-emacs/verilog-ts-mode 0.1.3: Verilog Tree-sitter major mode
-app-emacs/vertico 1.7: VERTical Interactive COmpletion
+app-emacs/vertico 1.8: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 6.3: prescient.el + Vertico
 app-emacs/vertigo 1.0: Jump across lines using the home row.
 app-emacs/vhdl-ext 0.5.0: VHDL Extensions
