@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="repo"
+REALNAME="sculpture-themes"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Running repo from Emacs"
+DESCRIPTION="Themes with vivid colors"
 
-HOMEPAGE="https://github.com/canatella/repo-el"
+HOMEPAGE="https://github.com/precompute/sculpture-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
