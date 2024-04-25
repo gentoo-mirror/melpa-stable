@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="sculpture-themes"
+REALNAME="fennel-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Themes with vivid colors"
+DESCRIPTION="A major-mode for editing Fennel code"
 
-HOMEPAGE="https://github.com/t-e-r-m/sculpture-theme"
+HOMEPAGE="https://git.sr.ht/~technomancy/fennel-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
