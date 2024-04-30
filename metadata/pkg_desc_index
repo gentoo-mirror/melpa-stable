@@ -537,7 +537,7 @@ app-emacs/diff-hl 1.9.2: Highlight uncommitted changes using VC
 app-emacs/difflib 0.3.8: Helpers for computing deltas between sequences.
 app-emacs/diffpdf 1.0: Transient diffpdf
 app-emacs/diffview 1.0: View diffs in side-by-side format
-app-emacs/digistar-mode 0.9.9: major mode for Digistar scripts
+app-emacs/digistar-mode 0.9.10: major mode for Digistar scripts
 app-emacs/dilbert 0.2: View Dilbert comics
 app-emacs/dim 0.1: Change mode-line names of major/minor modes
 app-emacs/dim-autoload 2.0.5: Dim or hide autoload cookie lines
