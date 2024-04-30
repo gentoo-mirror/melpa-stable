@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/citeproc-el
 	app-emacs/universal-sidecar
-	app-emacs/universal-sidecar-citeproc"
+	app-emacs/universal-sidecar-citeproc
+	app-emacs/ebib"
 RDEPEND="app-emacs/citeproc-el
 	app-emacs/universal-sidecar
-	app-emacs/universal-sidecar-citeproc"
+	app-emacs/universal-sidecar-citeproc
+	app-emacs/ebib"
