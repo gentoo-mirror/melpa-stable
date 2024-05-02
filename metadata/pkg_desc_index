@@ -1982,7 +1982,7 @@ app-emacs/ocamlformat 0.26.2: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
 app-emacs/octicons 0.1: octicons utility
-app-emacs/oer-reveal 4.24.3: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.24.4: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
