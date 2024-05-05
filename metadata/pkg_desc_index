@@ -311,7 +311,7 @@ app-emacs/circadian 0.4.0: Theme-switching based on daytime
 app-emacs/circe 2.13: Client for IRC in Emacs
 app-emacs/circe-notifications 1.0: Add desktop notifications to Circe.
 app-emacs/citar 1.4.0: Citation-related commands for org, latex, markdown
-app-emacs/citar-denote 2.0: Minor mode integrating Citar and Denote
+app-emacs/citar-denote 2.2.1: Minor mode integrating Citar and Denote
 app-emacs/citar-embark 1.4.0: Citar/Embark integration
 app-emacs/citar-org-roam 0.5.1: Citar/org-roam integration
 app-emacs/citeproc-el 0.9.4: A CSL 1.0.2 Citation Processor
@@ -1982,7 +1982,7 @@ app-emacs/ocamlformat 0.26.2: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
 app-emacs/octicons 0.1: octicons utility
-app-emacs/oer-reveal 4.24.4: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.24.5: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -2091,8 +2091,8 @@ app-emacs/org-reverse-datetree 0.4.2: Create reverse date trees in org-mode
 app-emacs/org-rich-yank 0.2.2: Paste with org-mode markup and link to source
 app-emacs/org-roam 2.2.2: A database abstraction layer for Org-mode
 app-emacs/org-roam-bibtex 0.6.2: Org Roam meets BibTeX
-app-emacs/org-roam-ql 0.1: Interface to query and view results from org-roam
-app-emacs/org-roam-ql-ql 0.1: Intgrating org-roam and org-ql
+app-emacs/org-roam-ql 0.2: Interface to query and view results from org-roam
+app-emacs/org-roam-ql-ql 0.2: Intgrating org-roam and org-ql
 app-emacs/org-runbook 1.2: Org mode for runbooks
 app-emacs/org-sidebar 0.4: Helpful sidebar for Org buffers
 app-emacs/org-snooze 0.1.0: Snooze your code, doc and feed
