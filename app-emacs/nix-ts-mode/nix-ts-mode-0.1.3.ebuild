@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Nix expressions, powered by tree-sitter"
 
-HOMEPAGE="https://github.com/remi-gelinas/nix-ts-mode"
+HOMEPAGE="https://github.com/nix-community/nix-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
