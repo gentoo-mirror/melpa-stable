@@ -271,7 +271,7 @@ app-emacs/cask-mode 0.1: major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
 app-emacs/caskxy 0.0.5: Control Cask in Emacs
 app-emacs/casual 1.5.0: Transient UI for Calc
-app-emacs/casual-dired 1.0.3: Casual Dired
+app-emacs/casual-dired 1.0.4: Casual Dired
 app-emacs/catmacs 0.1.1: Simple CAT interface for Yaesu FT991A
 app-emacs/catppuccin-theme 0.1.0: Catppuccin Theme
 app-emacs/cbm 0.6: Switch to similar buffers.
@@ -343,7 +343,7 @@ app-emacs/clues-theme 1.0.1: an Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.29.2: major-mode for editing CMake sources
+app-emacs/cmake-mode 3.29.3: major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -1808,6 +1808,7 @@ app-emacs/mhc 1.2.7: Message Harmonized Calendaring system.
 app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 0.4: Command line search and direct jump with Milkode
+app-emacs/mindstream 1.0: Start writing, stay focused, don't worry
 app-emacs/mini-echo 0.8.0: Echo buffer status in minibuffer window
 app-emacs/mini-modeline 20200408.729: Display modeline in minibuffer
 app-emacs/minibuffer-complete-cycle 1.25.20130814: Cycle through the *Completions* buffer
@@ -2361,7 +2362,7 @@ app-emacs/pycarddavel 1.0.1: Integrate pycarddav
 app-emacs/pydoc 0.1: functional, syntax highlighted pydoc navigation
 app-emacs/pyenv-mode 0.1.0: Integrate pyenv with python-mode
 app-emacs/pygn-mode 0.5.1: Major-mode for chess PGN files, powered by Python
-app-emacs/pyim 5.3.3: A Chinese input method support quanpin, shuangpin, wubi, cangjie and rime.
+app-emacs/pyim 5.3.4: A Chinese input method support quanpin, shuangpin, wubi, cangjie and rime.
 app-emacs/pyim-basedict 0.5.3: The default pinyin dict of pyim
 app-emacs/pyim-wbdict 0.3.0: Some wubi dicts for pyim
 app-emacs/pyimport 1.0: Manage Python imports!
