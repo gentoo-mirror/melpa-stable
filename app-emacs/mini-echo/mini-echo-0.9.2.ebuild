@@ -18,5 +18,7 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/hide-mode-line"
-RDEPEND="app-emacs/hide-mode-line"
+DEPEND="app-emacs/dash
+	app-emacs/hide-mode-line"
+RDEPEND="app-emacs/dash
+	app-emacs/hide-mode-line"

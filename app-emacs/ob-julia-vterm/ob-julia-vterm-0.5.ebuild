@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Babel Functions for Julia in VTerm"
+DESCRIPTION="Babel functions for Julia that work with julia-vterm"
 
 HOMEPAGE="https://github.com/shg/ob-julia-vterm.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
@@ -18,5 +18,7 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/julia-vterm"
-RDEPEND="app-emacs/julia-vterm"
+DEPEND="app-emacs/julia-vterm
+	app-emacs/queue"
+RDEPEND="app-emacs/julia-vterm
+	app-emacs/queue"
