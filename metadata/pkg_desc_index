@@ -418,7 +418,7 @@ app-emacs/conkeror-minor-mode 1.6.2: Mode for editing conkeror javascript files.
 app-emacs/conllu-mode 0.5.0: editing mode for CoNLL-U files
 app-emacs/connection 1.11: TCP-based client connection
 app-emacs/conner 0.4: Define and run project specific commands
-app-emacs/consult 1.5: Consulting completing-read
+app-emacs/consult 1.6: Consulting completing-read
 app-emacs/consult-ag 0.2.0: The silver searcher integration using Consult
 app-emacs/consult-codesearch 0.3: Consult interface for codesearch
 app-emacs/consult-compile-multi 0.5: Consulting read support for `compile-multi'
@@ -540,7 +540,7 @@ app-emacs/diff-hl 1.9.2: Highlight uncommitted changes using VC
 app-emacs/difflib 0.3.8: Helpers for computing deltas between sequences.
 app-emacs/diffpdf 1.0: Transient diffpdf
 app-emacs/diffview 1.0: View diffs in side-by-side format
-app-emacs/digistar-mode 0.9.12: major mode for Digistar scripts
+app-emacs/digistar-mode 0.9.13: major mode for Digistar scripts
 app-emacs/dilbert 0.2: View Dilbert comics
 app-emacs/dim 0.1: Change mode-line names of major/minor modes
 app-emacs/dim-autoload 2.0.5: Dim or hide autoload cookie lines
