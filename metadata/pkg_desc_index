@@ -1095,7 +1095,7 @@ app-emacs/gather 1.1.0: Gather string in buffer.
 app-emacs/gdscript-mode 1.4.0: Major mode for Godot's GDScript language
 app-emacs/geben 1.1.1: DBGp protocol frontend, a script debugger
 app-emacs/geben-helm-projectile 0.0.4: Integrate helm-projectile with geben
-app-emacs/geiser 0.30: GNU Emacs and Scheme talk to each other
+app-emacs/geiser 0.31: GNU Emacs and Scheme talk to each other
 app-emacs/geiser-chez 0.18: Chez and Geiser talk to each other
 app-emacs/geiser-chibi 0.17: Chibi Scheme's implementation of the geiser protocols
 app-emacs/geiser-chicken 0.17: Chicken's implementation of the geiser protocols
@@ -2038,6 +2038,8 @@ app-emacs/org-bulletproof 0.3: Automatic plain list bullet cycling
 app-emacs/org-bullets 0.2.4: Show bullets in org-mode as UTF-8 characters
 app-emacs/org-caldav 3.1: Sync org files with external calendar through CalDAV
 app-emacs/org-category-capture 3.1.0: Contextualy capture of org-mode TODOs.
+app-emacs/org-cite-overlay 1.0.0: Overlays for org-cite citations
+app-emacs/org-cite-overlay-sidecar 1.0.0: Show Sidecar for overlaid org-cite citations
 app-emacs/org-clock-csv 1.2: Export `org-mode' clock entries to CSV format.
 app-emacs/org-commentary 0.3.0: generate or update conventional library headers using Org mode files
 app-emacs/org-d20 0.5: minor mode for d20 tabletop roleplaying games
@@ -2346,7 +2348,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 26.1: major mode for editing protocol buffers.
+app-emacs/protobuf-mode 27.0: major mode for editing protocol buffers.
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions.
 app-emacs/psalm 0.6.0: Interface to Psalm
