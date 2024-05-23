@@ -417,7 +417,7 @@ app-emacs/conkeror-minor-mode 1.6.2: Mode for editing conkeror javascript files.
 app-emacs/conllu-mode 0.5.0: editing mode for CoNLL-U files
 app-emacs/connection 1.11: TCP-based client connection
 app-emacs/conner 0.4: Define and run project specific commands
-app-emacs/consult 1.6: Consulting completing-read
+app-emacs/consult 1.7: Consulting completing-read
 app-emacs/consult-ag 0.2.0: The silver searcher integration using Consult
 app-emacs/consult-codesearch 0.3: Consult interface for codesearch
 app-emacs/consult-compile-multi 0.5: Consulting read support for `compile-multi'
@@ -440,7 +440,7 @@ app-emacs/copy-as-format 0.0.9: Copy buffer locations as GitHub/Slack/JIRA etc..
 app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
 app-emacs/copyit-pandoc 0.1.0: Copy it, yank anything!
-app-emacs/corfu 1.3: COmpletion in Region FUnction
+app-emacs/corfu 1.4: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 1.3: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 6.3: prescient.el + Corfu
 app-emacs/corral 0.3: Quickly surround text with delimiters
@@ -1584,7 +1584,7 @@ app-emacs/kaesar-mode 0.9.4: AES encrypt/decrypt buffer
 app-emacs/kaesar-pbkdf2 0.9.1: PBKDF2 extension for kaesar.el
 app-emacs/kagi 0.5: Kagi API integration
 app-emacs/kakapo-mode 1.2: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
-app-emacs/kaocha-runner 0.3.0: A package for running Kaocha tests via CIDER.
+app-emacs/kaocha-runner 0.3.2: A package for running Kaocha tests via CIDER.
 app-emacs/kaolin-themes 1.7.0: A set of eye pleasing themes
 app-emacs/karma 0.1.0: Karma Test Runner Emacs Integration
 app-emacs/keepass-mode 0.0.5: Mode for KeePass DB.
@@ -1813,7 +1813,7 @@ app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 0.4: Command line search and direct jump with Milkode
 app-emacs/mindstream 1.0: Start writing, stay focused, don't worry
-app-emacs/mini-echo 0.9.2: Echo buffer status in minibuffer window
+app-emacs/mini-echo 0.9.3: Echo buffer status in minibuffer window
 app-emacs/mini-modeline 20200408.729: Display modeline in minibuffer
 app-emacs/minibuffer-complete-cycle 1.25.20130814: Cycle through the *Completions* buffer
 app-emacs/minibuffer-cua 1.0.0: Make CUA mode's S-up/S-down work in minibuffer
