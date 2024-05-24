@@ -270,7 +270,7 @@ app-emacs/cask-mode 0.1: major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
 app-emacs/caskxy 0.0.5: Control Cask in Emacs
 app-emacs/casual 1.5.0: Transient UI for Calc
-app-emacs/casual-dired 1.1.2: Casual Dired
+app-emacs/casual-dired 1.2.0: Casual Dired
 app-emacs/catmacs 0.1.1: Simple CAT interface for Yaesu FT991A
 app-emacs/catppuccin-theme 0.1.0: Catppuccin Theme
 app-emacs/cbm 0.6: Switch to similar buffers.
@@ -2515,7 +2515,7 @@ app-emacs/sauron 0.10: Track (erc/org/dbus/...) events and react to them.
 app-emacs/say-what-im-doing 0.2: dictate what you're doing with text to speech
 app-emacs/sayid 0.1.0: sayid nREPL middleware client
 app-emacs/sbt-mode 2.0.0: Interactive support for sbt projects
-app-emacs/scad-mode 93.3: A major mode for editing OpenSCAD code
+app-emacs/scad-mode 94.0: A major mode for editing OpenSCAD code
 app-emacs/scala-mode 1.1.0: Major mode for editing Scala
 app-emacs/schrute 0.2.2: Help you remember there is a better way to do something.
 app-emacs/scpaste 0.7.0: Paste to the web via scp.
