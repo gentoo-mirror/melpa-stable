@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Ctags IDE on the True Editor"
+DESCRIPTION="Superior code reading & auto-completion tool with pluggable backends."
 
 HOMEPAGE="https://github.com/universal-ctags/citre"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
