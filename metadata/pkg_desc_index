@@ -1823,7 +1823,7 @@ app-emacs/minions 1.0.0: A minor-mode menu for the mode line
 app-emacs/minitest 0.9.2: An Emacs mode for ruby minitest files
 app-emacs/mint-mode 2.0.0: Major mode for the Mint programming language
 app-emacs/mips-mode 1.2.0: Major-mode for MIPS assembly
-app-emacs/mise 0.1.0: Support for `mise' cli
+app-emacs/mise 0.2.0: Support for `mise' cli
 app-emacs/mistty 1.0: Shell/Comint alternative based on term.el
 app-emacs/mixed-pitch 1.1.1: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mlscroll 0.1.10: A scroll bar for the modeline
@@ -2801,7 +2801,7 @@ app-emacs/tray 0.1.2: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.197: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.198: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
@@ -3032,7 +3032,7 @@ app-emacs/zen-mode 0.8.20200609: A major mode for the Zen programming language
 app-emacs/zenburn-theme 2.8.0: A low contrast color theme for Emacs.
 app-emacs/zenscript-mode 1.2.1: Major mode for ZenScript
 app-emacs/zephir-mode 0.6.0: Major mode for editing Zephir code
-app-emacs/zero-input 2.8.0: Zero Chinese input method framework
+app-emacs/zero-input 2.10.1: Zero Chinese input method framework
 app-emacs/zerodark-theme 4.7: A dark, medium contrast theme for Emacs
 app-emacs/zetteldeft 0.3: Turn deft into a zettelkasten system
 app-emacs/zetteldesk 1.2.0: A revision and outlining tool for org-roam
