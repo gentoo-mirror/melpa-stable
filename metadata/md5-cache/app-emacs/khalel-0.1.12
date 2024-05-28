@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/clojure-mode
-DESCRIPTION=Extra font-locking for Clojure mode
+DESCRIPTION=Import, edit and create calendar events through khal
 EAPI=8
-HOMEPAGE=https://github.com/clojure-emacs/clojure-mode
+HOMEPAGE=https://gitlab.com/hperrey/khalel
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/clojure-mode >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/clojure-mode-extra-font-locking-5.18.1.tar
+SRC_URI=https://stable.melpa.org/packages/khalel-0.1.12.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=6187eea3816f1f3ca4fa6158ed65bd69
+_md5_=632eae3c7ad1ca8efa6ed3ce8ea54cd8
