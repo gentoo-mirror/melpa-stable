@@ -157,7 +157,7 @@ app-emacs/avy-embark-collect 1.1: Use avy to jump to Embark Collect entries
 app-emacs/avy-menu 0.1.1: Library providing avy-powered popup menu
 app-emacs/avy-migemo 0.3.2: avy with migemo
 app-emacs/avy-zap 0.1.4: Zap to char using `avy'
-app-emacs/babashka 1.0.7: Babashka Tasks Interface
+app-emacs/babashka 1.0.8: Babashka Tasks Interface
 app-emacs/babel 1.7: interface to web translation services such as Babelfish
 app-emacs/back-button 0.6.6: Visual navigation through mark rings
 app-emacs/backline 1.0.0: Preserve appearance of outline headings
@@ -203,7 +203,7 @@ app-emacs/blackboard-theme 1.0: TextMate Blackboard Theme
 app-emacs/blacken 0.2.0: Reformat python buffers using the "black" formatter
 app-emacs/blackjack 1.0.3: The game of Blackjack
 app-emacs/blackout 1.0: Better mode lighter overriding.
-app-emacs/blamer 0.8.0: Show git blame info about current line
+app-emacs/blamer 0.9.1: Show git blame info about current line
 app-emacs/blitzmax-mode 1.0.0: A major mode for editing BlitzMax source code
 app-emacs/blox 0.3.0: Interaction with Roblox tooling
 app-emacs/bluesound 0.2: Play, pause, resume music on a Bluesound player
@@ -270,6 +270,7 @@ app-emacs/cask-mode 0.1: major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
 app-emacs/caskxy 0.0.5: Control Cask in Emacs
 app-emacs/casual 1.5.0: Transient UI for Calc
+app-emacs/casual-avy 1.0.4: Casual Avy
 app-emacs/casual-dired 1.2.0: Casual Dired
 app-emacs/catmacs 0.1.1: Simple CAT interface for Yaesu FT991A
 app-emacs/catppuccin-theme 0.1.0: Catppuccin Theme
@@ -331,8 +332,8 @@ app-emacs/clocker 0.0.11: Note taker and clock-in enforcer
 app-emacs/clockodo 0.8.0: A small integration for the clockodo api
 app-emacs/clojure-essential-ref 0.1.1: Cider-doc to "Clojure, The Essential Reference"
 app-emacs/clojure-essential-ref-nov 0.1.1: Cider-doc to "Clojure, The Essential Reference" (EPUB)
-app-emacs/clojure-mode 5.18.1: Major mode for Clojure code
-app-emacs/clojure-mode-extra-font-locking 5.18.1: Extra font-locking for Clojure mode
+app-emacs/clojure-mode 5.19.0: Major mode for Clojure code
+app-emacs/clojure-mode-extra-font-locking 5.19.0: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 0.1.0: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 1.0.1: Yasnippets for clojure
 app-emacs/clojure-ts-mode 0.2.2: Major mode for Clojure code
@@ -1601,7 +1602,7 @@ app-emacs/keymap-utils 4.0.0: Keymap utilities
 app-emacs/keypress-multi-event 1.0: Perform different actions for the same keypress.
 app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
-app-emacs/khalel 0.1.11: Import, edit and create calendar events through khal
+app-emacs/khalel 0.1.12: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
 app-emacs/khoj 1.12.1: AI copilot for your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
@@ -1776,7 +1777,7 @@ app-emacs/markup 2.0.1: Simple markup generation helpers.
 app-emacs/markup-faces 1.0.0: collection of faces for markup language modes
 app-emacs/marquee-header 0.1.0: Code interface for displaying marquee in header
 app-emacs/marshal 0.9.1: eieio extension for automatic (un)marshalling
-app-emacs/mastodon 1.0.21: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 1.0.22: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 1.4: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 5.1.1: Preview TeX math equations inline
 app-emacs/math-symbol-lists 1.3: Lists of Unicode math symbols and latex commands
@@ -1937,6 +1938,7 @@ app-emacs/nodemcu-mode 0.1.0: Minor mode for NodeMCU
 app-emacs/nofrils-acme-theme 0.1.0: Port of "No Frils Acme" Vim theme.
 app-emacs/noir-mode 1.0.0: Description
 app-emacs/noir-ts-mode 1.0.0: tree-sitter support for Noir
+app-emacs/noman 0.5: Read command line help without a man page
 app-emacs/non-edit-mode 0.2.0: Minor mode that disables editing
 app-emacs/nord-theme 0.5.0: An arctic, north-bluish clean and elegant theme
 app-emacs/nordic-night-theme 2.0.2: A darker, more colorful version of the lovely Nord theme
@@ -2208,7 +2210,7 @@ app-emacs/paredit 26: minor mode for editing parentheses
 app-emacs/paredit-everywhere 0.4: Enable some paredit features in non-lisp buffers
 app-emacs/paren-face 1.1.0: A face for parentheses in lisp modes
 app-emacs/parent-mode 2.3.1: get major mode's parent modes
-app-emacs/parinfer-rust-mode 0.9.0: An interface for the parinfer-rust library
+app-emacs/parinfer-rust-mode 0.9.1: An interface for the parinfer-rust library
 app-emacs/parrot 1.1.1: Party Parrot rotates gracefully in mode-line.
 app-emacs/parse-it 0.2.1: Basic Parser in Emacs Lisp
 app-emacs/parsebib 4.3: A library for parsing bib files
@@ -2762,7 +2764,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2024.5.20.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2024.5.27.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -3032,7 +3034,7 @@ app-emacs/zen-mode 0.8.20200609: A major mode for the Zen programming language
 app-emacs/zenburn-theme 2.8.0: A low contrast color theme for Emacs.
 app-emacs/zenscript-mode 1.2.1: Major mode for ZenScript
 app-emacs/zephir-mode 0.6.0: Major mode for editing Zephir code
-app-emacs/zero-input 2.10.1: Zero Chinese input method framework
+app-emacs/zero-input 2.10.3: Zero Chinese input method framework
 app-emacs/zerodark-theme 4.7: A dark, medium contrast theme for Emacs
 app-emacs/zetteldeft 0.3: Turn deft into a zettelkasten system
 app-emacs/zetteldesk 1.2.0: A revision and outlining tool for org-roam
