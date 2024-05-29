@@ -709,7 +709,7 @@ app-emacs/elisp-refs 1.5: find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.9.4: Tool for interacting with LLMs
+app-emacs/ellama 0.9.5: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
@@ -1814,7 +1814,7 @@ app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 0.4: Command line search and direct jump with Milkode
 app-emacs/mindstream 1.0: Start writing, stay focused, don't worry
-app-emacs/mini-echo 0.9.3: Echo buffer status in minibuffer window
+app-emacs/mini-echo 0.10.0: Echo buffer status in minibuffer window
 app-emacs/mini-modeline 20200408.729: Display modeline in minibuffer
 app-emacs/minibuffer-complete-cycle 1.25.20130814: Cycle through the *Completions* buffer
 app-emacs/minibuffer-cua 1.0.0: Make CUA mode's S-up/S-down work in minibuffer
@@ -1827,7 +1827,7 @@ app-emacs/mips-mode 1.2.0: Major-mode for MIPS assembly
 app-emacs/mise 0.2.0: Support for `mise' cli
 app-emacs/mistty 1.0: Shell/Comint alternative based on term.el
 app-emacs/mixed-pitch 1.1.1: Use a variable pitch, keeping fixed pitch where it's sensible
-app-emacs/mlscroll 0.1.10: A scroll bar for the modeline
+app-emacs/mlscroll 0.2.0: A scroll bar for the modeline
 app-emacs/mmm-jinja2 0.1: MMM submode class for Jinja2 Templates
 app-emacs/mmm-mode 0.5.11: Allow Multiple Major Modes in a buffer
 app-emacs/mmt 0.2.0: Missing macro tools for Emacs Lisp
@@ -2195,7 +2195,6 @@ app-emacs/package-build 4.0.0: Tools for assembling a package archive
 app-emacs/package-lint 0.23: A linting library for elisp package authors
 app-emacs/package-lint-flymake 0.23: A package-lint Flymake backend
 app-emacs/package-utils 1.0.1: Extensions for package.el
-app-emacs/packed 3.1.0: Package manager agnostic Emacs Lisp package utilities
 app-emacs/pact-mode 0.0.5: Mode for Pact, a LISPlike smart contract language.
 app-emacs/page-break-lines 0.15: Display ^L page breaks as tidy horizontal lines
 app-emacs/paimon 0.1.6: A major mode for Splunk
