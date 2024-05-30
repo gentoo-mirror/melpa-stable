@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Casual Avy"
+DESCRIPTION="Transient UI for Avy"
 
 HOMEPAGE="https://github.com/kickingvegas/casual-avy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
