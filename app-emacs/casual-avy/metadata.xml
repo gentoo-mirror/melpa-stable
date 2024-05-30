@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Casual Avy</longdescription>
+	<longdescription>Transient UI for Avy</longdescription>
 </pkgmetadata>
