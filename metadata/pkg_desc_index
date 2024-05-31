@@ -1271,7 +1271,7 @@ app-emacs/haxe-mode 0.3.3: Major mode for editing Haxe files
 app-emacs/haxor-mode 0.7.0: Major mode for editing Haxor Assembly Files
 app-emacs/hcl-mode 0.3: Major mode for Hashicorp
 app-emacs/heaven-and-hell 0.0.5: easy toggle light/dark themes
-app-emacs/helm 3.9.8: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 3.9.9: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-ack 0.13: Ack command with helm interface
 app-emacs/helm-ag 0.64: The silver searcher with helm interface
 app-emacs/helm-apt 1.1: Helm interface for Debian/Ubuntu packages (apt-*)
@@ -1290,7 +1290,7 @@ app-emacs/helm-circe 0.4: helm circe buffer management.
 app-emacs/helm-codesearch 0.6.0: helm interface for codesearch
 app-emacs/helm-commandlinefu 0.3: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 0.2.8: Helm interface for company-mode
-app-emacs/helm-core 3.9.8: Development files for Helm
+app-emacs/helm-core 3.9.9: Development files for Helm
 app-emacs/helm-cscope 0.1.1: Helm interface for xcscope.el.
 app-emacs/helm-dash 1.3.0: Offline documentation browser for +150 APIs using Dash docsets.
 app-emacs/helm-descbinds 1.13: A convenient `describe-bindings' with `helm'
