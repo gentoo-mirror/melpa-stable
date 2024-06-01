@@ -1777,7 +1777,7 @@ app-emacs/markup 2.0.1: Simple markup generation helpers.
 app-emacs/markup-faces 1.0.0: collection of faces for markup language modes
 app-emacs/marquee-header 0.1.0: Code interface for displaying marquee in header
 app-emacs/marshal 0.9.1: eieio extension for automatic (un)marshalling
-app-emacs/mastodon 1.0.22: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 1.0.23: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 1.4: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 5.1.1: Preview TeX math equations inline
 app-emacs/math-symbol-lists 1.3: Lists of Unicode math symbols and latex commands
@@ -3017,7 +3017,7 @@ app-emacs/yard-mode 0.1: Minor mode for Ruby YARD comments
 app-emacs/yarn-mode 1.0: Major mode for yarn.lock files.
 app-emacs/yascroll 0.2.0: Yet Another Scroll Bar Mode
 app-emacs/yasnippet 0.14.0: Yet another snippet extension for Emacs
-app-emacs/yasnippet-snippets 1.0: Collection of yasnippet snippets
+app-emacs/yasnippet-snippets 1.1: Collection of yasnippet snippets
 app-emacs/yatemplate 5.0: File templates with yasnippet
 app-emacs/yatex 1.83: Yet Another tex-mode for emacs //野鳥//
 app-emacs/yaxception 1.0.0: Provide framework about exception like Java for Elisp
