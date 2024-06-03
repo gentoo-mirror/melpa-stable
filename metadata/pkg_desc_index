@@ -272,6 +272,7 @@ app-emacs/caskxy 0.0.5: Control Cask in Emacs
 app-emacs/casual 1.5.0: Transient UI for Calc
 app-emacs/casual-avy 1.0.5: Transient UI for Avy
 app-emacs/casual-dired 1.2.0: Casual Dired
+app-emacs/casual-info 1.0.0: A Transient UI for Info
 app-emacs/catmacs 0.1.1: Simple CAT interface for Yaesu FT991A
 app-emacs/catppuccin-theme 0.1.0: Catppuccin Theme
 app-emacs/cbm 0.6: Switch to similar buffers.
@@ -709,7 +710,7 @@ app-emacs/elisp-refs 1.5: find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.9.5: Tool for interacting with LLMs
+app-emacs/ellama 0.9.7: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
@@ -762,6 +763,7 @@ app-emacs/enclose 0.0.2: Enclose cursor within punctuation pairs
 app-emacs/encrypt-region 1.0: Encrypts and decrypts regions
 app-emacs/engine-mode 2.2.4: Define and query search engines
 app-emacs/enh-ruby-mode 20191111: Major mode for editing Ruby files
+app-emacs/enlight 0.3: Highly customizable startup screen
 app-emacs/enlive 0.0.1: query html document with css selectors
 app-emacs/enotify 0.1.3: No description available.
 app-emacs/environ 0.0.1: API for environment variables and env files
@@ -1131,6 +1133,7 @@ app-emacs/git-cliff 0.7.0: Generate and update changelog using git-cliff
 app-emacs/git-command 0.2.0: Yet another Git interface
 app-emacs/git-commit 3.3.0: Edit Git commit messages.
 app-emacs/git-commit-insert-issue 0.4.1: Get issues list when typing "Fixes #"
+app-emacs/git-grep-transient 0.1.1: Search for text using git grep command
 app-emacs/git-gutter 0.92: Port of Sublime Text plugin GitGutter
 app-emacs/git-gutter+ 0.4: Manage Git hunks straight from the buffer
 app-emacs/git-gutter-fringe 0.23: Fringe version of git-gutter.el
@@ -1424,6 +1427,7 @@ app-emacs/hydra 0.15.0: Make bindings that stick around.
 app-emacs/hyperdrive 0.3.0: P2P filesystem
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
+app-emacs/hyperstitional-themes 1.2.0: Weird themes with incremental palettes
 app-emacs/ialign 0.4.2: visual align-regexp
 app-emacs/ibrowse 0.2.3: Interact with your browser
 app-emacs/ibuffer-project 2.1: Group ibuffer's list by project or any function
@@ -1814,7 +1818,7 @@ app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 0.4: Command line search and direct jump with Milkode
 app-emacs/mindstream 1.0: Start writing, stay focused, don't worry
-app-emacs/mini-echo 0.10.0: Echo buffer status in minibuffer window
+app-emacs/mini-echo 0.11.1: Echo buffer status in minibuffer window
 app-emacs/mini-modeline 20200408.729: Display modeline in minibuffer
 app-emacs/minibuffer-complete-cycle 1.25.20130814: Cycle through the *Completions* buffer
 app-emacs/minibuffer-cua 1.0.0: Make CUA mode's S-up/S-down work in minibuffer
@@ -2034,7 +2038,7 @@ app-emacs/org-babel-eval-in-repl 1.6: Eval org-mode babel code blocks in various
 app-emacs/org-beautify-theme 0.3.1: A sub-theme to make org-mode more beautiful.
 app-emacs/org-board 1018: bookmarking and web archival system for Org mode.
 app-emacs/org-bookmark-heading 1.3.1: Emacs bookmark support for Org mode
-app-emacs/org-bookmarks 1.1: Manage bookmarks in Org mode
+app-emacs/org-bookmarks 1.2: Manage bookmarks in Org mode
 app-emacs/org-books 0.3.0: Reading list management with Org mode and helm
 app-emacs/org-bulletproof 0.3: Automatic plain list bullet cycling
 app-emacs/org-bullets 0.2.4: Show bullets in org-mode as UTF-8 characters
@@ -2649,6 +2653,7 @@ app-emacs/speedbar-git-respect 0.1.1: Particular respect git repo in speedbar
 app-emacs/sphinx-doc 0.1.0: Sphinx friendly docstrings for Python functions
 app-emacs/sphinx-mode 1.0.0: Minor mode providing sphinx support.
 app-emacs/splitjoin 0.1: splitjoin
+app-emacs/splunk-mode 1.1.0: Major Mode for editing Splunk SPL source code
 app-emacs/spotify 0.3.4: Control the spotify application from emacs
 app-emacs/sprintly-mode 0.0.4: Major mode for dealing with sprint.ly
 app-emacs/sprunge 0.1.1: Upload pastes to sprunge.us
@@ -3034,6 +3039,7 @@ app-emacs/zenburn-theme 2.8.0: A low contrast color theme for Emacs.
 app-emacs/zenscript-mode 1.2.1: Major mode for ZenScript
 app-emacs/zephir-mode 0.6.0: Major mode for editing Zephir code
 app-emacs/zero-input 2.10.3: Zero Chinese input method framework
+app-emacs/zero-input-panel-posframe 1.0.1: posframe based zero-input panel implementation.
 app-emacs/zerodark-theme 4.7: A dark, medium contrast theme for Emacs
 app-emacs/zetteldeft 0.3: Turn deft into a zettelkasten system
 app-emacs/zetteldesk 1.2.0: A revision and outlining tool for org-roam
