@@ -309,7 +309,7 @@ app-emacs/cider-eval-sexp-fu 1.2: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 0.1.0: Hydras for CIDER.
 app-emacs/cil-mode 0.4: Common Intermediate Language mode
 app-emacs/cilk-mode 0.3.1: Minor mode for Cilk code editing
-app-emacs/circadian 0.4.0: Theme-switching based on daytime
+app-emacs/circadian 1.0.0: Theme-switching based on daytime
 app-emacs/circe 2.13: Client for IRC in Emacs
 app-emacs/circe-notifications 1.0: Add desktop notifications to Circe.
 app-emacs/citar 1.4.0: Citation-related commands for org, latex, markdown
