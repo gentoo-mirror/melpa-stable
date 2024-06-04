@@ -272,7 +272,7 @@ app-emacs/caskxy 0.0.5: Control Cask in Emacs
 app-emacs/casual 1.5.0: Transient UI for Calc
 app-emacs/casual-avy 1.0.5: Transient UI for Avy
 app-emacs/casual-dired 1.2.0: Casual Dired
-app-emacs/casual-info 1.0.0: A Transient UI for Info
+app-emacs/casual-info 1.0.3: A Transient UI for Info
 app-emacs/catmacs 0.1.1: Simple CAT interface for Yaesu FT991A
 app-emacs/catppuccin-theme 0.1.0: Catppuccin Theme
 app-emacs/cbm 0.6: Switch to similar buffers.
@@ -344,7 +344,7 @@ app-emacs/clues-theme 1.0.1: an Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.29.3: major-mode for editing CMake sources
+app-emacs/cmake-mode 3.29.4: major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -630,7 +630,7 @@ app-emacs/e2wm-pkgex4pl 0.0.1: Plugin of e2wm.el for package explorer of Perl
 app-emacs/e2wm-sww 0.0.3: Plugin of e2wm.el to switch plugin quickly
 app-emacs/e2wm-term 0.1.0: Perspective of e2wm.el for work in terminal
 app-emacs/eacl 2.2.0: Auto-complete lines by grepping project
-app-emacs/eask 0.9.5: Core Eask APIs, for Eask CLI development
+app-emacs/eask 0.9.8: Core Eask APIs, for Eask CLI development
 app-emacs/eask-mode 0.1.0: major mode for editing Eask files
 app-emacs/easky 0.1.0: Control Eask in Emacs
 app-emacs/easy-hugo 3.10.60: Write blogs made with hugo by markdown or org-mode
@@ -1570,7 +1570,7 @@ app-emacs/json-rpc-server 0.3.1: Server-side JSON-RPC library.
 app-emacs/json-snatcher 1.0.0: Grabs the path to JSON values in a JSON file
 app-emacs/jsonian 0.1.0: A major mode for editing JSON files
 app-emacs/jsonnet-mode 0.1.3: Major mode for editing jsonnet files
-app-emacs/jtsx 0.4.2: Extends JSX/TSX built-in support
+app-emacs/jtsx 0.5.0: Extends JSX/TSX built-in support
 app-emacs/julia-mode 0.4: Major mode for editing Julia source code
 app-emacs/julia-repl 1.3.0: A minor mode for a Julia REPL
 app-emacs/julia-snail 1.3.1: Julia Snail
@@ -1608,7 +1608,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.12: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.12.1: AI copilot for your Second Brain
+app-emacs/khoj 1.13.0: AI copilot for your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
@@ -2329,7 +2329,7 @@ app-emacs/prettier 1.3.0: Code formatting with Prettier
 app-emacs/prettier-rc 0.1.0: Use local rc rules with prettier
 app-emacs/pretty-hydra 0.2.2: A macro for creating nice-looking hydras
 app-emacs/pretty-mode 2.0.3: Redisplay parts of the buffer as pretty symbols.
-app-emacs/prism 0.3.2: Customizable, depth-based syntax coloring
+app-emacs/prism 0.3.3: Customizable, depth-based syntax coloring
 app-emacs/private-comments-mode 1.0.0: Minor mode for masukomi/private_comments
 app-emacs/proced-narrow 1.0.5: Live-narrowing of search results for proced.
 app-emacs/processing-mode 1.0: Major mode for Processing 2.0
@@ -2768,7 +2768,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2024.5.27.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2024.6.3.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
