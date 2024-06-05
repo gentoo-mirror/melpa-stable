@@ -630,7 +630,7 @@ app-emacs/e2wm-pkgex4pl 0.0.1: Plugin of e2wm.el for package explorer of Perl
 app-emacs/e2wm-sww 0.0.3: Plugin of e2wm.el to switch plugin quickly
 app-emacs/e2wm-term 0.1.0: Perspective of e2wm.el for work in terminal
 app-emacs/eacl 2.2.0: Auto-complete lines by grepping project
-app-emacs/eask 0.9.8: Core Eask APIs, for Eask CLI development
+app-emacs/eask 0.9.9: Core Eask APIs, for Eask CLI development
 app-emacs/eask-mode 0.1.0: major mode for editing Eask files
 app-emacs/easky 0.1.0: Control Eask in Emacs
 app-emacs/easy-hugo 3.10.60: Write blogs made with hugo by markdown or org-mode
@@ -1211,7 +1211,7 @@ app-emacs/goto-char-preview 0.1.0: Preview character when executing `goto-char` 
 app-emacs/goto-chg 1.7.5: Go to last change
 app-emacs/goto-last-change 1.2.1: Move point through buffer-undo-list positions
 app-emacs/goto-line-preview 0.1.1: Preview line when executing `goto-line` command
-app-emacs/govc 0.37.2: Interface to govc for managing VMware ESXi and vCenter
+app-emacs/govc 0.37.3: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
@@ -2074,7 +2074,7 @@ app-emacs/org-jami-bot 0.0.4: Capture GNU Jami messages as notes and todos in Or
 app-emacs/org-jira 4.4.1: Syncing between Jira and Org-mode.
 app-emacs/org-journal 2.2.0: a simple org-mode based journaling mode
 app-emacs/org-journal-tags 0.4.0: Tagging and querying system of org-journal
-app-emacs/org-kanban 0.6.6: kanban dynamic block for org-mode.
+app-emacs/org-kanban 0.6.8: kanban dynamic block for org-mode.
 app-emacs/org-link-beautify 1.2.3: Beautify Org Links
 app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
