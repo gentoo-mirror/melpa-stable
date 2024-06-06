@@ -344,7 +344,7 @@ app-emacs/clues-theme 1.0.1: an Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.29.4: major-mode for editing CMake sources
+app-emacs/cmake-mode 3.29.5: major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -1831,7 +1831,7 @@ app-emacs/mips-mode 1.2.0: Major-mode for MIPS assembly
 app-emacs/mise 0.2.0: Support for `mise' cli
 app-emacs/mistty 1.0: Shell/Comint alternative based on term.el
 app-emacs/mixed-pitch 1.1.1: Use a variable pitch, keeping fixed pitch where it's sensible
-app-emacs/mlscroll 0.2.0: A scroll bar for the modeline
+app-emacs/mlscroll 0.2.1: A scroll bar for the modeline
 app-emacs/mmm-jinja2 0.1: MMM submode class for Jinja2 Templates
 app-emacs/mmm-mode 0.5.11: Allow Multiple Major Modes in a buffer
 app-emacs/mmt 0.2.0: Missing macro tools for Emacs Lisp
