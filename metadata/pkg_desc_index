@@ -269,7 +269,7 @@ app-emacs/caseformat 0.1.0: Format based letter case converter
 app-emacs/cask-mode 0.1: major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
 app-emacs/caskxy 0.0.5: Control Cask in Emacs
-app-emacs/casual 1.5.0: Transient UI for Calc
+app-emacs/casual 1.6.0: Transient UI for Calc
 app-emacs/casual-avy 1.0.5: Transient UI for Avy
 app-emacs/casual-dired 1.2.0: Casual Dired
 app-emacs/casual-info 1.0.3: A Transient UI for Info
