@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A Transient menu for isearch</longdescription>
+	<longdescription>A Transient UI for I-Search</longdescription>
 </pkgmetadata>

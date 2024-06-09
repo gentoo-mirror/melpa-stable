@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="casual-dired"
+REALNAME="hammy"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Casual Dired"
+DESCRIPTION="Programmable, interactive interval timers"
 
-HOMEPAGE="https://github.com/kickingvegas/casual-dired"
+HOMEPAGE="https://github.com/alphapapa/hammy.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/svg-lib
+	app-emacs/ts"
+RDEPEND="app-emacs/svg-lib
+	app-emacs/ts"

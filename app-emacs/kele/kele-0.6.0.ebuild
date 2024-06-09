@@ -22,6 +22,7 @@ DEPEND="app-emacs/async
 	app-emacs/dash
 	app-emacs/f
 	app-emacs/ht
+	app-emacs/memoize
 	app-emacs/plz
 	app-emacs/s
 	app-emacs/yaml"
@@ -29,6 +30,7 @@ RDEPEND="app-emacs/async
 	app-emacs/dash
 	app-emacs/f
 	app-emacs/ht
+	app-emacs/memoize
 	app-emacs/plz
 	app-emacs/s
 	app-emacs/yaml"
