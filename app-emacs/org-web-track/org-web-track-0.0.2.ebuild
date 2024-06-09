@@ -10,19 +10,15 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Web data tracking framework in org mode"
+DESCRIPTION="Web data tracking framework in Org Mode"
 
-HOMEPAGE="homepage"
+HOMEPAGE="https://github.com/p-snow/org-web-track"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/org-mode
-	app-emacs/org-agenda
-	app-emacs/request
+DEPEND="app-emacs/request
 	app-emacs/enlive"
-RDEPEND="app-emacs/org-mode
-	app-emacs/org-agenda
-	app-emacs/request
+RDEPEND="app-emacs/request
 	app-emacs/enlive"

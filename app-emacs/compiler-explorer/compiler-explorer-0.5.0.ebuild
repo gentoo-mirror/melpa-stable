@@ -18,7 +18,11 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/request
-	app-emacs/eldoc"
-RDEPEND="app-emacs/request
-	app-emacs/eldoc"
+DEPEND="app-emacs/plz
+	app-emacs/eldoc
+	app-emacs/map
+	app-emacs/seq"
+RDEPEND="app-emacs/plz
+	app-emacs/eldoc
+	app-emacs/map
+	app-emacs/seq"
