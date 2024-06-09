@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="sops"
+REALNAME="casual-dired"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="SOPS encrypt and decrypt without leaving the editor."
+DESCRIPTION="Transient UI for Dired"
 
-HOMEPAGE="http://github.com/djgoku/sops"
+HOMEPAGE="https://github.com/kickingvegas/casual-dired"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
