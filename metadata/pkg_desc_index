@@ -561,6 +561,7 @@ app-emacs/dired-icon 0.5: A minor mode to display a list of associated icons in 
 app-emacs/dired-imenu 0.5.0: imenu binding for dired mode
 app-emacs/dired-k 0.19: highlight dired buffer by file size, modified time, git status
 app-emacs/dired-lsi 1.0.0: Add memo to directory and show it in dired
+app-emacs/dired-open-with 1.1: And "Open with" dialog for Dired
 app-emacs/dired-posframe 1.0.0: Peep dired items using posframe
 app-emacs/dired-quick-sort 0.2: Persistent quick sorting of dired buffers in various ways.
 app-emacs/dired-rmjunk 1.2: A home directory cleanup utility for Dired.
