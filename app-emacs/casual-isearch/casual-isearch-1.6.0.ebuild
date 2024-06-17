@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="cc-isearch-menu"
+REALNAME="casual-isearch"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A Transient UI for I-Search"
+DESCRIPTION="Transient UI for I-Search"
 
-HOMEPAGE="https://github.com/kickingvegas/cc-isearch-menu"
+HOMEPAGE="https://github.com/kickingvegas/casual-isearch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
