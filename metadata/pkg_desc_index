@@ -898,7 +898,7 @@ app-emacs/f 0.20.0: Modern API for working with files and directories
 app-emacs/f3 0.1: a helm interface to find
 app-emacs/fabric 0.2.0: Launch Fabric using Emacs
 app-emacs/factlog 0.0.1: File activity logger
-app-emacs/faff-theme 3.4: Light Emacs color theme on cornsilk3 background
+app-emacs/faff-theme 3.5: Light Emacs color theme on cornsilk3 background
 app-emacs/fancy-battery 0.2: Fancy battery display
 app-emacs/fancy-narrow 0.9.5: narrow-to-region with more eye candy.
 app-emacs/fantom-theme 1.0: Emacs theme with a dark background
@@ -2109,7 +2109,7 @@ app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
 app-emacs/org-recur 1.3.3: Recurring org-mode tasks
 app-emacs/org-ref 2.0.0: citations, cross-references and bibliographies in org-mode
 app-emacs/org-repo-todo 0.0.3: Simple repository todo management with org-mode
-app-emacs/org-reverse-datetree 0.4.2.1: Create reverse date trees in org-mode
+app-emacs/org-reverse-datetree 0.4.2.2: Create reverse date trees in org-mode
 app-emacs/org-rich-yank 0.2.2: Paste with org-mode markup and link to source
 app-emacs/org-roam 2.2.2: A database abstraction layer for Org-mode
 app-emacs/org-roam-bibtex 0.6.2: Org Roam meets BibTeX
@@ -2800,7 +2800,7 @@ app-emacs/tr-ime 0.5.0: Emulator of IME patch for Windows
 app-emacs/traad 3.1.1: emacs interface to the traad refactoring server.
 app-emacs/tracking 2.13: Buffer modification tracking
 app-emacs/transducers 1.1.0: Ergonomic, efficient data processing
-app-emacs/transient 0.7.0: Transient commands
+app-emacs/transient 0.7.1: Transient commands
 app-emacs/translate-mode 1.0.2: Paragraph-oriented side-by-side doc translation workflow
 app-emacs/transmission 0.12.2: Interface to a Transmission session
 app-emacs/transpose-frame 0.2.1: Transpose windows arrangement in a frame
