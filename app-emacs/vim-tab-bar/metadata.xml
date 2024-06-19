@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Make the Emacs tab-bar Look Like Vim’s Tab Bar</longdescription>
+	<longdescription>Vim-like tab bar</longdescription>
 </pkgmetadata>
