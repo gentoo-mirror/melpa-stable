@@ -2909,7 +2909,7 @@ app-emacs/vhdl-ext 0.5.0: VHDL Extensions
 app-emacs/vhdl-tools 6.2: Utilities for navigating vhdl sources.
 app-emacs/vhdl-ts-mode 0.1.2: VHDL Tree-sitter major mode
 app-emacs/vim-region 0.3.0: Select region as vim
-app-emacs/vim-tab-bar 1.0.1: Vim-like tab bar
+app-emacs/vim-tab-bar 1.0.3: Vim-like tab bar
 app-emacs/vimgolf 0.10.3: VimGolf interface for the One True Editor
 app-emacs/vimish-fold 0.2.3: Fold text like in Vim
 app-emacs/virtualenvwrapper 0.2.0: a featureful virtualenv tool for Emacs
