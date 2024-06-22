@@ -269,7 +269,7 @@ app-emacs/caseformat 0.1.0: Format based letter case converter
 app-emacs/cask-mode 0.1: major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
 app-emacs/caskxy 0.0.5: Control Cask in Emacs
-app-emacs/casual-avy 1.2.1: Transient UI for Avy
+app-emacs/casual-avy 1.2.2: Transient UI for Avy
 app-emacs/casual-calc 1.9.0: Transient UI for Calc
 app-emacs/casual-dired 1.4.0: Transient UI for Dired
 app-emacs/casual-info 1.2.0: Transient UI for Info
@@ -2041,7 +2041,7 @@ app-emacs/org-autolist 0.14: Improved list management in org-mode
 app-emacs/org-babel-eval-in-repl 1.6: Eval org-mode babel code blocks in various REPLs.
 app-emacs/org-beautify-theme 0.3.1: A sub-theme to make org-mode more beautiful.
 app-emacs/org-board 1018: bookmarking and web archival system for Org mode.
-app-emacs/org-bookmark-heading 1.3.1: Emacs bookmark support for Org mode
+app-emacs/org-bookmark-heading 1.3.2: Emacs bookmark support for Org mode
 app-emacs/org-bookmarks 1.2: Manage bookmarks in Org mode
 app-emacs/org-books 0.3.0: Reading list management with Org mode and helm
 app-emacs/org-bulletproof 0.3: Automatic plain list bullet cycling
@@ -2638,7 +2638,7 @@ app-emacs/solidity-mode 0.1.10: Major mode for ethereum's solidity language
 app-emacs/solo-jazz-theme 0.9.0: The Solo-Jazz color theme
 app-emacs/soong-mode 1.0.0: Major mode for editing Soong build files
 app-emacs/soothe-theme 2.1.8: A dark colorful theme
-app-emacs/sops 0.1.2: SOPS encrypt and decrypt without leaving the editor
+app-emacs/sops 0.1.4: SOPS encrypt and decrypt without leaving the editor
 app-emacs/soria-theme 0.4.2: A xoria256 theme with some colors from openSUSE
 app-emacs/sotclojure 1.3.1: Write clojure at the speed of thought.
 app-emacs/sotlisp 1.6.2: Write lisp at the speed of thought.
