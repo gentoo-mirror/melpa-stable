@@ -131,7 +131,7 @@ app-emacs/auth-source-gopass 0.0.3: Gopass integration for auth-source
 app-emacs/auth-source-keytar 0.1.3: Integrate auth-source with keytar
 app-emacs/auth-source-kwallet 0.0.1: KWallet integration for auth-source
 app-emacs/auth-source-xoauth2 1.0: Integrate auth-source with XOAUTH2
-app-emacs/auto-compile 2.0.1: Automatically compile Emacs Lisp libraries
+app-emacs/auto-compile 2.0.2: Automatically compile Emacs Lisp libraries
 app-emacs/auto-complete 1.5.1: Auto Completion for GNU Emacs
 app-emacs/auto-complete-clang-async 0.5: Auto Completion source for clang for GNU Emacs
 app-emacs/auto-complete-exuberant-ctags 0.0.7: Exuberant ctags auto-complete.el source
@@ -275,6 +275,7 @@ app-emacs/casual-dired 1.4.0: Transient UI for Dired
 app-emacs/casual-info 1.2.0: Transient UI for Info
 app-emacs/casual-isearch 1.7.0: Transient UI for I-Search
 app-emacs/casual-lib 1.0.1: Library routines for Casual porcelains
+app-emacs/casual-suite 1.1.0: A suite of opinionated Transient UIs
 app-emacs/catmacs 0.1.1: Simple CAT interface for Yaesu FT991A
 app-emacs/catppuccin-theme 0.1.0: Catppuccin Theme
 app-emacs/cbm 0.6: Switch to similar buffers.
@@ -614,7 +615,8 @@ app-emacs/draft-mode 0.1.1: Rough drafting for Emacs.
 app-emacs/drag-stuff 0.3.0: Drag stuff (lines, words, region, etc...) around
 app-emacs/drupal-mode 0.7.3: Advanced minor mode for Drupal development
 app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
-app-emacs/dtrt-indent 1.17: Adapt to foreign indentation offsets
+app-emacs/dslide 0.5.2: Domain Specific sLIDEs. A presentation framework
+app-emacs/dtrt-indent 1.18: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
 app-emacs/dune 3.16.0: Integration with the dune build system
@@ -829,6 +831,7 @@ app-emacs/ethan-wspace 0.7.1: whitespace customizations for emacs
 app-emacs/eval-in-repl 0.9.7: Consistent ESS-like eval interface for various REPLs
 app-emacs/eval-sexp-fu 0.6.0: Tiny functionality enhancements for evaluating sexps.
 app-emacs/evalator 1.0.0: Package for interactive transformation of data with helm
+app-emacs/evenok 0.11.1: Themes with perceptively evenly distributed colors
 app-emacs/everlasting-scratch 0.1: The *scratch* that lasts forever
 app-emacs/evil 1.14.2: Extensible Vi layer for Emacs.
 app-emacs/evil-anzu 0.3: anzu for evil-mode
@@ -1217,7 +1220,7 @@ app-emacs/govc 0.37.3: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
-app-emacs/gptel 0.8.6: Interact with ChatGPT or other LLMs
+app-emacs/gptel 0.9.0: Interact with ChatGPT or other LLMs
 app-emacs/gpx 0.1.0: Major mode for GPX files
 app-emacs/grab-mac-link 0.3: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 0.5: Grab links from X11 apps and insert into Emacs
@@ -1501,6 +1504,7 @@ app-emacs/insert-shebang 0.9.7: Insert shebang line automatically.
 app-emacs/instapaper 0.9.5: No description available.
 app-emacs/intel-hex-mode 0.1.3: Mode for Intel Hex files.
 app-emacs/intellij-theme 1.3: Inspired by IntelliJ's default theme
+app-emacs/iosevka-theme 0.2: Theme using various stylistic sets of Iosevka font
 app-emacs/iota 1.0.2: Replace marker with increasing integers
 app-emacs/iplayer 0.1: Browse and download BBC TV/radio shows
 app-emacs/ipp 0.7: Implementation of the Internet Printing Protocol
@@ -1803,6 +1807,7 @@ app-emacs/memento-mori 0.3.1: Reminder of our mortality
 app-emacs/memoize 1.1: Memoization functions
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
 app-emacs/meow 1.4.5: Yet Another modal editing
+app-emacs/meow-tree-sitter 1.0.1: Tree-sitter powered motions for Meow
 app-emacs/merlin 4.1: Mode for Merlin, an assistant for OCaml.
 app-emacs/merlin-ac 4.1: Merlin and auto-complete integration.
 app-emacs/merlin-company 4.1: Merlin and company mode integration.
@@ -2136,6 +2141,7 @@ app-emacs/org-timeblock 0.2: Interactive SVG calendar for orgmode tasks
 app-emacs/org-timeline 0.4.0: Add graphical view of agenda to agenda buffer.
 app-emacs/org-toodledo 2.1.0: No description available.
 app-emacs/org-tracktable 0.3.1: Track your writing progress in an org-table
+app-emacs/org-transclusion-http 0.4: Transclude over HTTP
 app-emacs/org-transform-tree-table 0.1.2: Transform org-mode tree with properties to a table, and the other way around
 app-emacs/org-tree-slide 2.8.4: A presentation tool for org-mode
 app-emacs/org-tree-slide-pauses 0.1.0: Bring the \pause Beamer to org-tree-slide!
@@ -2256,7 +2262,7 @@ app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
 app-emacs/pet 2.1.1: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: a simple wrapper around asynchronous processes
-app-emacs/pg 0.35: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
+app-emacs/pg 0.36: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/ph 0.1.0: A global minor mode for managing multiple projects.
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: another incremental search & replace, compatible with "multiple-cursors"
@@ -2790,6 +2796,7 @@ app-emacs/titlecase 0.4.1: Title-case phrases
 app-emacs/toc-org 1.2.0: add table of contents to org-mode files (formerly, org-toc)
 app-emacs/tokei 0.2: Display codebase statistics
 app-emacs/toml 0.1.0: TOML (Tom's Obvious, Minimal Language) parser
+app-emacs/tomorrow-night-deepblue-theme 1.1.1: The Tomorrow Night Deepblue color theme
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/torus 2.2: A buffer groups manager
 app-emacs/total-lines 0.2.0: Keep track of a buffer's total number of lines
@@ -2811,7 +2818,7 @@ app-emacs/tray 0.1.3: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.201: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.202: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
@@ -2825,6 +2832,7 @@ app-emacs/treemacs-projectile 3.1: Projectile integration for treemacs
 app-emacs/treemacs-tab-bar 3.1: Tab bar integration for treemacs
 app-emacs/treepy 0.1.2: Generic tree traversal tools
 app-emacs/treesit-auto 1.0.5: Automatically use tree-sitter enhanced major modes
+app-emacs/trimspace-mode 1.0: A minor mode to trim trailing whitespace and newlines
 app-emacs/trinary 1.2.1: Trinary logic
 app-emacs/tron-legacy-theme 2.6.0: An original retro-futuristic theme inspired by Tron: Legacy
 app-emacs/trr 2.0.0: a type-writing training program on GNU Emacs.
@@ -2871,6 +2879,7 @@ app-emacs/universal-sidecar-roam 1.6.0: Integrate universal-sidecar and org-roam
 app-emacs/unkillable-scratch 1.0.0: Disallow the \*scratch\* buffer from being killed
 app-emacs/unmodified-buffer 1.1.0: Auto revert modified buffer state
 app-emacs/unobtrusive-magit-theme 0.4: An unobtrusive Magit theme
+app-emacs/unspecified-theme 0.3: Theme that unspecifies all attributes of all faces
 app-emacs/uptimes 3.8: Track and display Emacs session uptimes.
 app-emacs/ursa-ts-mode 1.3.5: Major mode for Ursa, using tree-sitter
 app-emacs/urscript-mode 0.0.2: major mode for editing URScript.
@@ -2979,7 +2988,7 @@ app-emacs/winring 5.1: Window configuration rings
 app-emacs/winum 2.1.0: Navigate windows and frames using numbers.
 app-emacs/wisp-mode 1.0.12: Tools for wisp: the Whitespace-to-Lisp preprocessor
 app-emacs/wispjs-mode 0.2.0: Major mode for Wisp code.
-app-emacs/with-editor 3.3.3: Use the Emacsclient as $EDITOR
+app-emacs/with-editor 3.3.4: Use the Emacsclient as $EDITOR
 app-emacs/with-shell-interpreter 0.2.5: Helper for shell command APIs
 app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interactively
 app-emacs/with-venv 0.0.2: Execute with Python virtual environment activated
@@ -3020,7 +3029,7 @@ app-emacs/yagist 0.8.12: Yet Another Emacs integration for gist.github.com
 app-emacs/yaml 0.5.5: YAML parser for Elisp
 app-emacs/yaml-imenu 1.0.3: Enhancement of the imenu support in yaml-mode.
 app-emacs/yaml-mode 0.0.16: Major mode for editing YAML files
-app-emacs/yaml-pro 1.1.0: Parser-aided YAML editing features
+app-emacs/yaml-pro 1.2.0: Parser-aided YAML editing features
 app-emacs/yang-mode 0.9.9: major mode for editing YANG files
 app-emacs/yankpad 1.6: Paste snippets from an org-mode file
 app-emacs/yapfify 0.0.6: (automatically) format python buffers using YAPF.
