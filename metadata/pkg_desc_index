@@ -510,7 +510,7 @@ app-emacs/date-field 0.0.1: Date widget
 app-emacs/datetime 0.10.1: Parsing, formatting and matching timestamps
 app-emacs/dbc 0.1: Control how to open buffers
 app-emacs/ddskk-posframe 1.0.0: Show Henkan tooltip for ddskk via posframe
-app-emacs/deadgrep 0.12: fast, friendly searching with ripgrep
+app-emacs/deadgrep 0.13: fast, friendly searching with ripgrep
 app-emacs/debian-el 37.4: Emacs helpers specific to Debian users
 app-emacs/debpaste 0.1.5: Interface for getting/posting/deleting pastes from paste.debian.net
 app-emacs/decide 0.9.1: rolling dice and other random things
