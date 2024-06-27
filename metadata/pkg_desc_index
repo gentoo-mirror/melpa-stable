@@ -1340,7 +1340,7 @@ app-emacs/helm-notmuch 1.2: Search emails with Notmuch and Helm
 app-emacs/helm-open-github 0.15: Utilities of Opening Github Page
 app-emacs/helm-org 1.0: Helm for org headlines and keywords completion
 app-emacs/helm-org-multi-wiki 0.4.0: Helm interface to org-multi-wiki
-app-emacs/helm-org-ql 0.8.6: Helm support for org-ql
+app-emacs/helm-org-ql 0.8.7: Helm support for org-ql
 app-emacs/helm-org-rifle 1.7.1: Rifle through your Org files
 app-emacs/helm-orgcard 0.2: browse the orgcard by helm
 app-emacs/helm-pages 0.1.1: Pages in current buffer as Helm datasource
@@ -1700,7 +1700,7 @@ app-emacs/llama 0.3.1: Compact syntax for short lambda
 app-emacs/lms 1.1: Squeezebox / Logitech Media Server frontend
 app-emacs/load-relative 1.3.2: Relative file load (within a multi-file Emacs package)
 app-emacs/loc-changes 1.1: Helps users and programs keep track of positions even after buffer changes.
-app-emacs/loco 0.1.5: A library and minor mode for entering key sequences
+app-emacs/loco 0.1.6: A library and minor mode for entering key sequences
 app-emacs/log4e 0.4.1: provide logging framework for elisp
 app-emacs/log4j-mode 1.7.1: Major mode for viewing log files
 app-emacs/logalimacs 1.0.0: Front-end to logaling-command for Ruby gems
@@ -1748,7 +1748,7 @@ app-emacs/magic-filetype 0.3.0: Enhance filetype major mode
 app-emacs/magik-mode 0.3.1: Emacs major mode for Smallworld Magik files
 app-emacs/magit 3.3.0: A Git porcelain inside Emacs.
 app-emacs/magit-annex 1.8.1: Control git-annex from Magit
-app-emacs/magit-file-icons 1.0.3: Icons for file entries in Magit buffers
+app-emacs/magit-file-icons 2.0.0: Icons for file entries in Magit buffers
 app-emacs/magit-filenotify 0.1: Refresh status buffer when git tree changes
 app-emacs/magit-find-file 2.1.0: completing-read over all files in Git
 app-emacs/magit-gerrit 0.4: Magit plugin for Gerrit Code Review
@@ -2105,7 +2105,7 @@ app-emacs/org-project-capture 3.1.0: Repository todo capture and management for 
 app-emacs/org-projectile 3.1.0: Repository todo capture and management for org-mode with projectile
 app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
-app-emacs/org-ql 0.8.6: Org Query Language, search command, and agenda-like view
+app-emacs/org-ql 0.8.7: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
 app-emacs/org-re-reveal 3.28.2: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
