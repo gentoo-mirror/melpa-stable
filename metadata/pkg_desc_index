@@ -6,7 +6,7 @@ app-emacs/aas 1.1: Snippet expansions mid-typing
 app-emacs/abc-mode 20220713.1359: Major mode for editing abc music files
 app-emacs/abl-mode 0.9.4: Python TDD minor mode
 app-emacs/abridge-diff 0.1: No description available.
-app-emacs/abs-mode 1.6: Major mode for the modeling language Abs
+app-emacs/abs-mode 1.7: Major mode for the modeling language Abs
 app-emacs/abyss-theme 0.7: A dark theme with contrasting colours.
 app-emacs/ac-alchemist 0.1: auto-complete source for alchemist
 app-emacs/ac-capf 0.1: auto-complete source with completion-at-point
@@ -737,7 +737,7 @@ app-emacs/emacs-ansilove 2.0.0: Display buffers as PNG images using ansilove
 app-emacs/emacs-crystal-mode 0.1.0: Major mode for editing Crystal files
 app-emacs/emacs-el-fetch 3.3.0: Show system information in Neofetch-like style (eg CPU, RAM)
 app-emacs/emacs-websearch 2.1.1: Query search engines
-app-emacs/emacsc 1.5.20230104: helper for emacsc(1)
+app-emacs/emacsc 1.5.20240628: helper for emacsc(1)
 app-emacs/emacsql 3.1.1: High-level SQL database front-end
 app-emacs/emacsql-mysql 3.1.1: EmacSQL back-end for MySQL
 app-emacs/emacsql-pg 3.1.1: EmacSQL back-end for PostgreSQL via pg
