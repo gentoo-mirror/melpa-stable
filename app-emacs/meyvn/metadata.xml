@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Emacs meyvn Client</longdescription>
+	<longdescription>Meyvn client</longdescription>
 </pkgmetadata>
