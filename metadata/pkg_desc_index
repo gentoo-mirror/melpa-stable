@@ -88,7 +88,7 @@ app-emacs/angular-snippets 0.2.3: Yasnippets for AngularJS
 app-emacs/anki-mode 0.1: TODO
 app-emacs/annalist 1.0.1: Record and display information such as keybindings
 app-emacs/annotate 1.4.3: annotate files without changing them
-app-emacs/annotation 2.6.4.3: Functions for annotating text with faces and help bubbles
+app-emacs/annotation 2.6.20240714: Functions for annotating text with faces and help bubbles
 app-emacs/annoying-arrows-mode 0.1.0: Ring the bell if using arrows too much
 app-emacs/ansi 0.4.1: Turn string into ansi strings
 app-emacs/ansible 0.3.2: Ansible minor mode
@@ -276,7 +276,8 @@ app-emacs/casual-ibuffer 1.1.2: Transient UI for IBuffer
 app-emacs/casual-info 1.3.1: Transient UI for Info
 app-emacs/casual-isearch 1.8.1: Transient UI for I-Search
 app-emacs/casual-lib 1.1.0: Library routines for Casual porcelains
-app-emacs/casual-suite 1.2.0: A suite of opinionated Transient UIs
+app-emacs/casual-re-builder 1.0.2: Transient UI for RE-Builder
+app-emacs/casual-suite 1.3.0: A suite of opinionated Transient UIs
 app-emacs/catmacs 0.1.1: Simple CAT interface for Yaesu FT991A
 app-emacs/catppuccin-theme 0.1.0: Catppuccin Theme
 app-emacs/cbm 0.6: Switch to similar buffers.
@@ -716,7 +717,7 @@ app-emacs/elisp-refs 1.5: find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.11.9: Tool for interacting with LLMs
+app-emacs/ellama 0.11.10: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
@@ -1179,7 +1180,7 @@ app-emacs/gmail2bbdb 0.0.6: import email and name into bbdb from vcard.
 app-emacs/gmpl-mode 0.1.0: Major mode for editing GMPL(MathProg) files
 app-emacs/gn-mode 0.4.1: major mode for editing GN (generate ninja) files
 app-emacs/gnome-screencast 1.4: Use Gnome screen recording functionality using elisp
-app-emacs/gnosis 0.3.0: Spaced Repetition System
+app-emacs/gnosis 0.3.1: Spaced Repetition System
 app-emacs/gntp 0.1: Growl Notification Protocol for Emacs
 app-emacs/gnuplot 0.8.1: Major-mode and interactive frontend for gnuplot
 app-emacs/gnus-desktop-notify 1.4: Gnus Desktop Notification global minor mode
@@ -1201,7 +1202,7 @@ app-emacs/go-playground 1.9.0: Local Golang playground for short snippets.
 app-emacs/go-rename 1.6.0: Integration of the 'gorename' tool into Emacs.
 app-emacs/go-scratch 0.0.1: *scratch* buffer for Go
 app-emacs/go-tag 1.1.1: Edit Golang struct field tag
-app-emacs/go-translate 0.5: Translation framework, configurable and scalable
+app-emacs/go-translate 3.0.7: Translation framework, configurable and scalable
 app-emacs/god-mode 2.18.0: Minor mode for God-like command entering
 app-emacs/godoctor 0.6.0: Frontend for godoctor
 app-emacs/gofmt-tag 1.0.2: Format and align go struct tags
@@ -2922,7 +2923,7 @@ app-emacs/vhdl-ext 0.5.0: VHDL Extensions
 app-emacs/vhdl-tools 6.2: Utilities for navigating vhdl sources.
 app-emacs/vhdl-ts-mode 0.1.2: VHDL Tree-sitter major mode
 app-emacs/vim-region 0.3.0: Select region as vim
-app-emacs/vim-tab-bar 1.0.5: Vim-like tab bar
+app-emacs/vim-tab-bar 1.0.6: Vim-like tab bar
 app-emacs/vimgolf 0.10.3: VimGolf interface for the One True Editor
 app-emacs/vimish-fold 0.2.3: Fold text like in Vim
 app-emacs/virtualenvwrapper 0.2.0: a featureful virtualenv tool for Emacs
