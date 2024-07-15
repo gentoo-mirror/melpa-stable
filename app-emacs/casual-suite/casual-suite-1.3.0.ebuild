@@ -23,10 +23,12 @@ DEPEND="app-emacs/casual-calc
 	app-emacs/casual-dired
 	app-emacs/casual-ibuffer
 	app-emacs/casual-avy
-	app-emacs/casual-info"
+	app-emacs/casual-info
+	app-emacs/casual-re-builder"
 RDEPEND="app-emacs/casual-calc
 	app-emacs/casual-isearch
 	app-emacs/casual-dired
 	app-emacs/casual-ibuffer
 	app-emacs/casual-avy
-	app-emacs/casual-info"
+	app-emacs/casual-info
+	app-emacs/casual-re-builder"
