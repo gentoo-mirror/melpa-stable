@@ -2042,7 +2042,7 @@ app-emacs/org-ai 0.5.1: Use ChatGPT and other LLMs in org-mode and beyond
 app-emacs/org-alert 0.2.0: Notify org deadlines via notify-send
 app-emacs/org-analyzer 1.0.4: org-analyzer is a tool that extracts time tracking data from org files.
 app-emacs/org-anki 3.3.2: Synchronize org-mode entries to Anki
-app-emacs/org-appear 0.3.0: Auto-toggle Org elements
+app-emacs/org-appear 0.3.1: Auto-toggle Org elements
 app-emacs/org-assistant 1.5: Org babel extension for Chat Assistant APIs
 app-emacs/org-auto-expand 0.1: Automatically expand certain headings
 app-emacs/org-auto-tangle 0.6.0: Automatically and Asynchronously tangles org files on save
