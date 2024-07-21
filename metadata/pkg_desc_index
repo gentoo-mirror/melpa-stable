@@ -678,7 +678,7 @@ app-emacs/eglot-signature-eldoc-talkative 0.0.7: Make Eglot make ElDoc echo docs
 app-emacs/eide 2.3.1: IDE interface
 app-emacs/eink-theme 1.0.0: E Ink color theme
 app-emacs/ejc-sql 0.4.1: Emacs SQL client uses Clojure JDBC.
-app-emacs/ekg 0.5.1: A system for recording and linking information
+app-emacs/ekg 0.6.0: A system for recording and linking information
 app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
@@ -709,7 +709,7 @@ app-emacs/elfeed-tube 0.15: YouTube integration for Elfeed
 app-emacs/elfeed-tube-mpv 0.15: Control mpv from Elfeed
 app-emacs/elfeed-web 3.4.1: web interface to Elfeed
 app-emacs/elgrep 1.0.0: Searching files for regular expressions
-app-emacs/elisa 1.0.3: Emacs Lisp Information System Assistant
+app-emacs/elisa 1.0.4: Emacs Lisp Information System Assistant
 app-emacs/elisp-def 1.1: macro-aware go-to-definition for elisp
 app-emacs/elisp-demos 2024.1.16: Elisp API Demos
 app-emacs/elisp-lint 0.4.0: Basic linting for Emacs Lisp
@@ -717,7 +717,7 @@ app-emacs/elisp-refs 1.5: find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.11.11: Tool for interacting with LLMs
+app-emacs/ellama 0.11.13: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
@@ -1101,7 +1101,7 @@ app-emacs/fvwm-mode 2.0.0: A major mode for editing Fvwm configuration files
 app-emacs/fwb-cmds 2.0.1: misc frame, window and buffer commands
 app-emacs/fxrd-mode 1.0: Major mode for editing fixed field width files
 app-emacs/fzf 0.2: A front-end for fzf.
-app-emacs/gams-mode 6.12: Major mode for General Algebraic Modeling System (GAMS)
+app-emacs/gams-mode 6.16: Major mode for General Algebraic Modeling System (GAMS)
 app-emacs/gather 1.1.0: Gather string in buffer.
 app-emacs/gdscript-mode 1.4.0: Major mode for Godot's GDScript language
 app-emacs/geben 1.1.1: DBGp protocol frontend, a script debugger
@@ -2111,7 +2111,7 @@ app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.8.7: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
-app-emacs/org-re-reveal 3.28.2: Org export to reveal.js presentations
+app-emacs/org-re-reveal 3.29.1: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
 app-emacs/org-re-reveal-ref 1.0.0: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
@@ -2155,7 +2155,7 @@ app-emacs/org-upcoming-modeline 0.1.6: Show next org event in mode line
 app-emacs/org-vcard 0.2.0: org-mode support for vCard export and import.
 app-emacs/org-visibility 1.1.12: Persistent org tree visibility
 app-emacs/org-web-tools 1.3: Display and capture web content with Org-mode
-app-emacs/org-web-track 0.0.2: Web data tracking framework in Org Mode
+app-emacs/org-web-track 0.0.3: Web data tracking framework in Org Mode
 app-emacs/org-wild-notifier 0.5.0: Customizable org-agenda notifications
 app-emacs/org-working-set 2.6.4: Manage and visit a small set of org-nodes.
 app-emacs/org-zettelkasten 0.7.0: A Zettelkasten mode leveraging Org
@@ -2255,7 +2255,7 @@ app-emacs/pd-remote 1.2.0: Pd remote control helper
 app-emacs/pdf-tools 1.1.0: Support library for PDF documents
 app-emacs/pelican-mode 20170808: Minor mode for editing Pelican sites
 app-emacs/per-buffer-theme 2.2: Change theme and font according to buffer name or major mode.
-app-emacs/persist-state 0.3: Regularly persist bookmarks, history, recent files and more
+app-emacs/persist-state 0.4: Regularly persist bookmarks, history, recent files and more
 app-emacs/persistent-scratch 0.3.9: Preserve the scratch buffer across Emacs sessions
 app-emacs/persistent-soft 0.8.10: Persistent storage, returning nil on failure
 app-emacs/persp-fr 0.0.5: In persp-mode, show perspective list in the GUI window title
@@ -2673,7 +2673,7 @@ app-emacs/splunk-mode 1.1.0: Major Mode for editing Splunk SPL source code
 app-emacs/spotify 0.3.4: Control the spotify application from emacs
 app-emacs/sprintly-mode 0.0.4: Major mode for dealing with sprint.ly
 app-emacs/sprunge 0.1.1: Upload pastes to sprunge.us
-app-emacs/sq 0.1.2: Bindings for Sequoia PGP's cli
+app-emacs/sq 0.2.0: Bindings for Sequoia PGP's cli
 app-emacs/sql-impala 1.1: comint support for Cloudera Impala
 app-emacs/sql-presto 1.0.4: No description available.
 app-emacs/sqlformat 0.2: Reformat SQL using sqlformat or pgformatter
@@ -2887,7 +2887,7 @@ app-emacs/unmodified-buffer 1.1.0: Auto revert modified buffer state
 app-emacs/unobtrusive-magit-theme 0.4: An unobtrusive Magit theme
 app-emacs/unspecified-theme 0.3: Theme that unspecifies all attributes of all faces
 app-emacs/uptimes 3.8: Track and display Emacs session uptimes.
-app-emacs/ursa-ts-mode 1.3.5: Major mode for Ursa, using tree-sitter
+app-emacs/ursa-ts-mode 1.3.6: Major mode for Ursa, using tree-sitter
 app-emacs/urscript-mode 0.0.2: major mode for editing URScript.
 app-emacs/use-package 2.4.4: A configuration macro for simplifying your .emacs
 app-emacs/use-package-chords 2.4.4: key-chord keyword for use-package
