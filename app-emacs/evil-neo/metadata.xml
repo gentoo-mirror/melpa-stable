@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A major mode to edit Lambdapi files.</longdescription>
+	<longdescription>Minor mode for using the Neo keyboard layout with Evil</longdescription>
 </pkgmetadata>
