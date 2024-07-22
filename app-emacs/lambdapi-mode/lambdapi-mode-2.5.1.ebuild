@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A major mode for editing Lambdapi source code"
+DESCRIPTION="A major mode to edit Lambdapi files."
 
 HOMEPAGE="https://github.com/Deducteam/lambdapi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
