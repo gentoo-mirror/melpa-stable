@@ -113,7 +113,7 @@ app-emacs/arxiv-mode 0.4.0: Read and search for articles on arXiv.org
 app-emacs/asilea 0.2.1: Find best compiler options using simulated annealing
 app-emacs/asm-blox 0.4.1: Programming game involving WAT
 app-emacs/assess 0.6: Test support functions
-app-emacs/astro-ts-mode 2.0.0: Major mode for editing Astro templates
+app-emacs/astro-ts-mode 2.0.1: Major mode for editing Astro templates
 app-emacs/async 1.9.8: Asynchronous processing in Emacs
 app-emacs/async-await 1.1: Async/Await
 app-emacs/asyncloop 1.1: Non-blocking series of functions
@@ -262,7 +262,7 @@ app-emacs/call-graph 0.1.0: Library to generate call graph for cpp functions
 app-emacs/camcorder 1.0: Record screencasts in gif or other formats.
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cangjie 0.7.4: Retrieve cangjie code for han characters
-app-emacs/cape 1.5: Completion At Point Extensions
+app-emacs/cape 1.6: Completion At Point Extensions
 app-emacs/capnp-mode 1.0.2: Major mode for editing Capn' Proto Files
 app-emacs/cargo 0.4.1: Emacs Minor Mode for Cargo, Rust's Package Manager.
 app-emacs/caseformat 0.1.0: Format based letter case converter
@@ -764,7 +764,7 @@ app-emacs/emoji-cheat-sheet-plus 1.2.2: emoji-cheat-sheet for emacs
 app-emacs/emoji-fontset 0.1.1: Set font face for Emoji.
 app-emacs/emoji-github 0.2.3: Display list of GitHub's emoji. (cheat sheet)
 app-emacs/emojify 1.2: Display emojis in Emacs
-app-emacs/empv 4.4.0: A multimedia player/manager, YouTube interface
+app-emacs/empv 4.5.0: A multimedia player/manager, YouTube interface
 app-emacs/emr 0.4: Emacs refactoring system.
 app-emacs/enclose 0.0.2: Enclose cursor within punctuation pairs
 app-emacs/encrypt-region 1.0: Encrypts and decrypts regions
@@ -1220,7 +1220,7 @@ app-emacs/goto-char-preview 0.1.0: Preview character when executing `goto-char` 
 app-emacs/goto-chg 1.7.5: Go to last change
 app-emacs/goto-last-change 1.2.1: Move point through buffer-undo-list positions
 app-emacs/goto-line-preview 0.1.1: Preview line when executing `goto-line` command
-app-emacs/govc 0.38.0: Interface to govc for managing VMware ESXi and vCenter
+app-emacs/govc 0.39.0: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
@@ -1361,7 +1361,7 @@ app-emacs/helm-qiita 1.1.3: Qiita with helm interface
 app-emacs/helm-rdefs 1.0.1: rdefs with helm interface
 app-emacs/helm-recoll 1.2: helm interface for the recoll desktop search tool.
 app-emacs/helm-rg 0.1: a helm interface to ripgrep
-app-emacs/helm-roam 1.0.1: Helm command for org-roam
+app-emacs/helm-roam 1.0.2: Helm command for org-roam
 app-emacs/helm-robe 0.2: completing read function for robe
 app-emacs/helm-rtags 3.23: A front-end for rtags
 app-emacs/helm-rubygems-org 0.0.1: Use helm to search rubygems.org
@@ -1556,7 +1556,7 @@ app-emacs/jet 1.1.1: Emacs integration for jet Clojure tool
 app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
-app-emacs/jinx 1.9: Enchanted Spell Checker
+app-emacs/jinx 1.10: Enchanted Spell Checker
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -2174,7 +2174,7 @@ app-emacs/orgstrap 1.5.5: Bootstrap an Org file using file local variables
 app-emacs/orgtbl-show-header 1.0.0: Show the header of the current column in the minibuffer
 app-emacs/origami-predef 1.0: Apply folding when finding (opening) files
 app-emacs/orthodox-christian-new-calendar-holidays 1.3.3: Feasts (NS)
-app-emacs/osm 1.3: OpenStreetMap viewer
+app-emacs/osm 1.4: OpenStreetMap viewer
 app-emacs/osx-browse 0.8.8: Web browsing helpers for OS X
 app-emacs/osx-clipboard 0.1: Use the OS X clipboard from terminal Emacs
 app-emacs/osx-dictionary 0.4: Interface for OSX Dictionary.app
@@ -2757,7 +2757,7 @@ app-emacs/tawny-mode 2.3.3: Ontology Editing with Tawny-OWL
 app-emacs/telega 0.8.3: Telegram client (unofficial)
 app-emacs/telepathy 1.0: Access Telepathy from Emacs
 app-emacs/telephone-line 0.6: Rewrite of Powerline
-app-emacs/tempel 1.1: Tempo templates/snippets with in-buffer field editing
+app-emacs/tempel 1.2: Tempo templates/snippets with in-buffer field editing
 app-emacs/templ-ts-mode 0.3: Major mode for editing Templ files
 app-emacs/templatel 0.1.6: Templating language;
 app-emacs/ten-hundred-mode 1.0.1: use only the ten hundred most usual words
@@ -2786,7 +2786,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2024.7.15.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2024.7.22.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2826,7 +2826,7 @@ app-emacs/tray 0.1.3: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.206: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.207: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
@@ -3021,6 +3021,7 @@ app-emacs/xcode-project 1.0.0: A package for reading Xcode project files.
 app-emacs/xcscope 1.5: cscope interface for (X)Emacs
 app-emacs/xkb-mode 0.2.0: Major mode for editing X Keyboard Extension (XKB) files
 app-emacs/xkcd 1.1: View xkcd from Emacs
+app-emacs/xmind-org 0.1.1: Import XMind mindmaps into Org
 app-emacs/xml-format 1.0.0: XML reformatter using xmllint
 app-emacs/xml-rpc 1.6.15: An elisp implementation of clientside XML-RPC
 app-emacs/xmlgen 0.5: A DSL for generating XML.
