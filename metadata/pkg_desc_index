@@ -447,7 +447,7 @@ app-emacs/copy-as-format 0.0.9: Copy buffer locations as GitHub/Slack/JIRA etc..
 app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
 app-emacs/copyit-pandoc 0.1.0: Copy it, yank anything!
-app-emacs/corfu 1.4: COmpletion in Region FUnction
+app-emacs/corfu 1.5: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 1.3: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 6.3: prescient.el + Corfu
 app-emacs/corral 0.3: Quickly surround text with delimiters
@@ -2063,7 +2063,7 @@ app-emacs/org-cite-overlay 1.0.0: Overlays for org-cite citations
 app-emacs/org-cite-overlay-sidecar 1.0.0: Show Sidecar for overlaid org-cite citations
 app-emacs/org-clock-csv 1.2: Export `org-mode' clock entries to CSV format.
 app-emacs/org-commentary 0.3.0: generate or update conventional library headers using Org mode files
-app-emacs/org-d20 0.5: minor mode for d20 tabletop roleplaying games
+app-emacs/org-d20 0.6: minor mode for d20 tabletop roleplaying games
 app-emacs/org-download 0.1.0: Image drag-and-drop for Emacs org-mode
 app-emacs/org-dp 1: Declarative Local Programming with Org Elements
 app-emacs/org-drill 2.7.0: Self-testing using spaced repetition
@@ -2996,7 +2996,7 @@ app-emacs/winring 5.1: Window configuration rings
 app-emacs/winum 2.1.0: Navigate windows and frames using numbers.
 app-emacs/wisp-mode 1.0.12: Tools for wisp: the Whitespace-to-Lisp preprocessor
 app-emacs/wispjs-mode 0.2.0: Major mode for Wisp code.
-app-emacs/with-editor 3.3.4: Use the Emacsclient as $EDITOR
+app-emacs/with-editor 3.4.0: Use the Emacsclient as $EDITOR
 app-emacs/with-shell-interpreter 0.2.5: Helper for shell command APIs
 app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interactively
 app-emacs/with-venv 0.0.2: Execute with Python virtual environment activated
