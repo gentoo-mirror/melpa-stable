@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Minor mode for a nice writing environment</longdescription>
+	<longdescription>Minor mode to automatically balance window margins</longdescription>
 </pkgmetadata>
