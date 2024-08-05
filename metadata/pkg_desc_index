@@ -2189,6 +2189,7 @@ app-emacs/osx-location 0.4: Watch and respond to changes in geographical locatio
 app-emacs/osx-plist 2.0.0: Apple plist file parser
 app-emacs/osx-pseudo-daemon 2.2: Daemon mode that plays nice with OSX.
 app-emacs/osx-trash 0.2.2: System trash for OS X
+app-emacs/outline-indent 1.0.5: Outline and fold text using indentation
 app-emacs/outline-minor-faces 1.0.1: Highlight only section headings
 app-emacs/outlook 0.1: send emails in MS Outlook style
 app-emacs/outorg 2.0: Org-style comment editing
