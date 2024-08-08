@@ -2120,7 +2120,7 @@ app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.8.7: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
-app-emacs/org-re-reveal 3.30.0: Org export to reveal.js presentations
+app-emacs/org-re-reveal 3.31.0: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
 app-emacs/org-re-reveal-ref 1.0.0: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
@@ -2931,7 +2931,7 @@ app-emacs/vertico-prescient 6.3.1: prescient.el + Vertico
 app-emacs/vertigo 1.0: Jump across lines using the home row.
 app-emacs/vhdl-ext 0.5.0: VHDL Extensions
 app-emacs/vhdl-tools 6.2: Utilities for navigating vhdl sources.
-app-emacs/vhdl-ts-mode 0.1.2: VHDL Tree-sitter major mode
+app-emacs/vhdl-ts-mode 0.1.3: VHDL Tree-sitter major mode
 app-emacs/vim-region 0.3.0: Select region as vim
 app-emacs/vim-tab-bar 1.0.6: Vim-like tab bar
 app-emacs/vimgolf 0.10.3: VimGolf interface for the One True Editor
