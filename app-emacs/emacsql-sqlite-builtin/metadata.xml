@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Store EIEIO objects using EmacSQL</longdescription>
+	<longdescription>EmacSQL back-end for SQLite using builtin support</longdescription>
 </pkgmetadata>
