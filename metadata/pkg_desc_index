@@ -215,7 +215,7 @@ app-emacs/bongo 1.1: play music with Emacs
 app-emacs/bookmark-view 0.2: Bookmark views
 app-emacs/bool-flip 1.0.1: flip the boolean under the point
 app-emacs/boon 1.3: Ergonomic Command Mode for Emacs.
-app-emacs/borg 3.3.1: assimilate Emacs packages as Git submodules
+app-emacs/borg 4.0.0: Assimilate Emacs packages as Git submodules
 app-emacs/boxes 2.3.0: ASCII boxes unlimited!
 app-emacs/boxquote 2.3: Quote text with a semi-box.
 app-emacs/brazilian-holidays 2.1.3: Brazilian holidays
@@ -345,7 +345,7 @@ app-emacs/clojure-quick-repls 0.1.0: Quickly create Clojure and ClojureScript re
 app-emacs/clojure-snippets 1.0.1: Yasnippets for clojure
 app-emacs/clojure-ts-mode 0.2.2: Major mode for Clojure code
 app-emacs/clomacs 0.0.5: Simplifies Emacs Lisp interaction with Clojure.
-app-emacs/closql 1.2.1: store EIEIO objects using EmacSQL
+app-emacs/closql 2.0.0: Store EIEIO objects using EmacSQL
 app-emacs/clues-theme 1.0.1: an Emacs 24 theme which may well be fully awesome...
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
@@ -746,11 +746,13 @@ app-emacs/emacs-crystal-mode 0.1.0: Major mode for editing Crystal files
 app-emacs/emacs-el-fetch 3.3.0: Show system information in Neofetch-like style (eg CPU, RAM)
 app-emacs/emacs-websearch 2.1.1: Query search engines
 app-emacs/emacsc 1.5.20240629.1: helper for emacsc(1)
-app-emacs/emacsql 3.1.1: High-level SQL database front-end
-app-emacs/emacsql-mysql 3.1.1: EmacSQL back-end for MySQL
-app-emacs/emacsql-pg 3.1.1: EmacSQL back-end for PostgreSQL via pg
-app-emacs/emacsql-psql 3.1.1: EmacSQL back-end for PostgreSQL via psql
-app-emacs/emacsql-sqlite 3.1.1: EmacSQL back-end for SQLite
+app-emacs/emacsql 4.0.0: High-level SQL database front-end
+app-emacs/emacsql-mysql 4.0.0: EmacSQL back-end for MySQL
+app-emacs/emacsql-pg 4.0.0: EmacSQL back-end for PostgreSQL via pg
+app-emacs/emacsql-psql 4.0.0: EmacSQL back-end for PostgreSQL via psql
+app-emacs/emacsql-sqlite 4.0.0: EmacSQL back-end for SQLite
+app-emacs/emacsql-sqlite-builtin 4.0.0: EmacSQL back-end for SQLite using builtin support
+app-emacs/emacsql-sqlite-module 4.0.0: EmacSQL back-end for SQLite using a module
 app-emacs/emacsshot 0.5.0: Snapshot a frame or window from within
 app-emacs/emamux 0.14: Interact with tmux
 app-emacs/emaps 0.2.0: Utilities for working with keymaps
@@ -783,8 +785,8 @@ app-emacs/envrc 0.12: Support for `direnv' that operates buffer-locally
 app-emacs/eopengrok 1.7.42: opengrok interface for emacs
 app-emacs/epc 0.1.1: A RPC stack for the Emacs Lisp
 app-emacs/eping 0.1.1: Ping websites to check internet connectivity
-app-emacs/epkg 3.3.3: browse the Emacsmirror package database
-app-emacs/epkg-marginalia 0.1.2: Show Epkg information in completion annotations
+app-emacs/epkg 4.0.0: Browse the Emacsmirror package database
+app-emacs/epkg-marginalia 0.2.0: Show Epkg information in completion annotations
 app-emacs/epl 0.9: Emacs Package Library
 app-emacs/epm 0.1: Emacs Package Manager
 app-emacs/erc-crypt 2.1: Symmetric Encryption for ERC
@@ -1072,7 +1074,7 @@ app-emacs/fontify-face 1.1.0: Fontify symbols representing faces with that face.
 app-emacs/fontsloth 0.15.3: Elisp otf/ttf font loader/renderer
 app-emacs/for 1.4: Iteration and sequence
 app-emacs/foreman-mode 0.0.1: View and manage Procfile-based applications
-app-emacs/forge 0.3.2: Access Git forges from Magit.
+app-emacs/forge 0.4.0: Access Git forges from Magit.
 app-emacs/form-feed 0.2.3: Display ^L glyphs as horizontal lines
 app-emacs/format-all 0.6.0: Auto-format C, C++, JS, Python, Ruby and 50 other languages
 app-emacs/format-sql 0.4: Use format-sql to make your SQL readable in directly Emacs.
@@ -1133,7 +1135,7 @@ app-emacs/gh 1.0.1: A GitHub library for Emacs
 app-emacs/gh-notify 2.1.0: A veneer for Magit/Forge GitHub notifications
 app-emacs/ghc-imported-from 0.1.2: Haskell documentation lookup with ghc-imported-from
 app-emacs/ghq 0.2.0: Ghq interface for emacs
-app-emacs/ghub 3.6.0: Client libraries for Git forge APIs.
+app-emacs/ghub 4.0.0: Client libraries for Git forge APIs.
 app-emacs/ghub+ 0.3: a thick GitHub API client built on ghub
 app-emacs/gif-screencast 1.2: One-frame-per-action GIF recording
 app-emacs/girly-notebook-theme 1.2.1: A light theme with vivid colours and cursive text
@@ -1145,7 +1147,7 @@ app-emacs/git-auto-commit-mode 4.7.0: Emacs Minor mode to automatically commit a
 app-emacs/git-backup 0.0.1: Backup each file change using git
 app-emacs/git-cliff 0.7.0: Generate and update changelog using git-cliff
 app-emacs/git-command 0.2.0: Yet another Git interface
-app-emacs/git-commit 3.3.0: Edit Git commit messages.
+app-emacs/git-commit 4.0.0: Edit Git commit messages.
 app-emacs/git-commit-insert-issue 0.4.1: Get issues list when typing "Fixes #"
 app-emacs/git-grep-transient 0.1.1: Search for text using git grep command
 app-emacs/git-gutter 0.92: Port of Sublime Text plugin GitGutter
@@ -1624,7 +1626,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.12: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.20.2: AI copilot for your Second Brain
+app-emacs/khoj 1.20.3: AI copilot for your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
@@ -1756,7 +1758,7 @@ app-emacs/macro-math 1.0: in-buffer mathematical operations
 app-emacs/macrostep 0.9.2: Interactive macro expander
 app-emacs/magic-filetype 0.3.0: Enhance filetype major mode
 app-emacs/magik-mode 0.3.1: Emacs major mode for Smallworld Magik files
-app-emacs/magit 3.3.0: A Git porcelain inside Emacs.
+app-emacs/magit 4.0.0: A Git porcelain inside Emacs.
 app-emacs/magit-annex 1.8.1: Control git-annex from Magit
 app-emacs/magit-file-icons 2.0.0: Icons for file entries in Magit buffers
 app-emacs/magit-filenotify 0.1: Refresh status buffer when git tree changes
@@ -1770,7 +1772,7 @@ app-emacs/magit-lfs 0.4.1: Magit plugin for Git LFS
 app-emacs/magit-org-todos 0.1.2: Add local todo items to the magit status buffer
 app-emacs/magit-p4 1.2.1: git-p4 plug-in for Magit
 app-emacs/magit-popup 2.13.3: Define prefix-infix-suffix command combos
-app-emacs/magit-section 3.3.0: Sections for read-only buffers
+app-emacs/magit-section 4.0.0: Sections for read-only buffers.
 app-emacs/magit-stgit 2.2.1: StGit extension for Magit
 app-emacs/magit-svn 2.2.3: Git-Svn extension for Magit
 app-emacs/magit-tbdiff 1.1.1: Magit extension for range diffs
@@ -2173,8 +2175,8 @@ app-emacs/org2jekyll 0.2.7: Minor mode to publish org-mode post to jekyll withou
 app-emacs/org2web 0.9.1: A static site generator based on org mode.
 app-emacs/organize-imports-java 0.3.0: Automatically organize imports in Java code
 app-emacs/orgbox 0.5.0: Mailbox-like task scheduling Org.
-app-emacs/orgit 1.9.0: Support for Org links to Magit buffers
-app-emacs/orgit-forge 0.1.4: Org links to Forge issue buffers
+app-emacs/orgit 2.0.0: Support for Org links to Magit buffers
+app-emacs/orgit-forge 1.0.0: Org links to Forge issue buffers
 app-emacs/orglink 1.2.4: Use Org Mode links in other modes
 app-emacs/orgnote 0.10.3: Sync org-roam notes with OrgNote app
 app-emacs/orgstrap 1.5.5: Bootstrap an Org file using file local variables
