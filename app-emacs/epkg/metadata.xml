@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>browse the Emacsmirror package database</longdescription>
+	<longdescription>Browse the Emacsmirror package database</longdescription>
 </pkgmetadata>
