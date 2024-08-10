@@ -649,7 +649,7 @@ app-emacs/easy-jekyll 2.6.30: Major mode managing jekyll blogs
 app-emacs/easy-kill 0.9.4: kill & mark things easily
 app-emacs/easy-kill-extras 0.9.14: Extra functions for easy-kill.
 app-emacs/easy-repeat 0.2: Repeat easily
-app-emacs/easysession 1.0.4: Easily persist and restore your editing sessions
+app-emacs/easysession 1.0.5: Easily persist and restore your editing sessions
 app-emacs/ebdb-mua-sidecar 1.6.0: EBDB Integration for Universal Sidecar
 app-emacs/ebf 1.0.0: brainfuck language transpiler to Emacs Lisp
 app-emacs/ebib 2.42.2: a BibTeX database manager
