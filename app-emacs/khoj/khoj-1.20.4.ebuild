@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="AI copilot for your Second Brain"
+DESCRIPTION="Your Second Brain"
 
 HOMEPAGE="https://github.com/khoj-ai/khoj/tree/master/src/interface/emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
