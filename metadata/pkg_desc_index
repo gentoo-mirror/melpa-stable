@@ -297,7 +297,7 @@ app-emacs/cg 1.4.6: Major mode for editing Constraint Grammar files
 app-emacs/champagne 0.3.2: Graphical countdowns
 app-emacs/char-menu 0.1.1: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 0.0.1: Unicode table for Emacs
-app-emacs/chatgpt-shell 1.2.3: ChatGPT shell + buffer insert commands
+app-emacs/chatgpt-shell 1.3.1: ChatGPT shell + buffer insert commands
 app-emacs/chatwork 0.3: ChatWork client for Emacs
 app-emacs/cheat-sh 1.8: Interact with cheat.sh
 app-emacs/checkbox 0.2.1: Quick manipulation of textual checkboxes
@@ -498,7 +498,7 @@ app-emacs/d-mode 2.0.12: D Programming Language major mode for (X)Emacs
 app-emacs/d2-mode 0.1.2: Major mode for working with d2 graphs
 app-emacs/dad-joke 1.4: Get/display dad jokes
 app-emacs/daemons 2.0.0: UI for managing init system daemons (services)
-app-emacs/dall-e-shell 1.2.3: Interaction mode for DALL-E
+app-emacs/dall-e-shell 1.3.1: Interaction mode for DALL-E
 app-emacs/dante 1.7: Development mode for Haskell
 app-emacs/dap-mode 0.8: Debug Adapter Protocol mode
 app-emacs/darcula-theme 2.0: Inspired by IntelliJ's Darcula theme
@@ -1757,7 +1757,7 @@ app-emacs/mac-pseudo-daemon 2.2: Daemon mode that plays nice with Mac OS.
 app-emacs/macro-math 1.0: in-buffer mathematical operations
 app-emacs/macrostep 0.9.2: Interactive macro expander
 app-emacs/magic-filetype 0.3.0: Enhance filetype major mode
-app-emacs/magik-mode 0.3.1: Emacs major mode for Smallworld Magik files
+app-emacs/magik-mode 0.3.2: Emacs major mode for Smallworld Magik files
 app-emacs/magit 4.0.0: A Git porcelain inside Emacs.
 app-emacs/magit-annex 1.9.0: Control git-annex from Magit
 app-emacs/magit-file-icons 2.0.0: Icons for file entries in Magit buffers
@@ -1832,7 +1832,7 @@ app-emacs/meta-presenter 1.1.0: A simple multi-file presentation tool for Emacs
 app-emacs/metamorph 1.0.0: Transform your buffers with lisp
 app-emacs/metaweblog 1.1.16: An XML-RPC MetaWeblog and WordPress API client
 app-emacs/mew 6.9: Messaging in the Emacs World
-app-emacs/meyvn 1.3: Meyvn client
+app-emacs/meyvn 1.4: Meyvn client
 app-emacs/mgmtconfig-mode 0.0.26: mgmt configuration management language
 app-emacs/mhc 1.2.7: Message Harmonized Calendaring system.
 app-emacs/mic 0.36.0: Minimal and combinable configuration manager
@@ -1993,11 +1993,11 @@ app-emacs/ob-ada-spark 1.3.0: Babel functions for Ada & SPARK
 app-emacs/ob-async 1.0.0: Asynchronous org-babel src block execution
 app-emacs/ob-base64 1.1.5: Org-babel for base64 content
 app-emacs/ob-blockdiag 20170728.113: org-babel functions for blockdiag evaluation
-app-emacs/ob-chatgpt-shell 1.2.3: Org babel functions for ChatGPT evaluation
+app-emacs/ob-chatgpt-shell 1.3.1: Org babel functions for ChatGPT evaluation
 app-emacs/ob-coffeescript 1.0.0: org-babel functions for coffee-script evaluation, and fully implementation!
 app-emacs/ob-compile 0.4: Run compile by org-babel
 app-emacs/ob-d2 0.0.3: Org-babel functions for d2
-app-emacs/ob-dall-e-shell 1.2.3: Org babel functions for DALL-E evaluation
+app-emacs/ob-dall-e-shell 1.3.1: Org babel functions for DALL-E evaluation
 app-emacs/ob-deno 1.0.1: Babel Functions for Javascript/TypeScript with Deno
 app-emacs/ob-ess-julia 1.0.3: Org babel support for Julia language
 app-emacs/ob-git-permalink 0.1.0: Easy code citation from repository hosting service
@@ -2581,7 +2581,7 @@ app-emacs/shackle 1.0.4: Enforce rules for popups
 app-emacs/shakespeare-mode 0.0.2: A major mode for editing Shakespearean templates.
 app-emacs/shampoo 0.0.1: Shampoo, a remote Smalltalk developemnt
 app-emacs/shell-command-x 0.1.3: Extensions for shell commands
-app-emacs/shell-maker 1.2.3: Interaction mode for making comint shells
+app-emacs/shell-maker 1.3.1: Interaction mode for making comint shells
 app-emacs/shell-pop 0.64: helps you to use shell easily on Emacs. Only one key action to work.
 app-emacs/shell-split-string 0.1: Split strings using shell-like syntax
 app-emacs/shell-switcher 1.0.1: Provide fast switching between shell buffers.
