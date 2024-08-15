@@ -2283,7 +2283,7 @@ app-emacs/ph 0.1.0: A global minor mode for managing multiple projects.
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: another incremental search & replace, compatible with "multiple-cursors"
 app-emacs/phi-search-mc 2.2.1: multiple-cursors extension for phi-search
-app-emacs/php-cs-fixer 2.0.0: php-cs-fixer wrapper.
+app-emacs/php-cs-fixer 2.0.1: php-cs-fixer wrapper.
 app-emacs/php-mode 1.25.1: Major mode for editing PHP code
 app-emacs/php-quickhelp 0.5.5: Quickhelp at point for php
 app-emacs/php-runtime 0.3.1: Language binding bridge to PHP
