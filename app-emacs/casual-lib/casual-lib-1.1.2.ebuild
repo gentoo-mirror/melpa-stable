@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Library routines for Casual porcelains"
+DESCRIPTION="Library routines for Casual user interfaces"
 
 HOMEPAGE="https://github.com/kickingvegas/casual-lib"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
