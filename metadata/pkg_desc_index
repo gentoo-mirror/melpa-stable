@@ -88,7 +88,7 @@ app-emacs/angular-snippets 0.2.3: Yasnippets for AngularJS
 app-emacs/anki-mode 0.1: TODO
 app-emacs/annalist 1.0.1: Record and display information such as keybindings
 app-emacs/annotate 1.4.3: annotate files without changing them
-app-emacs/annotation 2.6.20240806: Functions for annotating text with faces and help bubbles
+app-emacs/annotation 2.7.0: Functions for annotating text with faces and help bubbles
 app-emacs/annoying-arrows-mode 0.1.0: Ring the bell if using arrows too much
 app-emacs/ansi 0.4.1: Turn string into ansi strings
 app-emacs/ansible 0.3.2: Ansible minor mode
@@ -619,7 +619,7 @@ app-emacs/dr-racket-like-unicode 1.1.0: DrRacket-style unicode input
 app-emacs/dracula-theme 1.8.2: Dracula Theme
 app-emacs/draft-mode 0.1.1: Rough drafting for Emacs.
 app-emacs/drag-stuff 0.3.0: Drag stuff (lines, words, region, etc...) around
-app-emacs/drupal-mode 0.7.3: Advanced minor mode for Drupal development
+app-emacs/drupal-mode 0.8.1: Advanced minor mode for Drupal development
 app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
 app-emacs/dslide 0.5.3: Domain Specific sLIDEs. A presentation framework
 app-emacs/dtrt-indent 1.18: Adapt to foreign indentation offsets
@@ -798,7 +798,7 @@ app-emacs/ercn 1.1.1: Flexible ERC notifications
 app-emacs/eredis 0.9.6: eredis, a Redis client in emacs lisp
 app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics.
-app-emacs/eri 2.6.20240806: Enhanced relative indentation (eri)
+app-emacs/eri 2.7.0: Enhanced relative indentation (eri)
 app-emacs/erk 0.5.3: Elisp (GitHub) Repository Kit
 app-emacs/erlang 27.0.1: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
