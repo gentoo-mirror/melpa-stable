@@ -276,7 +276,7 @@ app-emacs/casual-dired 1.8.0: Transient UI for Dired
 app-emacs/casual-ibuffer 1.1.3: Transient UI for IBuffer
 app-emacs/casual-info 1.3.1: Transient UI for Info
 app-emacs/casual-isearch 1.8.3: Transient UI for I-Search
-app-emacs/casual-lib 1.1.1: Library routines for Casual porcelains
+app-emacs/casual-lib 1.1.2: Library routines for Casual user interfaces
 app-emacs/casual-re-builder 1.1.1: Transient UI for RE-Builder
 app-emacs/casual-suite 1.4.1: A suite of opinionated Transient UIs
 app-emacs/catmacs 0.1.1: Simple CAT interface for Yaesu FT991A
