@@ -521,7 +521,7 @@ app-emacs/debian-el 37.4: Emacs helpers specific to Debian users
 app-emacs/debpaste 0.1.5: Interface for getting/posting/deleting pastes from paste.debian.net
 app-emacs/decide 0.9.1: rolling dice and other random things
 app-emacs/declutter 0.1.0: Read html content and paywall sites without clutter
-app-emacs/decor 1.3.0: Modify visual decorations
+app-emacs/decor 1.3.1: Modify visual decorations
 app-emacs/dedicated 1.0.0: A very simple minor mode for dedicated buffers
 app-emacs/default-text-scale 0.2: Easily adjust the font size in all frames
 app-emacs/deferred 0.5.1: Simple asynchronous functions for emacs lisp
