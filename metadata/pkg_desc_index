@@ -558,6 +558,7 @@ app-emacs/diminish 0.45: Diminished modes are minor modes with no modeline displ
 app-emacs/diminish-buffer 0.2.0: Diminish (hide) buffers from buffer-menu
 app-emacs/dimmer 0.4.2: Visually highlight the selected buffer
 app-emacs/dionysos 0.6.0: Dionysos, a music player for Emacs
+app-emacs/dir-config 1.0.1: Automatically find and load the .dir-config.el Elisp file
 app-emacs/dired-atool 1.3.0: Pack/unpack files with atool on dired.
 app-emacs/dired-efap 0.8.1: Edit Filename At Point in a dired buffer
 app-emacs/dired-explorer 0.6: minor-mode provides Explorer like select file at dired.
@@ -746,13 +747,13 @@ app-emacs/emacs-crystal-mode 0.1.0: Major mode for editing Crystal files
 app-emacs/emacs-el-fetch 3.3.0: Show system information in Neofetch-like style (eg CPU, RAM)
 app-emacs/emacs-websearch 2.1.1: Query search engines
 app-emacs/emacsc 1.5.20240629.1: helper for emacsc(1)
-app-emacs/emacsql 4.0.0: High-level SQL database front-end
-app-emacs/emacsql-mysql 4.0.0: EmacSQL back-end for MySQL
-app-emacs/emacsql-pg 4.0.0: EmacSQL back-end for PostgreSQL via pg
-app-emacs/emacsql-psql 4.0.0: EmacSQL back-end for PostgreSQL via psql
-app-emacs/emacsql-sqlite 4.0.0: EmacSQL back-end for SQLite
-app-emacs/emacsql-sqlite-builtin 4.0.0: EmacSQL back-end for SQLite using builtin support
-app-emacs/emacsql-sqlite-module 4.0.0: EmacSQL back-end for SQLite using a module
+app-emacs/emacsql 4.0.1: High-level SQL database front-end
+app-emacs/emacsql-mysql 4.0.1: EmacSQL back-end for MySQL
+app-emacs/emacsql-pg 4.0.1: EmacSQL back-end for PostgreSQL via pg
+app-emacs/emacsql-psql 4.0.1: EmacSQL back-end for PostgreSQL via psql
+app-emacs/emacsql-sqlite 4.0.1: EmacSQL back-end for SQLite
+app-emacs/emacsql-sqlite-builtin 4.0.1: EmacSQL back-end for SQLite using builtin support
+app-emacs/emacsql-sqlite-module 4.0.1: EmacSQL back-end for SQLite using a module
 app-emacs/emacsshot 0.5.0: Snapshot a frame or window from within
 app-emacs/emamux 0.14: Interact with tmux
 app-emacs/emaps 0.2.0: Utilities for working with keymaps
@@ -2795,7 +2796,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2024.8.12.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2024.8.19.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
