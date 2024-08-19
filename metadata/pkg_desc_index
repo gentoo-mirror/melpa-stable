@@ -305,7 +305,7 @@ app-emacs/chee 0.3.0: Interface to chee using dired and image-dired
 app-emacs/chezmoi 0.0.1: A package for interacting with chezmoi
 app-emacs/chinese-word-at-point 0.2.3: Add `chinese-word' thing to `thing-at-point'
 app-emacs/choice-program 0.14: Parameter based program
-app-emacs/chordpro-mode 2.2.0: Major mode for ChordPro lead sheet file format
+app-emacs/chordpro-mode 2.3.0: Major mode for ChordPro lead sheet file format
 app-emacs/chroma 1.1.0: Color manipulation library
 app-emacs/chronometrist 0.10.0: Friendly and powerful personal time tracker and analyzer
 app-emacs/chronometrist-key-values 0.10.0: add key-values to Chronometrist data
@@ -1147,7 +1147,7 @@ app-emacs/git-auto-commit-mode 4.7.0: Emacs Minor mode to automatically commit a
 app-emacs/git-backup 0.0.1: Backup each file change using git
 app-emacs/git-cliff 0.7.0: Generate and update changelog using git-cliff
 app-emacs/git-command 0.2.0: Yet another Git interface
-app-emacs/git-commit 4.0.0: Edit Git commit messages.
+app-emacs/git-commit 4.0.0: Edit Git commit messages
 app-emacs/git-commit-insert-issue 0.4.1: Get issues list when typing "Fixes #"
 app-emacs/git-grep-transient 0.1.1: Search for text using git grep command
 app-emacs/git-gutter 0.92: Port of Sublime Text plugin GitGutter
@@ -1188,7 +1188,7 @@ app-emacs/gmail2bbdb 0.0.6: import email and name into bbdb from vcard.
 app-emacs/gmpl-mode 0.1.0: Major mode for editing GMPL(MathProg) files
 app-emacs/gn-mode 0.4.1: major mode for editing GN (generate ninja) files
 app-emacs/gnome-screencast 1.4: Use Gnome screen recording functionality using elisp
-app-emacs/gnosis 0.3.2: Spaced Repetition System
+app-emacs/gnosis 0.4.1: Spaced Repetition System
 app-emacs/gntp 0.1: Growl Notification Protocol for Emacs
 app-emacs/gnuplot 0.8.1: Major-mode and interactive frontend for gnuplot
 app-emacs/gnus-desktop-notify 1.4: Gnus Desktop Notification global minor mode
@@ -1772,7 +1772,7 @@ app-emacs/magit-lfs 0.4.1: Magit plugin for Git LFS
 app-emacs/magit-org-todos 0.1.2: Add local todo items to the magit status buffer
 app-emacs/magit-p4 1.2.1: git-p4 plug-in for Magit
 app-emacs/magit-popup 2.13.3: Define prefix-infix-suffix command combos
-app-emacs/magit-section 4.0.0: Sections for read-only buffers.
+app-emacs/magit-section 4.0.0: Sections for read-only buffers
 app-emacs/magit-stgit 2.2.1: StGit extension for Magit
 app-emacs/magit-svn 2.2.3: Git-Svn extension for Magit
 app-emacs/magit-tbdiff 1.2.0: Magit extension for range diffs
@@ -2835,7 +2835,7 @@ app-emacs/tray 0.1.4: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.211: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.212: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
