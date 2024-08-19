@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Sections for read-only buffers."
+DESCRIPTION="Sections for read-only buffers"
 
 HOMEPAGE="https://github.com/magit/magit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
@@ -19,6 +19,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/compat
-	app-emacs/dash"
+	app-emacs/dash
+	app-emacs/seq"
 RDEPEND="app-emacs/compat
-	app-emacs/dash"
+	app-emacs/dash
+	app-emacs/seq"
