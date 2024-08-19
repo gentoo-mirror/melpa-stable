@@ -19,6 +19,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/emacsql
-	app-emacs/compat"
+	app-emacs/compat
+	app-emacs/transient"
 RDEPEND="app-emacs/emacsql
-	app-emacs/compat"
+	app-emacs/compat
+	app-emacs/transient"

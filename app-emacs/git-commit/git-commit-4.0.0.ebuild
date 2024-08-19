@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Edit Git commit messages."
+DESCRIPTION="Edit Git commit messages"
 
 HOMEPAGE="https://github.com/magit/magit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
@@ -19,8 +19,10 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/compat
+	app-emacs/seq
 	app-emacs/transient
 	app-emacs/with-editor"
 RDEPEND="app-emacs/compat
+	app-emacs/seq
 	app-emacs/transient
 	app-emacs/with-editor"
