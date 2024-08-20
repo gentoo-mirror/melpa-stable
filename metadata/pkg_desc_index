@@ -2140,7 +2140,7 @@ app-emacs/org-runbook 1.2: Org mode for runbooks
 app-emacs/org-sidebar 0.4: Helpful sidebar for Org buffers
 app-emacs/org-snooze 0.1.0: Snooze your code, doc and feed
 app-emacs/org-special-block-extras 2: 30 new custom blocks & 34 link types for Org-mode
-app-emacs/org-sql 3.0.4: Org-Mode SQL converter
+app-emacs/org-sql 4.0.0: Org-Mode SQL converter
 app-emacs/org-starter 0.2.10: A basic configuration framework for org mode
 app-emacs/org-starter-swiper 0.2.10: Swiper for org-starter
 app-emacs/org-static-blog 1.6.0: a simple org-mode based static blog generator
