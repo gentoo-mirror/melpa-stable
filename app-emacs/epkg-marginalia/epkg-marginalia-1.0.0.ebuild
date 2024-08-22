@@ -20,9 +20,7 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/compat
 	app-emacs/epkg
-	app-emacs/llama
 	app-emacs/marginalia"
 RDEPEND="app-emacs/compat
 	app-emacs/epkg
-	app-emacs/llama
 	app-emacs/marginalia"
