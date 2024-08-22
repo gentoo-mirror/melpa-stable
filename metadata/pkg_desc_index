@@ -787,7 +787,7 @@ app-emacs/eopengrok 1.7.42: opengrok interface for emacs
 app-emacs/epc 0.1.1: A RPC stack for the Emacs Lisp
 app-emacs/eping 0.1.1: Ping websites to check internet connectivity
 app-emacs/epkg 4.0.0: Browse the Emacsmirror package database
-app-emacs/epkg-marginalia 0.2.0: Show Epkg information in completion annotations
+app-emacs/epkg-marginalia 1.0.0: Show Epkg information in completion annotations
 app-emacs/epl 0.9: Emacs Package Library
 app-emacs/epm 0.1: Emacs Package Manager
 app-emacs/erc-crypt 2.1: Symmetric Encryption for ERC
@@ -882,6 +882,7 @@ app-emacs/evil-tex 1.0.2: Useful features for editing LaTeX in evil-mode
 app-emacs/evil-text-object-python 1.0.1: Python specific evil text objects
 app-emacs/evil-textobj-anyblock 0.1: Textobject for the closest user-defined blocks.
 app-emacs/evil-textobj-line 0.1: Line text object for Evil
+app-emacs/evil-textobj-tree-sitter 0.4: Provides evil textobjects using tree-sitter
 app-emacs/evil-tutor 1.0: Vimtutor adapted to Evil and wrapped in a major-mode
 app-emacs/evil-tutor-sc 2.2: Simplified Chinese tutor for Evil
 app-emacs/evil-visual-mark-mode 0.0.3: Display evil marks on buffer
@@ -2279,7 +2280,7 @@ app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
 app-emacs/pet 3.1.0: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: a simple wrapper around asynchronous processes
-app-emacs/pg 0.39: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
+app-emacs/pg 0.40: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/ph 0.1.0: A global minor mode for managing multiple projects.
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: another incremental search & replace, compatible with "multiple-cursors"
@@ -2533,7 +2534,7 @@ app-emacs/run-command 1.0.0: Run an external command from a context-dependent li
 app-emacs/runner 1.8: Improved "open with" suggestions for dired
 app-emacs/russian-holidays 0.4: Russian holidays for the calendar
 app-emacs/russian-techwriter 1.0.0: Input methods for Russian technical writers
-app-emacs/rust-mode 1.0.5: A major-mode for editing Rust source code
+app-emacs/rust-mode 1.0.6: A major-mode for editing Rust source code
 app-emacs/rust-playground 0.3: Local Rust playground for short code snippets.
 app-emacs/rustic 3.4: Rust development environment
 app-emacs/rvm 1.4.2: Emacs integration for rvm
