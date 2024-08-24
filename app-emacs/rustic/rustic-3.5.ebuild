@@ -25,9 +25,9 @@ DEPEND="app-emacs/rust-mode
 	app-emacs/markdown-mode
 	app-emacs/project
 	app-emacs/s
-	app-emacs/seq
 	app-emacs/spinner
-	app-emacs/xterm-color"
+	app-emacs/xterm-color
+	app-emacs/flycheck"
 RDEPEND="app-emacs/rust-mode
 	app-emacs/dash
 	app-emacs/f
@@ -35,6 +35,6 @@ RDEPEND="app-emacs/rust-mode
 	app-emacs/markdown-mode
 	app-emacs/project
 	app-emacs/s
-	app-emacs/seq
 	app-emacs/spinner
-	app-emacs/xterm-color"
+	app-emacs/xterm-color
+	app-emacs/flycheck"
