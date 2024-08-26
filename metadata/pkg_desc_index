@@ -107,6 +107,7 @@ app-emacs/applescript-mode 0.1: major mode for editing AppleScript source
 app-emacs/aproject 0.4: Basic project framework for Emacs
 app-emacs/apropospriate-theme 0.2.0: A colorful, low-contrast, light & dark theme set for Emacs with a fun name.
 app-emacs/archive-rpm 0.1: RPM and CPIO support for archive-mode
+app-emacs/arscript-mode 0.1.0: Major mode for editing arscript files
 app-emacs/artbollocks-mode 1.1.2: Improve your writing (especially about art)
 app-emacs/arview 1.2: extract and view archives in the temporary directory
 app-emacs/arxiv-mode 0.4.0: Read and search for articles on arXiv.org
@@ -297,7 +298,7 @@ app-emacs/cg 1.4.6: Major mode for editing Constraint Grammar files
 app-emacs/champagne 0.3.2: Graphical countdowns
 app-emacs/char-menu 0.1.1: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 0.0.1: Unicode table for Emacs
-app-emacs/chatgpt-shell 1.3.1: ChatGPT shell + buffer insert commands
+app-emacs/chatgpt-shell 1.4.1: ChatGPT shell + buffer insert commands
 app-emacs/chatwork 0.3: ChatWork client for Emacs
 app-emacs/cheat-sh 1.8: Interact with cheat.sh
 app-emacs/checkbox 0.2.1: Quick manipulation of textual checkboxes
@@ -433,6 +434,7 @@ app-emacs/consult-compile-multi 0.5: Consulting read support for `compile-multi'
 app-emacs/consult-dir 0.1: Insert paths into the minibuffer prompt
 app-emacs/consult-eglot 0.2.0: A consulting-read interface for eglot
 app-emacs/consult-flycheck 1.0: Provides the command `consult-flycheck'
+app-emacs/consult-gh 1.0: Consulting GitHub Client
 app-emacs/consult-ghq 0.0.5: Ghq interface using consult
 app-emacs/consult-hatena-bookmark 0.3.1: Consult commands for the Hatena Bookmark
 app-emacs/consult-lsp 1.1: LSP-mode Consult integration
@@ -498,7 +500,7 @@ app-emacs/d-mode 2.0.12: D Programming Language major mode for (X)Emacs
 app-emacs/d2-mode 0.1.2: Major mode for working with d2 graphs
 app-emacs/dad-joke 1.4: Get/display dad jokes
 app-emacs/daemons 2.0.0: UI for managing init system daemons (services)
-app-emacs/dall-e-shell 1.3.1: Interaction mode for DALL-E
+app-emacs/dall-e-shell 1.4.1: Interaction mode for DALL-E
 app-emacs/dante 1.7: Development mode for Haskell
 app-emacs/dap-mode 0.8: Debug Adapter Protocol mode
 app-emacs/darcula-theme 2.0: Inspired by IntelliJ's Darcula theme
@@ -1995,11 +1997,11 @@ app-emacs/ob-ada-spark 1.3.0: Babel functions for Ada & SPARK
 app-emacs/ob-async 1.0.0: Asynchronous org-babel src block execution
 app-emacs/ob-base64 1.1.5: Org-babel for base64 content
 app-emacs/ob-blockdiag 20170728.113: org-babel functions for blockdiag evaluation
-app-emacs/ob-chatgpt-shell 1.3.1: Org babel functions for ChatGPT evaluation
+app-emacs/ob-chatgpt-shell 1.4.1: Org babel functions for ChatGPT evaluation
 app-emacs/ob-coffeescript 1.0.0: org-babel functions for coffee-script evaluation, and fully implementation!
 app-emacs/ob-compile 0.4: Run compile by org-babel
 app-emacs/ob-d2 0.0.3: Org-babel functions for d2
-app-emacs/ob-dall-e-shell 1.3.1: Org babel functions for DALL-E evaluation
+app-emacs/ob-dall-e-shell 1.4.1: Org babel functions for DALL-E evaluation
 app-emacs/ob-deno 1.0.1: Babel Functions for Javascript/TypeScript with Deno
 app-emacs/ob-ess-julia 1.0.3: Org babel support for Julia language
 app-emacs/ob-git-permalink 0.1.0: Easy code citation from repository hosting service
@@ -2253,6 +2255,7 @@ app-emacs/parseedn 1.2.1: Clojure/EDN parser
 app-emacs/pass 2.0: Major mode for password-store.el
 app-emacs/password-menu 0.1.0: Password Menu for auth-source secrets
 app-emacs/password-store 1.7.4: Password store (pass) support
+app-emacs/password-store-menu 1.0.1: A better, more complete UI for password-store
 app-emacs/password-store-otp 0.1.5: Password store (pass) OTP extension support
 app-emacs/pastehub 0.5.2: A client for the PasteHub cloud service
 app-emacs/pastelmac-theme 1.0: a soothing theme with a pastel color palette
@@ -2584,7 +2587,7 @@ app-emacs/shackle 1.0.4: Enforce rules for popups
 app-emacs/shakespeare-mode 0.0.2: A major mode for editing Shakespearean templates.
 app-emacs/shampoo 0.0.1: Shampoo, a remote Smalltalk developemnt
 app-emacs/shell-command-x 0.1.3: Extensions for shell commands
-app-emacs/shell-maker 1.3.1: Interaction mode for making comint shells
+app-emacs/shell-maker 1.4.1: Interaction mode for making comint shells
 app-emacs/shell-pop 0.64: helps you to use shell easily on Emacs. Only one key action to work.
 app-emacs/shell-split-string 0.1: Split strings using shell-like syntax
 app-emacs/shell-switcher 1.0.1: Provide fast switching between shell buffers.
@@ -2609,7 +2612,7 @@ app-emacs/shut-up 0.3.3: Shut up would you!
 app-emacs/shx 1.5.0: Extras for the comint-mode shell
 app-emacs/side-hustle 0.3.0: Hustle through Imenu in a side window
 app-emacs/side-notes 0.4.1: Easy access to a directory notes file
-app-emacs/sideline 0.1.1: Show informations on the side
+app-emacs/sideline 0.2.0: Show information on the side
 app-emacs/sideline-blame 0.1.0: Show blame messages with sideline
 app-emacs/sideline-flycheck 0.1.0: Show flycheck errors with sideline
 app-emacs/sideline-flymake 0.1.0: Show flymake errors with sideline
@@ -2708,7 +2711,7 @@ app-emacs/standard-dirs 2.0.0: Platform-specific paths for config, cache, and ot
 app-emacs/starhugger 0.5.0: Hugging Face/AI-powered text & code completion client
 app-emacs/stash 0.4.1: lightweight persistent caching
 app-emacs/status 0.3: This package adds support for status icons to Emacs.
-app-emacs/stgit 2.4.10: major mode for StGit interaction
+app-emacs/stgit 2.4.11: major mode for StGit interaction
 app-emacs/stock-tracker 0.1.6: Track stock price
 app-emacs/streak 3.0.0: Track a daily streak in your Mode Line
 app-emacs/string-edit-at-point 1.0.0: Avoid escape nightmares by editing string in separate buffer
@@ -2798,7 +2801,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2024.8.19.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2024.8.26.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2838,7 +2841,7 @@ app-emacs/tray 0.1.4: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.212: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.214: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
