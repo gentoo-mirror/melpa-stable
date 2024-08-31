@@ -20,9 +20,7 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/mu4e-column-faces
 	app-emacs/mu4e-alert
-	app-emacs/helm-mu
 	app-emacs/org-msg"
 RDEPEND="app-emacs/mu4e-column-faces
 	app-emacs/mu4e-alert
-	app-emacs/helm-mu
 	app-emacs/org-msg"
