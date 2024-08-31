@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/dash
 	app-emacs/s
-	app-emacs/org-mode"
+	app-emacs/org-mode
+	app-emacs/compat"
 RDEPEND="app-emacs/dash
 	app-emacs/s
-	app-emacs/org-mode"
+	app-emacs/org-mode
+	app-emacs/compat"
