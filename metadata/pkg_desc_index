@@ -729,7 +729,7 @@ app-emacs/ellama 0.11.13: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
-app-emacs/elmpd 0.2.4: A tight, ergonomic, async client library for mpd
+app-emacs/elmpd 0.3.0: A tight, ergonomic, async client library for mpd
 app-emacs/elogcat 0.2.0: logcat interface
 app-emacs/elpa-audit 0.4: Handy functions for inspecting and comparing package archives
 app-emacs/elpa-clone 0.4.0: Clone ELPA archive
@@ -1896,7 +1896,7 @@ app-emacs/mozc 2.30.5544.102: minor mode to input Japanese with Mozc
 app-emacs/mozc-temp 1.0.0: Use mozc temporarily
 app-emacs/mpdel 2.1.0: Play and control your MPD music
 app-emacs/mpdel-embark 0.4.0: Integrate MPDel with Embark
-app-emacs/mpdmacs 0.3.0: A lightweight MPD client
+app-emacs/mpdmacs 0.4.0: A lightweight MPD client
 app-emacs/mpmc-queue 0.1.1: a multiple-producer-multiple-consumer queue
 app-emacs/mpv 0.2.0: control mpv for easy note-taking
 app-emacs/mqtt-mode 0.1.0: client for interaction with MQTT servers
@@ -1906,7 +1906,7 @@ app-emacs/mu4e-alert 1.0: Desktop notification for mu4e
 app-emacs/mu4e-column-faces 1.2.1: Faces for individual mu4e columns
 app-emacs/mu4e-overview 0.4.1: Show overview of maildir
 app-emacs/mu4e-views 0.7: View emails in mu4e using xwidget-webkit
-app-emacs/mu4easy 1.0: Packages + configs for using mu4e with multiple accounts
+app-emacs/mu4easy 1.4: Packages + configs for using mu4e with multiple accounts
 app-emacs/mugur 2.0: Configurator for QMK compatible keyboards
 app-emacs/multi 2.0.1: Clojure-style multi-methods for emacs lisp
 app-emacs/multi-line 0.1.6: multi-line statements
@@ -2026,7 +2026,7 @@ app-emacs/ocamlformat 0.26.2: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
 app-emacs/octicons 0.1: octicons utility
-app-emacs/oer-reveal 4.25.0: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.26.0: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.3: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -2108,7 +2108,7 @@ app-emacs/org-link-beautify 1.2.3: Beautify Org Links
 app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
 app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various Mac apps
-app-emacs/org-make-toc 0.5: Automatic tables of contents for Org files
+app-emacs/org-make-toc 0.6: Automatic tables of contents for Org files
 app-emacs/org-mime 0.3.3: org html export for text/html MIME emails
 app-emacs/org-ml 5.8.8: Functional Org Mode API
 app-emacs/org-modern 1.5: Modern looks for Org
@@ -2117,6 +2117,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
+app-emacs/org-noter 1.5.0: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
 app-emacs/org-page 0.41: a static site generator based on org mode
 app-emacs/org-pomodoro 2.1.0: Pomodoro implementation for org-mode.
@@ -2127,7 +2128,7 @@ app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.8.8: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
-app-emacs/org-re-reveal 3.32.0: Org export to reveal.js presentations
+app-emacs/org-re-reveal 3.33.0: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
 app-emacs/org-re-reveal-ref 1.0.0: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
@@ -2284,7 +2285,7 @@ app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
 app-emacs/pet 3.1.0: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: a simple wrapper around asynchronous processes
-app-emacs/pg 0.40: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
+app-emacs/pg 0.41: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/ph 0.1.0: A global minor mode for managing multiple projects.
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: another incremental search & replace, compatible with "multiple-cursors"
@@ -2456,7 +2457,7 @@ app-emacs/rc-mode 1.0.13: Major mode for the Plan9 rc shell
 app-emacs/rcirc-styles 1.3.2: support mIRC-style color and attribute codes
 app-emacs/rdf-prefix 1.14: Prefix lookup for RDF
 app-emacs/react-snippets 0.1: Yasnippets for React
-app-emacs/ready-player 0.6.2: Open media files in ready-player major mode
+app-emacs/ready-player 0.7.3: Open media files in ready-player major mode
 app-emacs/real-auto-save 0.4: enable real auto save
 app-emacs/realgud 1.5.1: A modular front-end for interacting with external debuggers
 app-emacs/realgud-lldb 1.0.2: Realgud front-end to lldb
