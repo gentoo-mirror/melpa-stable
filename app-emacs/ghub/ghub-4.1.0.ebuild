@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Client libraries for Git forge APIs."
+DESCRIPTION="Client libraries for Git forge APIs"
 
 HOMEPAGE="https://github.com/magit/ghub"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
