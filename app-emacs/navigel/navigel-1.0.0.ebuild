@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Facilitate the creation of tabulated-list based UIs"
 
-HOMEPAGE="https://gitlab.petton.fr/DamienCassou/navigel"
+HOMEPAGE="https://github.com/DamienCassou/navigel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
