@@ -5,38 +5,28 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="forge"
+REALNAME="magit"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Access Git forges from Magit."
+DESCRIPTION="A Git porcelain inside Emacs"
 
-HOMEPAGE="https://github.com/magit/forge"
+HOMEPAGE="https://github.com/magit/magit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/compat
-	app-emacs/closql
 	app-emacs/dash
-	app-emacs/emacsql
-	app-emacs/ghub
-	app-emacs/let-alist
-	app-emacs/magit
-	app-emacs/markdown-mode
+	app-emacs/magit-section
 	app-emacs/seq
 	app-emacs/transient
-	app-emacs/yaml"
+	app-emacs/with-editor"
 RDEPEND="app-emacs/compat
-	app-emacs/closql
 	app-emacs/dash
-	app-emacs/emacsql
-	app-emacs/ghub
-	app-emacs/let-alist
-	app-emacs/magit
-	app-emacs/markdown-mode
+	app-emacs/magit-section
 	app-emacs/seq
 	app-emacs/transient
-	app-emacs/yaml"
+	app-emacs/with-editor"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A Git porcelain inside Emacs.</longdescription>
+	<longdescription>A Git porcelain inside Emacs</longdescription>
 </pkgmetadata>
