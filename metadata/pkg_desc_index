@@ -731,7 +731,7 @@ app-emacs/ellama 0.11.13: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: No description available.
-app-emacs/elmpd 0.3.1: A tight, ergonomic, async client library for mpd
+app-emacs/elmpd 1.0.0: A tight, ergonomic, async client library for mpd
 app-emacs/elogcat 0.2.0: logcat interface
 app-emacs/elpa-audit 0.4: Handy functions for inspecting and comparing package archives
 app-emacs/elpa-clone 0.4.0: Clone ELPA archive
@@ -2076,8 +2076,8 @@ app-emacs/org-bulletproof 0.3: Automatic plain list bullet cycling
 app-emacs/org-bullets 0.2.4: Show bullets in org-mode as UTF-8 characters
 app-emacs/org-caldav 3.1: Sync org files with external calendar through CalDAV
 app-emacs/org-category-capture 3.1.0: Contextualy capture of org-mode TODOs.
-app-emacs/org-cite-overlay 1.0.0: Overlays for org-cite citations
-app-emacs/org-cite-overlay-sidecar 1.0.0: Show Sidecar for overlaid org-cite citations
+app-emacs/org-cite-overlay 1.1.0: Overlays for org-cite citations
+app-emacs/org-cite-overlay-sidecar 1.1.0: Show Sidecar for overlaid org-cite citations
 app-emacs/org-clock-csv 1.2: Export `org-mode' clock entries to CSV format.
 app-emacs/org-commentary 0.3.0: generate or update conventional library headers using Org mode files
 app-emacs/org-d20 0.6: minor mode for d20 tabletop roleplaying games
@@ -2806,7 +2806,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble.
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2024.8.26.0: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2024.9.2.0: major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2824,7 +2824,7 @@ app-emacs/titlecase 0.4.1: Title-case phrases
 app-emacs/toc-org 1.2.0: add table of contents to org-mode files (formerly, org-toc)
 app-emacs/tokei 0.2: Display codebase statistics
 app-emacs/toml 0.1.0: TOML (Tom's Obvious, Minimal Language) parser
-app-emacs/tomorrow-night-deepblue-theme 1.1.2: The Tomorrow Night Deepblue color theme
+app-emacs/tomorrow-night-deepblue-theme 1.2.0: The Tomorrow Night Deepblue color theme
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/torus 2.2: A buffer groups manager
 app-emacs/total-lines 0.2.0: Keep track of a buffer's total number of lines
