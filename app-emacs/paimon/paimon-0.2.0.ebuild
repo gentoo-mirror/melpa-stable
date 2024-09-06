@@ -24,11 +24,13 @@ DEPEND="app-emacs/emacs-aio
 	app-emacs/f
 	app-emacs/ht
 	app-emacs/transient
-	app-emacs/request"
+	app-emacs/request
+	app-emacs/compat"
 RDEPEND="app-emacs/emacs-aio
 	app-emacs/closql
 	app-emacs/emacsql
 	app-emacs/f
 	app-emacs/ht
 	app-emacs/transient
-	app-emacs/request"
+	app-emacs/request
+	app-emacs/compat"
