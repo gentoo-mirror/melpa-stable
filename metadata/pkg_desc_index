@@ -115,7 +115,7 @@ app-emacs/asilea 0.2.1: Find best compiler options using simulated annealing
 app-emacs/asm-blox 0.4.1: Programming game involving WAT
 app-emacs/assess 0.6: Test support functions
 app-emacs/astro-ts-mode 2.0.1: Major mode for editing Astro templates
-app-emacs/async 1.9.8: Asynchronous processing in Emacs
+app-emacs/async 1.9.9: Asynchronous processing in Emacs
 app-emacs/async-await 1.1: Async/Await
 app-emacs/asyncloop 1.1: Non-blocking series of functions
 app-emacs/atcoder-tools 0.4.0: An atcoder-tools client
@@ -244,7 +244,7 @@ app-emacs/bundler 1.1.0: Interact with Bundler from Emacs
 app-emacs/burly 0.3: Save and restore frame/window configurations with buffers
 app-emacs/bury-successful-compilation 0.1.2: Bury the *compilation* buffer after successful compilation
 app-emacs/butler 0.2.6: Emacs client for Jenkins
-app-emacs/buttercup 1.35: Behavior-Driven Emacs Lisp Testing
+app-emacs/buttercup 1.36: Behavior-Driven Emacs Lisp Testing
 app-emacs/buttercup-junit 1.1.2: JUnit reporting for Buttercup
 app-emacs/button-lock 1.0.2: Clickable text defined by regular expression
 app-emacs/buttons 0.0.3: Define and visualize hierarchies of keymaps
@@ -270,14 +270,14 @@ app-emacs/caseformat 0.1.0: Format based letter case converter
 app-emacs/cask-mode 0.1: major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
 app-emacs/caskxy 0.0.5: Control Cask in Emacs
-app-emacs/casual-agenda 1.0.3: Transient UI for Agenda
+app-emacs/casual-agenda 1.0.4: Transient UI for Agenda
 app-emacs/casual-avy 1.4.2: Transient UI for Avy
 app-emacs/casual-bookmarks 1.1.1: Transient UI for Bookmarks
 app-emacs/casual-calc 1.11.3: Transient UI for Calc
 app-emacs/casual-dired 1.8.1: Transient UI for Dired
 app-emacs/casual-ibuffer 1.1.4: Transient UI for IBuffer
 app-emacs/casual-info 1.3.2: Transient UI for Info
-app-emacs/casual-isearch 1.9.0: Transient UI for I-Search
+app-emacs/casual-isearch 1.10.0: Transient UI for I-Search
 app-emacs/casual-lib 1.1.3: Library routines for Casual user interfaces
 app-emacs/casual-re-builder 1.1.2: Transient UI for RE-Builder
 app-emacs/casual-suite 1.5.0: A suite of opinionated Transient UIs
@@ -751,13 +751,13 @@ app-emacs/emacs-crystal-mode 0.1.0: Major mode for editing Crystal files
 app-emacs/emacs-el-fetch 3.3.0: Show system information in Neofetch-like style (eg CPU, RAM)
 app-emacs/emacs-websearch 2.1.1: Query search engines
 app-emacs/emacsc 1.5.20240629.1: helper for emacsc(1)
-app-emacs/emacsql 4.0.2: High-level SQL database front-end
-app-emacs/emacsql-mysql 4.0.2: EmacSQL back-end for MySQL
-app-emacs/emacsql-pg 4.0.2: EmacSQL back-end for PostgreSQL via pg
-app-emacs/emacsql-psql 4.0.2: EmacSQL back-end for PostgreSQL via psql
-app-emacs/emacsql-sqlite 4.0.2: EmacSQL back-end for SQLite
-app-emacs/emacsql-sqlite-builtin 4.0.2: EmacSQL back-end for SQLite using builtin support
-app-emacs/emacsql-sqlite-module 4.0.2: EmacSQL back-end for SQLite using a module
+app-emacs/emacsql 4.0.3: High-level SQL database front-end
+app-emacs/emacsql-mysql 4.0.3: EmacSQL back-end for MySQL
+app-emacs/emacsql-pg 4.0.3: EmacSQL back-end for PostgreSQL via pg
+app-emacs/emacsql-psql 4.0.3: EmacSQL back-end for PostgreSQL via psql
+app-emacs/emacsql-sqlite 4.0.3: EmacSQL back-end for SQLite
+app-emacs/emacsql-sqlite-builtin 4.0.3: EmacSQL back-end for SQLite using builtin support
+app-emacs/emacsql-sqlite-module 4.0.3: EmacSQL back-end for SQLite using a module
 app-emacs/emacsshot 0.5.0: Snapshot a frame or window from within
 app-emacs/emamux 0.14: Interact with tmux
 app-emacs/emaps 0.2.0: Utilities for working with keymaps
@@ -1081,7 +1081,7 @@ app-emacs/fontify-face 1.1.0: Fontify symbols representing faces with that face.
 app-emacs/fontsloth 0.15.3: Elisp otf/ttf font loader/renderer
 app-emacs/for 1.4: Iteration and sequence
 app-emacs/foreman-mode 0.0.1: View and manage Procfile-based applications
-app-emacs/forge 0.4.2: Access Git forges from Magit
+app-emacs/forge 0.4.3: Access Git forges from Magit
 app-emacs/form-feed 0.2.3: Display ^L glyphs as horizontal lines
 app-emacs/format-all 0.6.0: Auto-format C, C++, JS, Python, Ruby and 50 other languages
 app-emacs/format-sql 0.4: Use format-sql to make your SQL readable in directly Emacs.
@@ -1195,7 +1195,7 @@ app-emacs/gmail2bbdb 0.0.6: import email and name into bbdb from vcard.
 app-emacs/gmpl-mode 0.1.0: Major mode for editing GMPL(MathProg) files
 app-emacs/gn-mode 0.4.1: major mode for editing GN (generate ninja) files
 app-emacs/gnome-screencast 1.4: Use Gnome screen recording functionality using elisp
-app-emacs/gnosis 0.4.1: Spaced Repetition System
+app-emacs/gnosis 0.4.2: Spaced Repetition System
 app-emacs/gntp 0.1: Growl Notification Protocol for Emacs
 app-emacs/gnuplot 0.8.1: Major-mode and interactive frontend for gnuplot
 app-emacs/gnus-desktop-notify 1.4: Gnus Desktop Notification global minor mode
@@ -1273,7 +1273,7 @@ app-emacs/guide-key-tip 0.0.1: Show guide-key.el hints using pos-tip.el
 app-emacs/guru-mode 1.0: Become an Emacs guru
 app-emacs/gvariant 1.0.0: GVariant (GLib) helpers
 app-emacs/gxref 0.1: xref backend using GNU Global.
-app-emacs/hack-mode 1.2: Major mode for the Hack programming language
+app-emacs/hack-mode 1.3: Major mode for the Hack programming language
 app-emacs/hacker-typer 1.0.6: Pretend to write code like a pro
 app-emacs/hackernews 0.7.0: Hacker News Client for Emacs
 app-emacs/halloweenie-theme 0.1.1: Dark and spooky Halloween color theme
@@ -1358,7 +1358,7 @@ app-emacs/helm-notmuch 1.2: Search emails with Notmuch and Helm
 app-emacs/helm-open-github 0.15: Utilities of Opening Github Page
 app-emacs/helm-org 1.0: Helm for org headlines and keywords completion
 app-emacs/helm-org-multi-wiki 0.4.0: Helm interface to org-multi-wiki
-app-emacs/helm-org-ql 0.8.8: Helm support for org-ql
+app-emacs/helm-org-ql 0.8.9: Helm support for org-ql
 app-emacs/helm-org-rifle 1.7.1: Rifle through your Org files
 app-emacs/helm-orgcard 0.2: browse the orgcard by helm
 app-emacs/helm-pages 0.1.1: Pages in current buffer as Helm datasource
@@ -1633,7 +1633,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.12: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.21.4: Your Second Brain
+app-emacs/khoj 1.21.5: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
@@ -1981,7 +1981,7 @@ app-emacs/notmuch 0.38.3: run notmuch within emacs
 app-emacs/notmuch-addr 1.0.1: Improved address completion for Notmuch
 app-emacs/notmuch-bookmarks 0.2: Add bookmark handling for notmuch buffers
 app-emacs/notmuch-labeler 0.1: Improve notmuch way of displaying labels
-app-emacs/notmuch-maildir 1.0.0: Display maildirs as a tree
+app-emacs/notmuch-maildir 1.1.0: Display maildirs as a tree
 app-emacs/notmuch-transient 1.0.0: Command dispatchers for Notmuch
 app-emacs/nov 0.4.0: Featureful EPUB reader mode
 app-emacs/noxml-fold 0.0.2: Fold away XML things.
@@ -2029,7 +2029,7 @@ app-emacs/ocamlformat 0.26.2: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: automatic indentation with ocp-indent
 app-emacs/octicons 0.1: octicons utility
-app-emacs/oer-reveal 4.26.0: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.27.1: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.3: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -2129,7 +2129,7 @@ app-emacs/org-project-capture 3.1.0: Repository todo capture and management for 
 app-emacs/org-projectile 3.1.0: Repository todo capture and management for org-mode with projectile
 app-emacs/org-projectile-helm 3.1.0: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
-app-emacs/org-ql 0.8.8: Org Query Language, search command, and agenda-like view
+app-emacs/org-ql 0.8.9: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: show a random TODO (with alert) every so often
 app-emacs/org-re-reveal 3.33.0: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
@@ -2237,7 +2237,7 @@ app-emacs/package-lint-flymake 0.23: A package-lint Flymake backend
 app-emacs/package-utils 1.0.1: Extensions for package.el
 app-emacs/pact-mode 0.0.5: Mode for Pact, a LISPlike smart contract language.
 app-emacs/page-break-lines 0.15: Display ^L page breaks as tidy horizontal lines
-app-emacs/paimon 0.1.6: A major mode for Splunk
+app-emacs/paimon 0.2.0: A major mode for Splunk
 app-emacs/palimpsest 1.1: Various deletion strategies when editing
 app-emacs/panda-theme 0.1: Panda Theme
 app-emacs/pandoc 0.0.1: Pandoc interface
@@ -2461,7 +2461,7 @@ app-emacs/rc-mode 1.0.13: Major mode for the Plan9 rc shell
 app-emacs/rcirc-styles 1.3.2: support mIRC-style color and attribute codes
 app-emacs/rdf-prefix 1.14: Prefix lookup for RDF
 app-emacs/react-snippets 0.1: Yasnippets for React
-app-emacs/ready-player 0.10.1: Open media files in ready-player major mode
+app-emacs/ready-player 0.18.2: Open media files in ready-player major mode
 app-emacs/real-auto-save 0.4: enable real auto save
 app-emacs/realgud 1.5.1: A modular front-end for interacting with external debuggers
 app-emacs/realgud-lldb 1.0.2: Realgud front-end to lldb
@@ -3012,7 +3012,7 @@ app-emacs/window-numbering 1.1.2: No description available.
 app-emacs/window-purpose 1.8.1: Purpose-based window management for Emacs
 app-emacs/windsize 0.1: Simple, intuitive window resizing
 app-emacs/windswap 0.1: Like windmove, but swaps buffers while moving point
-app-emacs/winring 5.1: Window configuration rings
+app-emacs/winring 5.2: Window configuration rings
 app-emacs/winum 2.1.0: Navigate windows and frames using numbers.
 app-emacs/wisp-mode 1.0.12: Tools for wisp: the Whitespace-to-Lisp preprocessor
 app-emacs/wispjs-mode 0.2.0: Major mode for Wisp code.
