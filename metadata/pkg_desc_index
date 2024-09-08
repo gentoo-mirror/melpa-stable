@@ -1417,7 +1417,7 @@ app-emacs/highlight-quoted 0.1: Highlight Lisp quotes and quoted symbols
 app-emacs/highlight-symbol 1.3: automatic and manual symbol highlighting
 app-emacs/highlight2clipboard 0.0.3: Copy text to clipboard with highlighting.
 app-emacs/himalaya 0.3: Interface for the himalaya email client
-app-emacs/hindent 6.1.1: Indent haskell code using the "hindent" program
+app-emacs/hindent 6.2.0: Indent haskell code using the "hindent" program
 app-emacs/hippie-expand-slime 0.1: Hook slime's completion into hippie-expand
 app-emacs/hippie-namespace 0.5.8: Special treatment for namespace prefixes in hippie-expand
 app-emacs/history 1.0.0: History utility for source code navigation
@@ -1485,7 +1485,7 @@ app-emacs/imenu-anywhere 1.1.6: ido/ivy/helm imenu across same mode/project/etc 
 app-emacs/imenu-extra 0.0.1: Add extra items into existing imenu items
 app-emacs/imenu-list 0.9: Show imenu entries in a separate buffer
 app-emacs/imenus 0.2: Imenu for multiple buffers and without subgroups
-app-emacs/immaterial-theme 0.9.1: A flexible theme based on material design principles
+app-emacs/immaterial-theme 0.9.2: A flexible theme based on material design principles
 app-emacs/immutant-server 1.2.0: Run your Immutant server in Emacs
 app-emacs/impatient-mode 1.1: Serve buffers live over HTTP
 app-emacs/impatient-showdown 0.1.2: Preview markdown buffer live over HTTP using showdown
@@ -2674,7 +2674,7 @@ app-emacs/solidity-mode 0.1.10: Major mode for ethereum's solidity language
 app-emacs/solo-jazz-theme 0.9.0: The Solo-Jazz color theme
 app-emacs/soong-mode 1.0.0: Major mode for editing Soong build files
 app-emacs/soothe-theme 2.1.8: A dark colorful theme
-app-emacs/sops 0.1.4: SOPS encrypt and decrypt without leaving the editor
+app-emacs/sops 0.1.5: SOPS encrypt and decrypt without leaving the editor
 app-emacs/soria-theme 0.4.2: A xoria256 theme with some colors from openSUSE
 app-emacs/sotclojure 1.3.1: Write clojure at the speed of thought.
 app-emacs/sotlisp 1.6.2: Write lisp at the speed of thought.
@@ -2846,7 +2846,7 @@ app-emacs/tray 0.1.5: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.215: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.216: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
