@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="orderless"
+REALNAME="php-cs-fixer"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Completion style for matching regexps in any order"
+DESCRIPTION="The php-cs-fixer wrapper"
 
-HOMEPAGE="https://github.com/oantolin/orderless"
+HOMEPAGE="https://github.com/OVYA/php-cs-fixer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
