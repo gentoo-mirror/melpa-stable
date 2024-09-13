@@ -1634,7 +1634,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings.
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.12: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.22.3: Your Second Brain
+app-emacs/khoj 1.23.1: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: incremental search for the kill ring
@@ -2297,7 +2297,7 @@ app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: another incremental search & replace, compatible with "multiple-cursors"
 app-emacs/phi-search-mc 2.2.1: multiple-cursors extension for phi-search
 app-emacs/php-cs-fixer 2.1.0: The php-cs-fixer wrapper
-app-emacs/php-mode 1.25.1: Major mode for editing PHP code
+app-emacs/php-mode 1.26.1: Major mode for editing PHP code
 app-emacs/php-quickhelp 0.5.5: Quickhelp at point for php
 app-emacs/php-runtime 0.3.1: Language binding bridge to PHP
 app-emacs/phpactor 0.1.0: Interface to Phpactor
@@ -2463,7 +2463,7 @@ app-emacs/rc-mode 1.0.13: Major mode for the Plan9 rc shell
 app-emacs/rcirc-styles 1.3.2: support mIRC-style color and attribute codes
 app-emacs/rdf-prefix 1.14: Prefix lookup for RDF
 app-emacs/react-snippets 0.1: Yasnippets for React
-app-emacs/ready-player 0.20.3: Open media files in ready-player major mode
+app-emacs/ready-player 0.20.4: Open media files in ready-player major mode
 app-emacs/real-auto-save 0.4: enable real auto save
 app-emacs/realgud 1.5.1: A modular front-end for interacting with external debuggers
 app-emacs/realgud-lldb 1.0.2: Realgud front-end to lldb
