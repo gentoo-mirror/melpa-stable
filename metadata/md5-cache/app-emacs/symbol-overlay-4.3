@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Minor mode for visual feedback on some operations.
+DEPEND=app-emacs/seq
+DESCRIPTION=Highlight symbols with keymap-enabled overlays
 EAPI=8
-HOMEPAGE=http://www.emacswiki.org/emacs/download/volatile-highlights.el
+HOMEPAGE=https://github.com/wolray/symbol-overlay/
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/seq >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/volatile-highlights-1.11.tar
+SRC_URI=https://stable.melpa.org/packages/symbol-overlay-4.3.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=4f77082e4f9f8008ac1b12fe54f21eed
+_md5_=349f657c7858ef6110d8c3d0234f2427
