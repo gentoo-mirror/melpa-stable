@@ -1449,7 +1449,7 @@ app-emacs/hyai 1.0.0: Haskell Yet Another Indentation
 app-emacs/hydandata-light-theme 0.9.0: A light color theme that is easy on your eyes
 app-emacs/hyde 0.2: No description available.
 app-emacs/hydra 0.15.0: Make bindings that stick around.
-app-emacs/hyperdrive 0.4.0: P2P filesystem
+app-emacs/hyperdrive 0.4.1: P2P filesystem
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
 app-emacs/hyperstitional-themes 1.2.0: Weird themes with incremental palettes
@@ -1684,7 +1684,7 @@ app-emacs/lentic 0.11: One buffer as a view of another
 app-emacs/less-css-mode 0.21: Major mode for editing LESS CSS files (lesscss.org)
 app-emacs/letcheck 0.4: Check the erroneous assignments in let forms
 app-emacs/leuven-theme 1.2.1: Elegant Emacs color theme for a white background
-app-emacs/lfe-mode 2.1.4: Lisp Flavoured Erlang mode
+app-emacs/lfe-mode 2.1.5: Lisp Flavoured Erlang mode
 app-emacs/libbcel 0.4.0: Library to connect to basecamp 3 API
 app-emacs/libelcouch 0.11.0: Communication with CouchDB
 app-emacs/liberime 0.0.6: Rime elisp binding
