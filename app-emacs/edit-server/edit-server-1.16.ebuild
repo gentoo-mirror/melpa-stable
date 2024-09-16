@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="server that responds to edit requests from Chrome"
+DESCRIPTION="Server that responds to edit requests from Chrome"
 
 HOMEPAGE="https://github.com/stsquad/emacs_chrome"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

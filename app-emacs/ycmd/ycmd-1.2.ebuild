@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="emacs bindings to the ycmd completion server"
+DESCRIPTION="Emacs bindings to the ycmd completion server"
 
 HOMEPAGE="https://github.com/abingham/emacs-ycmd"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

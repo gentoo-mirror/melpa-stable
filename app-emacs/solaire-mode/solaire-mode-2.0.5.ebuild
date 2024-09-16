@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="make certain buffers grossly incandescent"
+DESCRIPTION="Make certain buffers grossly incandescent"
 
 HOMEPAGE="https://github.com/hlissner/emacs-solaire-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

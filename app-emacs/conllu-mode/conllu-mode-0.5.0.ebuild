@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="editing mode for CoNLL-U files"
+DESCRIPTION="Editing mode for CoNLL-U files"
 
 HOMEPAGE="https://github.com/odanoburu/conllu-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

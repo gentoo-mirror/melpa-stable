@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Support for Twitch emotes for ERC."
+DESCRIPTION="Support for Twitch emotes for ERC"
 
 HOMEPAGE="https://github.com/vibhavp/erc-twitch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

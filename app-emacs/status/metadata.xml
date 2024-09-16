@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>This package adds support for status icons to Emacs.</longdescription>
+	<longdescription>This package adds support for status icons to Emacs</longdescription>
 </pkgmetadata>

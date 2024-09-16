@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Edit multiple regions in the same way simultaneously."
+DESCRIPTION="Edit multiple regions in the same way simultaneously"
 
 HOMEPAGE="https://github.com/victorhge/iedit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

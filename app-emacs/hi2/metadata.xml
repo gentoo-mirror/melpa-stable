@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>indentation module for Haskell Mode</longdescription>
+	<longdescription>Indentation module for Haskell Mode</longdescription>
 </pkgmetadata>

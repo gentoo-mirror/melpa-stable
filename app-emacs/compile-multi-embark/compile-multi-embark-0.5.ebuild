@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="compile-multi integration for \`embark'"
+DESCRIPTION="Compile-multi integration for \`embark'"
 
 HOMEPAGE="https://github.com/mohkale/compile-multi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="multi-line statements"
+DESCRIPTION="Multi-line statements"
 
 HOMEPAGE="https://github.com/IvanMalison/multi-line"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

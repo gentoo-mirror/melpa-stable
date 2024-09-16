@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A static site generator based on org mode.</longdescription>
+	<longdescription>A static site generator based on org mode</longdescription>
 </pkgmetadata>

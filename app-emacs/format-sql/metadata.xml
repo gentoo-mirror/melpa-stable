@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Use format-sql to make your SQL readable in directly Emacs.</longdescription>
+	<longdescription>Use format-sql to make your SQL readable in directly Emacs</longdescription>
 </pkgmetadata>

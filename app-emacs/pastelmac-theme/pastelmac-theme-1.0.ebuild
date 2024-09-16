@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a soothing theme with a pastel color palette"
+DESCRIPTION="A soothing theme with a pastel color palette"
 
 HOMEPAGE="https://github.com/bmastenbrook/pastelmac-theme-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

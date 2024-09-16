@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for MarkLogic evaluation"
+DESCRIPTION="Org-babel functions for MarkLogic evaluation"
 
 HOMEPAGE="http://github.com/ndw/ob-ml-marklogic"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

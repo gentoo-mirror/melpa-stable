@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>flycheck backend for Nim using nimsuggest</longdescription>
+	<longdescription>Flycheck backend for Nim using nimsuggest</longdescription>
 </pkgmetadata>

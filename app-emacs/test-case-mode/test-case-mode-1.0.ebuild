@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="unit test front-end"
+DESCRIPTION="Unit test front-end"
 
 HOMEPAGE="http://nschum.de/src/emacs/test-case-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Move current line or region with M-up or M-down."
+DESCRIPTION="Move current line or region with M-up or M-down"
 
 HOMEPAGE="https://github.com/emacsfodder/move-text"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

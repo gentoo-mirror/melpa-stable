@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ivy for GNU global"
+DESCRIPTION="Ivy for GNU global"
 
 HOMEPAGE="https://github.com/syohex/emacs-counsel-gtags"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

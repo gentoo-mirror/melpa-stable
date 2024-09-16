@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Enhanced editing for minibuffer fields.</longdescription>
+	<longdescription>Enhanced editing for minibuffer fields</longdescription>
 </pkgmetadata>

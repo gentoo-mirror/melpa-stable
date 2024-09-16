@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>query html document with css selectors</longdescription>
+	<longdescription>Query html document with css selectors</longdescription>
 </pkgmetadata>

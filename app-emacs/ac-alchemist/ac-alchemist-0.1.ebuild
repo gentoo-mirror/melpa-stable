@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="auto-complete source for alchemist"
+DESCRIPTION="Auto-complete source for alchemist"
 
 HOMEPAGE="https://github.com/syohex/emacs-ac-alchemist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="multiple cursors for evil-mode"
+DESCRIPTION="Multiple cursors for evil-mode"
 
 HOMEPAGE="https://github.com/hlissner/evil-multiedit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

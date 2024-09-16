@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Use `wmctrl' to manage desktop windows via EWMH/NetWM.</longdescription>
+	<longdescription>Use `wmctrl' to manage desktop windows via EWMH/NetWM</longdescription>
 </pkgmetadata>

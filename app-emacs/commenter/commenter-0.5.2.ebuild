@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="multiline-comment support package"
+DESCRIPTION="Multiline-comment support package"
 
 HOMEPAGE="https://github.com/yuutayamada/commenter"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

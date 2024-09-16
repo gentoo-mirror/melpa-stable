@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="jump to x86 instruction documentation"
+DESCRIPTION="Jump to x86 instruction documentation"
 
 HOMEPAGE="https://github.com/skeeto/x86-lookup"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

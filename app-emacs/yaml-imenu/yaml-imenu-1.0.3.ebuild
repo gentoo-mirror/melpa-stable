@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Enhancement of the imenu support in yaml-mode."
+DESCRIPTION="Enhancement of the imenu support in yaml-mode"
 
 HOMEPAGE="https://github.com/knu/yaml-imenu.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

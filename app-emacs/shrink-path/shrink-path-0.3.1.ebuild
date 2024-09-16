@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="fish-style path"
+DESCRIPTION="Fish-style path"
 
 HOMEPAGE="https://gitlab.com/bennya/shrink-path.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

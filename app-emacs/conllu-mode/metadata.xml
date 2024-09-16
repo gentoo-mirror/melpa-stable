@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>editing mode for CoNLL-U files</longdescription>
+	<longdescription>Editing mode for CoNLL-U files</longdescription>
 </pkgmetadata>

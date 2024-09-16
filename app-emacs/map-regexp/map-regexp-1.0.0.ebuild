@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="map over matches of a regular expression"
+DESCRIPTION="Map over matches of a regular expression"
 
 HOMEPAGE="https://github.com/tarsius/map-regexp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

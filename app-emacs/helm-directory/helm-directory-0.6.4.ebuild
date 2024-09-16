@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="selecting directory before select the file"
+DESCRIPTION="Selecting directory before select the file"
 
 HOMEPAGE="https://github.com/masasam/emacs-helm-directory"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

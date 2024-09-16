@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="hungry delete minor mode"
+DESCRIPTION="Hungry delete minor mode"
 
 HOMEPAGE="http://github.com/nflath/hungry-delete"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

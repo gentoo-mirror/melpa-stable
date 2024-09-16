@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>helm circe buffer management.</longdescription>
+	<longdescription>Helm circe buffer management</longdescription>
 </pkgmetadata>

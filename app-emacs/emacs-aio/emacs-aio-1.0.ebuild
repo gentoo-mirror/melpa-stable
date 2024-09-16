@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="async/await for Emacs Lisp"
+DESCRIPTION="Async/await for Emacs Lisp"
 
 HOMEPAGE="https://github.com/skeeto/emacs-aio"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

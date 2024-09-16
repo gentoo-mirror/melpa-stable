@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="smart-mode-line theme that mimics the powerline appearance."
+DESCRIPTION="Smart-mode-line theme that mimics the powerline appearance"
 
 HOMEPAGE="http://github.com/Bruce-Connor/smart-mode-line"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

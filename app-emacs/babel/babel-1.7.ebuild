@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="interface to web translation services such as Babelfish"
+DESCRIPTION="Interface to web translation services such as Babelfish"
 
 HOMEPAGE="http://github.com/juergenhoetzel/babel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

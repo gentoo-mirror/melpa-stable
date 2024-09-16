@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="kill and delete text"
+DESCRIPTION="Kill and delete text"
 
 HOMEPAGE="http://github.com/tarsius/killer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

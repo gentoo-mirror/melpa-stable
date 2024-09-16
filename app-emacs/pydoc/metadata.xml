@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>functional, syntax highlighted pydoc navigation</longdescription>
+	<longdescription>Functional, syntax highlighted pydoc navigation</longdescription>
 </pkgmetadata>

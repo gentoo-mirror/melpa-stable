@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="auto install system packages"
+DESCRIPTION="Auto install system packages"
 
 HOMEPAGE="https://github.com/waymondo/use-package-ensure-system-package"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

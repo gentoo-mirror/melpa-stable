@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="flycheck integration for ycmd"
+DESCRIPTION="Flycheck integration for ycmd"
 
 HOMEPAGE="https://github.com/abingham/emacs-ycmd"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Evil states to interface iedit mode."
+DESCRIPTION="Evil states to interface iedit mode"
 
 HOMEPAGE="https://github.com/syl20bnr/evil-iedit-state"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

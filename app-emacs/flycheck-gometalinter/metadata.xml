@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>flycheck checker for gometalinter</longdescription>
+	<longdescription>Flycheck checker for gometalinter</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="api-wrapping macros"
+DESCRIPTION="Api-wrapping macros"
 
 HOMEPAGE="https://github.com/vermiculus/apiwrap.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

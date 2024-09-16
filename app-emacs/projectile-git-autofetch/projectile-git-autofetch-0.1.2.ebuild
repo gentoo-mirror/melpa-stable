@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="automatically fetch git repositories"
+DESCRIPTION="Automatically fetch git repositories"
 
 HOMEPAGE="https://github.com/andrmuel/projectile-git-autofetch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

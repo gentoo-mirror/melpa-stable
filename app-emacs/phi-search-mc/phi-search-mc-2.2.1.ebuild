@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="multiple-cursors extension for phi-search"
+DESCRIPTION="Multiple-cursors extension for phi-search"
 
 HOMEPAGE="https://github.com/knu/phi-search-mc.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="No description available."
+DESCRIPTION="[No description available]"
 
 HOMEPAGE="https://github.com/yitang/voca-builder"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

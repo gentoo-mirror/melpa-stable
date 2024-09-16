@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fontify symbols representing faces with that face."
+DESCRIPTION="Fontify symbols representing faces with that face"
 
 HOMEPAGE="https://github.com/Fuco1/fontify-face"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

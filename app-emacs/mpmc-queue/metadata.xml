@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>a multiple-producer-multiple-consumer queue</longdescription>
+	<longdescription>A multiple-producer-multiple-consumer queue</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for editing HFST files"
+DESCRIPTION="Major mode for editing HFST files"
 
 HOMEPAGE="http://wiki.apertium.org/wiki/Emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

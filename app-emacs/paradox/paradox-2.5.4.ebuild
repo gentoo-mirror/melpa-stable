@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A modern Packages Menu. Colored, with package ratings, and customizable."
+DESCRIPTION="A modern Packages Menu. Colored, with package ratings, and customizable"
 
 HOMEPAGE="https://github.com/Malabarba/paradox"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

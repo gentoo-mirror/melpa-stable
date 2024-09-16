@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="auto-complete sources for Japanese input using Mozc"
+DESCRIPTION="Auto-complete sources for Japanese input using Mozc"
 
 HOMEPAGE="https://github.com/igjit/ac-mozc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

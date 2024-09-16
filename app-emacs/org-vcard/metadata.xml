@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>org-mode support for vCard export and import.</longdescription>
+	<longdescription>Org-mode support for vCard export and import</longdescription>
 </pkgmetadata>

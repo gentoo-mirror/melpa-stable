@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major-mode for Literate CoffeeScript"
+DESCRIPTION="Major-mode for Literate CoffeeScript"
 
 HOMEPAGE="https://github.com/syohex/emacs-literate-coffee-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

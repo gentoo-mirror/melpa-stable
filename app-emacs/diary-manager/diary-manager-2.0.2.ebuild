@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Simple personal diary."
+DESCRIPTION="Simple personal diary"
 
 HOMEPAGE="https://github.com/raxod502/diary-manager"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

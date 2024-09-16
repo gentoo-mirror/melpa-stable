@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="display the menubar only on a graphical display"
+DESCRIPTION="Display the menubar only on a graphical display"
 
 HOMEPAGE="https://github.com/aaronjensen/contextual-menubar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

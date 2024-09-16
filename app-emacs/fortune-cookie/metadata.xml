@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Print a fortune in your scratch buffer.</longdescription>
+	<longdescription>Print a fortune in your scratch buffer</longdescription>
 </pkgmetadata>

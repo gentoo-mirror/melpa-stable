@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.</longdescription>
+	<longdescription>TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment</longdescription>
 </pkgmetadata>

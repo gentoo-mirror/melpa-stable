@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Export \`org-mode' clock entries to CSV format."
+DESCRIPTION="Export \`org-mode' clock entries to CSV format"
 
 HOMEPAGE="https://github.com/atheriel/org-clock-csv"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

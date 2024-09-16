@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="automatic indentation with ocp-indent"
+DESCRIPTION="Automatic indentation with ocp-indent"
 
 HOMEPAGE="http://www.typerex.org/ocp-indent.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

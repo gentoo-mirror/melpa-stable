@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Some utilities for faster scrolling over large buffers."
+DESCRIPTION="Some utilities for faster scrolling over large buffers"
 
 HOMEPAGE="https://github.com/ahungry/fast-scroll"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

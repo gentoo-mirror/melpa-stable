@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="git-p4 plug-in for Magit"
+DESCRIPTION="Git-p4 plug-in for Magit"
 
 HOMEPAGE="https://github.com/qoocku/magit-p4"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

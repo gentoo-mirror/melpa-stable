@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Send commands from programs running in term.el."
+DESCRIPTION="Send commands from programs running in term.el"
 
 HOMEPAGE="https://github.com/CallumCameron/term-cmd"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

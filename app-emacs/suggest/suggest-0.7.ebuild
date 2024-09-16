@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="suggest elisp functions that give the output requested"
+DESCRIPTION="Suggest elisp functions that give the output requested"
 
 HOMEPAGE="https://github.com/Wilfred/suggest.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

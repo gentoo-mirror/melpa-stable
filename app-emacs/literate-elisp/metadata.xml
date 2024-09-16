@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>literate program to write elisp codes in org mode</longdescription>
+	<longdescription>Literate program to write elisp codes in org mode</longdescription>
 </pkgmetadata>

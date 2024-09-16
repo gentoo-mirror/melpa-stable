@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Mode for Pact, a LISPlike smart contract language."
+DESCRIPTION="Mode for Pact, a LISPlike smart contract language"
 
 HOMEPAGE="https://github.com/kadena-io/pact-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

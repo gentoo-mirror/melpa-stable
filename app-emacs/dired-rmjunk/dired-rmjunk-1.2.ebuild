@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A home directory cleanup utility for Dired."
+DESCRIPTION="A home directory cleanup utility for Dired"
 
 HOMEPAGE="https://git.sr.ht/~jakob/dired-rmjunk"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

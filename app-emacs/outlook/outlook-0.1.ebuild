@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="send emails in MS Outlook style"
+DESCRIPTION="Send emails in MS Outlook style"
 
 HOMEPAGE="https://github.com/asavonic/outlook.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

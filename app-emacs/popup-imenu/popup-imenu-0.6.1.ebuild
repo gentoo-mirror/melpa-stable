@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="imenu index popup"
+DESCRIPTION="Imenu index popup"
 
 HOMEPAGE="https://github.com/ancane/popup-imenu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

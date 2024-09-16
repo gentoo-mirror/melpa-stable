@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="quelpa handler for leaf"
+DESCRIPTION="Quelpa handler for leaf"
 
 HOMEPAGE="https://github.com/jcs-elpa/quelpa-leaf"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

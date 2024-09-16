@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="easy toggle light/dark themes"
+DESCRIPTION="Easy toggle light/dark themes"
 
 HOMEPAGE="https://github.com/valignatev/heaven-and-hell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

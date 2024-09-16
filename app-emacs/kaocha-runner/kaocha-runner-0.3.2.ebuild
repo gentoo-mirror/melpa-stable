@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A package for running Kaocha tests via CIDER."
+DESCRIPTION="A package for running Kaocha tests via CIDER"
 
 HOMEPAGE="https://github.com/magnars/kaocha-runner.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode for smooth scrolling and in-place scrolling."
+DESCRIPTION="Minor mode for smooth scrolling and in-place scrolling"
 
 HOMEPAGE="http://www.emacswiki.org/emacs/download/smooth-scroll.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

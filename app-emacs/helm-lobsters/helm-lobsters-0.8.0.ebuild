@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm front-end for lobste.rs"
+DESCRIPTION="Helm front-end for lobste.rs"
 
 HOMEPAGE="https://github.com/julienXX/helm-lobste.rs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

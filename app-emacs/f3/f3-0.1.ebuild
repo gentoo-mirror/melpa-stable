@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a helm interface to find"
+DESCRIPTION="A helm interface to find"
 
 HOMEPAGE="https://github.com/cosmicexplorer/f3"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

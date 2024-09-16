@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A company back-end for PHP.</longdescription>
+	<longdescription>A company back-end for PHP</longdescription>
 </pkgmetadata>

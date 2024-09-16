@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Makes ido-mode display vertically."
+DESCRIPTION="Makes ido-mode display vertically"
 
 HOMEPAGE="https://github.com/gempesaw/ido-vertical-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

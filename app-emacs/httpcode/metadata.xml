@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>explains the meaning of an HTTP status code</longdescription>
+	<longdescription>Explains the meaning of an HTTP status code</longdescription>
 </pkgmetadata>

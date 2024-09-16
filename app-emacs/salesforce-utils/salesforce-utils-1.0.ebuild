@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="simple utilities for Salesforce"
+DESCRIPTION="Simple utilities for Salesforce"
 
 HOMEPAGE="https://github.com/grimnebulin/emacs-salesforce"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

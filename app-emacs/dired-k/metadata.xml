@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>highlight dired buffer by file size, modified time, git status</longdescription>
+	<longdescription>Highlight dired buffer by file size, modified time, git status</longdescription>
 </pkgmetadata>

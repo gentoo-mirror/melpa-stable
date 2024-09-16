@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="dired functions and settings to mimic FDclone"
+DESCRIPTION="Dired functions and settings to mimic FDclone"
 
 HOMEPAGE="https://github.com/knu/dired-fdclone.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

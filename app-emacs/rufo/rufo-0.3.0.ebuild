@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="use rufo to automatically format ruby files"
+DESCRIPTION="Use rufo to automatically format ruby files"
 
 HOMEPAGE="https://github.com/danielma/rufo.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Visible bookmarks in buffer."
+DESCRIPTION="Visible bookmarks in buffer"
 
 HOMEPAGE="https://github.com/joodland/bm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

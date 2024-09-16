@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="listen netease music"
+DESCRIPTION="Listen netease music"
 
 HOMEPAGE="https://github.com/nicehiro/netease-music"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Merlin and iedit integration."
+DESCRIPTION="Merlin and iedit integration"
 
 HOMEPAGE="http://github.com/ocaml/merlin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

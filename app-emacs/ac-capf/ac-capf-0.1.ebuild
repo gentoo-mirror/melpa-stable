@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="auto-complete source with completion-at-point"
+DESCRIPTION="Auto-complete source with completion-at-point"
 
 HOMEPAGE="https://github.com/syohex/emacs-ac-capf"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

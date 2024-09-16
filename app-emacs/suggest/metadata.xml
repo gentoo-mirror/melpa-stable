@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>suggest elisp functions that give the output requested</longdescription>
+	<longdescription>Suggest elisp functions that give the output requested</longdescription>
 </pkgmetadata>

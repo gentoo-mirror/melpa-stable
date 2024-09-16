@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="prescient.el + Ivy"
+DESCRIPTION="Prescient.el + Ivy"
 
 HOMEPAGE="https://github.com/raxod502/prescient.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

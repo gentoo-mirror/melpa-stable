@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>posframe based zero-input panel implementation.</longdescription>
+	<longdescription>Posframe based zero-input panel implementation</longdescription>
 </pkgmetadata>

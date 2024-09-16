@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Support sequential operation which omitted prefix keys."
+DESCRIPTION="Support sequential operation which omitted prefix keys"
 
 HOMEPAGE="https://github.com/myuhe/smartrep.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

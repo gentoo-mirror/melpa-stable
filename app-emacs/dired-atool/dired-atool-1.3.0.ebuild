@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Pack/unpack files with atool on dired."
+DESCRIPTION="Pack/unpack files with atool on dired"
 
 HOMEPAGE="https://github.com/HKey/dired-atool"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

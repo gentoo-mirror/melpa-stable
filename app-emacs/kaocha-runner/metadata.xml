@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A package for running Kaocha tests via CIDER.</longdescription>
+	<longdescription>A package for running Kaocha tests via CIDER</longdescription>
 </pkgmetadata>

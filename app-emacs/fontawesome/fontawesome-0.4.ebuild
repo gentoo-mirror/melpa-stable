@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="fontawesome utility"
+DESCRIPTION="Fontawesome utility"
 
 HOMEPAGE="https://github.com/syohex/emacs-fontawesome"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

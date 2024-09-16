@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Use \`wmctrl' to manage desktop windows via EWMH/NetWM."
+DESCRIPTION="Use \`wmctrl' to manage desktop windows via EWMH/NetWM"
 
 HOMEPAGE="https://github.com/flexibeast/ewmctrl"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

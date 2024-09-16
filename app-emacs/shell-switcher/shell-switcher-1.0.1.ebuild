@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Provide fast switching between shell buffers."
+DESCRIPTION="Provide fast switching between shell buffers"
 
 HOMEPAGE="https://github.com/DamienCassou/shell-switcher"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for the APDL programming language."
+DESCRIPTION="Major mode for the APDL programming language"
 
 HOMEPAGE="https://github.com/dieter-wilhelm/apdl-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

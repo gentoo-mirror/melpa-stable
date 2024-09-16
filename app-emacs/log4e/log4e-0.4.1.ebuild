@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="provide logging framework for elisp"
+DESCRIPTION="Provide logging framework for elisp"
 
 HOMEPAGE="https://github.com/aki2o/log4e"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

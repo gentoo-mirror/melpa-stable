@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Persistent quick sorting of dired buffers in various ways.</longdescription>
+	<longdescription>Persistent quick sorting of dired buffers in various ways</longdescription>
 </pkgmetadata>

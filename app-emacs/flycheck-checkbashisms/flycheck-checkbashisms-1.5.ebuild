@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="checkbashisms checker for flycheck"
+DESCRIPTION="Checkbashisms checker for flycheck"
 
 HOMEPAGE="https://github.com/Gnouc/flycheck-checkbashisms"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

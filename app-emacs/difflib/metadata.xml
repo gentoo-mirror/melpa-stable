@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Helpers for computing deltas between sequences.</longdescription>
+	<longdescription>Helpers for computing deltas between sequences</longdescription>
 </pkgmetadata>

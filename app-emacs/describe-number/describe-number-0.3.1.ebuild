@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Describe arbitrarily large number at point."
+DESCRIPTION="Describe arbitrarily large number at point"
 
 HOMEPAGE="https://github.com/netromdk/describe-number"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

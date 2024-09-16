@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Edit and interactively evaluate SPARQL queries."
+DESCRIPTION="Edit and interactively evaluate SPARQL queries"
 
 HOMEPAGE="https://github.com/ljos/sparql-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

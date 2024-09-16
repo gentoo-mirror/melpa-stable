@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Erlang context sensitive completion at point using ivy. It also support xref and eldoc."
+DESCRIPTION="Erlang context sensitive completion at point using ivy. It also support xref and eldoc"
 
 HOMEPAGE="https://stable.melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

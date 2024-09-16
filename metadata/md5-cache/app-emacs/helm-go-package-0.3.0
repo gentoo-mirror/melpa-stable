@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/helm-core app-emacs/go-mode app-emacs/deferred
-DESCRIPTION=helm sources for Go programming language's package
+DESCRIPTION=Helm sources for Go programming language's package
 EAPI=8
 HOMEPAGE=https://github.com/yasuyk/helm-go-package
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/helm-core app-emacs/go-mode app-emacs/deferred >=app-editors/e
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/helm-go-package-0.3.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=abeac8f87b0e8c0a782211e08d2611e9
+_md5_=4a890a0029da6825673c9d70ba9bcedf

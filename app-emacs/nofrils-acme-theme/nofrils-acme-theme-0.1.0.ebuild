@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Port of \"No Frils Acme\" Vim theme."
+DESCRIPTION="Port of \"No Frils Acme\" Vim theme"
 
 HOMEPAGE="https://gitlab.com/esessoms/nofrils-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

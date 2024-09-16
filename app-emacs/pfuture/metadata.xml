@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>a simple wrapper around asynchronous processes</longdescription>
+	<longdescription>A simple wrapper around asynchronous processes</longdescription>
 </pkgmetadata>

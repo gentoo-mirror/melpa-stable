@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="auto-complete back-end for RTags"
+DESCRIPTION="Auto-complete back-end for RTags"
 
 HOMEPAGE="http://rtags.net"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

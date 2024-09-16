@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Textobject for the closest user-defined blocks."
+DESCRIPTION="Textobject for the closest user-defined blocks"
 
 HOMEPAGE="https://github.com/noctuid/evil-textobj-anyblock"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

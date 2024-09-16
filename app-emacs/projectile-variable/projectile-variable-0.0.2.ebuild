@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Store project local variables."
+DESCRIPTION="Store project local variables"
 
 HOMEPAGE="https://github.com/zonuexe/projectile-variable"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

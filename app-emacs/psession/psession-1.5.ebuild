@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Persistent save of elisp objects."
+DESCRIPTION="Persistent save of elisp objects"
 
 HOMEPAGE="https://github.com/thierryvolpiatto/psession"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

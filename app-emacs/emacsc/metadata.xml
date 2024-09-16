@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>helper for emacsc(1)</longdescription>
+	<longdescription>Helper for emacsc(1)</longdescription>
 </pkgmetadata>

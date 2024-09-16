@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="interactively insert items from kill-ring"
+DESCRIPTION="Interactively insert items from kill-ring"
 
 HOMEPAGE="https://github.com/browse-kill-ring/browse-kill-ring"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

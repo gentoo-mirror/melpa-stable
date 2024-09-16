@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for solidity evaluation"
+DESCRIPTION="Org-babel functions for solidity evaluation"
 
 HOMEPAGE="https://github.com/hrkrshnn/ob-solidity"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

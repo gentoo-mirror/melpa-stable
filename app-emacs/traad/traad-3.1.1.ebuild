@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="emacs interface to the traad refactoring server."
+DESCRIPTION="Emacs interface to the traad refactoring server"
 
 HOMEPAGE="https://github.com/abingham/traad"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

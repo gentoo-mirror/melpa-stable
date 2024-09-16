@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="brainfuck language transpiler to Emacs Lisp"
+DESCRIPTION="Brainfuck language transpiler to Emacs Lisp"
 
 HOMEPAGE="http://github.com/rexim/ebf"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="imenu binding for dired mode"
+DESCRIPTION="Imenu binding for dired mode"
 
 HOMEPAGE="https://github.com/DamienCassou/dired-imenu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

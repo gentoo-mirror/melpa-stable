@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>display the menubar only on a graphical display</longdescription>
+	<longdescription>Display the menubar only on a graphical display</longdescription>
 </pkgmetadata>

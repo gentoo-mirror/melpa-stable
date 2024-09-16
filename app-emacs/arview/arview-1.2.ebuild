@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="extract and view archives in the temporary directory"
+DESCRIPTION="Extract and view archives in the temporary directory"
 
 HOMEPAGE="https://github.com/afainer/arview"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

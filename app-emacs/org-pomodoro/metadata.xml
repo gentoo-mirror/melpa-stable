@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Pomodoro implementation for org-mode.</longdescription>
+	<longdescription>Pomodoro implementation for org-mode</longdescription>
 </pkgmetadata>

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>add table of contents to org-mode files (formerly, org-toc)</longdescription>
+	<longdescription>Add table of contents to org-mode files (formerly, org-toc)</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Extra functions for easy-kill."
+DESCRIPTION="Extra functions for easy-kill"
 
 HOMEPAGE="https://github.com/knu/easy-kill-extras.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

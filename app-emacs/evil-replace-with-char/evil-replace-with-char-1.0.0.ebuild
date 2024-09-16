@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="replace chars of a text object with a char"
+DESCRIPTION="Replace chars of a text object with a char"
 
 HOMEPAGE="https://github.com/ninrod/evil-replace-with-char"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

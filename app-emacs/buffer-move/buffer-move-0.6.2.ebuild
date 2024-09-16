@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION=""
+DESCRIPTION="[No description available]"
 
 HOMEPAGE="https://github.com/lukhas/buffer-move"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

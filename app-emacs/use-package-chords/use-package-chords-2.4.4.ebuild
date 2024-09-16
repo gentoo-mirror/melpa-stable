@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="key-chord keyword for use-package"
+DESCRIPTION="Key-chord keyword for use-package"
 
 HOMEPAGE="https://github.com/jwiegley/use-package"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

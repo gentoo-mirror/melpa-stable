@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>generate RELAX NG Compact Schema from RELAX NG Schema, XML Schema and DTD.</longdescription>
+	<longdescription>Generate RELAX NG Compact Schema from RELAX NG Schema, XML Schema and DTD</longdescription>
 </pkgmetadata>

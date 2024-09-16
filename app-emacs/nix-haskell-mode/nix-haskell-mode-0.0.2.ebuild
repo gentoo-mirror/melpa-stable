@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="haskell-mode integrations for Nix"
+DESCRIPTION="Haskell-mode integrations for Nix"
 
 HOMEPAGE="https://github.com/matthewbauer/nix-haskell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

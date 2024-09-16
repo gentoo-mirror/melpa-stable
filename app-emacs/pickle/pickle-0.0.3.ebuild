@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for editing cucumber gherkin files."
+DESCRIPTION="Major mode for editing cucumber gherkin files"
 
 HOMEPAGE="https://github.com/ahungry/pickle-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>helm for git grep, an incremental git-grep(1)</longdescription>
+	<longdescription>Helm for git grep, an incremental git-grep(1)</longdescription>
 </pkgmetadata>

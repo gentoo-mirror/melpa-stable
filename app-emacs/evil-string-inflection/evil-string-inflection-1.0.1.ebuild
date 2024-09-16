@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="snake_case -> CamelCase -> etc. for text objects"
+DESCRIPTION="Snake_case -> CamelCase -> etc. for text objects"
 
 HOMEPAGE="https://github.com/ninrod/evil-string-inflection"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

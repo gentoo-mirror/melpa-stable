@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="imenu tag selection with ido"
+DESCRIPTION="Imenu tag selection with ido"
 
 HOMEPAGE="https://github.com/birkenfeld/idomenu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

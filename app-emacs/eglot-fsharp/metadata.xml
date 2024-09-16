@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>fsharp-mode eglot integration</longdescription>
+	<longdescription>Fsharp-mode eglot integration</longdescription>
 </pkgmetadata>

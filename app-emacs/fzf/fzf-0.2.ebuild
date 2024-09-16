@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A front-end for fzf."
+DESCRIPTION="A front-end for fzf"
 
 HOMEPAGE="https://github.com/bling/fzf.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

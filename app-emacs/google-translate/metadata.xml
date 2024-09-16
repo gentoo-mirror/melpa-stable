@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Emacs interface to Google Translate.</longdescription>
+	<longdescription>Emacs interface to Google Translate</longdescription>
 </pkgmetadata>

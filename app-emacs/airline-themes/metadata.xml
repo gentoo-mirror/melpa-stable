@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>vim-airline themes for emacs powerline</longdescription>
+	<longdescription>Vim-airline themes for emacs powerline</longdescription>
 </pkgmetadata>

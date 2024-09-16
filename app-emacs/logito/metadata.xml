@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>logging library for Emacs</longdescription>
+	<longdescription>Logging library for Emacs</longdescription>
 </pkgmetadata>

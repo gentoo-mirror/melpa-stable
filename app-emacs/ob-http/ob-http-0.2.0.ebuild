@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="http request in org-mode babel"
+DESCRIPTION="Http request in org-mode babel"
 
 HOMEPAGE="http://github.com/zweifisch/ob-http"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

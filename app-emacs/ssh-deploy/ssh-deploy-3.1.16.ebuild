@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Deployment via Tramp, global or per directory."
+DESCRIPTION="Deployment via Tramp, global or per directory"
 
 HOMEPAGE="https://github.com/cjohansson/emacs-ssh-deploy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

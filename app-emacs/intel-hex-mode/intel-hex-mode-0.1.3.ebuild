@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Mode for Intel Hex files."
+DESCRIPTION="Mode for Intel Hex files"
 
 HOMEPAGE="https://github.com/mschuldt/intel-hex-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

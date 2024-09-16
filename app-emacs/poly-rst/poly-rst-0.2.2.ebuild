@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="poly-rst-mode polymode"
+DESCRIPTION="Poly-rst-mode polymode"
 
 HOMEPAGE="https://github.com/polymode/poly-rst"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

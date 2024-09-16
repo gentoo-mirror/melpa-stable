@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs mode based on common modern interface and ergonomics."
+DESCRIPTION="Emacs mode based on common modern interface and ergonomics"
 
 HOMEPAGE="https://github.com/ergoemacs/ergoemacs-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

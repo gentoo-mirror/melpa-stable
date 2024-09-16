@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major-mode for easy buffer-navigation"
+DESCRIPTION="Major-mode for easy buffer-navigation"
 
 HOMEPAGE="https://github.com/tj64/navi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A set of functions and bindings to google under point."
+DESCRIPTION="A set of functions and bindings to google under point"
 
 HOMEPAGE="http://github.com/Malabarba/emacs-google-this"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

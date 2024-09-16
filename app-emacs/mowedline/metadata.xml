@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>elisp utilities for using mowedline</longdescription>
+	<longdescription>Elisp utilities for using mowedline</longdescription>
 </pkgmetadata>

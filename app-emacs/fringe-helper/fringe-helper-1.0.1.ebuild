@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helper functions for fringe bitmaps"
+DESCRIPTION="Helper functions for fringe bitmaps"
 
 HOMEPAGE="http://nschum.de/src/emacs/fringe-helper/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

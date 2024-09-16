@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a major-mode for editing Lua scripts"
+DESCRIPTION="A major-mode for editing Lua scripts"
 
 HOMEPAGE="http://immerrr.github.com/lua-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

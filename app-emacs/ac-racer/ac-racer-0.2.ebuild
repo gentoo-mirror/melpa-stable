@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="auto-complete source of racer"
+DESCRIPTION="Auto-complete source of racer"
 
 HOMEPAGE="https://github.com/syohex/emacs-ac-racer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="regexp syntax converter"
+DESCRIPTION="Regexp syntax converter"
 
 HOMEPAGE="https://github.com/joddie/pcre2el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

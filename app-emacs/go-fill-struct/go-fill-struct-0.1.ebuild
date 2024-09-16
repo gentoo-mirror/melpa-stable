@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fill struct for golang."
+DESCRIPTION="Fill struct for golang"
 
 HOMEPAGE="https://github.com/s-kostyaev/go-fill-struct"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

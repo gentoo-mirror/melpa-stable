@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="minor-mode that adds some Grails project management to a grails project"
+DESCRIPTION="Minor-mode that adds some Grails project management to a grails project"
 
 HOMEPAGE="http://blog.wolfman.com"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

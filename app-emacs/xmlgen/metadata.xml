@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A DSL for generating XML.</longdescription>
+	<longdescription>A DSL for generating XML</longdescription>
 </pkgmetadata>

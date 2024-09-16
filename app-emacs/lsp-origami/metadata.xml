@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>origami.el support for lsp-mode</longdescription>
+	<longdescription>Origami.el support for lsp-mode</longdescription>
 </pkgmetadata>

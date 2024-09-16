@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="magit integration for vdiff"
+DESCRIPTION="Magit integration for vdiff"
 
 HOMEPAGE="https://github.com/justbur/emacs-vdiff-magit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

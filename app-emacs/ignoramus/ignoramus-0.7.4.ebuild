@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Ignore backups, build files, et al."
+DESCRIPTION="Ignore backups, build files, et al"
 
 HOMEPAGE="http://github.com/rolandwalker/ignoramus"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

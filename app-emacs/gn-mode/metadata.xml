@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>major mode for editing GN (generate ninja) files</longdescription>
+	<longdescription>Major mode for editing GN (generate ninja) files</longdescription>
 </pkgmetadata>

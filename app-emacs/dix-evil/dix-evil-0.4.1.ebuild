@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="optional evil-integration with dix.el"
+DESCRIPTION="Optional evil-integration with dix.el"
 
 HOMEPAGE="http://wiki.apertium.org/wiki/Emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>mocking framework for emacs</longdescription>
+	<longdescription>Mocking framework for emacs</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Hydras for CIDER."
+DESCRIPTION="Hydras for CIDER"
 
 HOMEPAGE="https://github.com/clojure-emacs/cider-hydra"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

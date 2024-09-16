@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="add table of contents to org-mode files (formerly, org-toc)"
+DESCRIPTION="Add table of contents to org-mode files (formerly, org-toc)"
 
 HOMEPAGE="https://github.com/snosov1/toc-org"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

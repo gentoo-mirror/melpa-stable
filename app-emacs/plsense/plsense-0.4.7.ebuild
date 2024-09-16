@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="provide interface for PlSense that is a development tool for Perl."
+DESCRIPTION="Provide interface for PlSense that is a development tool for Perl"
 
 HOMEPAGE="https://github.com/aki2o/emacs-plsense"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

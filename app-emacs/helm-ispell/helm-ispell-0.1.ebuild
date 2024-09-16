@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ispell-complete-word with helm interface"
+DESCRIPTION="Ispell-complete-word with helm interface"
 
 HOMEPAGE="https://github.com/syohex/emacs-helm-ispell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

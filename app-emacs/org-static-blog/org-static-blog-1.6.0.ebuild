@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a simple org-mode based static blog generator"
+DESCRIPTION="A simple org-mode based static blog generator"
 
 HOMEPAGE="https://github.com/bastibe/org-static-blog"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

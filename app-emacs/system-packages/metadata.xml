@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>functions to manage system packages</longdescription>
+	<longdescription>Functions to manage system packages</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Message Harmonized Calendaring system."
+DESCRIPTION="Message Harmonized Calendaring system"
 
 HOMEPAGE="http://www.quickhack.net/mhc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

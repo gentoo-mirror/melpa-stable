@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Utilities for navigating test files and running maven test tasks.</longdescription>
+	<longdescription>Utilities for navigating test files and running maven test tasks</longdescription>
 </pkgmetadata>

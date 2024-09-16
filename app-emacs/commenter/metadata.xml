@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>multiline-comment support package</longdescription>
+	<longdescription>Multiline-comment support package</longdescription>
 </pkgmetadata>

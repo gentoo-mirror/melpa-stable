@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A company back-end for PHP."
+DESCRIPTION="A company back-end for PHP"
 
 HOMEPAGE="https://github.com/xcwen/ac-php"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

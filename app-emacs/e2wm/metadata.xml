@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>simple window manager for emacs</longdescription>
+	<longdescription>Simple window manager for emacs</longdescription>
 </pkgmetadata>

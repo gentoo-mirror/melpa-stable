@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a multiple-producer-multiple-consumer queue"
+DESCRIPTION="A multiple-producer-multiple-consumer queue"
 
 HOMEPAGE="https://github.com/smizoe/mpmc-queue"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

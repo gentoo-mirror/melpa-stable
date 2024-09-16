@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="windows/buffers sets shared among frames + save/load."
+DESCRIPTION="Windows/buffers sets shared among frames + save/load"
 
 HOMEPAGE="https://github.com/Bad-ptr/persp-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

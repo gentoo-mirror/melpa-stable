@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="incremental search for the kill ring"
+DESCRIPTION="Incremental search for the kill ring"
 
 HOMEPAGE="http://nschum.de/src/emacs/kill-ring-search/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

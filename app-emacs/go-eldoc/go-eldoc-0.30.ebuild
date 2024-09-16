@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="eldoc for go-mode"
+DESCRIPTION="Eldoc for go-mode"
 
 HOMEPAGE="https://github.com/syohex/emacs-go-eldoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

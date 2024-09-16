@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display extra information for your eshell prompt."
+DESCRIPTION="Display extra information for your eshell prompt"
 
 HOMEPAGE="https://github.com/zwild/eshell-prompt-extras"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

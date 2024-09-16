@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Increase selected region by semantic units."
+DESCRIPTION="Increase selected region by semantic units"
 
 HOMEPAGE="https://github.com/magnars/expand-region.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

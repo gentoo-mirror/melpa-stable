@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>mode for editing GitLab CI files</longdescription>
+	<longdescription>Mode for editing GitLab CI files</longdescription>
 </pkgmetadata>

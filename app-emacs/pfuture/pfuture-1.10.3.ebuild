@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a simple wrapper around asynchronous processes"
+DESCRIPTION="A simple wrapper around asynchronous processes"
 
 HOMEPAGE="https://github.com/Alexander-Miller/pfuture"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

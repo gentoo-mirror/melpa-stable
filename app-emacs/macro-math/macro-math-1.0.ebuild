@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="in-buffer mathematical operations"
+DESCRIPTION="In-buffer mathematical operations"
 
 HOMEPAGE="http://nschum.de/src/emacs/macro-math/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>company-mode completion backend for SourceKit</longdescription>
+	<longdescription>Company-mode completion backend for SourceKit</longdescription>
 </pkgmetadata>

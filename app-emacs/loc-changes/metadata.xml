@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Helps users and programs keep track of positions even after buffer changes.</longdescription>
+	<longdescription>Helps users and programs keep track of positions even after buffer changes</longdescription>
 </pkgmetadata>

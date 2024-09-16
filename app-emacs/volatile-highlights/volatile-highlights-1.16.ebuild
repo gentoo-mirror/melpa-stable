@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode for visual feedback on some operations."
+DESCRIPTION="Minor mode for visual feedback on some operations"
 
 HOMEPAGE="http://www.emacswiki.org/emacs/download/volatile-highlights.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

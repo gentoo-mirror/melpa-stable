@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Merlin and auto-complete integration."
+DESCRIPTION="Merlin and auto-complete integration"
 
 HOMEPAGE="http://github.com/ocaml/merlin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

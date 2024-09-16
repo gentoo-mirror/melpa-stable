@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a featureful virtualenv tool for Emacs"
+DESCRIPTION="A featureful virtualenv tool for Emacs"
 
 HOMEPAGE="http://github.com/porterjamesj/virtualenvwrapper.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

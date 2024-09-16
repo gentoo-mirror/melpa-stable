@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for editing Valve VDF files."
+DESCRIPTION="Major mode for editing Valve VDF files"
 
 HOMEPAGE="https://github.com/plapadoo/vdf-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="additional completion for pcomplete"
+DESCRIPTION="Additional completion for pcomplete"
 
 HOMEPAGE="https://github.com/thierryvolpiatto/pcomplete-extension"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

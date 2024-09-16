@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A front-end for pt, The Platinum Searcher."
+DESCRIPTION="A front-end for pt, The Platinum Searcher"
 
 HOMEPAGE="https://github.com/bling/pt.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

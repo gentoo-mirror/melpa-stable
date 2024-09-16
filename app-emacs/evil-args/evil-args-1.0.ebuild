@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Motions and text objects for delimited arguments in Evil."
+DESCRIPTION="Motions and text objects for delimited arguments in Evil"
 
 HOMEPAGE="http://github.com/wcsmith/evil-args"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

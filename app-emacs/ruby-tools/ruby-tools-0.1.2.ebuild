@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Collection of handy functions for ruby-mode."
+DESCRIPTION="Collection of handy functions for ruby-mode"
 
 HOMEPAGE="http://github.com/rejeep/ruby-tools"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

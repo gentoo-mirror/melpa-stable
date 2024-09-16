@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="xref backend using GNU Global."
+DESCRIPTION="Xref backend using GNU Global"
 
 HOMEPAGE="https://github.com/dedi/gxref"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="vim-airline themes for emacs powerline"
+DESCRIPTION="Vim-airline themes for emacs powerline"
 
 HOMEPAGE="http://github.com/AnthonyDiGirolamo/airline-themes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

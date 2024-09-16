@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="show vertical line (column highlighting) mode."
+DESCRIPTION="Show vertical line (column highlighting) mode"
 
 HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/vline.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

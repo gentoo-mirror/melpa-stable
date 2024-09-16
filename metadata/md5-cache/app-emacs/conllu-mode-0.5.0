@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/flycheck app-emacs/hydra app-emacs/s
-DESCRIPTION=editing mode for CoNLL-U files
+DESCRIPTION=Editing mode for CoNLL-U files
 EAPI=8
 HOMEPAGE=https://github.com/odanoburu/conllu-mode
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/flycheck app-emacs/hydra app-emacs/s >=app-editors/emacs-25.3:
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/conllu-mode-0.5.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=aa1d867c3154c6a9d3a752d7f0e0a0c8
+_md5_=5be1dac632238f9d2110e194efd4ad0e

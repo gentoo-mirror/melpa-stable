@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="misc frame, window and buffer commands"
+DESCRIPTION="Misc frame, window and buffer commands"
 
 HOMEPAGE="https://github.com/tarsius/fwb-cmds"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs task tracker client."
+DESCRIPTION="Emacs task tracker client"
 
 HOMEPAGE="https://github.com/PositiveTechnologies/flower"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>helm interface for the recoll desktop search tool.</longdescription>
+	<longdescription>Helm interface for the recoll desktop search tool</longdescription>
 </pkgmetadata>

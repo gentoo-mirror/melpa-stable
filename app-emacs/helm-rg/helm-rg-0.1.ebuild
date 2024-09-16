@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a helm interface to ripgrep"
+DESCRIPTION="A helm interface to ripgrep"
 
 HOMEPAGE="https://github.com/cosmicexplorer/helm-rg"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

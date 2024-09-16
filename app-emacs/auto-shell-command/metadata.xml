@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Run the shell command asynchronously that you specified when you save the file.</longdescription>
+	<longdescription>Run the shell command asynchronously that you specified when you save the file</longdescription>
 </pkgmetadata>

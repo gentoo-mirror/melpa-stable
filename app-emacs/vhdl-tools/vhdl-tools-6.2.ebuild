@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Utilities for navigating vhdl sources."
+DESCRIPTION="Utilities for navigating vhdl sources"
 
 HOMEPAGE="https://github.com/csantosb/vhdl-tools/wiki"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

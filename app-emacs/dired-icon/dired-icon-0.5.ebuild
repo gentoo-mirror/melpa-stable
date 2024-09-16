@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A minor mode to display a list of associated icons in dired buffers."
+DESCRIPTION="A minor mode to display a list of associated icons in dired buffers"
 
 HOMEPAGE="https://gitlab.com/xuhdev/dired-icon"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="perform SRV DNS requests"
+DESCRIPTION="Perform SRV DNS requests"
 
 HOMEPAGE="https://github.com/legoscia/srv.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

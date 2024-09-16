@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fold away XML things."
+DESCRIPTION="Fold away XML things"
 
 HOMEPAGE="https://github.com/paddymcall/noxml-fold"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="the Emacs StartUp Profiler (ESUP)"
+DESCRIPTION="The Emacs StartUp Profiler (ESUP)"
 
 HOMEPAGE="http://github.com/jschaf/esup"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Change theme and font according to buffer name or major mode."
+DESCRIPTION="Change theme and font according to buffer name or major mode"
 
 HOMEPAGE="https://hg.serna.eu/emacs/per-buffer-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

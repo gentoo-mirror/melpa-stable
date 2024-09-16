@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>map pairs of simultaneously pressed keys to commands</longdescription>
+	<longdescription>Map pairs of simultaneously pressed keys to commands</longdescription>
 </pkgmetadata>

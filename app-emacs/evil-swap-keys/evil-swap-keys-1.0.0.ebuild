@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="intelligently swap keys on text input with evil"
+DESCRIPTION="Intelligently swap keys on text input with evil"
 
 HOMEPAGE="https://github.com/wbolster/evil-swap-keys"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

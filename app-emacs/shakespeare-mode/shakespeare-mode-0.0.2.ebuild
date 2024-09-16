@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A major mode for editing Shakespearean templates."
+DESCRIPTION="A major mode for editing Shakespearean templates"
 
 HOMEPAGE="http://github.com/CodyReichert/shakespeare-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Functions for reading and parsing CSV files.</longdescription>
+	<longdescription>Functions for reading and parsing CSV files</longdescription>
 </pkgmetadata>

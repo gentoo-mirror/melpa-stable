@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for prolog evaluation."
+DESCRIPTION="Org-babel functions for prolog evaluation"
 
 HOMEPAGE="https://github.com/ljos/ob-prolog"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

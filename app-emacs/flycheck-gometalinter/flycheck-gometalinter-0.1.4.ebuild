@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="flycheck checker for gometalinter"
+DESCRIPTION="Flycheck checker for gometalinter"
 
 HOMEPAGE="https://github.com/favadi/flycheck-gometalinter"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

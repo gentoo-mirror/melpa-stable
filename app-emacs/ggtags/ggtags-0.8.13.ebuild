@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="emacs frontend to GNU Global source code tagging system"
+DESCRIPTION="Emacs frontend to GNU Global source code tagging system"
 
 HOMEPAGE="https://github.com/leoliu/ggtags"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

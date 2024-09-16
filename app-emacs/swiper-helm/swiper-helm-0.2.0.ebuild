@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm version of Swiper."
+DESCRIPTION="Helm version of Swiper"
 
 HOMEPAGE="https://github.com/abo-abo/swiper-helm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

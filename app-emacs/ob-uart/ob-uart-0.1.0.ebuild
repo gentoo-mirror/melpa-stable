@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel support for UART communication"
+DESCRIPTION="Org-babel support for UART communication"
 
 HOMEPAGE="https://www.0x7.ch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

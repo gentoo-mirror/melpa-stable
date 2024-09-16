@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Mode for Pact, a LISPlike smart contract language.</longdescription>
+	<longdescription>Mode for Pact, a LISPlike smart contract language</longdescription>
 </pkgmetadata>

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>interface to web translation services such as Babelfish</longdescription>
+	<longdescription>Interface to web translation services such as Babelfish</longdescription>
 </pkgmetadata>

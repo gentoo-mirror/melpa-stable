@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="company-mode backend for emoji"
+DESCRIPTION="Company-mode backend for emoji"
 
 HOMEPAGE="https://codeberg.org/egirl/company-emoji"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

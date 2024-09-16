@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="build functions which contextually jump between files"
+DESCRIPTION="Build functions which contextually jump between files"
 
 HOMEPAGE="http://github.com/eschulte/jump.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

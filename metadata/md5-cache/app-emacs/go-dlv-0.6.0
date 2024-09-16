@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/go-mode
-DESCRIPTION=Go Delve - Debug Go programs interactively with the GUD.
+DESCRIPTION=Go Delve - Debug Go programs interactively with the GUD
 EAPI=8
 HOMEPAGE=https://github.com/benma/go-dlv.el/
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/go-mode >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/go-dlv-0.6.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=c6e154f41c73676fb765dfcf244b8f35
+_md5_=0e2cedcc17ddd3cacafb0dc6ed98b107

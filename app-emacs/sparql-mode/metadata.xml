@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Edit and interactively evaluate SPARQL queries.</longdescription>
+	<longdescription>Edit and interactively evaluate SPARQL queries</longdescription>
 </pkgmetadata>

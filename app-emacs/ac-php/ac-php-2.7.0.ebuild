@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Auto Completion source for PHP."
+DESCRIPTION="Auto Completion source for PHP"
 
 HOMEPAGE="https://github.com/xcwen/ac-php"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

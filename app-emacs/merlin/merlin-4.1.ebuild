@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Mode for Merlin, an assistant for OCaml."
+DESCRIPTION="Mode for Merlin, an assistant for OCaml"
 
 HOMEPAGE="https://github.com/ocaml/merlin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Symbol links in Info buffers to their help documentation.</longdescription>
+	<longdescription>Symbol links in Info buffers to their help documentation</longdescription>
 </pkgmetadata>

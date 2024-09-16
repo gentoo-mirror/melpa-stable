@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>annotate files without changing them</longdescription>
+	<longdescription>Annotate files without changing them</longdescription>
 </pkgmetadata>

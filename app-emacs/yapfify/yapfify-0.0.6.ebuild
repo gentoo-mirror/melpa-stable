@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="(automatically) format python buffers using YAPF."
+DESCRIPTION="(automatically) format python buffers using YAPF"
 
 HOMEPAGE="https://github.com/JorisE/yapfify"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

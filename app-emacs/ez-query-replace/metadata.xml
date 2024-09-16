@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>a smarter context-sensitive query-replace that can be reapplied</longdescription>
+	<longdescription>A smarter context-sensitive query-replace that can be reapplied</longdescription>
 </pkgmetadata>

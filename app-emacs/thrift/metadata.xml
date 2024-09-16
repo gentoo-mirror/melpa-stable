@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>major mode for fbthrift and Apache Thrift files</longdescription>
+	<longdescription>Major mode for fbthrift and Apache Thrift files</longdescription>
 </pkgmetadata>

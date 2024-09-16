@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="generate RELAX NG Compact Schema from RELAX NG Schema, XML Schema and DTD."
+DESCRIPTION="Generate RELAX NG Compact Schema from RELAX NG Schema, XML Schema and DTD"
 
 HOMEPAGE="https://github.com/aki2o/emacs-genrnc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

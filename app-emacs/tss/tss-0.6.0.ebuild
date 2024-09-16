@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="provide a interface for auto-complete.el/flymake.el on typescript-mode."
+DESCRIPTION="Provide a interface for auto-complete.el/flymake.el on typescript-mode"
 
 HOMEPAGE="https://github.com/aki2o/emacs-tss"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

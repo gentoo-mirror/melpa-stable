@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="colorful file names in dired buffers"
+DESCRIPTION="Colorful file names in dired buffers"
 
 HOMEPAGE="https://github.com/thamer/diredful"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="let there be <leader>"
+DESCRIPTION="Let there be <leader>"
 
 HOMEPAGE="http://github.com/cofi/evil-leader"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

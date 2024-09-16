@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="prescient.el + Vertico"
+DESCRIPTION="Prescient.el + Vertico"
 
 HOMEPAGE="https://github.com/radian-software/prescient.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

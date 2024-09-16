@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A major-mode for editing gmail messages using markdown syntax."
+DESCRIPTION="A major-mode for editing gmail messages using markdown syntax"
 
 HOMEPAGE="http://github.com/Bruce-Connor/gmail-message-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

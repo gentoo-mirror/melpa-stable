@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Collection of handy functions for ruby-mode.</longdescription>
+	<longdescription>Collection of handy functions for ruby-mode</longdescription>
 </pkgmetadata>

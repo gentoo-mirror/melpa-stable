@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org links to emacs-lisp documentation"
+DESCRIPTION="Org links to emacs-lisp documentation"
 
 HOMEPAGE="https://github.com/tarsius/org-elisp-help"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

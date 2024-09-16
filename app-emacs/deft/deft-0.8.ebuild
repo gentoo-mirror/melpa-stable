@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="quickly browse, filter, and edit plain text notes"
+DESCRIPTION="Quickly browse, filter, and edit plain text notes"
 
 HOMEPAGE="https://jblevins.org/projects/deft/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

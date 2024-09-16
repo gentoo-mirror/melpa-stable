@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>map over matches of a regular expression</longdescription>
+	<longdescription>Map over matches of a regular expression</longdescription>
 </pkgmetadata>

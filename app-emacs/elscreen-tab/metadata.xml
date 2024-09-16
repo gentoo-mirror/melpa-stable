@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>minor mode to display tabs of elscreen in a dedicated buffer</longdescription>
+	<longdescription>Minor mode to display tabs of elscreen in a dedicated buffer</longdescription>
 </pkgmetadata>

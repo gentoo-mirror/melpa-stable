@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>highlight occurrences of the variable under cursor</longdescription>
+	<longdescription>Highlight occurrences of the variable under cursor</longdescription>
 </pkgmetadata>

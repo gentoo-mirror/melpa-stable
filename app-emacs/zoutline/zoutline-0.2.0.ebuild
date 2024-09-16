@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Simple outline library."
+DESCRIPTION="Simple outline library"
 
 HOMEPAGE="https://github.com/abo-abo/zoutline"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

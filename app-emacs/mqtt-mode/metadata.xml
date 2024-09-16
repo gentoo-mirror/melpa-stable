@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>client for interaction with MQTT servers</longdescription>
+	<longdescription>Client for interaction with MQTT servers</longdescription>
 </pkgmetadata>

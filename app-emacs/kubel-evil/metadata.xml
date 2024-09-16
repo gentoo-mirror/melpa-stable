@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>extension for kubel to provide evil keybindings</longdescription>
+	<longdescription>Extension for kubel to provide evil keybindings</longdescription>
 </pkgmetadata>

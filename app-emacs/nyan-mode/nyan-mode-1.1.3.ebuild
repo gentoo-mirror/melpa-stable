@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Nyan Cat shows position in current buffer in mode-line."
+DESCRIPTION="Nyan Cat shows position in current buffer in mode-line"
 
 HOMEPAGE="https://github.com/TeMPOraL/nyan-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

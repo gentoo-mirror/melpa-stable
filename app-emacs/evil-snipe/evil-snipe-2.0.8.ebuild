@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="emulate vim-sneak & vim-seek"
+DESCRIPTION="Emulate vim-sneak & vim-seek"
 
 HOMEPAGE="https://github.com/hlissner/evil-snipe"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

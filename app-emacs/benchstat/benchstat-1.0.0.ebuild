@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="proper benchmarking made simple"
+DESCRIPTION="Proper benchmarking made simple"
 
 HOMEPAGE="https://github.com/Quasilyte/benchstat.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

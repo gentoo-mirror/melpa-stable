@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="load keychain environment variables"
+DESCRIPTION="Load keychain environment variables"
 
 HOMEPAGE="https://github.com/tarsius/keychain-environment"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

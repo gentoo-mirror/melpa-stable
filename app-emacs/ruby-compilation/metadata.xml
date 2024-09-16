@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>run a ruby process in a compilation buffer</longdescription>
+	<longdescription>Run a ruby process in a compilation buffer</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="minor mode for working with npm projects"
+DESCRIPTION="Minor mode for working with npm projects"
 
 HOMEPAGE="https://github.com/mojochao/npm-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

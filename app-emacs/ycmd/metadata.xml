@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>emacs bindings to the ycmd completion server</longdescription>
+	<longdescription>Emacs bindings to the ycmd completion server</longdescription>
 </pkgmetadata>

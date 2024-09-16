@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Jump across lines using the home row."
+DESCRIPTION="Jump across lines using the home row"
 
 HOMEPAGE="https://github.com/noctuid/vertigo.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

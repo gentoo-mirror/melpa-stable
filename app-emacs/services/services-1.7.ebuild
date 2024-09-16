@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Services database access functions."
+DESCRIPTION="Services database access functions"
 
 HOMEPAGE="https://github.com/davep/services.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="company-mode completion backend for SourceKit"
+DESCRIPTION="Company-mode completion backend for SourceKit"
 
 HOMEPAGE="https://github.com/nathankot/company-sourcekit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="kanban dynamic block for org-mode."
+DESCRIPTION="Kanban dynamic block for org-mode"
 
 HOMEPAGE="http://github.com/gizmomogwai/org-kanban"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

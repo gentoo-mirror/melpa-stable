@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>find-dired alternative using fd</longdescription>
+	<longdescription>Find-dired alternative using fd</longdescription>
 </pkgmetadata>

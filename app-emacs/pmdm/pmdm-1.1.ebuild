@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="poor man's desktop-mode alternative."
+DESCRIPTION="Poor man's desktop-mode alternative"
 
 HOMEPAGE="https://hg.serna.eu/emacs/pmdm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

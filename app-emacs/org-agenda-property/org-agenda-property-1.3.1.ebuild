@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display org properties in the agenda buffer."
+DESCRIPTION="Display org properties in the agenda buffer"
 
 HOMEPAGE="http://github.com/Bruce-Connor/org-agenda-property"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

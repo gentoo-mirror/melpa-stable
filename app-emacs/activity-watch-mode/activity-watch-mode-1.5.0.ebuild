@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Automatic time tracking extension."
+DESCRIPTION="Automatic time tracking extension"
 
 HOMEPAGE="https://github.com/pauldub/activity-watch-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

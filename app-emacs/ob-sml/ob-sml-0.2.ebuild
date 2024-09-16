@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for template evaluation"
+DESCRIPTION="Org-babel functions for template evaluation"
 
 HOMEPAGE="http://orgmode.org"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

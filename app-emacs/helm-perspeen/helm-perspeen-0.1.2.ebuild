@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm interface for perspeen."
+DESCRIPTION="Helm interface for perspeen"
 
 HOMEPAGE="https://github.com/jimo1001/helm-perspeen"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

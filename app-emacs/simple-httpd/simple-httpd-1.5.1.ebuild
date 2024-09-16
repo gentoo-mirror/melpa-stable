@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="pure elisp HTTP server"
+DESCRIPTION="Pure elisp HTTP server"
 
 HOMEPAGE="https://github.com/skeeto/emacs-http-server"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

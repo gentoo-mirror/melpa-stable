@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emms for Helm."
+DESCRIPTION="Emms for Helm"
 
 HOMEPAGE="https://github.com/emacs-helm/helm-emms"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

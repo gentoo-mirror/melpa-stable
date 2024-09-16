@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="collection of faces for markup language modes"
+DESCRIPTION="Collection of faces for markup language modes"
 
 HOMEPAGE="https://github.com/sensorflo/markup-faces"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

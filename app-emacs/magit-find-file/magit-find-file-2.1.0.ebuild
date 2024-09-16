@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="completing-read over all files in Git"
+DESCRIPTION="Completing-read over all files in Git"
 
 HOMEPAGE="https://github.com/bradleywright/magit-find-file.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="provide interface for more easily search/choice than BBDB."
+DESCRIPTION="Provide interface for more easily search/choice than BBDB"
 
 HOMEPAGE="https://github.com/aki2o/bbdb-"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

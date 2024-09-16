@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Parse and reformat tabular data."
+DESCRIPTION="Parse and reformat tabular data"
 
 HOMEPAGE="https://github.com/functionreturnfunction/format-table"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

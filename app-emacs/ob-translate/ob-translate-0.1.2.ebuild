@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Translation of text blocks in org-mode."
+DESCRIPTION="Translation of text blocks in org-mode"
 
 HOMEPAGE="https://github.com/krisajenkins/ob-translate"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="minor mode that hides/masks your modeline"
+DESCRIPTION="Minor mode that hides/masks your modeline"
 
 HOMEPAGE="https://github.com/hlissner/emacs-hide-mode-line"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

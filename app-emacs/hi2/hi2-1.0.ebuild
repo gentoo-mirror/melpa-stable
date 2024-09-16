@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="indentation module for Haskell Mode"
+DESCRIPTION="Indentation module for Haskell Mode"
 
 HOMEPAGE="https://github.com/errge/hi2"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Try out Emacs packages."
+DESCRIPTION="Try out Emacs packages"
 
 HOMEPAGE="http://github.com/larstvei/try"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="minor mode to display tabs of elscreen in a dedicated buffer"
+DESCRIPTION="Minor mode to display tabs of elscreen in a dedicated buffer"
 
 HOMEPAGE="https://github.com/aki-s/elscreen-tab"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

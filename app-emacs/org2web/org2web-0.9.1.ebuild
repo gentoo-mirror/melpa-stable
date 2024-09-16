@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A static site generator based on org mode."
+DESCRIPTION="A static site generator based on org mode"
 
 HOMEPAGE="https://github.com/tumashu/org2web"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display a git project status in a dashboard widget."
+DESCRIPTION="Display a git project status in a dashboard widget"
 
 HOMEPAGE="https://github.com/functionreturnfurnction/dashboard-project-status"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

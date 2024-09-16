@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="rdefs with helm interface"
+DESCRIPTION="Rdefs with helm interface"
 
 HOMEPAGE="https://github.com/saidie/helm-rdefs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

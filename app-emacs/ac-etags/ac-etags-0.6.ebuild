@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="etags/ctags completion source for auto-complete"
+DESCRIPTION="Etags/ctags completion source for auto-complete"
 
 HOMEPAGE="https://github.com/syohex/emacs-ac-etags"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

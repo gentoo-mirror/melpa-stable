@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>browse the fsbot database using tabulated-list-mode</longdescription>
+	<longdescription>Browse the fsbot database using tabulated-list-mode</longdescription>
 </pkgmetadata>

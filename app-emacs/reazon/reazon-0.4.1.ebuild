@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="miniKanren for Emacs"
+DESCRIPTION="MiniKanren for Emacs"
 
 HOMEPAGE="https://github.com/nickdrozd/reazon"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

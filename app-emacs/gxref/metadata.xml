@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>xref backend using GNU Global.</longdescription>
+	<longdescription>Xref backend using GNU Global</longdescription>
 </pkgmetadata>

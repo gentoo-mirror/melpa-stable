@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Paste to the web via scp.</longdescription>
+	<longdescription>Paste to the web via scp</longdescription>
 </pkgmetadata>

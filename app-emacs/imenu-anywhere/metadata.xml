@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>ido/ivy/helm imenu across same mode/project/etc buffers</longdescription>
+	<longdescription>Ido/ivy/helm imenu across same mode/project/etc buffers</longdescription>
 </pkgmetadata>

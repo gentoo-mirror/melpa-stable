@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="focus attention on a region of the buffer"
+DESCRIPTION="Focus attention on a region of the buffer"
 
 HOMEPAGE="https://github.com/tobias/downplay-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

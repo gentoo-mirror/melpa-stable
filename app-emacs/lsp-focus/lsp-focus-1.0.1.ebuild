@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="focus.el support for lsp-mode"
+DESCRIPTION="Focus.el support for lsp-mode"
 
 HOMEPAGE="https://github.com/emacs-lsp/lsp-focus"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

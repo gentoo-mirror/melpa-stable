@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Quick switching between buffers."
+DESCRIPTION="Quick switching between buffers"
 
 HOMEPAGE="https://github.com/joostkremers/nswbuff"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

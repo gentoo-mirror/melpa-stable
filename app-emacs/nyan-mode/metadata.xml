@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Nyan Cat shows position in current buffer in mode-line.</longdescription>
+	<longdescription>Nyan Cat shows position in current buffer in mode-line</longdescription>
 </pkgmetadata>

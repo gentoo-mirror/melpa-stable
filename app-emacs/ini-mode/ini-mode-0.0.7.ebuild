@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for Windows-style ini files."
+DESCRIPTION="Major mode for Windows-style ini files"
 
 HOMEPAGE="https://github.com/Lindydancer/ini-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

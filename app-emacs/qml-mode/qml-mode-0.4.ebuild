@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for editing QT Declarative (QML) code."
+DESCRIPTION="Major mode for editing QT Declarative (QML) code"
 
 HOMEPAGE="https://github.com/coldnew/qml-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

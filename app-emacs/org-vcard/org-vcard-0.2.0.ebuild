@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-mode support for vCard export and import."
+DESCRIPTION="Org-mode support for vCard export and import"
 
 HOMEPAGE="https://github.com/flexibeast/org-vcard"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

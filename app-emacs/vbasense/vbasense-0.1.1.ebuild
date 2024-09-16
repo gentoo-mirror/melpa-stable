@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="provide a environment like Visual Basic Editor."
+DESCRIPTION="Provide a environment like Visual Basic Editor"
 
 HOMEPAGE="https://github.com/aki2o/emacs-vbasense"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm interface of pass, the standard Unix password manager"
+DESCRIPTION="Helm interface of pass, the standard Unix password manager"
 
 HOMEPAGE="https://github.com/emacs-helm/helm-pass"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

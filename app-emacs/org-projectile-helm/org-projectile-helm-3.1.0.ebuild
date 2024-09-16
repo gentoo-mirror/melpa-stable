@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm functions for org-projectile"
+DESCRIPTION="Helm functions for org-projectile"
 
 HOMEPAGE="https://github.com/IvanMalison/org-projectile"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

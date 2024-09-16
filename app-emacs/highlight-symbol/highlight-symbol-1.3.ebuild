@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="automatic and manual symbol highlighting"
+DESCRIPTION="Automatic and manual symbol highlighting"
 
 HOMEPAGE="http://nschum.de/src/emacs/highlight-symbol/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

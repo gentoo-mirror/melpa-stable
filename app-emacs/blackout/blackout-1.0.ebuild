@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Better mode lighter overriding."
+DESCRIPTION="Better mode lighter overriding"
 
 HOMEPAGE="https://github.com/raxod502/blackout"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

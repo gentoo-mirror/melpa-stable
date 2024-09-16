@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="markdown realtime preview minor mode."
+DESCRIPTION="Markdown realtime preview minor mode"
 
 HOMEPAGE="https://github.com/ancane/markdown-preview-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

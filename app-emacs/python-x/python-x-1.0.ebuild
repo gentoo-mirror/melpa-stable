@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="python.el extras for interactive evaluation"
+DESCRIPTION="Python.el extras for interactive evaluation"
 
 HOMEPAGE="https://github.com/wavexx/python-x.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

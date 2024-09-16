@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>focus.el support for lsp-mode</longdescription>
+	<longdescription>Focus.el support for lsp-mode</longdescription>
 </pkgmetadata>

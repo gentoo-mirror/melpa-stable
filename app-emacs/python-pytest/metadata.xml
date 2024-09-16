@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>helpers to run pytest</longdescription>
+	<longdescription>Helpers to run pytest</longdescription>
 </pkgmetadata>

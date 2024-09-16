@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs interface to Google Translate."
+DESCRIPTION="Emacs interface to Google Translate"
 
 HOMEPAGE="https://github.com/atykhonov/google-translate"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="sayid nREPL middleware client"
+DESCRIPTION="Sayid nREPL middleware client"
 
 HOMEPAGE="https://github.com/clojure-emacs/sayid"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

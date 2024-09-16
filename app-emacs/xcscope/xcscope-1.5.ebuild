@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="cscope interface for (X)Emacs"
+DESCRIPTION="Cscope interface for (X)Emacs"
 
 HOMEPAGE="https://github.com/dkogan/xcscope.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

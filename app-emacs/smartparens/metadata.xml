@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Automatic insertion, wrapping and paredit-like navigation with user defined pairs.</longdescription>
+	<longdescription>Automatic insertion, wrapping and paredit-like navigation with user defined pairs</longdescription>
 </pkgmetadata>

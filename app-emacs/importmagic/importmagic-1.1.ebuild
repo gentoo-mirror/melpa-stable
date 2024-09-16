@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fix Python imports using importmagic."
+DESCRIPTION="Fix Python imports using importmagic"
 
 HOMEPAGE="https://github.com/anachronic/importmagic.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

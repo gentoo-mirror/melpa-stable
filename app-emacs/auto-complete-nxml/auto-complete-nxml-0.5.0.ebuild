@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="do completion by auto-complete.el on nXML-mode"
+DESCRIPTION="Do completion by auto-complete.el on nXML-mode"
 
 HOMEPAGE="https://github.com/aki2o/auto-complete-nxml"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

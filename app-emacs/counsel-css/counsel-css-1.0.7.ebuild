@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="stylesheet-selector-aware swiper"
+DESCRIPTION="Stylesheet-selector-aware swiper"
 
 HOMEPAGE="https://github.com/hlissner/emacs-counsel-css"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

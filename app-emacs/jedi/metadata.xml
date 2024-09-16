@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>a Python auto-completion for Emacs</longdescription>
+	<longdescription>A Python auto-completion for Emacs</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="perldoc with helm interface"
+DESCRIPTION="Perldoc with helm interface"
 
 HOMEPAGE="https://github.com/syohex/emacs-helm-perldoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

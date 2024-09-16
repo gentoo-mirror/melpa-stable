@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ispell completion source for auto-complete"
+DESCRIPTION="Ispell completion source for auto-complete"
 
 HOMEPAGE="https://github.com/syohex/emacs-ac-ispell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

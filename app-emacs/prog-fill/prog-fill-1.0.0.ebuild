@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Smartly format lines to use vertical space."
+DESCRIPTION="Smartly format lines to use vertical space"
 
 HOMEPAGE="https://github.com/ahungry/prog-fill"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

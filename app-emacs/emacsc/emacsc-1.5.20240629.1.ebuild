@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helper for emacsc(1)"
+DESCRIPTION="Helper for emacsc(1)"
 
 HOMEPAGE="https://github.com/knu/emacsc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

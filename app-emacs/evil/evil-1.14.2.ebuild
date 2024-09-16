@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Extensible Vi layer for Emacs."
+DESCRIPTION="Extensible Vi layer for Emacs"
 
 HOMEPAGE="https://github.com/emacs-evil/evil"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

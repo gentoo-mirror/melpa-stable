@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="lightweight coroutines"
+DESCRIPTION="Lightweight coroutines"
 
 HOMEPAGE="https://github.com/jyp/lcr"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

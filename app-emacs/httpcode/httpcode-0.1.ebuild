@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="explains the meaning of an HTTP status code"
+DESCRIPTION="Explains the meaning of an HTTP status code"
 
 HOMEPAGE="http://github.com/rspivak/httpcode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="run a ruby process in a compilation buffer"
+DESCRIPTION="Run a ruby process in a compilation buffer"
 
 HOMEPAGE="https://github.com/eschulte/rinari"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

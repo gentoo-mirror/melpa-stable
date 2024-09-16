@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="switch between named \"perspectives\" of the editor"
+DESCRIPTION="Switch between named \"perspectives\" of the editor"
 
 HOMEPAGE="http://github.com/nex3/perspective-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

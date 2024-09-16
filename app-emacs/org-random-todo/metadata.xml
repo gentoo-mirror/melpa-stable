@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>show a random TODO (with alert) every so often</longdescription>
+	<longdescription>Show a random TODO (with alert) every so often</longdescription>
 </pkgmetadata>

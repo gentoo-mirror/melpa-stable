@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>minor mode to input Japanese with Mozc</longdescription>
+	<longdescription>Minor mode to input Japanese with Mozc</longdescription>
 </pkgmetadata>

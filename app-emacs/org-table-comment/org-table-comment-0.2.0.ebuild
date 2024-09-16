@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Org table comment modes."
+DESCRIPTION="Org table comment modes"
 
 HOMEPAGE="http://github.com/mlf176f2/org-table-comment.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

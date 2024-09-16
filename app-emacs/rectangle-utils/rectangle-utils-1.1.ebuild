@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Some useful rectangle functions."
+DESCRIPTION="Some useful rectangle functions"
 
 HOMEPAGE="https://github.com/thierryvolpiatto/rectangle-utils"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

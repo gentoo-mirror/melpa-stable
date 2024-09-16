@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A dark theme with contrasting colours."
+DESCRIPTION="A dark theme with contrasting colours"
 
 HOMEPAGE="https://github.com/mgrbyte/emacs-abyss-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
