@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>helm interface for codesearch</longdescription>
+	<longdescription>Helm interface for codesearch</longdescription>
 </pkgmetadata>

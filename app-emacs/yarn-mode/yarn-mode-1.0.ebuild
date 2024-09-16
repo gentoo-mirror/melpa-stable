@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for yarn.lock files."
+DESCRIPTION="Major mode for yarn.lock files"
 
 HOMEPAGE="https://github.com/anachronic/yarn-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

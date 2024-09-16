@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="eredis, a Redis client in emacs lisp"
+DESCRIPTION="Eredis, a Redis client in emacs lisp"
 
 HOMEPAGE="http://github.com/justinhj/eredis/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

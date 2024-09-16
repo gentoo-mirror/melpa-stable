@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="dictate what you're doing with text to speech"
+DESCRIPTION="Dictate what you're doing with text to speech"
 
 HOMEPAGE="http://github.com/benaiah/say-what-im-doing"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

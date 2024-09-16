@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="RTags Flycheck integration."
+DESCRIPTION="RTags Flycheck integration"
 
 HOMEPAGE="http://rtags.net"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

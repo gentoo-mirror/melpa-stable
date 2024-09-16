@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>basic mode for editing logstash configuration</longdescription>
+	<longdescription>Basic mode for editing logstash configuration</longdescription>
 </pkgmetadata>

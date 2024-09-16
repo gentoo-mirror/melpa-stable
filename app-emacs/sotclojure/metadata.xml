@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Write clojure at the speed of thought.</longdescription>
+	<longdescription>Write clojure at the speed of thought</longdescription>
 </pkgmetadata>

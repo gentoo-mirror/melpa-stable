@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A minor mode to allow loading and saving of project settings."
+DESCRIPTION="A minor mode to allow loading and saving of project settings"
 
 HOMEPAGE="https://github.com/rdallasgray/project-persist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

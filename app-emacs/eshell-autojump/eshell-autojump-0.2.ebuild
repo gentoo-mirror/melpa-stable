@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="autojump command for Eshell"
+DESCRIPTION="Autojump command for Eshell"
 
 HOMEPAGE="http://github.com/coldnew/eshell-autojump"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

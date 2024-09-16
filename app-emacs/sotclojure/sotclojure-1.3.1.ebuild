@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Write clojure at the speed of thought."
+DESCRIPTION="Write clojure at the speed of thought"
 
 HOMEPAGE="https://github.com/Malabarba/speed-of-thought-clojure"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

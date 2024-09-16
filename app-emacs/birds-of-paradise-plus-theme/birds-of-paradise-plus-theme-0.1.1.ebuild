@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A brown/orange light-on-dark theme for Emacs 24 (deftheme)."
+DESCRIPTION="A brown/orange light-on-dark theme for Emacs 24 (deftheme)"
 
 HOMEPAGE="https://github.com/jimeh/birds-of-paradise-plus-theme.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

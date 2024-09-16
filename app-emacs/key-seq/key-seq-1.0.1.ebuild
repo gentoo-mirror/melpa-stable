@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="map pairs of sequentially pressed keys to commands"
+DESCRIPTION="Map pairs of sequentially pressed keys to commands"
 
 HOMEPAGE="http://github.com/vlevit/key-seq.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

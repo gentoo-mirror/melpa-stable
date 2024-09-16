@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>miniKanren for Emacs</longdescription>
+	<longdescription>MiniKanren for Emacs</longdescription>
 </pkgmetadata>

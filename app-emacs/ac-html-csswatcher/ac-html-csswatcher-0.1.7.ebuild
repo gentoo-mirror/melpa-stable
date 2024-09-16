@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="css/less class/id completion with \`ac-html' or \`company-web'"
+DESCRIPTION="Css/less class/id completion with \`ac-html' or \`company-web'"
 
 HOMEPAGE="https://github.com/osv/ac-html-csswatcher"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display ido-prospects in the minibuffer in a grid."
+DESCRIPTION="Display ido-prospects in the minibuffer in a grid"
 
 HOMEPAGE="https://github.com/larkery/ido-grid-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

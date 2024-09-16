@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="launch files with OS-standard associated applications."
+DESCRIPTION="Launch files with OS-standard associated applications"
 
 HOMEPAGE="https://github.com/sfllaw/emacs-launch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

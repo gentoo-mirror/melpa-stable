@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>another incremental search &amp; replace, compatible with &quot;multiple-cursors&quot;</longdescription>
+	<longdescription>Another incremental search &amp; replace, compatible with &quot;multiple-cursors&quot;</longdescription>
 </pkgmetadata>

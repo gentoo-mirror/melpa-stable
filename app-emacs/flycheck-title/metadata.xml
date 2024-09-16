@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>show flycheck errors in the frame title</longdescription>
+	<longdescription>Show flycheck errors in the frame title</longdescription>
 </pkgmetadata>

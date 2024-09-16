@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Deployment via Tramp, global or per directory.</longdescription>
+	<longdescription>Deployment via Tramp, global or per directory</longdescription>
 </pkgmetadata>

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>shell command editing support with man page.</longdescription>
+	<longdescription>Shell command editing support with man page</longdescription>
 </pkgmetadata>

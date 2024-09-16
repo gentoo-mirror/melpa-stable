@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Notifications when commands complete in term.el."
+DESCRIPTION="Notifications when commands complete in term.el"
 
 HOMEPAGE="https://github.com/CallumCameron/term-alert"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

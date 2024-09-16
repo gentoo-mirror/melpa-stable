@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>dired functions and settings to mimic FDclone</longdescription>
+	<longdescription>Dired functions and settings to mimic FDclone</longdescription>
 </pkgmetadata>

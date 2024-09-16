@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="run notmuch within emacs"
+DESCRIPTION="Run notmuch within emacs"
 
 HOMEPAGE="https://notmuchmail.org"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

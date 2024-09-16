@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm sources for spaces"
+DESCRIPTION="Helm sources for spaces"
 
 HOMEPAGE="https://github.com/yasuyk/helm-spaces"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

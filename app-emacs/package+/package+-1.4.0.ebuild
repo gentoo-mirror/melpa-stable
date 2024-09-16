@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Extensions for the package library."
+DESCRIPTION="Extensions for the package library"
 
 HOMEPAGE="https://github.com/zenspider/package"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

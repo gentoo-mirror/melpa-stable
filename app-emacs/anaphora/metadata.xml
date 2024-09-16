@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>anaphoric macros providing implicit temp variables</longdescription>
+	<longdescription>Anaphoric macros providing implicit temp variables</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Mode for reddit (browse it)."
+DESCRIPTION="Mode for reddit (browse it)"
 
 HOMEPAGE="https://github.com/ahungry/md4rd"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

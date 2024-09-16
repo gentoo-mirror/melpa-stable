@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="fast, dynamic bindings for window-switching/resizing"
+DESCRIPTION="Fast, dynamic bindings for window-switching/resizing"
 
 HOMEPAGE="http://www.stat.cmu.edu/~genovese/emacs/win-switch/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="avy with migemo"
+DESCRIPTION="Avy with migemo"
 
 HOMEPAGE="https://github.com/momomo5717/avy-migemo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show documentation for Swift programs."
+DESCRIPTION="Show documentation for Swift programs"
 
 HOMEPAGE="https://github.com/danielmartin/swift-helpful"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

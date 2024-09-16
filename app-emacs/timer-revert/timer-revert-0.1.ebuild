@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="minor mode to revert buffer for a given time interval."
+DESCRIPTION="Minor mode to revert buffer for a given time interval"
 
 HOMEPAGE="http://github.com/yyr/timer-revert"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

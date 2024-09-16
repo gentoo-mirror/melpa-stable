@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Edit jq scripts."
+DESCRIPTION="Edit jq scripts"
 
 HOMEPAGE="https://github.com/ljos/jq-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

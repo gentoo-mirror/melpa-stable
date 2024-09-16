@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="company-mode cabal backend"
+DESCRIPTION="Company-mode cabal backend"
 
 HOMEPAGE="https://github.com/iquiw/company-cabal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

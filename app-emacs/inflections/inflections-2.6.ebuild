@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="convert english words between singular and plural"
+DESCRIPTION="Convert english words between singular and plural"
 
 HOMEPAGE="https://github.com/eschulte/jump.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

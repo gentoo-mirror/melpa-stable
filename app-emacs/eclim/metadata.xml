@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>An interface to the Eclipse IDE.</longdescription>
+	<longdescription>An interface to the Eclipse IDE</longdescription>
 </pkgmetadata>

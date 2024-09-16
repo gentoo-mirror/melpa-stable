@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Adds several useful functionalities to LaTeX-mode."
+DESCRIPTION="Adds several useful functionalities to LaTeX-mode"
 
 HOMEPAGE="http://github.com/Malabarba/latex-extra"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

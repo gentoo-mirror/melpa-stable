@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ido/ivy/helm imenu across same mode/project/etc buffers"
+DESCRIPTION="Ido/ivy/helm imenu across same mode/project/etc buffers"
 
 HOMEPAGE="https://github.com/vitoshka/imenu-anywhere"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

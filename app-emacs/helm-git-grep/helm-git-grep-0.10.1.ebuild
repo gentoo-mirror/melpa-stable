@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm for git grep, an incremental git-grep(1)"
+DESCRIPTION="Helm for git grep, an incremental git-grep(1)"
 
 HOMEPAGE="https://github.com/yasuyk/helm-git-grep"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

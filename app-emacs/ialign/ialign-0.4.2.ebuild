@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="visual align-regexp"
+DESCRIPTION="Visual align-regexp"
 
 HOMEPAGE="https://github.com/mkcms/interactive-align"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

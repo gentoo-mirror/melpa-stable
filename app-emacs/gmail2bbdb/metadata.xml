@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>import email and name into bbdb from vcard.</longdescription>
+	<longdescription>Import email and name into bbdb from vcard</longdescription>
 </pkgmetadata>

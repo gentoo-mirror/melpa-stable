@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm multi-term management"
+DESCRIPTION="Helm multi-term management"
 
 HOMEPAGE="https://github.com/dfdeshom/helm-mt"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

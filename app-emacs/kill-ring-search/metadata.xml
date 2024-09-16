@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>incremental search for the kill ring</longdescription>
+	<longdescription>Incremental search for the kill ring</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="opening urls as buffers in evil"
+DESCRIPTION="Opening urls as buffers in evil"
 
 HOMEPAGE="https://github.com/0robustus1/opener.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

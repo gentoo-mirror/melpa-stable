@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm interface for the recoll desktop search tool."
+DESCRIPTION="Helm interface for the recoll desktop search tool"
 
 HOMEPAGE="https://github.com/emacs-helm/helm-recoll"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

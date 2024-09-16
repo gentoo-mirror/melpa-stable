@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Local Rust playground for short code snippets.</longdescription>
+	<longdescription>Local Rust playground for short code snippets</longdescription>
 </pkgmetadata>

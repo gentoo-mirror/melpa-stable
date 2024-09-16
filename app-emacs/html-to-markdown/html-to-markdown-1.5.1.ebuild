@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="HTML to Markdown converter written in Emacs-lisp."
+DESCRIPTION="HTML to Markdown converter written in Emacs-lisp"
 
 HOMEPAGE="http://github.com/Bruce-Connor/html-to-markdown"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

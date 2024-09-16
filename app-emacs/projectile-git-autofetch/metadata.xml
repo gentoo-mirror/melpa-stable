@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>automatically fetch git repositories</longdescription>
+	<longdescription>Automatically fetch git repositories</longdescription>
 </pkgmetadata>

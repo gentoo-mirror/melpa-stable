@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Protocol database access functions."
+DESCRIPTION="Protocol database access functions"
 
 HOMEPAGE="https://github.com/davep/protocols.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

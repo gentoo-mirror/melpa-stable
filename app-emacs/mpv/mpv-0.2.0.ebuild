@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="control mpv for easy note-taking"
+DESCRIPTION="Control mpv for easy note-taking"
 
 HOMEPAGE="https://github.com/kljohann/mpv.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

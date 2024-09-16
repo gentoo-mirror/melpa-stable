@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Eval org-mode babel code blocks in various REPLs."
+DESCRIPTION="Eval org-mode babel code blocks in various REPLs"
 
 HOMEPAGE="https://github.com/diadochos/org-babel-eval-in-repl"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

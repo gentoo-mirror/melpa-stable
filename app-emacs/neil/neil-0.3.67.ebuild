@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="companion for Babashka Neil"
+DESCRIPTION="Companion for Babashka Neil"
 
 HOMEPAGE="https://github.com/babashka/neil"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

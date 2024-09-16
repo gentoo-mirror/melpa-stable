@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="preview LaTeX mathematical expressions."
+DESCRIPTION="Preview LaTeX mathematical expressions"
 
 HOMEPAGE="https://gitlab.com/latex-math-preview/latex-math-preview"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

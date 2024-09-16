@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Unobtrusively remove trailing whitespace."
+DESCRIPTION="Unobtrusively remove trailing whitespace"
 
 HOMEPAGE="https://github.com/lewang/ws-butler"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

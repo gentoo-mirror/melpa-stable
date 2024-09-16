@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="use eslint_d to automatically fix js files"
+DESCRIPTION="Use eslint_d to automatically fix js files"
 
 HOMEPAGE="https://github.com/aaronjensen/eslintd-fix"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

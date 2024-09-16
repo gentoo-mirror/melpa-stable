@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="citations, cross-references and bibliographies in org-mode"
+DESCRIPTION="Citations, cross-references and bibliographies in org-mode"
 
 HOMEPAGE="https://github.com/jkitchin/org-ref"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

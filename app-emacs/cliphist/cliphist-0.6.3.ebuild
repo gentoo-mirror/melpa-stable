@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="paste from clipboard managers"
+DESCRIPTION="Paste from clipboard managers"
 
 HOMEPAGE="http://github.com/redguardtoo/cliphist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

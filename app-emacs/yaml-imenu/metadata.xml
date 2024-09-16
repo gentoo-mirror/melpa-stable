@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Enhancement of the imenu support in yaml-mode.</longdescription>
+	<longdescription>Enhancement of the imenu support in yaml-mode</longdescription>
 </pkgmetadata>

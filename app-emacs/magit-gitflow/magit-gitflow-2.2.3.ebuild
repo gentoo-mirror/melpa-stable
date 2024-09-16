@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="gitflow extension for magit"
+DESCRIPTION="Gitflow extension for magit"
 
 HOMEPAGE="https://github.com/jtatarik/magit-gitflow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

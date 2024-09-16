@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Use a project drawer with project-persist."
+DESCRIPTION="Use a project drawer with project-persist"
 
 HOMEPAGE="https://github.com/rdallasgray/project-persist-drawer.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

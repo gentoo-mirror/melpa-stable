@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="shell command editing support with man page."
+DESCRIPTION="Shell command editing support with man page"
 
 HOMEPAGE="http://github.com/mhayashi1120/Emacs-shelldoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

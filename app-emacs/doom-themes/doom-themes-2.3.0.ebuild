@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="an opinionated pack of modern color-themes"
+DESCRIPTION="An opinionated pack of modern color-themes"
 
 HOMEPAGE="https://github.com/doomemacs/themes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="display the definition of word at point."
+DESCRIPTION="Display the definition of word at point"
 
 HOMEPAGE="https://github.com/abo-abo/define-word"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

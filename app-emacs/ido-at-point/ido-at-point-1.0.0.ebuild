@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ido-style completion-at-point"
+DESCRIPTION="Ido-style completion-at-point"
 
 HOMEPAGE="https://github.com/katspaugh/ido-at-point"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

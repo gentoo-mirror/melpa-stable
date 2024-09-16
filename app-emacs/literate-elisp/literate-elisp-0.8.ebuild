@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="literate program to write elisp codes in org mode"
+DESCRIPTION="Literate program to write elisp codes in org mode"
 
 HOMEPAGE="https://github.com/jingtaozf/literate-elisp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

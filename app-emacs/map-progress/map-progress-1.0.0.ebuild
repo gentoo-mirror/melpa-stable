@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="mapping macros that report progress"
+DESCRIPTION="Mapping macros that report progress"
 
 HOMEPAGE="https://github.com/tarsius/map-progress"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

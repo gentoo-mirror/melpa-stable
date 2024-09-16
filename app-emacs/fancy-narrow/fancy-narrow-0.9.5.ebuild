@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="narrow-to-region with more eye candy."
+DESCRIPTION="Narrow-to-region with more eye candy"
 
 HOMEPAGE="http://github.com/Bruce-Connor/fancy-narrow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

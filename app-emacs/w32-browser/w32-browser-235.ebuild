@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Run Windows application associated with a file."
+DESCRIPTION="Run Windows application associated with a file"
 
 HOMEPAGE="http://www.emacswiki.org/w32-browser.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>minor mode to revert buffer for a given time interval.</longdescription>
+	<longdescription>Minor mode to revert buffer for a given time interval</longdescription>
 </pkgmetadata>

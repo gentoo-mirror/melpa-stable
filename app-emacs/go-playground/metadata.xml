@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Local Golang playground for short snippets.</longdescription>
+	<longdescription>Local Golang playground for short snippets</longdescription>
 </pkgmetadata>

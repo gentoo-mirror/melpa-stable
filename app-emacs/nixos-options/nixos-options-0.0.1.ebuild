@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Interface for browsing and completing NixOS options."
+DESCRIPTION="Interface for browsing and completing NixOS options"
 
 HOMEPAGE="http://www.github.com/travisbhartwell/nix-emacs/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

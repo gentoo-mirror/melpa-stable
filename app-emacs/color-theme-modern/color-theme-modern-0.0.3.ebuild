@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Reimplement colortheme with Emacs 24 theme framework."
+DESCRIPTION="Reimplement colortheme with Emacs 24 theme framework"
 
 HOMEPAGE="https://github.com/emacs-jp/replace-colorthemes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

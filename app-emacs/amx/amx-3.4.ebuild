@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Alternative M-x with extra features."
+DESCRIPTION="Alternative M-x with extra features"
 
 HOMEPAGE="http://github.com/DarwinAwardWinner/amx/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

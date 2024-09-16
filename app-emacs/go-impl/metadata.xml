@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>impl integration for go-mode</longdescription>
+	<longdescription>Impl integration for go-mode</longdescription>
 </pkgmetadata>

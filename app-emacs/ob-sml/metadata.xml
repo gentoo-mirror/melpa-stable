@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>org-babel functions for template evaluation</longdescription>
+	<longdescription>Org-babel functions for template evaluation</longdescription>
 </pkgmetadata>

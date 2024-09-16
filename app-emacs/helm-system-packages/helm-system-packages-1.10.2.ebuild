@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm UI wrapper for system package managers."
+DESCRIPTION="Helm UI wrapper for system package managers"
 
 HOMEPAGE="https://github.com/emacs-helm/helm-system-packages"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>additional completion for pcomplete</longdescription>
+	<longdescription>Additional completion for pcomplete</longdescription>
 </pkgmetadata>

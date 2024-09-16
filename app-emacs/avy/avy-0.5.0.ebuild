@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Jump to arbitrary positions in visible text and select text quickly."
+DESCRIPTION="Jump to arbitrary positions in visible text and select text quickly"
 
 HOMEPAGE="https://github.com/abo-abo/avy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

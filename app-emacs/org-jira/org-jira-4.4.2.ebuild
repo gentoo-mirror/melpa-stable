@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Syncing between Jira and Org-mode."
+DESCRIPTION="Syncing between Jira and Org-mode"
 
 HOMEPAGE="https://github.com/ahungry/org-jira"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

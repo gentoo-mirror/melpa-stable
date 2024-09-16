@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for Hy-lang evaluation"
+DESCRIPTION="Org-babel functions for Hy-lang evaluation"
 
 HOMEPAGE="https://github.com/brantou/ob-hy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

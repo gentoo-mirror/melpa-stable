@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="mediawiki frontend"
+DESCRIPTION="Mediawiki frontend"
 
 HOMEPAGE="https://github.com/hexmode/mediawiki-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

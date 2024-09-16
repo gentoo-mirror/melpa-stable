@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="all-the-icons integration for treemacs"
+DESCRIPTION="All-the-icons integration for treemacs"
 
 HOMEPAGE="https://github.com/Alexander-Miller/treemacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="functions to manage system packages"
+DESCRIPTION="Functions to manage system packages"
 
 HOMEPAGE="https://gitlab.com/jabranham/system-packages"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

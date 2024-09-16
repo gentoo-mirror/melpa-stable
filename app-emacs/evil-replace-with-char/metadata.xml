@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>replace chars of a text object with a char</longdescription>
+	<longdescription>Replace chars of a text object with a char</longdescription>
 </pkgmetadata>

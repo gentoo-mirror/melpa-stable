@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="mode for editing GitLab CI files"
+DESCRIPTION="Mode for editing GitLab CI files"
 
 HOMEPAGE="https://gitlab.com/joewreschnig/gitlab-ci-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Simple markup generation helpers."
+DESCRIPTION="Simple markup generation helpers"
 
 HOMEPAGE="http://github.com/leoc/markup.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

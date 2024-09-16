@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>a minor mode to draw stats from celery and more?</longdescription>
+	<longdescription>A minor mode to draw stats from celery and more?</longdescription>
 </pkgmetadata>

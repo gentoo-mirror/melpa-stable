@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Post web search queries using `browse-url'.</longdescription>
+	<longdescription>Post web search queries using `browse-url'</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="No description available."
+DESCRIPTION="[No description available]"
 
 HOMEPAGE="http://www.dur.ac.uk/p.j.heslin/emacs/download/fold-dwim.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

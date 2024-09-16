@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Comment stuff out. A port of vim-commentary."
+DESCRIPTION="Comment stuff out. A port of vim-commentary"
 
 HOMEPAGE="http://github.com/linktohack/evil-commentary"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

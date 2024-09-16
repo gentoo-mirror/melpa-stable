@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Track and display Emacs session uptimes."
+DESCRIPTION="Track and display Emacs session uptimes"
 
 HOMEPAGE="https://github.com/davep/uptimes.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

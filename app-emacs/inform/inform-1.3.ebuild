@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Symbol links in Info buffers to their help documentation."
+DESCRIPTION="Symbol links in Info buffers to their help documentation"
 
 HOMEPAGE="https://github.com/dieter-wilhelm/inform"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="edit a single list"
+DESCRIPTION="Edit a single list"
 
 HOMEPAGE="http://mwolson.org/static/dist/elisp/edit-list.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

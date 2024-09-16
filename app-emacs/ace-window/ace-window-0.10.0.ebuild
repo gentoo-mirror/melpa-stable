@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Quickly switch windows."
+DESCRIPTION="Quickly switch windows"
 
 HOMEPAGE="https://github.com/abo-abo/ace-window"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

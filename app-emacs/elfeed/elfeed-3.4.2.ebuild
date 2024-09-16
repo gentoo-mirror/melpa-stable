@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="an Emacs Atom/RSS feed reader"
+DESCRIPTION="An Emacs Atom/RSS feed reader"
 
 HOMEPAGE="https://github.com/skeeto/elfeed"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Make bindings that stick around."
+DESCRIPTION="Make bindings that stick around"
 
 HOMEPAGE="https://github.com/abo-abo/hydra"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

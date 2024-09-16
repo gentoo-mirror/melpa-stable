@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="bookmarking and web archival system for Org mode."
+DESCRIPTION="Bookmarking and web archival system for Org mode"
 
 HOMEPAGE="https://github.com/scallywag/org-board"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

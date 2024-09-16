@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Quote text with a semi-box."
+DESCRIPTION="Quote text with a semi-box"
 
 HOMEPAGE="https://github.com/davep/boxquote.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

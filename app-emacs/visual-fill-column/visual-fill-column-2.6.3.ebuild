@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="fill-column for visual-line-mode"
+DESCRIPTION="Fill-column for visual-line-mode"
 
 HOMEPAGE="https://codeberg.org/joostkremers/visual-fill-column"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

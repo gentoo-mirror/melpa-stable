@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="color editing goodies"
+DESCRIPTION="Color editing goodies"
 
 HOMEPAGE="https://github.com/emacsfodder/kurecolor.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

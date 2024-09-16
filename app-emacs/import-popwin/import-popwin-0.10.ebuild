@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="popwin buffer near by import statements with popwin"
+DESCRIPTION="Popwin buffer near by import statements with popwin"
 
 HOMEPAGE="https://github.com/syohex/emacs-import-popwin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

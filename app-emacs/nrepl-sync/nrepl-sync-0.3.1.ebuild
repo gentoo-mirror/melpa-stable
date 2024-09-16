@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="connect to nrepl port and eval .sync.clj."
+DESCRIPTION="Connect to nrepl port and eval .sync.clj"
 
 HOMEPAGE="https://github.com/phillord/lein-sync"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

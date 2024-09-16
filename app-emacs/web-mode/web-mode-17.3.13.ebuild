@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for editing web templates"
+DESCRIPTION="Major mode for editing web templates"
 
 HOMEPAGE="https://web-mode.org"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

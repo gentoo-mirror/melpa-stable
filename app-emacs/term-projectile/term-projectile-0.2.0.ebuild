@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="projectile terminal management"
+DESCRIPTION="Projectile terminal management"
 
 HOMEPAGE="https://www.github.com/IvanMalison/term-manager"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="completion with popup"
+DESCRIPTION="Completion with popup"
 
 HOMEPAGE="https://github.com/syohex/emacs-popup-complete"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

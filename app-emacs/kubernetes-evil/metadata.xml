@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Kubernetes keybindings for evil-mode.</longdescription>
+	<longdescription>Kubernetes keybindings for evil-mode</longdescription>
 </pkgmetadata>

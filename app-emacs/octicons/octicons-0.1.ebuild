@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="octicons utility"
+DESCRIPTION="Octicons utility"
 
 HOMEPAGE="https://github.com/syohex/emacs-octicons"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

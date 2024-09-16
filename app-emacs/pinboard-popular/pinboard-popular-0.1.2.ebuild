@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Displays links from the pinboard.in popular page."
+DESCRIPTION="Displays links from the pinboard.in popular page"
 
 HOMEPAGE="https://github.com/asimpson/pinboard-popular"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

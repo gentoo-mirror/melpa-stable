@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Paste to the web via scp."
+DESCRIPTION="Paste to the web via scp"
 
 HOMEPAGE="https://git.sr.ht/~technomancy/scpaste"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Reimplement colortheme with Emacs 24 theme framework.</longdescription>
+	<longdescription>Reimplement colortheme with Emacs 24 theme framework</longdescription>
 </pkgmetadata>

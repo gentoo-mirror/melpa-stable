@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="browse the orgcard by helm"
+DESCRIPTION="Browse the orgcard by helm"
 
 HOMEPAGE="https://github.com/emacs-jp/helm-orgcard"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

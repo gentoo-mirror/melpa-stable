@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A major-mode for editing gmail messages using markdown syntax.</longdescription>
+	<longdescription>A major-mode for editing gmail messages using markdown syntax</longdescription>
 </pkgmetadata>

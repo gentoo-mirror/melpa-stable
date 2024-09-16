@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Display ido-prospects in the minibuffer in a grid.</longdescription>
+	<longdescription>Display ido-prospects in the minibuffer in a grid</longdescription>
 </pkgmetadata>

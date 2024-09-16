@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="numeric window switching shortcuts"
+DESCRIPTION="Numeric window switching shortcuts"
 
 HOMEPAGE="https://github.com/luismbo/wn-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

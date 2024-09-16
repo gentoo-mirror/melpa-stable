@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>helm source for yasnippet.el</longdescription>
+	<longdescription>Helm source for yasnippet.el</longdescription>
 </pkgmetadata>

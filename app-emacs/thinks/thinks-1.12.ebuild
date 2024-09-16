@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Insert text in a think bubble."
+DESCRIPTION="Insert text in a think bubble"
 
 HOMEPAGE="https://github.com/davep/thinks.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a more usable theme for white-on-black terminals"
+DESCRIPTION="A more usable theme for white-on-black terminals"
 
 HOMEPAGE="https://github.com/bmastenbrook/termbright-theme-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

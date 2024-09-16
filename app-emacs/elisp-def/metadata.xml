@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>macro-aware go-to-definition for elisp</longdescription>
+	<longdescription>Macro-aware go-to-definition for elisp</longdescription>
 </pkgmetadata>

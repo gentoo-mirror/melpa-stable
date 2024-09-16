@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>provide a interface for auto-complete.el/flymake.el on typescript-mode.</longdescription>
+	<longdescription>Provide a interface for auto-complete.el/flymake.el on typescript-mode</longdescription>
 </pkgmetadata>

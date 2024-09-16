@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>provide interface for PlSense that is a development tool for Perl.</longdescription>
+	<longdescription>Provide interface for PlSense that is a development tool for Perl</longdescription>
 </pkgmetadata>

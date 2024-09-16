@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A package for basic linguistic analysis."
+DESCRIPTION="A package for basic linguistic analysis"
 
 HOMEPAGE="https://github.com/andcarnivorous/linguistic"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

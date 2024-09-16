@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An address book based on Standard Emacs bookmarks."
+DESCRIPTION="An address book based on Standard Emacs bookmarks"
 
 HOMEPAGE="https://github.com/thierryvolpiatto/addressbook-bookmark"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Navigate and edit text objects."
+DESCRIPTION="Navigate and edit text objects"
 
 HOMEPAGE="https://github.com/clemera/objed"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Quickly create Clojure and ClojureScript repls for a project."
+DESCRIPTION="Quickly create Clojure and ClojureScript repls for a project"
 
 HOMEPAGE="https://github.com/symfrog/clojure-quick-repls"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

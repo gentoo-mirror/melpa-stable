@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="quelpa handler for use-package"
+DESCRIPTION="Quelpa handler for use-package"
 
 HOMEPAGE="https://github.com/quelpa/quelpa-use-package"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

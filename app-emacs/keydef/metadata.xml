@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>a simpler way to define keys, with kbd syntax</longdescription>
+	<longdescription>A simpler way to define keys, with kbd syntax</longdescription>
 </pkgmetadata>

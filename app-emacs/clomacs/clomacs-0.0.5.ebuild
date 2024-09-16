@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Simplifies Emacs Lisp interaction with Clojure."
+DESCRIPTION="Simplifies Emacs Lisp interaction with Clojure"
 
 HOMEPAGE="https://github.com/clojure-emacs/clomacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

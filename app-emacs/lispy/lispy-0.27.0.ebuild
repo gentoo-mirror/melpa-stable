@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="vi-like Paredit"
+DESCRIPTION="Vi-like Paredit"
 
 HOMEPAGE="https://github.com/abo-abo/lispy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

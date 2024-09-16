@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="web interface to Elfeed"
+DESCRIPTION="Web interface to Elfeed"
 
 HOMEPAGE="https://github.com/skeeto/elfeed"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

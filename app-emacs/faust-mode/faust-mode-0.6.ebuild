@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Faust syntax colorizer for Emacs."
+DESCRIPTION="Faust syntax colorizer for Emacs"
 
 HOMEPAGE="https://github.com/rukano/emacs-faust-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

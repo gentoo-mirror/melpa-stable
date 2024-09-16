@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Major mode for the Factor programming language.
+DESCRIPTION=Major mode for the Factor programming language
 EAPI=8
 HOMEPAGE=https://stable.melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/fuel-0.100.tar
-_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	abb2dda42f680fce87602c8273f832c7	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=b48db10c9ea28ec94fbd19aac89c5f44
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=bfe01167c608c1c3a06243721a52283a

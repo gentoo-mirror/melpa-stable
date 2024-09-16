@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="auto complete bootstrap3/fontawesome classes for \`ac-html' and \`company-web'"
+DESCRIPTION="Auto complete bootstrap3/fontawesome classes for \`ac-html' and \`company-web'"
 
 HOMEPAGE="https://github.com/osv/ac-html-bootstrap"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

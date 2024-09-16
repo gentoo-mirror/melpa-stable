@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Daemon mode that plays nice with OSX."
+DESCRIPTION="Daemon mode that plays nice with OSX"
 
 HOMEPAGE="https://github.com/DarwinAwardWinner/osx-pseudo-daemon"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

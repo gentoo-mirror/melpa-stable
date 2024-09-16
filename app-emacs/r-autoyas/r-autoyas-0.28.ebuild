@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Provides automatically created yasnippets for R function argument lists."
+DESCRIPTION="Provides automatically created yasnippets for R function argument lists"
 
 HOMEPAGE="https://github.com/mlf176f2/r-autoyas.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

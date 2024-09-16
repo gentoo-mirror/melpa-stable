@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="highlight a sentence based on customizable face"
+DESCRIPTION="Highlight a sentence based on customizable face"
 
 HOMEPAGE="http://github.com/milkypostman/hl-sentence"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Flow type mode based on web-mode."
+DESCRIPTION="Flow type mode based on web-mode"
 
 HOMEPAGE="https://github.com/an-sh/flow-minor-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

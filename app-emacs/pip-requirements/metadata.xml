@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A major mode for editing pip requirements files.</longdescription>
+	<longdescription>A major mode for editing pip requirements files</longdescription>
 </pkgmetadata>

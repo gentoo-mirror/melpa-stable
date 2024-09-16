@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Pomodoro implementation for org-mode."
+DESCRIPTION="Pomodoro implementation for org-mode"
 
 HOMEPAGE="https://github.com/lolownia/org-pomodoro"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

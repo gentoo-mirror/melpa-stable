@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for SageMath evaluation"
+DESCRIPTION="Org-babel functions for SageMath evaluation"
 
 HOMEPAGE="https://github.com/stakemori/ob-sagemath"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

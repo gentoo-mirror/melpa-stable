@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Functions to call out to amixer."
+DESCRIPTION="Functions to call out to amixer"
 
 HOMEPAGE="https://github.com/remvee/alsamixer-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

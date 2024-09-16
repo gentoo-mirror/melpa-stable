@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for blockdiag evaluation"
+DESCRIPTION="Org-babel functions for blockdiag evaluation"
 
 HOMEPAGE="https://github.com/corpix/ob-blockdiag.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

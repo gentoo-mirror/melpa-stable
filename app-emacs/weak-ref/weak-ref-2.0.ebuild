@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="weak references for Emacs Lisp"
+DESCRIPTION="Weak references for Emacs Lisp"
 
 HOMEPAGE="https://github.com/skeeto/elisp-weak-ref"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

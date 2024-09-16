@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="JavaScript interpreter in window."
+DESCRIPTION="JavaScript interpreter in window"
 
 HOMEPAGE="https://github.com/redguardtoo/js-comint"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

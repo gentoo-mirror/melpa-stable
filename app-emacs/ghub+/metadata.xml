@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>a thick GitHub API client built on ghub</longdescription>
+	<longdescription>A thick GitHub API client built on ghub</longdescription>
 </pkgmetadata>

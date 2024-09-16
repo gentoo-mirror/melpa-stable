@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="CL format routine."
+DESCRIPTION="CL format routine"
 
 HOMEPAGE="https://gitlab.com/akater/elisp-cl-format"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

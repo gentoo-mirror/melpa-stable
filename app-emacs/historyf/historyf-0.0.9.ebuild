@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="file history library like browser"
+DESCRIPTION="File history library like browser"
 
 HOMEPAGE="https://github.com/k1LoW/emacs-historyf"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

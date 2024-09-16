@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm circe buffer management."
+DESCRIPTION="Helm circe buffer management"
 
 HOMEPAGE="https://github.com/lesharris/helm-circe"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

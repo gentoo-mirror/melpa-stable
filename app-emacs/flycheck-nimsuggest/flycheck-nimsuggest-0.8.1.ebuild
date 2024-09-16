@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="flycheck backend for Nim using nimsuggest"
+DESCRIPTION="Flycheck backend for Nim using nimsuggest"
 
 HOMEPAGE="https://github.com/yuutayamada/flycheck-nimsuggest"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

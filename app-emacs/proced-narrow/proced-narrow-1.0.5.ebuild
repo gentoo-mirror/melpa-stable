@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Live-narrowing of search results for proced."
+DESCRIPTION="Live-narrowing of search results for proced"
 
 HOMEPAGE="https://github.com/travisjeffery/proced-narrow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

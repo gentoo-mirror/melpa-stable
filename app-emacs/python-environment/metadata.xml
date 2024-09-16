@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>virtualenv API for Emacs Lisp</longdescription>
+	<longdescription>Virtualenv API for Emacs Lisp</longdescription>
 </pkgmetadata>

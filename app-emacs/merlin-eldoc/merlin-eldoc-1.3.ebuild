@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="eldoc for OCaml and Reason"
+DESCRIPTION="Eldoc for OCaml and Reason"
 
 HOMEPAGE="https://github.com/khady/merlin-eldoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>ispell-complete-word with helm interface</longdescription>
+	<longdescription>Ispell-complete-word with helm interface</longdescription>
 </pkgmetadata>

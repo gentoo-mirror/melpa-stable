@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="annotate files without changing them"
+DESCRIPTION="Annotate files without changing them"
 
 HOMEPAGE="https://github.com/bastibe/annotate.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

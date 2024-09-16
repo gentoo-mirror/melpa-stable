@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols.</longdescription>
+	<longdescription>Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols</longdescription>
 </pkgmetadata>

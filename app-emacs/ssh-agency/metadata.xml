@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>manage ssh-agent from Emacs</longdescription>
+	<longdescription>Manage ssh-agent from Emacs</longdescription>
 </pkgmetadata>

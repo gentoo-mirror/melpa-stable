@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="preview LaTeX fragments in alien major modes"
+DESCRIPTION="Preview LaTeX fragments in alien major modes"
 
 HOMEPAGE="https://github.com/TobiasZawada/texfrag"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

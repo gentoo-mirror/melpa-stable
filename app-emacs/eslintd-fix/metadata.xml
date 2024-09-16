@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>use eslint_d to automatically fix js files</longdescription>
+	<longdescription>Use eslint_d to automatically fix js files</longdescription>
 </pkgmetadata>

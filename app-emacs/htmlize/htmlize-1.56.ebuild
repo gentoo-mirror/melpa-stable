@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Convert buffer text and decorations to HTML."
+DESCRIPTION="Convert buffer text and decorations to HTML"
 
 HOMEPAGE="https://github.com/hniksic/emacs-htmlize"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

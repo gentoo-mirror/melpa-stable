@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Rough drafting for Emacs."
+DESCRIPTION="Rough drafting for Emacs"
 
 HOMEPAGE="https://github.com/gaudecker/draft-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

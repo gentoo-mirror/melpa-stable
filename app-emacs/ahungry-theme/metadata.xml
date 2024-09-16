@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Ahungry color theme for Emacs.  Make sure to (load-theme 'ahungry).</longdescription>
+	<longdescription>Ahungry color theme for Emacs.  Make sure to (load-theme 'ahungry)</longdescription>
 </pkgmetadata>

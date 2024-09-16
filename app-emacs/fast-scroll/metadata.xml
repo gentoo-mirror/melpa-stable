@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Some utilities for faster scrolling over large buffers.</longdescription>
+	<longdescription>Some utilities for faster scrolling over large buffers</longdescription>
 </pkgmetadata>

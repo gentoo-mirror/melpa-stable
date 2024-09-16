@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Local Rust playground for short code snippets."
+DESCRIPTION="Local Rust playground for short code snippets"
 
 HOMEPAGE="https://github.com/grafov/rust-playground"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

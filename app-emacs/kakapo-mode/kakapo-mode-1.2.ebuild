@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment."
+DESCRIPTION="TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment"
 
 HOMEPAGE="https://github.com/listx/kakapo-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

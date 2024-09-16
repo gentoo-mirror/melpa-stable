@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Use format-sql to make your SQL readable in directly Emacs."
+DESCRIPTION="Use format-sql to make your SQL readable in directly Emacs"
 
 HOMEPAGE="https://github.com/paetzke/format-sql.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

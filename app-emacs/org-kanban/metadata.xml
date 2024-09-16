@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>kanban dynamic block for org-mode.</longdescription>
+	<longdescription>Kanban dynamic block for org-mode</longdescription>
 </pkgmetadata>

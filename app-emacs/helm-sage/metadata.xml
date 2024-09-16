@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A helm extension for sage-shell-mode.</longdescription>
+	<longdescription>A helm extension for sage-shell-mode</longdescription>
 </pkgmetadata>

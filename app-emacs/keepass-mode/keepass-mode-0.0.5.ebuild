@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Mode for KeePass DB."
+DESCRIPTION="Mode for KeePass DB"
 
 HOMEPAGE="https://github.com/ifosch/keepass-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

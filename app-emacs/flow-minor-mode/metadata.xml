@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Flow type mode based on web-mode.</longdescription>
+	<longdescription>Flow type mode based on web-mode</longdescription>
 </pkgmetadata>

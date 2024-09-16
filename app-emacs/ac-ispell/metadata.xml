@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>ispell completion source for auto-complete</longdescription>
+	<longdescription>Ispell completion source for auto-complete</longdescription>
 </pkgmetadata>

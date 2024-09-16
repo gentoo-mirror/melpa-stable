@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a thick GitHub API client built on ghub"
+DESCRIPTION="A thick GitHub API client built on ghub"
 
 HOMEPAGE="https://github.com/vermiculus/ghub-plus"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Fill struct for golang.</longdescription>
+	<longdescription>Fill struct for golang</longdescription>
 </pkgmetadata>

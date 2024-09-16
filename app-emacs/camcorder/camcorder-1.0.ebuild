@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Record screencasts in gif or other formats."
+DESCRIPTION="Record screencasts in gif or other formats"
 
 HOMEPAGE="http://github.com/Bruce-Connor/camcorder.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

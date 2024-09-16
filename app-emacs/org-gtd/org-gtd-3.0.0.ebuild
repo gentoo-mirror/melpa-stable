@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An implementation of GTD."
+DESCRIPTION="An implementation of GTD"
 
 HOMEPAGE="https://github.com/Trevoke/org-gtd.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

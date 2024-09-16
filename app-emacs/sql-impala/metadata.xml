@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>comint support for Cloudera Impala</longdescription>
+	<longdescription>Comint support for Cloudera Impala</longdescription>
 </pkgmetadata>

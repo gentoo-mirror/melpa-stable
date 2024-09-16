@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>cd to frequent directory in eshell</longdescription>
+	<longdescription>Cd to frequent directory in eshell</longdescription>
 </pkgmetadata>

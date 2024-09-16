@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Redisplay parts of the buffer as pretty symbols."
+DESCRIPTION="Redisplay parts of the buffer as pretty symbols"
 
 HOMEPAGE="https://github.com/akatov/pretty-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

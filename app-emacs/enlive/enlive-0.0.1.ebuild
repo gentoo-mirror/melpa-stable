@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="query html document with css selectors"
+DESCRIPTION="Query html document with css selectors"
 
 HOMEPAGE="http://github.com/zweifisch/enlive"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

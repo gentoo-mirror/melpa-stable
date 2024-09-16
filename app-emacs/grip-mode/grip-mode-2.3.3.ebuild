@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Instant GitHub-flavored Markdown/Org preview using grip."
+DESCRIPTION="Instant GitHub-flavored Markdown/Org preview using grip"
 
 HOMEPAGE="https://github.com/seagle0128/grip-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

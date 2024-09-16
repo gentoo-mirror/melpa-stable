@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>an Emacs Atom/RSS feed reader</longdescription>
+	<longdescription>An Emacs Atom/RSS feed reader</longdescription>
 </pkgmetadata>

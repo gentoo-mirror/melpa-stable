@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm sources and some utilities for SLY."
+DESCRIPTION="Helm sources and some utilities for SLY"
 
 HOMEPAGE="https://github.com/emacs-helm/helm-sly"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

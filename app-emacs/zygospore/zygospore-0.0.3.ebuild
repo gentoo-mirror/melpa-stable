@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="reversible C-x 1 (delete-other-windows)"
+DESCRIPTION="Reversible C-x 1 (delete-other-windows)"
 
 HOMEPAGE="https://github.com/louiskottmann/zygospore.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

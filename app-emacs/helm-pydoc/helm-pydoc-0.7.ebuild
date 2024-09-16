@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="pydoc with helm interface"
+DESCRIPTION="Pydoc with helm interface"
 
 HOMEPAGE="https://github.com/syohex/emacs-helm-pydoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

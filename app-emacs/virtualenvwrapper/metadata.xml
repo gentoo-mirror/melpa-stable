@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>a featureful virtualenv tool for Emacs</longdescription>
+	<longdescription>A featureful virtualenv tool for Emacs</longdescription>
 </pkgmetadata>

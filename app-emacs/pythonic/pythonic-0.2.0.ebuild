@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Utility functions for writing pythonic emacs package."
+DESCRIPTION="Utility functions for writing pythonic emacs package"
 
 HOMEPAGE="https://github.com/proofit404/pythonic"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

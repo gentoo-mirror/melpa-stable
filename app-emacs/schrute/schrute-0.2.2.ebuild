@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Help you remember there is a better way to do something."
+DESCRIPTION="Help you remember there is a better way to do something"
 
 HOMEPAGE="https://bitbucket.org/shackra/dwight-k.-schrute"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="fsharp-mode eglot integration"
+DESCRIPTION="Fsharp-mode eglot integration"
 
 HOMEPAGE="https://github.com/fsharp/emacs-fsharp-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

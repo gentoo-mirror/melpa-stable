@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="multiple syntax checker for Python, using Flycheck"
+DESCRIPTION="Multiple syntax checker for Python, using Flycheck"
 
 HOMEPAGE="https://github.com/msherry/flycheck-pycheckers"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Integration of the Go 'guru' analysis tool into Emacs.</longdescription>
+	<longdescription>Integration of the Go 'guru' analysis tool into Emacs</longdescription>
 </pkgmetadata>

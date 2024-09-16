@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="functional, syntax highlighted pydoc navigation"
+DESCRIPTION="Functional, syntax highlighted pydoc navigation"
 
 HOMEPAGE="https://github.com/statmobile/pydoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

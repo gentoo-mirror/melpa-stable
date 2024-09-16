@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Automatic insertion, wrapping and paredit-like navigation with user defined pairs."
+DESCRIPTION="Automatic insertion, wrapping and paredit-like navigation with user defined pairs"
 
 HOMEPAGE="https://github.com/Fuco1/smartparens"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

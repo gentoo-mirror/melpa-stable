@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>org-babel support for UART communication</longdescription>
+	<longdescription>Org-babel support for UART communication</longdescription>
 </pkgmetadata>

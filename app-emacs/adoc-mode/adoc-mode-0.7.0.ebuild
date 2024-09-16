@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a major-mode for editing AsciiDoc files"
+DESCRIPTION="A major-mode for editing AsciiDoc files"
 
 HOMEPAGE="https://github.com/bbatsov/adoc-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

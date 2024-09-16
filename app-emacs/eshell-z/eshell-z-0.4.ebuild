@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="cd to frequent directory in eshell"
+DESCRIPTION="Cd to frequent directory in eshell"
 
 HOMEPAGE="https://github.com/xuchunyang/eshell-z"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

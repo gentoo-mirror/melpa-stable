@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="auto complete source for html tags and attributes"
+DESCRIPTION="Auto complete source for html tags and attributes"
 
 HOMEPAGE="https://github.com/cheunghy/ac-html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

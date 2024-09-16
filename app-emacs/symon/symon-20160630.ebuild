@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="tiny graphical system monitor"
+DESCRIPTION="Tiny graphical system monitor"
 
 HOMEPAGE="http://hins11.yu-yake.com/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

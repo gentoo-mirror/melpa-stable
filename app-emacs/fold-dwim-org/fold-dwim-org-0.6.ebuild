@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fold DWIM bound to org key-strokes."
+DESCRIPTION="Fold DWIM bound to org key-strokes"
 
 HOMEPAGE="https://github.com/mlf176f2/fold-dwim-org"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

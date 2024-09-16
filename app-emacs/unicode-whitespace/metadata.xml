@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>teach whitespace-mode about fancy characters</longdescription>
+	<longdescription>Teach whitespace-mode about fancy characters</longdescription>
 </pkgmetadata>

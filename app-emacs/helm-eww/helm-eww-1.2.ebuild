@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm UI wrapper for EWW."
+DESCRIPTION="Helm UI wrapper for EWW"
 
 HOMEPAGE="https://github.com/emacs-helm/helm-eww"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

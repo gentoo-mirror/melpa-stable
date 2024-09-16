@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Auto-save buffers, based on your activity."
+DESCRIPTION="Auto-save buffers, based on your activity"
 
 HOMEPAGE="https://github.com/bbatsov/super-save"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

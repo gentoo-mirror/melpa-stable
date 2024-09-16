@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>run the imapfilter executable</longdescription>
+	<longdescription>Run the imapfilter executable</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="import email and name into bbdb from vcard."
+DESCRIPTION="Import email and name into bbdb from vcard"
 
 HOMEPAGE="http://github.com/redguardtoo/gmail2bbdb"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Move current line or region with M-up or M-down.</longdescription>
+	<longdescription>Move current line or region with M-up or M-down</longdescription>
 </pkgmetadata>

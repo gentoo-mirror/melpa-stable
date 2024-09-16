@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="The mostly monochrome Eziam theme family."
+DESCRIPTION="The mostly monochrome Eziam theme family"
 
 HOMEPAGE="https://github.com/thblt/eziam-theme-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

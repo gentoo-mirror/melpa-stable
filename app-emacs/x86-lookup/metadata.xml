@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>jump to x86 instruction documentation</longdescription>
+	<longdescription>Jump to x86 instruction documentation</longdescription>
 </pkgmetadata>

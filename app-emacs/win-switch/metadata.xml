@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>fast, dynamic bindings for window-switching/resizing</longdescription>
+	<longdescription>Fast, dynamic bindings for window-switching/resizing</longdescription>
 </pkgmetadata>

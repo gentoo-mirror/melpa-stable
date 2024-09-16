@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for coffee-script evaluation, and fully implementation!"
+DESCRIPTION="Org-babel functions for coffee-script evaluation, and fully implementation!"
 
 HOMEPAGE="https://github.com/brantou/ob-coffeescript"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="add key-values to Chronometrist data"
+DESCRIPTION="Add key-values to Chronometrist data"
 
 HOMEPAGE="https://tildegit.org/contrapunctus/chronometrist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

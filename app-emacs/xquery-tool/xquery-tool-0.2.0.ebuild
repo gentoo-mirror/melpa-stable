@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A simple interface to saxonb's xquery."
+DESCRIPTION="A simple interface to saxonb's xquery"
 
 HOMEPAGE="https://github.com/paddymcall/xquery-tool.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

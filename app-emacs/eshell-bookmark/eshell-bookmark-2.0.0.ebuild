@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Integrate bookmarks with eshell."
+DESCRIPTION="Integrate bookmarks with eshell"
 
 HOMEPAGE="https://github.com/Fuco1/eshell-bookmark"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

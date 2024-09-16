@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Navigate windows and frames using numbers."
+DESCRIPTION="Navigate windows and frames using numbers"
 
 HOMEPAGE="http://github.com/deb0ch/winum.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

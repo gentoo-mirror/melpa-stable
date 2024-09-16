@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="company-mode completion back-end for restclient-mode"
+DESCRIPTION="Company-mode completion back-end for restclient-mode"
 
 HOMEPAGE="https://github.com/iquiw/company-restclient"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

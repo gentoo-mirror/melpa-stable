@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>colorful file names in dired buffers</longdescription>
+	<longdescription>Colorful file names in dired buffers</longdescription>
 </pkgmetadata>

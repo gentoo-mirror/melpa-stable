@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Utilities for monitoring expressions."
+DESCRIPTION="Utilities for monitoring expressions"
 
 HOMEPAGE="https://github.com/guiltydolphin/monitor"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>errcheck integration for go-mode</longdescription>
+	<longdescription>Errcheck integration for go-mode</longdescription>
 </pkgmetadata>

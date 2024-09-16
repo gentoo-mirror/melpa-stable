@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="show a random TODO (with alert) every so often"
+DESCRIPTION="Show a random TODO (with alert) every so often"
 
 HOMEPAGE="https://github.com/unhammer/org-random-todo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

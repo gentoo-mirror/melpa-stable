@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="client for interaction with MQTT servers"
+DESCRIPTION="Client for interaction with MQTT servers"
 
 HOMEPAGE="https://github.com/andrmuel/mqtt-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

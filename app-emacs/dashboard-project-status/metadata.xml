@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Display a git project status in a dashboard widget.</longdescription>
+	<longdescription>Display a git project status in a dashboard widget</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for visit http://v2ex.com/ site."
+DESCRIPTION="Major mode for visit http://v2ex.com/ site"
 
 HOMEPAGE="https://github.com/aborn/v2ex-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

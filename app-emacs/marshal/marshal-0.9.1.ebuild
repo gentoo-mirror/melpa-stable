@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="eieio extension for automatic (un)marshalling"
+DESCRIPTION="Eieio extension for automatic (un)marshalling"
 
 HOMEPAGE="https://github.com/sigma/marshal.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

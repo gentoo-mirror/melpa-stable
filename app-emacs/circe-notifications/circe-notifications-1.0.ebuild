@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Add desktop notifications to Circe."
+DESCRIPTION="Add desktop notifications to Circe"
 
 HOMEPAGE="https://github.com/eqyiel/circe-notifications"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

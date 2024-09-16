@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helpers to run pytest"
+DESCRIPTION="Helpers to run pytest"
 
 HOMEPAGE="https://github.com/wbolster/emacs-python-pytest"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

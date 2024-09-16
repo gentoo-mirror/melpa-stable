@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="company-mode backend for Phpactor"
+DESCRIPTION="Company-mode backend for Phpactor"
 
 HOMEPAGE="https://github.com/emacs-php/phpactor.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

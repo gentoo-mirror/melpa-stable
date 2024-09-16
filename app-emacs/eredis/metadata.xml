@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>eredis, a Redis client in emacs lisp</longdescription>
+	<longdescription>Eredis, a Redis client in emacs lisp</longdescription>
 </pkgmetadata>

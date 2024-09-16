@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>flycheck integration for ycmd</longdescription>
+	<longdescription>Flycheck integration for ycmd</longdescription>
 </pkgmetadata>

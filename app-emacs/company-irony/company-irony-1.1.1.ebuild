@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="company-mode completion back-end for irony-mode"
+DESCRIPTION="Company-mode completion back-end for irony-mode"
 
 HOMEPAGE="https://github.com/Sarcasm/company-irony/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

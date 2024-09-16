@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="manage ssh-agent from Emacs"
+DESCRIPTION="Manage ssh-agent from Emacs"
 
 HOMEPAGE="https://github.com/magit/ssh-agency"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

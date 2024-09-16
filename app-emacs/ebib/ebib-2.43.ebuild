@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a BibTeX database manager"
+DESCRIPTION="A BibTeX database manager"
 
 HOMEPAGE="http://joostkremers.github.io/ebib/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>http request in org-mode babel</longdescription>
+	<longdescription>Http request in org-mode babel</longdescription>
 </pkgmetadata>

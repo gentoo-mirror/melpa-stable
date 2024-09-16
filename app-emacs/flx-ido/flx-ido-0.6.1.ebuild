@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="flx integration for ido"
+DESCRIPTION="Flx integration for ido"
 
 HOMEPAGE="https://github.com/lewang/flx"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

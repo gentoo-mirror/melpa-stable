@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for editing GN (generate ninja) files"
+DESCRIPTION="Major mode for editing GN (generate ninja) files"
 
 HOMEPAGE="http://github.com/lashtear/gn-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

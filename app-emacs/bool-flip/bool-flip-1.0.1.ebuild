@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="flip the boolean under the point"
+DESCRIPTION="Flip the boolean under the point"
 
 HOMEPAGE="http://github.com/michaeljb/bool-flip/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>brainfuck language transpiler to Emacs Lisp</longdescription>
+	<longdescription>Brainfuck language transpiler to Emacs Lisp</longdescription>
 </pkgmetadata>

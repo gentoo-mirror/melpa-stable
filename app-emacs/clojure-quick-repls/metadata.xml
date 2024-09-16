@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Quickly create Clojure and ClojureScript repls for a project.</longdescription>
+	<longdescription>Quickly create Clojure and ClojureScript repls for a project</longdescription>
 </pkgmetadata>

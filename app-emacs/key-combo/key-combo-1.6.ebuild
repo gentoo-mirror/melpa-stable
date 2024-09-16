@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="map key sequence to commands"
+DESCRIPTION="Map key sequence to commands"
 
 HOMEPAGE="https://github.com/uk-ar/key-combo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

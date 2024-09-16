@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>making flymake work with PHP CodeSniffer</longdescription>
+	<longdescription>Making flymake work with PHP CodeSniffer</longdescription>
 </pkgmetadata>

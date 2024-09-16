@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Mailbox-like task scheduling Org."
+DESCRIPTION="Mailbox-like task scheduling Org"
 
 HOMEPAGE="https://github.com/yasuhito/orgbox"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

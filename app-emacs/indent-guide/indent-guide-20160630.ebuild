@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="show vertical lines to guide indentation"
+DESCRIPTION="Show vertical lines to guide indentation"
 
 HOMEPAGE="http://hins11.yu-yake.com/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Server-side JSON-RPC library."
+DESCRIPTION="Server-side JSON-RPC library"
 
 HOMEPAGE="https://github.com/jcaw/json-rpc-server.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

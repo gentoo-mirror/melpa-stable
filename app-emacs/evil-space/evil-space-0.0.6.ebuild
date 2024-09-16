@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Repeat motion in Evil. Correct the behaviour of what SPC should do."
+DESCRIPTION="Repeat motion in Evil. Correct the behaviour of what SPC should do"
 
 HOMEPAGE="http://github.com/linktohack/evil-space"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

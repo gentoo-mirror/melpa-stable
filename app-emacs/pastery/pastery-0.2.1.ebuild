@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="paste snippets to pastery.net."
+DESCRIPTION="Paste snippets to pastery.net"
 
 HOMEPAGE="https://github.com/diasbruno/pastery.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

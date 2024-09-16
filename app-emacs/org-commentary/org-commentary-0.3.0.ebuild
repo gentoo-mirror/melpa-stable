@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="generate or update conventional library headers using Org mode files"
+DESCRIPTION="Generate or update conventional library headers using Org mode files"
 
 HOMEPAGE="https://github.com/smaximov/org-commentary"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="live browser JavaScript, CSS, and HTML interaction"
+DESCRIPTION="Live browser JavaScript, CSS, and HTML interaction"
 
 HOMEPAGE="https://github.com/skeeto/skewer-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

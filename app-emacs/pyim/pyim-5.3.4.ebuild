@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A Chinese input method support quanpin, shuangpin, wubi, cangjie and rime."
+DESCRIPTION="A Chinese input method support quanpin, shuangpin, wubi, cangjie and rime"
 
 HOMEPAGE="https://github.com/tumashu/pyim"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

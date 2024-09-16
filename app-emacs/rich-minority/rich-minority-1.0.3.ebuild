@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Clean-up and Beautify the list of minor-modes."
+DESCRIPTION="Clean-up and Beautify the list of minor-modes"
 
 HOMEPAGE="https://github.com/Malabarba/rich-minority"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

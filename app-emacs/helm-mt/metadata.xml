@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>helm multi-term management</longdescription>
+	<longdescription>Helm multi-term management</longdescription>
 </pkgmetadata>

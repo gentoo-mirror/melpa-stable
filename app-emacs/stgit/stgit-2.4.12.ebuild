@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for StGit interaction"
+DESCRIPTION="Major mode for StGit interaction"
 
 HOMEPAGE="http://stacked-git.github.io"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a simple org-mode based journaling mode"
+DESCRIPTION="A simple org-mode based journaling mode"
 
 HOMEPAGE="http://github.com/bastibe/org-journal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

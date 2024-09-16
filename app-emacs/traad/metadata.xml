@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>emacs interface to the traad refactoring server.</longdescription>
+	<longdescription>Emacs interface to the traad refactoring server</longdescription>
 </pkgmetadata>

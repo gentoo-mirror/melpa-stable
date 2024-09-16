@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>helm-sources and some utilities for SLIME.</longdescription>
+	<longdescription>Helm-sources and some utilities for SLIME</longdescription>
 </pkgmetadata>

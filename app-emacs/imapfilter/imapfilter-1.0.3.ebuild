@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="run the imapfilter executable"
+DESCRIPTION="Run the imapfilter executable"
 
 HOMEPAGE="https://github.com/tarsius/imapfilter"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

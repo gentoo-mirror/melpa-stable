@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="comint support for Cloudera Impala"
+DESCRIPTION="Comint support for Cloudera Impala"
 
 HOMEPAGE="https://github.com/jterk/sql-impala"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

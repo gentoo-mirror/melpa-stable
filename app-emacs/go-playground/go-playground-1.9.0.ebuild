@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Local Golang playground for short snippets."
+DESCRIPTION="Local Golang playground for short snippets"
 
 HOMEPAGE="https://github.com/grafov/go-playground"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

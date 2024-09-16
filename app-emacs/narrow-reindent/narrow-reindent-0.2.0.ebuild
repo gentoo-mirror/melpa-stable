@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Defines a minor mode to left-align narrowed regions."
+DESCRIPTION="Defines a minor mode to left-align narrowed regions"
 
 HOMEPAGE="https://github.com/emallson/narrow-reindent.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

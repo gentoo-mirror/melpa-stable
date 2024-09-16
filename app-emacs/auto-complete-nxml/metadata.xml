@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>do completion by auto-complete.el on nXML-mode</longdescription>
+	<longdescription>Do completion by auto-complete.el on nXML-mode</longdescription>
 </pkgmetadata>

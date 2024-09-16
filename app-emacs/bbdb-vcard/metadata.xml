@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>vCard import/export for BBDB</longdescription>
+	<longdescription>VCard import/export for BBDB</longdescription>
 </pkgmetadata>

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="teach whitespace-mode about fancy characters"
+DESCRIPTION="Teach whitespace-mode about fancy characters"
 
 HOMEPAGE="http://github.com/rolandwalker/unicode-whitespace"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

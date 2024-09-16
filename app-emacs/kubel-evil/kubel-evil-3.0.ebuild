@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="extension for kubel to provide evil keybindings"
+DESCRIPTION="Extension for kubel to provide evil keybindings"
 
 HOMEPAGE="https://github.com/abrochard/kubel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

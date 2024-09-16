@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>major mode for GNU gettext PO files</longdescription>
+	<longdescription>Major mode for GNU gettext PO files</longdescription>
 </pkgmetadata>

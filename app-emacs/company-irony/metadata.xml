@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>company-mode completion back-end for irony-mode</longdescription>
+	<longdescription>Company-mode completion back-end for irony-mode</longdescription>
 </pkgmetadata>

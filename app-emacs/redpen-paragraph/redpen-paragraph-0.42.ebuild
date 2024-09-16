@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="RedPen interface."
+DESCRIPTION="RedPen interface"
 
 HOMEPAGE="https://github.com/karronoli/redpen-paragraph.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

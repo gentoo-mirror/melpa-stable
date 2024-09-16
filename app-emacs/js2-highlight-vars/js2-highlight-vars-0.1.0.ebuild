@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="highlight occurrences of the variable under cursor"
+DESCRIPTION="Highlight occurrences of the variable under cursor"
 
 HOMEPAGE="http://mihai.bazon.net/projects/editing-javascript-with-emacs-js2-mode/js2-highlight-vars-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

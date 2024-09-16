@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="emoji-cheat-sheet for emacs"
+DESCRIPTION="Emoji-cheat-sheet for emacs"
 
 HOMEPAGE="https://github.com/syl20bnr/emacs-emoji-cheat-sheet-plus"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

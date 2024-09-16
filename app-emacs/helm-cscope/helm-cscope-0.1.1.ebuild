@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm interface for xcscope.el."
+DESCRIPTION="Helm interface for xcscope.el"
 
 HOMEPAGE="https://github.com/alpha22jp/helm-cscope.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
