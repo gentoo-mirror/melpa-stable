@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="use-package-el-get"
+REALNAME="opencl-c-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="el-get support for use package"
+DESCRIPTION="Syntax coloring for opencl kernels"
 
-HOMEPAGE="https://github.com/edvorg/use-package-el-get"
+HOMEPAGE="https://github.com/salmanebah/opencl-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/use-package"
-RDEPEND="app-emacs/use-package"
+DEPEND=""
+RDEPEND=""

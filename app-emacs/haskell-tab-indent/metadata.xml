@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>tab-based indentation for haskell-mode</longdescription>
+	<longdescription>Tab-based indentation for haskell-mode</longdescription>
 </pkgmetadata>
