@@ -274,7 +274,7 @@ app-emacs/casual-agenda 1.0.4: Transient UI for Agenda
 app-emacs/casual-avy 1.4.2: Transient UI for Avy
 app-emacs/casual-bookmarks 1.1.1: Transient UI for Bookmarks
 app-emacs/casual-calc 1.11.3: Transient UI for Calc
-app-emacs/casual-dired 1.8.1: Transient UI for Dired
+app-emacs/casual-dired 1.8.2: Transient UI for Dired
 app-emacs/casual-ibuffer 1.1.4: Transient UI for IBuffer
 app-emacs/casual-info 1.3.2: Transient UI for Info
 app-emacs/casual-isearch 1.10.0: Transient UI for I-Search
@@ -1296,7 +1296,7 @@ app-emacs/haskell-emacs-base 4.0.3: Haskell functions from Prelude
 app-emacs/haskell-emacs-text 4.0.3: Haskell functions from Data.Text
 app-emacs/haskell-mode 17.5: A Haskell editing mode
 app-emacs/haskell-snippets 0.1.0: Yasnippets for Haskell
-app-emacs/haskell-tab-indent 0.3: tab-based indentation for haskell-mode
+app-emacs/haskell-tab-indent 0.3: Tab-based indentation for haskell-mode
 app-emacs/hasklig-mode 0.2: Hasklig ligatures
 app-emacs/hass 3.0.2: Interact with Home Assistant
 app-emacs/haxe-mode 0.3.3: Major mode for editing Haxe files
@@ -1906,7 +1906,7 @@ app-emacs/mozc 2.30.5544.102: Minor mode to input Japanese with Mozc
 app-emacs/mozc-temp 1.0.0: Use mozc temporarily
 app-emacs/mpdel 2.1.0: Play and control your MPD music
 app-emacs/mpdel-embark 0.4.0: Integrate MPDel with Embark
-app-emacs/mpdmacs 0.4.1: A lightweight MPD client
+app-emacs/mpdmacs 1.0.0: A lightweight MPD client
 app-emacs/mpmc-queue 0.1.1: A multiple-producer-multiple-consumer queue
 app-emacs/mpv 0.2.0: Control mpv for easy note-taking
 app-emacs/mqtt-mode 0.1.0: Client for interaction with MQTT servers
@@ -2051,6 +2051,7 @@ app-emacs/one 1.1: Static Site Generator for org-mode users
 app-emacs/opam 0.1: OPAM tools
 app-emacs/opam-switch-mode 1.7: Select OCaml opam switches via a menu
 app-emacs/open-color 0.0.1: Open Color color palette
+app-emacs/opencl-c-mode 2.0: Syntax coloring for opencl kernels
 app-emacs/opener 0.2.2: Opening urls as buffers
 app-emacs/openfoam 0.13: OpenFOAM files and directories
 app-emacs/opensource 0.2.0: Client for Opensource API
@@ -2087,7 +2088,7 @@ app-emacs/org-cite-overlay 1.1.0: Overlays for org-cite citations
 app-emacs/org-cite-overlay-sidecar 1.1.0: Show Sidecar for overlaid org-cite citations
 app-emacs/org-clock-csv 1.2: Export `org-mode' clock entries to CSV format
 app-emacs/org-commentary 0.3.0: Generate or update conventional library headers using Org mode files
-app-emacs/org-d20 0.6: minor mode for d20 tabletop roleplaying games
+app-emacs/org-d20 0.6: Minor mode for d20 tabletop roleplaying games
 app-emacs/org-download 0.1.0: Image drag-and-drop for Emacs org-mode
 app-emacs/org-dp 1: Declarative Local Programming with Org Elements
 app-emacs/org-drill 2.7.0: Self-testing using spaced repetition
@@ -2127,7 +2128,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 0.8: Link org-id entries into a network
+app-emacs/org-node 0.8.1: Link org-id entries into a network
 app-emacs/org-node-fakeroam 0.7: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.5.0: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2927,7 +2928,6 @@ app-emacs/ursa-ts-mode 1.3.11: Major mode for Ursa, using tree-sitter
 app-emacs/urscript-mode 0.0.2: Major mode for editing URScript
 app-emacs/use-package 2.4.4: A configuration macro for simplifying your .emacs
 app-emacs/use-package-chords 2.4.4: Key-chord keyword for use-package
-app-emacs/use-package-el-get 0.1: el-get support for use package
 app-emacs/use-package-ensure-system-package 2.4.4: Auto install system packages
 app-emacs/use-package-hydra 0.2: Adds :hydra keyword to use-package macro
 app-emacs/use-proxy 1.2.1: Enable/Disable proxies respecting your HTTP/HTTPS env
