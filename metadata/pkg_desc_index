@@ -749,6 +749,7 @@ app-emacs/elscreen-mew 1.0.2: ElScreen Add-On for Mew
 app-emacs/elscreen-tab 1.1.0: Minor mode to display tabs of elscreen in a dedicated buffer
 app-emacs/elwm 0.0.2: Minimalistic window manager for emacs
 app-emacs/elx 2.0.3: Extract information from Emacs Lisp libraries
+app-emacs/elysium 0.0.1: Automatically apply LLM-created code-suggestions
 app-emacs/emacs-aio 1.0: Async/await for Emacs Lisp
 app-emacs/emacs-ansilove 2.0.0: Display buffers as PNG images using ansilove
 app-emacs/emacs-crystal-mode 0.1.0: Major mode for editing Crystal files
@@ -809,7 +810,7 @@ app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics
 app-emacs/eri 2.7.0.1: Enhanced relative indentation (eri)
 app-emacs/erk 0.5.3: Elisp (GitHub) Repository Kit
-app-emacs/erlang 27.0.1: Erlang major mode
+app-emacs/erlang 27.1: Erlang major mode
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/ert-async 0.1.2: Async support for ERT
 app-emacs/ert-junit 0.4.1: JUnit XML reports from ert results
@@ -1440,7 +1441,7 @@ app-emacs/howm 1.5.1: Wiki-like note-taking tool
 app-emacs/ht 2.3: The missing hash table library for Emacs
 app-emacs/html-script-src 0.0.2: Insert <script src=".."> for popular JavaScript libraries
 app-emacs/html-to-markdown 1.5.1: HTML to Markdown converter written in Emacs-lisp
-app-emacs/htmlize 1.56: Convert buffer text and decorations to HTML
+app-emacs/htmlize 1.58: Convert buffer text and decorations to HTML
 app-emacs/htmltagwrap 0.0.3: Wraps a chunk of HTML code in tags
 app-emacs/httpcode 0.1: Explains the meaning of an HTTP status code
 app-emacs/httprepl 1.1: An HTTP REPL
@@ -2128,9 +2129,9 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 0.8.1: Link org-id entries into a network
+app-emacs/org-node 0.8.6: Link org-id entries into a network
 app-emacs/org-node-fakeroam 0.7: Stand-ins for org-roam-autosync-mode
-app-emacs/org-noter 1.5.0: A synchronized, Org-mode, document annotator
+app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
 app-emacs/org-page 0.41: A static site generator based on org mode
 app-emacs/org-pomodoro 2.1.0: Pomodoro implementation for org-mode
