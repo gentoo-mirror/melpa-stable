@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/org-mode
-DESCRIPTION=A synchronized, Org-mode, document annotator
+DEPEND=app-emacs/gptel
+DESCRIPTION=Automatically apply LLM-created code-suggestions
 EAPI=8
-HOMEPAGE=https://github.com/org-noter/org-noter
+HOMEPAGE=https://github.com/lanceberge/elysium/
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/org-mode >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/gptel >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/org-noter-1.5.0.tar
+SRC_URI=https://stable.melpa.org/packages/elysium-0.0.1.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=150e7c842000c4548552153337489182
+_md5_=79d32e7a980e458f5323f3a16112a56e
