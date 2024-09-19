@@ -204,7 +204,7 @@ app-emacs/blackboard-theme 1.0: TextMate Blackboard Theme
 app-emacs/blacken 0.2.0: Reformat python buffers using the "black" formatter
 app-emacs/blackjack 1.0.3: The game of Blackjack
 app-emacs/blackout 1.0: Better mode lighter overriding
-app-emacs/blamer 0.9.1: Show git blame info about current line
+app-emacs/blamer 0.9.4: Show git blame info about current line
 app-emacs/blitzmax-mode 1.0.0: A major mode for editing BlitzMax source code
 app-emacs/blox 0.3.0: Interaction with Roblox tooling
 app-emacs/bluesound 0.2: Play, pause, resume music on a Bluesound player
@@ -2402,7 +2402,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 28.1: Major mode for editing protocol buffers
+app-emacs/protobuf-mode 28.2: Major mode for editing protocol buffers
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions
 app-emacs/psalm 0.6.0: Interface to Psalm
