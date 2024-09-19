@@ -634,7 +634,7 @@ app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
 app-emacs/dune 3.16.0: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
-app-emacs/duplexer 0.1.0: Handle conflicts between local minor modes and reuse rules
+app-emacs/duplexer 0.2.0: Handle conflicts between local minor modes and reuse rules
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
 app-emacs/dwim-shell-command 0.62.2: Shell commands with DWIM behaviour
 app-emacs/dylan 0.1.0: Dylan editing modes
@@ -2235,7 +2235,7 @@ app-emacs/ox-pandoc 2.0: An Org-mode exporter using pandoc
 app-emacs/ox-report 0.4: Export your org file to minutes report PDF file
 app-emacs/ox-review 0.3.0: Re:VIEW Back-End for Org Export Engine
 app-emacs/ox-timeline 0.1.0: HTML Timeline Back-End for Org Export Engine
-app-emacs/ox-tufte 4.2.0: Tufte HTML org-mode export backend
+app-emacs/ox-tufte 4.2.1: Tufte HTML org-mode export backend
 app-emacs/ox-twbs 1.1.4: Bootstrap compatible HTML Back-End for Org
 app-emacs/ox-wk 0.3.0: Wiki Back-End for Org Export Engine
 app-emacs/ox-yaow 1.0: Generate html pages from org files
