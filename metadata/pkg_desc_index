@@ -1132,7 +1132,7 @@ app-emacs/geiser-chibi 0.17: Chibi Scheme's implementation of the geiser protoco
 app-emacs/geiser-chicken 0.17: Chicken's implementation of the geiser protocols
 app-emacs/geiser-gambit 0.18.1: Gambit's implementation of the geiser protocols
 app-emacs/geiser-gauche 0.14: [No description available]
-app-emacs/geiser-guile 0.28.2: Guile and Geiser talk to each other
+app-emacs/geiser-guile 0.28.3: Guile and Geiser talk to each other
 app-emacs/geiser-kawa 0.14: Kawa scheme support for Geiser
 app-emacs/geiser-mit 0.15: MIT/GNU Scheme's implementation of the geiser protocols
 app-emacs/geiser-overlay 1.1.0: Overlay Scheme evaluation results
@@ -2129,8 +2129,8 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 0.8.6: Link org-id entries into a network
-app-emacs/org-node-fakeroam 0.7: Stand-ins for org-roam-autosync-mode
+app-emacs/org-node 0.9: Link org-id entries into a network
+app-emacs/org-node-fakeroam 0.8.1: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
 app-emacs/org-page 0.41: A static site generator based on org mode
