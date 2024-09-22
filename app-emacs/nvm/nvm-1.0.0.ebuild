@@ -20,9 +20,7 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/s
 	app-emacs/dash
-	app-emacs/f
-	app-emacs/dash-functional"
+	app-emacs/f"
 RDEPEND="app-emacs/s
 	app-emacs/dash
-	app-emacs/f
-	app-emacs/dash-functional"
+	app-emacs/f"
