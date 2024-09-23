@@ -27,7 +27,8 @@ DEPEND="app-emacs/casual-calc
 	app-emacs/casual-re-builder
 	app-emacs/casual-bookmarks
 	app-emacs/casual-agenda
-	app-emacs/casual-symbol-overlay"
+	app-emacs/casual-symbol-overlay
+	app-emacs/casual-editkit"
 RDEPEND="app-emacs/casual-calc
 	app-emacs/casual-isearch
 	app-emacs/casual-dired
@@ -37,4 +38,5 @@ RDEPEND="app-emacs/casual-calc
 	app-emacs/casual-re-builder
 	app-emacs/casual-bookmarks
 	app-emacs/casual-agenda
-	app-emacs/casual-symbol-overlay"
+	app-emacs/casual-symbol-overlay
+	app-emacs/casual-editkit"
