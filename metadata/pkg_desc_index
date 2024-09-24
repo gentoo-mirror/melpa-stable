@@ -276,7 +276,7 @@ app-emacs/casual-avy 1.4.2: Transient UI for Avy
 app-emacs/casual-bookmarks 1.1.1: Transient UI for Bookmarks
 app-emacs/casual-calc 1.11.3: Transient UI for Calc
 app-emacs/casual-dired 1.8.2: Transient UI for Dired
-app-emacs/casual-editkit 1.0.7: Transient UI for Symbol Overlay
+app-emacs/casual-editkit 1.0.8: Transient UI for Symbol Overlay
 app-emacs/casual-ibuffer 1.1.4: Transient UI for IBuffer
 app-emacs/casual-info 1.3.2: Transient UI for Info
 app-emacs/casual-isearch 1.10.0: Transient UI for I-Search
@@ -2134,7 +2134,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 1.0.10: Link org-id entries into a network
+app-emacs/org-node 1.0.11: Link org-id entries into a network
 app-emacs/org-node-fakeroam 0.8.2: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2542,7 +2542,7 @@ app-emacs/robe 0.8.6: Code navigation, documentation lookup and completion for R
 app-emacs/robot-log 0.1.4: Major mode for viewing RobotFramework debug log files
 app-emacs/robot-mode 0.8.0: Major-mode for Robot Framework files
 app-emacs/robots-txt-mode 0.0.9: Major mode for editing robots.txt
-app-emacs/roguel-ike 0.1.1: A coffee-break roguelike
+app-emacs/roguel-ike 0.1.2: A coffee-break roguelike
 app-emacs/rom-party 0.1.0: Bomb Party... in Emacs
 app-emacs/rope-read-mode 0.3.4: Rearrange lines to read text smoothly
 app-emacs/rspec-mode 1.11: Enhance ruby-mode for RSpec
