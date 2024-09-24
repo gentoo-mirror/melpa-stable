@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/casual-lib
 	app-emacs/casual-symbol-overlay
-	app-emacs/magit"
+	app-emacs/magit
+	app-emacs/transpose-frame"
 RDEPEND="app-emacs/casual-lib
 	app-emacs/casual-symbol-overlay
-	app-emacs/magit"
+	app-emacs/magit
+	app-emacs/transpose-frame"
