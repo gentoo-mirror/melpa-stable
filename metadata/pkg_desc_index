@@ -661,7 +661,7 @@ app-emacs/easy-repeat 0.2: Repeat easily
 app-emacs/easysession 1.1.0: Easily persist and restore your editing sessions
 app-emacs/ebdb-mua-sidecar 1.6.0: EBDB Integration for Universal Sidecar
 app-emacs/ebf 1.0.0: Brainfuck language transpiler to Emacs Lisp
-app-emacs/ebib 2.43: A BibTeX database manager
+app-emacs/ebib 2.44: A BibTeX database manager
 app-emacs/ebib-sidecar 1.6.0: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/eclim 0.4: An interface to the Eclipse IDE
 app-emacs/ecukes 0.6.18: Cucumber for Emacs
@@ -1460,11 +1460,11 @@ app-emacs/hydandata-light-theme 0.9.0: A light color theme that is easy on your 
 app-emacs/hyde 0.2: [No description available]
 app-emacs/hydra 0.15.0: Make bindings that stick around
 app-emacs/hyperbole 9.0.1: GNU Hyperbole: The Everyday Hypertextual Information Manager
-app-emacs/hyperdrive 0.4.1: P2P filesystem
+app-emacs/hyperdrive 0.4.2: P2P filesystem
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
 app-emacs/hyperstitional-themes 1.2.0: Weird themes with incremental palettes
-app-emacs/ialign 0.4.2: Visual align-regexp
+app-emacs/ialign 0.5.0: Visual align-regexp
 app-emacs/ibrowse 0.2.3: Interact with your browser
 app-emacs/ibuffer-project 2.1: Group ibuffer's list by project or any function
 app-emacs/ibuffer-projectile 0.4: Group ibuffer's list by projectile root
@@ -1646,7 +1646,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.12: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.23.2: Your Second Brain
+app-emacs/khoj 1.23.3: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: Incremental search for the kill ring
@@ -2134,7 +2134,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 1.0.11: Link org-id entries into a network
+app-emacs/org-node 1.1.4: Link org-id entries into a network
 app-emacs/org-node-fakeroam 0.8.2: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
