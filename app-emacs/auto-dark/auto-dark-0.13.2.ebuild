@@ -5,20 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="compile-multi-embark"
+REALNAME="auto-dark"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Compile-multi integration for \`embark'"
+DESCRIPTION="Automatically sets the dark-mode theme based on macOS/Linux/Windows status"
 
-HOMEPAGE="https://github.com/mohkale/compile-multi"
+HOMEPAGE="https://github.com/LionyxML/auto-dark-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/compile-multi
-	app-emacs/embark"
-RDEPEND="app-emacs/compile-multi
-	app-emacs/embark"
+DEPEND=""
+RDEPEND=""

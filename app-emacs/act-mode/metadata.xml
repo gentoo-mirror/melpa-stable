@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Integration for `compile-multi' and `embark'</longdescription>
+	<longdescription>Major mode for the ACT programming language</longdescription>
 </pkgmetadata>
