@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Integration for `compile-multi' and `embark'</longdescription>
+	<longdescription>Affixate `compile-multi' with nerd icons</longdescription>
 </pkgmetadata>

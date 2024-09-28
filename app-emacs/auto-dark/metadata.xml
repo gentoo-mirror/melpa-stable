@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Integration for `compile-multi' and `embark'</longdescription>
+	<longdescription>Automatically sets the dark-mode theme based on macOS/Linux/Windows status</longdescription>
 </pkgmetadata>
