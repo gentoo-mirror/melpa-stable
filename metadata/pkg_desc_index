@@ -97,7 +97,7 @@ app-emacs/ansible-doc 0.4: Ansible documentation Minor Mode
 app-emacs/ansible-vault 0.5.2: Minor mode for editing ansible vault files
 app-emacs/anti-zenburn-theme 2.5.1: Low-contrast Zenburn-inverted theme
 app-emacs/anyins 0.1.1: Insert content at multiple places from shell command or kill-ring
-app-emacs/anzu 0.64: Show number of matches in mode-line while searching
+app-emacs/anzu 0.65: Show number of matches in mode-line while searching
 app-emacs/apache-mode 2.2.0: Major mode for editing Apache httpd configuration files
 app-emacs/apdl-mode 20.5.0: Major mode for the APDL programming language
 app-emacs/apheleia 4.2: Reformat buffer stably
@@ -268,7 +268,7 @@ app-emacs/cangjie 0.7.4: Retrieve cangjie code for han characters
 app-emacs/cape 1.7: Completion At Point Extensions
 app-emacs/capnp-mode 1.0.2: Major mode for editing Capn' Proto Files
 app-emacs/cargo 0.4.1: Emacs Minor Mode for Cargo, Rust's Package Manager
-app-emacs/cargo-mode 0.0.5: Cargo Major Mode. Cargo is the Rust package manager
+app-emacs/cargo-mode 0.0.6: Cargo Major Mode. Cargo is the Rust package manager
 app-emacs/caseformat 0.1.0: Format based letter case converter
 app-emacs/cask-mode 0.1: Major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
@@ -524,6 +524,7 @@ app-emacs/date-at-point 0.1: Add `date' to `thing-at-point' function
 app-emacs/date-field 0.0.1: Date widget
 app-emacs/datetime 0.10.1: Parsing, formatting and matching timestamps
 app-emacs/dbc 0.1: Control how to open buffers
+app-emacs/dbml-mode 1.0.0: Major mode for DBML
 app-emacs/ddskk 17.1: Simple Kana to Kanji conversion program
 app-emacs/ddskk-posframe 1.0.0: Show Henkan tooltip for ddskk via posframe
 app-emacs/deadgrep 0.13: Fast, friendly searching with ripgrep
@@ -2483,7 +2484,7 @@ app-emacs/rc-mode 1.0.13: Major mode for the Plan9 rc shell
 app-emacs/rcirc-styles 1.3.2: Support mIRC-style color and attribute codes
 app-emacs/rdf-prefix 1.14: Prefix lookup for RDF
 app-emacs/react-snippets 0.1: Yasnippets for React
-app-emacs/ready-player 0.21.1: Open media files in ready-player major mode
+app-emacs/ready-player 0.22.1: Open media files in ready-player major mode
 app-emacs/real-auto-save 0.4: Enable real auto save
 app-emacs/realgud 1.5.1: A modular front-end for interacting with external debuggers
 app-emacs/realgud-lldb 1.0.2: Realgud front-end to lldb
