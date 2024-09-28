@@ -41,6 +41,7 @@ app-emacs/ace-pinyin 0.2.5: Jump to Chinese characters using ace-jump-mode or av
 app-emacs/ace-popup-menu 0.2.1: Replace GUI popup menu with something more efficient
 app-emacs/ace-window 0.10.0: Quickly switch windows
 app-emacs/acme-theme 1.0.0: A color theme for Emacs based on Acme & Sam from Plan 9
+app-emacs/act-mode 1.1: Major mode for the ACT programming language
 app-emacs/actionscript-mode 7.2.2: A simple mode for editing Actionscript 3 files
 app-emacs/activity-watch-mode 1.5.0: Automatic time tracking extension
 app-emacs/adafruit-wisdom 0.3.0: Get/display adafruit.com quotes
@@ -139,6 +140,7 @@ app-emacs/auto-complete-exuberant-ctags 0.0.7: Exuberant ctags auto-complete.el 
 app-emacs/auto-complete-nxml 0.5.0: Do completion by auto-complete.el on nXML-mode
 app-emacs/auto-complete-pcmp 0.0.2: Provide auto-complete sources using pcomplete results
 app-emacs/auto-complete-sage 0.0.5: An auto-complete source for sage-shell-mode
+app-emacs/auto-dark 0.13.2: Automatically sets the dark-mode theme based on macOS/Linux/Windows status
 app-emacs/auto-dictionary 1.1: Automatic dictionary switcher for flyspell
 app-emacs/auto-highlight-symbol 1.61: Automatic highlighting current symbol minor mode
 app-emacs/auto-indent-mode 0.126: Auto indent Minor mode
@@ -355,7 +357,7 @@ app-emacs/clues-theme 1.0.1: An Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.30.3: Major-mode for editing CMake sources
+app-emacs/cmake-mode 3.30.4: Major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -419,9 +421,10 @@ app-emacs/company-web 2.1: Company version of ac-html, complete for web,html,emm
 app-emacs/company-wordfreq 0.1.2: Company backend for human language texts
 app-emacs/company-ycmd 1.2: Company-mode backend for ycmd
 app-emacs/competitive-programming-snippets 1.1.4: Competitive Programming snippets for Yasnippet
-app-emacs/compile-multi 0.5: A multi target interface to compile
-app-emacs/compile-multi-all-the-icons 0.5: Affixate `compile-multi' with icons
-app-emacs/compile-multi-embark 0.5: Compile-multi integration for `embark'
+app-emacs/compile-multi 0.6: A multi target interface to compile
+app-emacs/compile-multi-all-the-icons 0.6: Affixate `compile-multi' with icons
+app-emacs/compile-multi-embark 0.6: Integration for `compile-multi' and `embark'
+app-emacs/compile-multi-nerd-icons 0.6: Affixate `compile-multi' with nerd icons
 app-emacs/compiler-explorer 0.5.0: Compiler explorer client (godbolt.org)
 app-emacs/composable 0.0.1: Composable editing
 app-emacs/composer 0.2.0: Interface to PHP Composer
@@ -434,9 +437,9 @@ app-emacs/conner 0.4: Define and run project specific commands
 app-emacs/consult 1.8: Consulting completing-read
 app-emacs/consult-ag 0.2.0: The silver searcher integration using Consult
 app-emacs/consult-codesearch 0.3: Consult interface for codesearch
-app-emacs/consult-compile-multi 0.5: Consulting read support for `compile-multi'
+app-emacs/consult-compile-multi 0.6: Consulting read support for `compile-multi'
 app-emacs/consult-dir 0.1: Insert paths into the minibuffer prompt
-app-emacs/consult-eglot 0.2.0: A consulting-read interface for eglot
+app-emacs/consult-eglot 0.3.0: A consulting-read interface for eglot
 app-emacs/consult-flycheck 1.0: Provides the command `consult-flycheck'
 app-emacs/consult-gh 1.0: Consulting GitHub Client
 app-emacs/consult-ghq 0.0.5: Ghq interface using consult
@@ -2134,7 +2137,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 1.1.4: Link org-id entries into a network
+app-emacs/org-node 1.2.6: Link org-id entries into a network
 app-emacs/org-node-fakeroam 0.8.2: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
