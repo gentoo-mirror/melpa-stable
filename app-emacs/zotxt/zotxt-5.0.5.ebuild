@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tools to integrate emacs with Zotero via the zotxt plugin"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://gitlab.com/egh/zotxt-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

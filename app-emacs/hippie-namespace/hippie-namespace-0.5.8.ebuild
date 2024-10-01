@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Special treatment for namespace prefixes in hippie-expand"
 
-HOMEPAGE="http://github.com/rolandwalker/hippie-namespace"
+HOMEPAGE="https://github.com/rolandwalker/hippie-namespace"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ruby tagging tools"
 
-HOMEPAGE="https://www.github.com/thiagoa/rbtagger"
+HOMEPAGE="https://github.com/thiagoa/rbtagger"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

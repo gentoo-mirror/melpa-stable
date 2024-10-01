@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Paste from clipboard managers"
 
-HOMEPAGE="http://github.com/redguardtoo/cliphist"
+HOMEPAGE="https://github.com/redguardtoo/cliphist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

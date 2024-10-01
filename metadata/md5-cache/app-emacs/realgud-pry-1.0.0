@@ -3,11 +3,11 @@ DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpa
 DEPEND=app-emacs/realgud app-emacs/load-relative
 DESCRIPTION=Realgud front-end to the Ruby pry debugger
 EAPI=8
-HOMEPAGE=http://github.com/rocky/realgud-pry
+HOMEPAGE=https://github.com/realgud/realgud-pry
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/realgud app-emacs/load-relative >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/realgud-pry-1.0.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=b3ae0aa1225dacb4fa716832c847e52f
+_md5_=1bee3af069950b37185c52a69f910fe7

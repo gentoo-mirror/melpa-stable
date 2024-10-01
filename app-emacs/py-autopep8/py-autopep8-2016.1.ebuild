@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Use autopep8 to beautify a Python buffer"
 
-HOMEPAGE="http://paetzke.me/project/py-autopep8.el"
+HOMEPAGE="https://codeberg.org/ideasman42/emacs-py-autopep8"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

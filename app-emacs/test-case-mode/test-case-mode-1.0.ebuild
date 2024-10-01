@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Unit test front-end"
 
-HOMEPAGE="http://nschum.de/src/emacs/test-case-mode/"
+HOMEPAGE="https://codeberg.org/emacs-weirdware-abandoned/test-case-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

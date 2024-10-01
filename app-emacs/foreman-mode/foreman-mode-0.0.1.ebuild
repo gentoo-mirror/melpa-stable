@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="View and manage Procfile-based applications"
 
-HOMEPAGE="http://github.com/zweifisch/foreman-mode"
+HOMEPAGE="https://github.com/zweifisch/foreman-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

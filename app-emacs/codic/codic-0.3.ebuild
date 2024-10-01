@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Search Codic (codic.jp) naming dictionaries"
 
-HOMEPAGE="https://github.com/syohex/emacs-codic"
+HOMEPAGE="https://github.com/emacsorphanage/codic"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

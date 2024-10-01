@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A Theme based on green CRT terminals"
 
-HOMEPAGE="http://github.com/emacsfodder/emacs-theme-vegetative"
+HOMEPAGE="https://github.com/emacsfodder/emacs-theme-vegetative"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

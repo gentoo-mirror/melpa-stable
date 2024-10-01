@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Get there from here"
 
-HOMEPAGE="https://github.com/ieure/hyperspace-el"
+HOMEPAGE="https://codeberg.org/emacs-weirdware/hyperspace"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

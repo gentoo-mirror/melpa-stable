@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An Elisp API for programmatically using Git"
 
-HOMEPAGE="http://github.com/rejeep/git.el"
+HOMEPAGE="https://github.com/rejeep/git.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

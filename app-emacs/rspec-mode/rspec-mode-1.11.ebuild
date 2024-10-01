@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Enhance ruby-mode for RSpec"
 
-HOMEPAGE="http://github.com/pezra/rspec-mode"
+HOMEPAGE="https://github.com/pezra/rspec-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

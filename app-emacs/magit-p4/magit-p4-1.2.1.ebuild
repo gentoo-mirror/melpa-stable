@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Git-p4 plug-in for Magit"
 
-HOMEPAGE="https://github.com/qoocku/magit-p4"
+HOMEPAGE="https://github.com/emacsorphanage/magit-p4"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

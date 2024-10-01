@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A better backspace"
 
-HOMEPAGE="http://github.com/cofi/sackspace.el"
+HOMEPAGE="https://github.com/cofi/sackspace.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="In-buffer mathematical operations"
 
-HOMEPAGE="http://nschum.de/src/emacs/macro-math/"
+HOMEPAGE="https://github.com/nschum/macro-math.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

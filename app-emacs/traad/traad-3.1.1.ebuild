@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs interface to the traad refactoring server"
 
-HOMEPAGE="https://github.com/abingham/traad"
+HOMEPAGE="https://github.com/abingham/emacs-traad"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

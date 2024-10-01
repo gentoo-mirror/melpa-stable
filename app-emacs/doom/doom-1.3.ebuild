@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="DOM implementation and manipulation library"
 
-HOMEPAGE="http://www.github.com/toroidal-code/doom.el/"
+HOMEPAGE="https://github.com/kensanata/doom"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

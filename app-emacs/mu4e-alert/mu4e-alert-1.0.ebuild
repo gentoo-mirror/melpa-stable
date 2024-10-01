@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Desktop notification for mu4e"
 
-HOMEPAGE="https://github.com/iqbalansari/mu4e-alert"
+HOMEPAGE="https://github.com/xzz53/mu4e-alert"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

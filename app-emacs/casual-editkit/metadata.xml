@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Transient UI for Symbol Overlay</longdescription>
+	<longdescription>Transient user interface library for editing commands</longdescription>
 </pkgmetadata>

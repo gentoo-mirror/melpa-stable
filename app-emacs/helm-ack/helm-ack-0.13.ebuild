@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ack command with helm interface"
 
-HOMEPAGE="https://github.com/syohex/emacs-helm-ack"
+HOMEPAGE="https://github.com/emacsorphanage/helm-ack"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

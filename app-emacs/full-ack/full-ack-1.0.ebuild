@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A front-end for ack"
 
-HOMEPAGE="http://nschum.de/src/emacs/full-ack/"
+HOMEPAGE="https://github.com/nschum/full-ack"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

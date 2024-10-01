@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Opinionated Ert testing workflow"
 
-HOMEPAGE="http://github.com/rejeep/ert-runner.el"
+HOMEPAGE="https://github.com/rejeep/ert-runner.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

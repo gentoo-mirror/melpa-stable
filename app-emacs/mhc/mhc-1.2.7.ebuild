@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Message Harmonized Calendaring system"
 
-HOMEPAGE="http://www.quickhack.net/mhc"
+HOMEPAGE="https://github.com/yoshinari-nomura/mhc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

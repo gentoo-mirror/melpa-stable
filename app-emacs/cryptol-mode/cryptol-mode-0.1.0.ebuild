@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Cryptol major mode for Emacs"
 
-HOMEPAGE="http://github.com/thoughtpolice/cryptol-mode"
+HOMEPAGE="https://github.com/thoughtpolice/cryptol-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

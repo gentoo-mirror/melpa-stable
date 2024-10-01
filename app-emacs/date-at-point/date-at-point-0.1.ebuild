@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add \`date' to \`thing-at-point' function"
 
-HOMEPAGE="https://gitorious.org/alezost-emacs/date-at-point"
+HOMEPAGE="https://github.com/alezost/date-at-point.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

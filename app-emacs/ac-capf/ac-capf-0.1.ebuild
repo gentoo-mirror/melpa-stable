@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Auto-complete source with completion-at-point"
 
-HOMEPAGE="https://github.com/syohex/emacs-ac-capf"
+HOMEPAGE="https://github.com/emacsorphanage/ac-capf"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simplified access to the system clipboard"
 
-HOMEPAGE="http://github.com/rolandwalker/simpleclip"
+HOMEPAGE="https://github.com/rolandwalker/simpleclip"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

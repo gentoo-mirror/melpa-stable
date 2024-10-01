@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Modular text completion framework"
 
-HOMEPAGE="http://company-mode.github.io/"
+HOMEPAGE="https://github.com/company-mode/company-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

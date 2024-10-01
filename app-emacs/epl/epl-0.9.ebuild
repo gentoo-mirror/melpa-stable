@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs Package Library"
 
-HOMEPAGE="http://github.com/cask/epl"
+HOMEPAGE="https://github.com/cask/epl"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

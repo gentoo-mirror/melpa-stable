@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Purpose-specific frames"
 
-HOMEPAGE="http://github.com/alphapapa/frame-purpose.el"
+HOMEPAGE="https://github.com/alphapapa/frame-purpose.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

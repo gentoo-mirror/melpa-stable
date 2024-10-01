@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs bookmark support for Org mode"
 
-HOMEPAGE="http://github.com/alphapapa/org-bookmark-heading"
+HOMEPAGE="https://github.com/alphapapa/org-bookmark-heading"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

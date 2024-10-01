@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="ASCII boxes unlimited!"
 
-HOMEPAGE="https://boxes.thomasjensen.com"
+HOMEPAGE="https://github.com/ascii-boxes/boxes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

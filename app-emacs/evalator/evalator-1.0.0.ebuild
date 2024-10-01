@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Package for interactive transformation of data with helm"
 
-HOMEPAGE="http://www.github.com/seanirby/evalator"
+HOMEPAGE="https://github.com/seanirby/evalator"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

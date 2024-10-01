@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Offline documentation browser for +150 APIs using Dash docsets"
 
-HOMEPAGE="http://github.com/areina/helm-dash"
+HOMEPAGE="https://github.com/dash-docs-el/helm-dash"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

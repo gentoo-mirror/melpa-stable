@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Polymode for Ansible: Jinja2 in YAML"
 
-HOMEPAGE="https://gitlab.com/mavit/poly-ansible/"
+HOMEPAGE="https://gitlab.com/mavit/poly-ansible"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

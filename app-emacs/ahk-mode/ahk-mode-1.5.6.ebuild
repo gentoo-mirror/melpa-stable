@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing AHK (AutoHotkey and AutoHotkey_L)"
 
-HOMEPAGE="https://github.com/ralesi/ahk-mode"
+HOMEPAGE="https://github.com/punassuming/ahk-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Templating language;"
 
-HOMEPAGE="https://clarete.li/templatel"
+HOMEPAGE="https://github.com/emacs-love/templatel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

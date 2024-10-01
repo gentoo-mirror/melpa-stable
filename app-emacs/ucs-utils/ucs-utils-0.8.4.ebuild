@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Utilities for Unicode characters"
 
-HOMEPAGE="http://github.com/rolandwalker/ucs-utils"
+HOMEPAGE="https://github.com/rolandwalker/ucs-utils"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

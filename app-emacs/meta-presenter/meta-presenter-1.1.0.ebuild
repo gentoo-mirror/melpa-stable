@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A simple multi-file presentation tool for Emacs"
 
-HOMEPAGE="http://ismail.teamfluxion.com"
+HOMEPAGE="https://github.com/myTerminal/meta-presenter"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Incremental search for the kill ring"
 
-HOMEPAGE="http://nschum.de/src/emacs/kill-ring-search/"
+HOMEPAGE="https://github.com/nschum/kill-ring-search.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

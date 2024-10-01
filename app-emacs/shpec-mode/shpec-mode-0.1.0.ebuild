@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for shpec specification"
 
-HOMEPAGE="http://github.com/shpec/shpec-mode"
+HOMEPAGE="https://github.com/shpec/shpec-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

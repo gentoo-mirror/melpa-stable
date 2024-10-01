@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A dark contrast color theme for Emacs"
 
-HOMEPAGE="http://github.com/prassee/prassee-emacs-theme"
+HOMEPAGE="https://github.com/prassee/prassee-emacs-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

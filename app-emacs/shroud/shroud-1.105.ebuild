@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Shroud secrets"
 
-HOMEPAGE="https://github.com/o-nly/emacs-shroud"
+HOMEPAGE="https://git.savannah.nongnu.org/git/emacs-shroud.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

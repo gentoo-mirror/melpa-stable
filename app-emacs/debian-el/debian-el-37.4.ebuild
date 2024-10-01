@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs helpers specific to Debian users"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://salsa.debian.org/emacsen-team/debian-el.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

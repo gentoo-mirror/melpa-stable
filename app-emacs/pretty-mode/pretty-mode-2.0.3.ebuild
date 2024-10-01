@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Redisplay parts of the buffer as pretty symbols"
 
-HOMEPAGE="https://github.com/akatov/pretty-mode"
+HOMEPAGE="https://github.com/pretty-mode/pretty-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

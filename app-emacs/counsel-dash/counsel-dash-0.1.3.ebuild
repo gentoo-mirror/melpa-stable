@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Browse dash docsets using Ivy"
 
-HOMEPAGE="https://github.com/nathankot/counsel-dash"
+HOMEPAGE="https://github.com/dash-docs-el/counsel-dash"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

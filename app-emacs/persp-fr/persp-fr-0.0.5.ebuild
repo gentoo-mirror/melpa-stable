@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="In persp-mode, show perspective list in the GUI window title"
 
-HOMEPAGE="http://github.com/rocher/persp-fr"
+HOMEPAGE="https://github.com/rocher/persp-fr"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

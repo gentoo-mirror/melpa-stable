@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Control Hg from Emacs"
 
-HOMEPAGE="http://github.com/ananthakumaran/monky"
+HOMEPAGE="https://github.com/ananthakumaran/monky"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Grabs the path to JSON values in a JSON file"
 
-HOMEPAGE="http://github.com/sterlingg/json-snatcher"
+HOMEPAGE="https://github.com/Sterlingg/json-snatcher"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

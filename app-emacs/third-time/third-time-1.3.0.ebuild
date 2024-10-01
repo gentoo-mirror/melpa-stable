@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Third Time: A Better Way to Work"
 
-HOMEPAGE="https://git.sr.ht/~swflint/busylight"
+HOMEPAGE="https://git.sr.ht/~swflint/third-time"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

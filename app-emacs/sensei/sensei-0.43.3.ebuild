@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A client for sensei"
 
-HOMEPAGE="https://abailly.github.io/sensei"
+HOMEPAGE="https://github.com/abailly/sensei"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

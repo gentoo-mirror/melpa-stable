@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Use emacs motion keys in evil, inspired by vim-rsi"
 
-HOMEPAGE="http://github.com/linktohack/evil-rsi"
+HOMEPAGE="https://github.com/linktohack/evil-rsi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

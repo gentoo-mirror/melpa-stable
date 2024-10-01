@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Replace marker with increasing integers"
 
-HOMEPAGE="https://git.sr.ht/~mango/iota"
+HOMEPAGE="https://git.sr.ht/~mango/iota.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

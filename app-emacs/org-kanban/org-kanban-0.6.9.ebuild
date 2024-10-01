@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Kanban dynamic block for org-mode"
 
-HOMEPAGE="http://github.com/gizmomogwai/org-kanban"
+HOMEPAGE="https://github.com/gizmomogwai/org-kanban"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

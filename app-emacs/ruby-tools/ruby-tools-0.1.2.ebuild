@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Collection of handy functions for ruby-mode"
 
-HOMEPAGE="http://github.com/rejeep/ruby-tools"
+HOMEPAGE="https://github.com/rejeep/ruby-tools.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

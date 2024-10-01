@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Work with your conda environments"
 
-HOMEPAGE="http://github.com/necaris/conda.el"
+HOMEPAGE="https://github.com/necaris/conda.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

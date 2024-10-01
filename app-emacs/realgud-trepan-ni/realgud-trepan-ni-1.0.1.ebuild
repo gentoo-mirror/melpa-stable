@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Realgud front-end to trepan-ni"
 
-HOMEPAGE="http://github.com/realgud/realgud-trepan-ni"
+HOMEPAGE="https://github.com/realgud/realgud-trepan-ni"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

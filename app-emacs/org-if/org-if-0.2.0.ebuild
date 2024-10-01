@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interactive Fiction Authoring System for Org-Mode"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://gitlab.com/elzair/org-if"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

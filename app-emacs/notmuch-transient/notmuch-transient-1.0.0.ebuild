@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Command dispatchers for Notmuch"
 
-HOMEPAGE="https://git.sr.ht/~tarsius/notmuch-transient"
+HOMEPAGE="https://github.com/tarsius/notmuch-transient"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

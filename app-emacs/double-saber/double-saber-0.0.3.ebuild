@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Narrow and delete in search buffers"
 
-HOMEPAGE="https://github.com/dp12/double-saber.git"
+HOMEPAGE="https://github.com/dp12/double-saber"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quickly navigate to FIXME notices in code"
 
-HOMEPAGE="http://github.com/rolandwalker/fixmee"
+HOMEPAGE="https://github.com/rolandwalker/fixmee"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

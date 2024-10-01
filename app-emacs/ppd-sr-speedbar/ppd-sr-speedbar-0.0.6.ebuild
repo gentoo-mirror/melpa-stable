@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sr Speedbar adaptor for project-persist-drawer"
 
-HOMEPAGE="https://github.com/rdallasgrayppd-sr-speedbar"
+HOMEPAGE="https://github.com/rdallasgray/ppd-sr-speedbar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Code for dealing with Java imports"
 
-HOMEPAGE="http://www.github.com/dakrone/emacs-java-imports"
+HOMEPAGE="https://github.com/dakrone/emacs-java-imports"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Gather string in buffer"
 
-HOMEPAGE="https://github.com/mhayashi1120/Emacs-gather/raw/master/gather.el"
+HOMEPAGE="https://github.com/mhayashi1120/Emacs-gather"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A zetteldesk extension for interfacing with literature nodes"
 
-HOMEPAGE="https://github.com/Vidianos-Giannitsis/zetteldesk-ref.el"
+HOMEPAGE="https://github.com/Vidianos-Giannitsis/zetteldesk.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

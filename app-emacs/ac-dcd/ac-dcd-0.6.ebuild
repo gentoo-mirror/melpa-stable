@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Auto Completion source for dcd for GNU Emacs"
 
-HOMEPAGE="http://github.com/atilaneves/ac-dcd"
+HOMEPAGE="https://github.com/atilaneves/ac-dcd"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ivy for GNU global"
 
-HOMEPAGE="https://github.com/syohex/emacs-counsel-gtags"
+HOMEPAGE="https://github.com/FelipeLema/emacs-counsel-gtags"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

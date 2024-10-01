@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A fruity color theme for Emacs"
 
-HOMEPAGE="http://github.com/oneKelvinSmith/monokai-emacs"
+HOMEPAGE="https://github.com/oneKelvinSmith/monokai-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

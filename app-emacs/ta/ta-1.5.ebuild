@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A tool to deal with Chinese homophonic characters"
 
-HOMEPAGE="http://github.com/kuanyui/ta.el"
+HOMEPAGE="https://github.com/kuanyui/ta.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

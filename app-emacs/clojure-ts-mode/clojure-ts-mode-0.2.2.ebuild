@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Clojure code"
 
-HOMEPAGE="http://github.com/clojure-emacs/clojure-ts-mode"
+HOMEPAGE="https://github.com/clojure-emacs/clojure-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

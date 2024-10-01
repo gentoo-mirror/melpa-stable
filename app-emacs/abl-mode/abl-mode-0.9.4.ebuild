@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Python TDD minor mode"
 
-HOMEPAGE="http://github.com/afroisalreadyinu/abl-mode"
+HOMEPAGE="https://github.com/afroisalreadyinu/abl-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

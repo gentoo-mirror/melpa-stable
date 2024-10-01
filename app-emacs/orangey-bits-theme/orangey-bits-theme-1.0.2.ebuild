@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A Theme with smashing orangey bits"
 
-HOMEPAGE="http://github.com/emacsfodder/emacs-theme-orangey-bits"
+HOMEPAGE="https://github.com/emacsfodder/emacs-theme-orangey-bits"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

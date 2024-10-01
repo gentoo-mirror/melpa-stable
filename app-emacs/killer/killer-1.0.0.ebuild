@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Kill and delete text"
 
-HOMEPAGE="http://github.com/tarsius/killer"
+HOMEPAGE="https://github.com/tarsius/killer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

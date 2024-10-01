@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Themes with vivid colors"
 
-HOMEPAGE="https://github.com/precompute/sculpture-theme"
+HOMEPAGE="https://github.com/precompute/sculpture-themes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

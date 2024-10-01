@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing JSON files"
 
-HOMEPAGE="https://github.com/joshwnj/json-mode"
+HOMEPAGE="https://github.com/json-emacs/json-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

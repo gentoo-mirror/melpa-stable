@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show git blame info about current line"
 
-HOMEPAGE="https://github.com/artawower/blamer.el"
+HOMEPAGE="https://github.com/Artawower/blamer.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

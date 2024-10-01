@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Executable and virtualenv tracker for python-mode"
 
-HOMEPAGE="https://github.com/wyuenho/emacs-pet/"
+HOMEPAGE="https://github.com/wyuenho/emacs-pet"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

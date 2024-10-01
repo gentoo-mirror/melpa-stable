@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Utility functions for writing pythonic emacs package"
 
-HOMEPAGE="https://github.com/proofit404/pythonic"
+HOMEPAGE="https://github.com/pythonic-emacs/pythonic"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

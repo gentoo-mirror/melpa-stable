@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Get the GitHub/Bitbucket/GitLab URL for a buffer location"
 
-HOMEPAGE="http://github.com/sshaw/git-link"
+HOMEPAGE="https://github.com/sshaw/git-link"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

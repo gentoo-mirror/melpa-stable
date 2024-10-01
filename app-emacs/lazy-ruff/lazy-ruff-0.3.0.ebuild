@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Integration with the Ruff Python linter/formatter"
 
-HOMEPAGE="http://github.com/christophermadsen/emacs-lazy-ruff"
+HOMEPAGE="https://github.com/christophermadsen/emacs-lazy-ruff"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

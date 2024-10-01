@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Elisp (GitHub) Repository Kit"
 
-HOMEPAGE="http://github.com/positron-solutions/elisp-repo-kit"
+HOMEPAGE="https://github.com/positron-solutions/elisp-repo-kit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Comment/uncomment lines efficiently. Like Nerd Commenter in Vim"
 
-HOMEPAGE="http://github.com/redguardtoo/evil-nerd-commenter"
+HOMEPAGE="https://github.com/redguardtoo/evil-nerd-commenter"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

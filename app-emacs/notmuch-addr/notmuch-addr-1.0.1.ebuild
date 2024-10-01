@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Improved address completion for Notmuch"
 
-HOMEPAGE="https://git.sr.ht/~tarsius/notmuch-addr"
+HOMEPAGE="https://github.com/tarsius/notmuch-addr"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

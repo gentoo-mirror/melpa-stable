@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Indentation module for Haskell Mode"
 
-HOMEPAGE="https://github.com/errge/hi2"
+HOMEPAGE="https://github.com/nilcons/hi2"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

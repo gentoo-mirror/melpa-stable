@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A regexp/replace command for Emacs with interactive visual feedback"
 
-HOMEPAGE="https://github.com/benma/visual-regexp.el/"
+HOMEPAGE="https://github.com/benma/visual-regexp.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

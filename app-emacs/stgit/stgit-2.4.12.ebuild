@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for StGit interaction"
 
-HOMEPAGE="http://stacked-git.github.io"
+HOMEPAGE="https://github.com/stacked-git/stgit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

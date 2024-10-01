@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Supercharge your agenda"
 
-HOMEPAGE="http://github.com/alphapapa/org-super-agenda"
+HOMEPAGE="https://github.com/alphapapa/org-super-agenda"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

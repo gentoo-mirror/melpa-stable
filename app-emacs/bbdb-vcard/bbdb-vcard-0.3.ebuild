@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="VCard import/export for BBDB"
 
-HOMEPAGE="http://github.com/trebb/bbdb-vcard"
+HOMEPAGE="https://github.com/tohojo/bbdb-vcard"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

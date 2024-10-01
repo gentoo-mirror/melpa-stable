@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flymake handler for Perl to invoke Perl::Critic"
 
-HOMEPAGE="https://github.com/illusori/emacs-flymake-perlcritic"
+HOMEPAGE="https://github.com/flymake/emacs-flymake-perlcritic"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quick manipulation of textual checkboxes"
 
-HOMEPAGE="http://github.com/camdez/checkbox.el"
+HOMEPAGE="https://github.com/camdez/checkbox.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

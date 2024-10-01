@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Wiki-like note-taking tool"
 
-HOMEPAGE="https://kaorahi.github.io/howm/"
+HOMEPAGE="https://github.com/kaorahi/howm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

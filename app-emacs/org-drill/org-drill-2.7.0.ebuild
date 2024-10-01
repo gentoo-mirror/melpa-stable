@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Self-testing using spaced repetition"
 
-HOMEPAGE="https://gitlab.com/phillord/org-drill/issues"
+HOMEPAGE="https://gitlab.com/phillord/org-drill"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

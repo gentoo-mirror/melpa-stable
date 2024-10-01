@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mgmt configuration management language"
 
-HOMEPAGE="https://github.com/purpleidea/mgmt/misc/emacs"
+HOMEPAGE="https://github.com/purpleidea/mgmt"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Create unique IDs for org headers"
 
-HOMEPAGE="https://labs.phundrak.com/phundrak/org-unique-id"
+HOMEPAGE="https://github.com/Phundrak/org-unique-id"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

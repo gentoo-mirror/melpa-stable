@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flymake support for Grammarly"
 
-HOMEPAGE="https://github.com/jcs-elpa/flymake-grammarly"
+HOMEPAGE="https://github.com/emacs-grammarly/flymake-grammarly"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

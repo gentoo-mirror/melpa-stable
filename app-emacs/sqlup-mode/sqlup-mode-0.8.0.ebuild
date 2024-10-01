@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Upcase SQL words for you"
 
-HOMEPAGE="https://github.com/trevoke/sqlup-mode.el"
+HOMEPAGE="https://github.com/Trevoke/sqlup-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

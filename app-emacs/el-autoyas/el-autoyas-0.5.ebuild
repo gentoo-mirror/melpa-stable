@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatically create Emacs-Lisp Yasnippets"
 
-HOMEPAGE="https://github.com/mlf176f2/el-autoyas.el"
+HOMEPAGE="https://github.com/mattfidler/el-autoyas.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

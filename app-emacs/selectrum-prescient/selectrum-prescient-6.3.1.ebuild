@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Prescient.el + Selectrum"
 
-HOMEPAGE="https://github.com/raxod502/prescient.el"
+HOMEPAGE="https://github.com/radian-software/prescient.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

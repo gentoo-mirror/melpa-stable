@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Backup each file change using git"
 
-HOMEPAGE="http://github.com/antham/helm-backup"
+HOMEPAGE="https://github.com/antham/helm-backup"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

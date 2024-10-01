@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Highlight surrounding parentheses"
 
-HOMEPAGE="https://sr.ht/~tsdh/highlight-parentheses.el/"
+HOMEPAGE="https://git.sr.ht/~tsdh/highlight-parentheses.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A simple org-mode based journaling mode"
 
-HOMEPAGE="http://github.com/bastibe/org-journal"
+HOMEPAGE="https://github.com/bastibe/org-journal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

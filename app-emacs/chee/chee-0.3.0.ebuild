@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interface to chee using dired and image-dired"
 
-HOMEPAGE="https://github.com/eikek/chee/tree/release/0.3.0/emacs"
+HOMEPAGE="https://github.com/eikek/chee"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

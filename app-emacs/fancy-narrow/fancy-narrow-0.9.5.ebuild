@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Narrow-to-region with more eye candy"
 
-HOMEPAGE="http://github.com/Bruce-Connor/fancy-narrow"
+HOMEPAGE="https://github.com/Malabarba/fancy-narrow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

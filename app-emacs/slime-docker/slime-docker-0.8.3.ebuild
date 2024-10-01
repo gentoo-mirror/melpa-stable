@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Integration of SLIME with Docker containers"
 
-HOMEPAGE="https://gitlab.common-lisp.net/cl-docker-images/slime-docker"
+HOMEPAGE="https://github.com/cl-docker-images/slime-docker"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

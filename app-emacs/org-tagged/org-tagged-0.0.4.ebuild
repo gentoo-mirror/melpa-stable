@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Dynamic block for tagged org-mode todos"
 
-HOMEPAGE="http://github.com/gizmomogwai/org-tagged"
+HOMEPAGE="https://github.com/gizmomogwai/org-tagged"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

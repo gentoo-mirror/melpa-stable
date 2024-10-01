@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Python.el extras for interactive evaluation"
 
-HOMEPAGE="https://github.com/wavexx/python-x.el"
+HOMEPAGE="https://gitlab.com/wavexx/python-x.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

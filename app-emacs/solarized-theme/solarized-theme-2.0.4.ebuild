@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="The Solarized color theme"
 
-HOMEPAGE="http://github.com/bbatsov/solarized-emacs"
+HOMEPAGE="https://github.com/bbatsov/solarized-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

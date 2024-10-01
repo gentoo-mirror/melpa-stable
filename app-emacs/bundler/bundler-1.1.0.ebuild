@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interact with Bundler from Emacs"
 
-HOMEPAGE="http://github.com/tobiassvn/"
+HOMEPAGE="https://github.com/endofunky/bundler.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

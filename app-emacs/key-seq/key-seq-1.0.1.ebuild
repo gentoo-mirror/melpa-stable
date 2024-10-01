@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Map pairs of sequentially pressed keys to commands"
 
-HOMEPAGE="http://github.com/vlevit/key-seq.el"
+HOMEPAGE="https://github.com/vlevit/key-seq.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

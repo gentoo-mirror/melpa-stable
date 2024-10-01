@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Html As Markdown. Transparently edit an html file using markdown"
 
-HOMEPAGE="http://github.com/Bruce-Connor/ham-mode"
+HOMEPAGE="https://github.com/Malabarba/ham-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

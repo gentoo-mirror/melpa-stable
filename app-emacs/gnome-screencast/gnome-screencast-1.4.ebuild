@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Use Gnome screen recording functionality using elisp"
 
-HOMEPAGE="https://github.com/juergenhoetzel/gnome-screencast.el"
+HOMEPAGE="https://github.com/juergenhoetzel/emacs-gnome-screencast"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

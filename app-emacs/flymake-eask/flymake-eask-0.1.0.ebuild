@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Eask support in Flymake"
 
-HOMEPAGE="https://github.com/emacs-eask/flymake-eask"
+HOMEPAGE="https://github.com/flymake/flymake-eask"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Easily find files related to the current one"
 
-HOMEPAGE="https://www.gnu.org/software/emacs/"
+HOMEPAGE="https://github.com/DamienCassou/related-files"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

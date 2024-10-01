@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert shebang line automatically"
 
-HOMEPAGE="https://gitlab.com/psachin/insert-shebang"
+HOMEPAGE="https://github.com/psachin/insert-shebang"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

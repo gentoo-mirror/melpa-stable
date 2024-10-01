@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Improve flyspell responsiveness using idle timers"
 
-HOMEPAGE="http://github.com/rolandwalker/flyspell-lazy"
+HOMEPAGE="https://github.com/rolandwalker/flyspell-lazy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

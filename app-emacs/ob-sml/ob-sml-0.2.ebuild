@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-babel functions for template evaluation"
 
-HOMEPAGE="http://orgmode.org"
+HOMEPAGE="https://github.com/swannodette/ob-sml"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

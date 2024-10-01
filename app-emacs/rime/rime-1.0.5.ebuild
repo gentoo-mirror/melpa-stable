@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Rime input method"
 
-HOMEPAGE="https://www.github.com/DogLooksGood/emacs-rime"
+HOMEPAGE="https://github.com/DogLooksGood/emacs-rime"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

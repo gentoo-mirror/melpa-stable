@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interact with a TCP process using JSON"
 
-HOMEPAGE="https://gitlab.petton.fr/nico/json-process-client"
+HOMEPAGE="https://github.com/DamienCassou/json-process-client"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

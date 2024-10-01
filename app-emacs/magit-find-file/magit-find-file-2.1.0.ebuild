@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Completing-read over all files in Git"
 
-HOMEPAGE="https://github.com/bradleywright/magit-find-file.el"
+HOMEPAGE="https://github.com/bradwright/magit-find-file.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

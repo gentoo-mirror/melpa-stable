@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Read html content and paywall sites without clutter"
 
-HOMEPAGE="http://www.github.com/sanel/declutter"
+HOMEPAGE="https://github.com/sanel/declutter"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

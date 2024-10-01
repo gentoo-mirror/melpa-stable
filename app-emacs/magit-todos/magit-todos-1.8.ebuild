@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show source file TODOs in Magit"
 
-HOMEPAGE="http://github.com/alphapapa/magit-todos"
+HOMEPAGE="https://github.com/alphapapa/magit-todos"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

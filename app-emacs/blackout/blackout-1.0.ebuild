@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Better mode lighter overriding"
 
-HOMEPAGE="https://github.com/raxod502/blackout"
+HOMEPAGE="https://github.com/radian-software/blackout"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

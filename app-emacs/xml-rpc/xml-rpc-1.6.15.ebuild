@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An elisp implementation of clientside XML-RPC"
 
-HOMEPAGE="http://github.com/xml-rpc-el/xml-rpc-el"
+HOMEPAGE="https://github.com/xml-rpc-el/xml-rpc-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

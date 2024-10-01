@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="EditorConfig Emacs Plugin"
 
-HOMEPAGE="https://github.com/editorconfig/editorconfig-emacs#readme"
+HOMEPAGE="https://github.com/editorconfig/editorconfig-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

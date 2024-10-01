@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fast and complete Ctags/Etags solution using ivy"
 
-HOMEPAGE="http://github.com/redguardtoo/counsel-etags"
+HOMEPAGE="https://github.com/redguardtoo/counsel-etags"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

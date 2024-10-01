@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pomodoro implementation for org-mode"
 
-HOMEPAGE="https://github.com/lolownia/org-pomodoro"
+HOMEPAGE="https://github.com/marcinkoziej/org-pomodoro"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

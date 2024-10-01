@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Eldoc for go-mode"
 
-HOMEPAGE="https://github.com/syohex/emacs-go-eldoc"
+HOMEPAGE="https://github.com/emacsorphanage/go-eldoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

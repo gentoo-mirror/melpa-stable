@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show flymake messages in the minibuffer after delay"
 
-HOMEPAGE="https://github.com/illusori/emacs-flymake-cursor"
+HOMEPAGE="https://github.com/flymake/emacs-flymake-cursor"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

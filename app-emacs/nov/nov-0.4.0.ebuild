@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Featureful EPUB reader mode"
 
-HOMEPAGE="https://depp.brause.cc/nov.el"
+HOMEPAGE="https://depp.brause.cc/nov.el.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

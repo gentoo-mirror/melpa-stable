@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sourcemap parser"
 
-HOMEPAGE="https://github.com/syohex/emacs-sourcemap"
+HOMEPAGE="https://github.com/emacsorphanage/sourcemap"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Anaconda backend for company-mode"
 
-HOMEPAGE="https://github.com/proofit404/anaconda-mode"
+HOMEPAGE="https://github.com/pythonic-emacs/company-anaconda"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

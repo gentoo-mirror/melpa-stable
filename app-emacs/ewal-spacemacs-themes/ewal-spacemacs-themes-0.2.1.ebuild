@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ride the rainbow spaceship"
 
-HOMEPAGE="https://gitlab.com/jjzmajic/ewal"
+HOMEPAGE="https://github.com/cyruseuros/ewal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

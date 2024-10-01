@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fringe version of git-gutter.el"
 
-HOMEPAGE="https://github.com/syohex/emacs-git-gutter-fringe"
+HOMEPAGE="https://github.com/emacsorphanage/git-gutter-fringe"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

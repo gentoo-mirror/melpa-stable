@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Persistent quick sorting of dired buffers in various ways"
 
-HOMEPAGE="https://gitlab.com/xuhdev/dired-quick-sort#dired-quick-sort"
+HOMEPAGE="https://gitlab.com/xuhdev/dired-quick-sort"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

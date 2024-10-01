@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Advise help to find org source over tangled code"
 
-HOMEPAGE="https://github.com/EricCrosson/help-find-org-mode"
+HOMEPAGE="https://github.com/emacsorphanage/help-find-org-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

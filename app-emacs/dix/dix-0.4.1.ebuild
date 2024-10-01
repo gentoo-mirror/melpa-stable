@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Apertium XML editing minor mode"
 
-HOMEPAGE="http://wiki.apertium.org/wiki/Emacs"
+HOMEPAGE="https://github.com/unhammer/dix"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

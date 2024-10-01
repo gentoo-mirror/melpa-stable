@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Help to comply with the Google C++ Style Guide"
 
-HOMEPAGE="https://github.com/flycheck/flycheck-google-cpplint/"
+HOMEPAGE="https://github.com/flycheck/flycheck-google-cpplint"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

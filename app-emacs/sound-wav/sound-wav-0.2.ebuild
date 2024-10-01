@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Play wav file"
 
-HOMEPAGE="https://github.com/syohex/emacs-sound-wav"
+HOMEPAGE="https://github.com/emacsorphanage/sound-wav"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

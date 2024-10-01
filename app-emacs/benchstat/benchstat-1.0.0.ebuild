@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Proper benchmarking made simple"
 
-HOMEPAGE="https://github.com/Quasilyte/benchstat.el"
+HOMEPAGE="https://github.com/quasilyte/benchstat.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

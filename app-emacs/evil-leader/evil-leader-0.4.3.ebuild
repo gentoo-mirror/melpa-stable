@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Let there be <leader>"
 
-HOMEPAGE="http://github.com/cofi/evil-leader"
+HOMEPAGE="https://github.com/cofi/evil-leader"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="This package provides two parametrized uncoloured color themes for Emacs: tao-yin and tao-yang"
 
-HOMEPAGE="http://github.com/11111000000/tao-theme-emacs"
+HOMEPAGE="https://github.com/11111000000/tao-theme-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

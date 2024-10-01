@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Customizable 256 colors for term"
 
-HOMEPAGE="http://github.com/dieggsy/eterm-256color"
+HOMEPAGE="https://github.com/dieggsy/eterm-256color"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

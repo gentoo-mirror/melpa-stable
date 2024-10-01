@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Etags/ctags completion source for auto-complete"
 
-HOMEPAGE="https://github.com/syohex/emacs-ac-etags"
+HOMEPAGE="https://github.com/emacsorphanage/ac-etags"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

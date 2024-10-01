@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run OfflineIMAP from Emacs"
 
-HOMEPAGE="http://julien.danjou.info/offlineimap-el.html"
+HOMEPAGE="https://github.com/jd/offlineimap.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

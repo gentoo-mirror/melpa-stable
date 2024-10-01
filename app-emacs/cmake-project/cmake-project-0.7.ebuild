@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Integrates CMake build process with Emacs"
 
-HOMEPAGE="http://github.com/alamaison/emacs-cmake-project"
+HOMEPAGE="https://github.com/alamaison/emacs-cmake-project"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

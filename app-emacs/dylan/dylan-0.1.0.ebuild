@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Dylan editing modes"
 
-HOMEPAGE="https://opendylan.org/"
+HOMEPAGE="https://github.com/dylan-lang/dylan-emacs-support"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

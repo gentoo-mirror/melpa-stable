@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs command line parser"
 
-HOMEPAGE="http://github.com/rejeep/commander.el"
+HOMEPAGE="https://github.com/rejeep/commander.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

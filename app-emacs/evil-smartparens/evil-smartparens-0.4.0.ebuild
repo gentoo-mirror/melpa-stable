@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Evil support for smartparens"
 
-HOMEPAGE="https://www.github.com/expez/evil-smartparens"
+HOMEPAGE="https://github.com/expez/evil-smartparens"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

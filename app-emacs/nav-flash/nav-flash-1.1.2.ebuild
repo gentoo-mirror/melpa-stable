@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Briefly highlight the current line"
 
-HOMEPAGE="http://github.com/rolandwalker/nav-flash"
+HOMEPAGE="https://github.com/rolandwalker/nav-flash"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

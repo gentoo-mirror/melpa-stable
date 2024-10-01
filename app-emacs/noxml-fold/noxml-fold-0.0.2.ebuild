@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fold away XML things"
 
-HOMEPAGE="https://github.com/paddymcall/noxml-fold"
+HOMEPAGE="https://github.com/paddymcall/noXML-fold"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

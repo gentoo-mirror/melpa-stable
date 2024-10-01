@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Completion with popup"
 
-HOMEPAGE="https://github.com/syohex/emacs-popup-complete"
+HOMEPAGE="https://github.com/emacsorphanage/popup-complete"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

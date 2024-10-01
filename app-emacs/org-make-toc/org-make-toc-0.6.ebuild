@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatic tables of contents for Org files"
 
-HOMEPAGE="http://github.com/alphapapa/org-make-toc"
+HOMEPAGE="https://github.com/alphapapa/org-make-toc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

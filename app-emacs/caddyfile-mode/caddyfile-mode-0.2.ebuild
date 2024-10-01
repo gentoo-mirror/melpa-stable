@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Caddy configuration files"
 
-HOMEPAGE="https://github.com/Schnouki/caddyfile-mode/"
+HOMEPAGE="https://github.com/Schnouki/caddyfile-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

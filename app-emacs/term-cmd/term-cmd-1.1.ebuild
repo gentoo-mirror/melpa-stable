@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Send commands from programs running in term.el"
 
-HOMEPAGE="https://github.com/CallumCameron/term-cmd"
+HOMEPAGE="https://github.com/calliecameron/term-cmd"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

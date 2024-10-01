@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Declarative configuration for Emacsen"
 
-HOMEPAGE="http://github.com/kurisuwhyte/emacs-wonderland"
+HOMEPAGE="https://github.com/kurisuwhyte/emacs-wonderland"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

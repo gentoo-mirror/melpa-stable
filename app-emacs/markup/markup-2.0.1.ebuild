@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple markup generation helpers"
 
-HOMEPAGE="http://github.com/leoc/markup.el"
+HOMEPAGE="https://github.com/leoc/markup.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

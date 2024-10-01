@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Auto complete source for html tags and attributes"
 
-HOMEPAGE="https://github.com/cheunghy/ac-html"
+HOMEPAGE="https://github.com/victorteokw/ac-html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

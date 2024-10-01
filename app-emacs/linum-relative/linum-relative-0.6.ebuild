@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display relative line number in emacs"
 
-HOMEPAGE="http://github.com/coldnew/linum-relative"
+HOMEPAGE="https://github.com/coldnew/linum-relative"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

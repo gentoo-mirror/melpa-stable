@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Vector-manipulation utility functions"
 
-HOMEPAGE="http://github.com/rolandwalker/vector-utils"
+HOMEPAGE="https://github.com/rolandwalker/vector-utils"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

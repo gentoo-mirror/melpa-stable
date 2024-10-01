@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for API Blueprint files"
 
-HOMEPAGE="http://github.com/w-vi/apib-mode"
+HOMEPAGE="https://github.com/w-vi/apib-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

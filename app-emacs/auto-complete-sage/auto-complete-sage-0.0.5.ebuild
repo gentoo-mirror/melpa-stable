@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An auto-complete source for sage-shell-mode"
 
-HOMEPAGE="https://github.com/stakemori/auto-complete-sage"
+HOMEPAGE="https://github.com/sagemath/auto-complete-sage"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

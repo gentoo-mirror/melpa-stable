@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Surround a string with box-drawing characters"
 
-HOMEPAGE="http://github.com/rolandwalker/unicode-enbox"
+HOMEPAGE="https://github.com/rolandwalker/unicode-enbox"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A featureful virtualenv tool for Emacs"
 
-HOMEPAGE="http://github.com/porterjamesj/virtualenvwrapper.el"
+HOMEPAGE="https://github.com/porterjamesj/virtualenvwrapper.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

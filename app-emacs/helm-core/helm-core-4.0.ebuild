@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Development files for Helm"
 
-HOMEPAGE="https://emacs-helm.github.io/helm/"
+HOMEPAGE="https://github.com/emacs-helm/helm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

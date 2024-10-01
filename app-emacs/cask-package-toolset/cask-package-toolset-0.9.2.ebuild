@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Toolsettize your package"
 
-HOMEPAGE="http://github.com/AdrieanKhisbe/cask-package-toolset.el"
+HOMEPAGE="https://github.com/AdrieanKhisbe/cask-package-toolset.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Terminal support for \`company-quickhelp'"
 
-HOMEPAGE="https://github.com/jcs-elpa/company-quickhelp-terminal"
+HOMEPAGE="https://github.com/jcs-legacy/company-quickhelp-terminal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A very dark Emacs color theme"
 
-HOMEPAGE="https://depp.brause.cc/gotham-theme"
+HOMEPAGE="https://depp.brause.cc/gotham-theme.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

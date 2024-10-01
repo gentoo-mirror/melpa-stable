@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add LatexMk support to AUCTeX"
 
-HOMEPAGE="https://github.com/tom-tan/auctex-latexmk/"
+HOMEPAGE="https://github.com/emacsmirror/auctex-latexmk"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

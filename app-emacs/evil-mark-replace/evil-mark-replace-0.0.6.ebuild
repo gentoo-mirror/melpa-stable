@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Replace the thing in marked area"
 
-HOMEPAGE="http://github.com/redguardtoo/evil-mark-replace"
+HOMEPAGE="https://github.com/redguardtoo/evil-mark-replace"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

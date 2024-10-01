@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="API for environment variables and env files"
 
-HOMEPAGE="https://github.com/cfclrk/env"
+HOMEPAGE="https://github.com/cfclrk/environ"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

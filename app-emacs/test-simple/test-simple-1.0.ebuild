@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple Unit Test Framework for Emacs Lisp"
 
-HOMEPAGE="http://github.com/rocky/emacs-test-simple"
+HOMEPAGE="https://github.com/rocky/emacs-test-simple"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

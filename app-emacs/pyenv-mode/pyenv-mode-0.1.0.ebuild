@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Integrate pyenv with python-mode"
 
-HOMEPAGE="https://github.com/proofit404/pyenv-mode"
+HOMEPAGE="https://github.com/pythonic-emacs/pyenv-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

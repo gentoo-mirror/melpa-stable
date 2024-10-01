@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A dark color theme by toxi"
 
-HOMEPAGE="http://bitbucket.org/postspectacular/toxi-theme/"
+HOMEPAGE="https://github.com/postspectacular/toxi-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tool for interacting with LLMs"
 
-HOMEPAGE="http://github.com/s-kostyaev/ellama"
+HOMEPAGE="https://github.com/s-kostyaev/ellama"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

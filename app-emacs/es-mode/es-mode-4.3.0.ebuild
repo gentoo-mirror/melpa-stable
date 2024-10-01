@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A major mode for editing Elasticsearch queries"
 
-HOMEPAGE="http://www.github.com/dakrone/es-mode"
+HOMEPAGE="https://github.com/dakrone/es-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

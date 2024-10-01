@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Autojump command for Eshell"
 
-HOMEPAGE="http://github.com/coldnew/eshell-autojump"
+HOMEPAGE="https://github.com/coldnew/eshell-autojump"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

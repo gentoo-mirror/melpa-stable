@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quick toggle controls at a key-stroke"
 
-HOMEPAGE="http://ismail.teamfluxion.com"
+HOMEPAGE="https://github.com/myTerminal/myterminal-controls"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

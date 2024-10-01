@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Julia source code using tree-sitter"
 
-HOMEPAGE="https://github.com/ronisbr/julia-ts-mode"
+HOMEPAGE="https://github.com/JuliaEditorSupport/julia-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Dark color theme for Emacs > 24 with intensive colors"
 
-HOMEPAGE="https://github.com/steckerhalter/grandshell-theme"
+HOMEPAGE="https://framagit.org/steckerhalter/grandshell-theme.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

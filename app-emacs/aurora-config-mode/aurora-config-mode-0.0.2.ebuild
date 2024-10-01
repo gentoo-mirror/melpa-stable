@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Apache Aurora configuration files"
 
-HOMEPAGE="https://github.com/bdd/aurora-config.el"
+HOMEPAGE="https://github.com/bdd/aurora-config-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

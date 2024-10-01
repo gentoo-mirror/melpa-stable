@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Utility functions for working with fonts"
 
-HOMEPAGE="http://github.com/rolandwalker/font-utils"
+HOMEPAGE="https://github.com/rolandwalker/font-utils"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

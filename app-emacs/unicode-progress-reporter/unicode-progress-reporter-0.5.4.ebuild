@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Progress-reporter with fancy characters"
 
-HOMEPAGE="http://github.com/rolandwalker/unicode-progress-reporter"
+HOMEPAGE="https://github.com/rolandwalker/unicode-progress-reporter"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

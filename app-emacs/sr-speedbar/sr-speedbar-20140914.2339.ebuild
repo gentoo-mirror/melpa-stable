@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Same frame speedbar"
 
-HOMEPAGE="http://www.emacswiki.org/emacs/download/sr-speedbar.el"
+HOMEPAGE="https://github.com/emacsorphanage/sr-speedbar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

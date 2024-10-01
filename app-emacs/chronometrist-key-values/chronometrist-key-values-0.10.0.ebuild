@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add key-values to Chronometrist data"
 
-HOMEPAGE="https://tildegit.org/contrapunctus/chronometrist"
+HOMEPAGE="https://codeberg.org/contrapunctus/chronometrist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

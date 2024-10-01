@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ivy interface to navigate MPD"
 
-HOMEPAGE="https://gitlab.petton.fr/mpdel/ivy-mpdel"
+HOMEPAGE="https://github.com/mpdel/ivy-mpdel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

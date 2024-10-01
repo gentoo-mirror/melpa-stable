@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for using deno fmt on save"
 
-HOMEPAGE="https://github.com/russell/deno-emacs"
+HOMEPAGE="https://github.com/rclarey/deno-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

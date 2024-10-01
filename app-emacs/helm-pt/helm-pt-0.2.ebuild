@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm interface to the platinum searcher"
 
-HOMEPAGE="https://github.com/ralesi/helm-pt"
+HOMEPAGE="https://github.com/punassuming/helm-pt"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

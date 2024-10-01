@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An arctic, north-bluish clean and elegant theme"
 
-HOMEPAGE="https://github.com/arcticicestudio/nord-emacs"
+HOMEPAGE="https://github.com/nordtheme/emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

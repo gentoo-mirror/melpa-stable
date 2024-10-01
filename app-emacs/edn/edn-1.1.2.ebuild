@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Support for reading and writing the edn data format from elisp"
 
-HOMEPAGE="https://www.github.com/expez/edn.el"
+HOMEPAGE="https://github.com/expez/edn.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

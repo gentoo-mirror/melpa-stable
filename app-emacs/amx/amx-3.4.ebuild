@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Alternative M-x with extra features"
 
-HOMEPAGE="http://github.com/DarwinAwardWinner/amx/"
+HOMEPAGE="https://github.com/DarwinAwardWinner/amx"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

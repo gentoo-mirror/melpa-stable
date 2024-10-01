@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="JavaScript Awesome Development Environment"
 
-HOMEPAGE="https://github.com/NicolasPetton/indium"
+HOMEPAGE="https://github.com/NicolasPetton/Indium"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

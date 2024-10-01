@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A generic Emacs interface for proof assistants"
 
-HOMEPAGE="https://proofgeneral.github.io/"
+HOMEPAGE="https://github.com/ProofGeneral/PG"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Low contrast bluish color theme"
 
-HOMEPAGE="https://github.com/cryon/subatomic"
+HOMEPAGE="https://github.com/cryon/subatomic-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

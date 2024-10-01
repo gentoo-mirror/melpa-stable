@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run a Ruby process in a buffer"
 
-HOMEPAGE="http://github.com/nonsequitur/inf-ruby"
+HOMEPAGE="https://github.com/nonsequitur/inf-ruby"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

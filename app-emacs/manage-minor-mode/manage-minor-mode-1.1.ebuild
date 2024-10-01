@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Manage your minor-modes easily"
 
-HOMEPAGE="https://github.com/ShingoFukuyama/manage-minor-mode"
+HOMEPAGE="https://github.com/emacsorphanage/manage-minor-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

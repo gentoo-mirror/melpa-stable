@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Async support for ERT"
 
-HOMEPAGE="http://github.com/rejeep/ert-async.el"
+HOMEPAGE="https://github.com/rejeep/ert-async.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Hashicorp"
 
-HOMEPAGE="https://github.com/syohex/emacs-hcl-mode"
+HOMEPAGE="https://github.com/hcl-emacs/hcl-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

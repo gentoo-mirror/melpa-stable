@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Transform your buffers with lisp"
 
-HOMEPAGE="http://github.com/AdamNiederer/metamorph"
+HOMEPAGE="https://github.com/AdamNiederer/metamorph"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

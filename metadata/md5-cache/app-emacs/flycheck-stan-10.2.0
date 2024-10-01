@@ -3,11 +3,11 @@ DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpa
 DEPEND=app-emacs/flycheck app-emacs/stan-mode
 DESCRIPTION=Add Stan support for Flycheck
 EAPI=8
-HOMEPAGE=https://github.com/stan-dev/stan-mode/tree/master/flycheck-stan
+HOMEPAGE=https://github.com/stan-dev/stan-mode
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/flycheck app-emacs/stan-mode >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/flycheck-stan-10.2.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=014d49054b5ba738bea510fddd188d75
+_md5_=c093941e9ae322dd1d4a62170d7118cb

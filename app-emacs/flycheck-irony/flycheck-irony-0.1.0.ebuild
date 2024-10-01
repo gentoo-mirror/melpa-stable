@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flycheck: C/C++ support via Irony"
 
-HOMEPAGE="https://github.com/Sarcasm/flycheck-irony/"
+HOMEPAGE="https://github.com/Sarcasm/flycheck-irony"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Checkbashisms checker for flycheck"
 
-HOMEPAGE="https://github.com/Gnouc/flycheck-checkbashisms"
+HOMEPAGE="https://github.com/cuonglm/flycheck-checkbashisms"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="String-manipulation utilities"
 
-HOMEPAGE="http://github.com/rolandwalker/string-utils"
+HOMEPAGE="https://github.com/rolandwalker/string-utils"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Auto-complete source of racer"
 
-HOMEPAGE="https://github.com/syohex/emacs-ac-racer"
+HOMEPAGE="https://github.com/emacsorphanage/ac-racer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

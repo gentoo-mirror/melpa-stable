@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Outline with outshine outshines outline"
 
-HOMEPAGE="http://github.com/alphapapa/outshine"
+HOMEPAGE="https://github.com/alphapapa/outshine"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

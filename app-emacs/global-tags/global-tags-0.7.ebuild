@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Elisp API and editor integration for GNU global"
 
-HOMEPAGE="https://launchpad.net/global-tags.el"
+HOMEPAGE="https://git.launchpad.net/global-tags.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

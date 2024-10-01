@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="RTags completion back-end for ivy"
 
-HOMEPAGE="http://rtags.net"
+HOMEPAGE="https://github.com/Andersbakken/rtags"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

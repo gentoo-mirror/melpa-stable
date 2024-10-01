@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Dim the font color of text in surrounding sections"
 
-HOMEPAGE="http://github.com/larstvei/Focus"
+HOMEPAGE="https://github.com/larstvei/Focus"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

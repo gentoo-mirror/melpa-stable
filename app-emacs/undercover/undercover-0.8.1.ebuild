@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Test coverage library for Emacs Lisp"
 
-HOMEPAGE="https://github.com/sviridov/undercover.el"
+HOMEPAGE="https://github.com/undercover-el/undercover.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

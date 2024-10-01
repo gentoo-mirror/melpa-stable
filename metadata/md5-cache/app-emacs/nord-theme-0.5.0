@@ -2,11 +2,11 @@ BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DESCRIPTION=An arctic, north-bluish clean and elegant theme
 EAPI=8
-HOMEPAGE=https://github.com/arcticicestudio/nord-emacs
+HOMEPAGE=https://github.com/nordtheme/emacs
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/nord-theme-0.5.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=aa3eee5215463d7ee4351f030d39e327
+_md5_=52f88d8c49c6edd9e8f767973b5e83c0

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quicksilver scoring algorithm, essentially LiquidMetal"
 
-HOMEPAGE="https://github.com/jcs-elpa/liquidmetal"
+HOMEPAGE="https://github.com/jcs-legacy/liquidmetal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

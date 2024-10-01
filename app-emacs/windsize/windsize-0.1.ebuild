@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple, intuitive window resizing"
 
-HOMEPAGE="http://github.com/grammati/windsize"
+HOMEPAGE="https://github.com/grammati/windsize"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

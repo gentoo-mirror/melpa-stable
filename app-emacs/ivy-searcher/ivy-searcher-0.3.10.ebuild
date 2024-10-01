@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ivy interface to use searcher"
 
-HOMEPAGE="https://github.com/jcs-elpa/ivy-searcher"
+HOMEPAGE="https://github.com/jcs-legacy/ivy-searcher"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

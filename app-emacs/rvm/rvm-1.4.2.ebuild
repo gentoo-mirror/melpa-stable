@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs integration for rvm"
 
-HOMEPAGE="http://www.emacswiki.org/emacs/RvmEl"
+HOMEPAGE="https://github.com/senny/rvm.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="E Ink color theme"
 
-HOMEPAGE="http://github.com/maio/eink-emacs"
+HOMEPAGE="https://github.com/maio/eink-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

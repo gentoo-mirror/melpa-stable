@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Citar/Embark integration"
 
-HOMEPAGE="https://github.com/emacs-citar/citar-embark"
+HOMEPAGE="https://github.com/emacs-citar/citar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
