@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert content at multiple places from shell command or kill-ring"
 
-HOMEPAGE="http://github.com/antham/anyins"
+HOMEPAGE="https://github.com/antham/anyins"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

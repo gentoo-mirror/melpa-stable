@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Manage Node versions within Emacs"
 
-HOMEPAGE="http://github.com/rejeep/nvm.el"
+HOMEPAGE="https://github.com/rejeep/nvm.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

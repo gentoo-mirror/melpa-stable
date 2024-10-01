@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="HTML to Markdown converter written in Emacs-lisp"
 
-HOMEPAGE="http://github.com/Bruce-Connor/html-to-markdown"
+HOMEPAGE="https://github.com/Malabarba/html-to-markdown"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

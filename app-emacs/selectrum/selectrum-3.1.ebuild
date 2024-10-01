@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Easily select item from list"
 
-HOMEPAGE="https://github.com/raxod502/selectrum"
+HOMEPAGE="https://github.com/radian-software/selectrum"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

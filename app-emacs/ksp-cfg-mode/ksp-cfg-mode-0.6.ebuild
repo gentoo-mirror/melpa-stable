@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing KSP CFG files"
 
-HOMEPAGE="http://github.com/lashtear/ksp-cfg-mode"
+HOMEPAGE="https://github.com/lashtear/ksp-cfg-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

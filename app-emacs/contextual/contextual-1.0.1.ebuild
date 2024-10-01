@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Contextual profile management system"
 
-HOMEPAGE="https://github.com/lshift-de/contextual"
+HOMEPAGE="https://github.com/outergod/contextual"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

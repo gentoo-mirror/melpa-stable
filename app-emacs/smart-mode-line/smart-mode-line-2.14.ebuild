@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A color coded smart mode-line"
 
-HOMEPAGE="http://github.com/Malabarba/smart-mode-line"
+HOMEPAGE="https://github.com/Malabarba/smart-mode-line"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

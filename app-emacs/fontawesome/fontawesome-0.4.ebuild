@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fontawesome utility"
 
-HOMEPAGE="https://github.com/syohex/emacs-fontawesome"
+HOMEPAGE="https://github.com/emacsorphanage/fontawesome"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

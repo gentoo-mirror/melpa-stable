@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Command line search and direct jump with Milkode"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://github.com/ongaeshi/emacs-milkode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

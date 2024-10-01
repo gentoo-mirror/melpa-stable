@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="The GitHub Dark Theme from Visual Studio Code"
 
-HOMEPAGE="https://github.com/justintime50/github-dark-vscode-emacs-theme"
+HOMEPAGE="https://github.com/Justintime50/github-dark-vscode-emacs-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

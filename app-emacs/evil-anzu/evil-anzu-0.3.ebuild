@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Anzu for evil-mode"
 
-HOMEPAGE="https://github.com/syohex/emacs-evil-anzu"
+HOMEPAGE="https://github.com/emacsorphanage/evil-anzu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

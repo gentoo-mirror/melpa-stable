@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Shut up would you!"
 
-HOMEPAGE="http://github.com/rejeep/shut-up.el"
+HOMEPAGE="https://github.com/cask/shut-up"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Haskell functions from Prelude"
 
-HOMEPAGE="https://github.com/knupfer/haskell-emacs/modules/base"
+HOMEPAGE="https://github.com/knupfer/haskell-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

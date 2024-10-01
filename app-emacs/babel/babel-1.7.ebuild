@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interface to web translation services such as Babelfish"
 
-HOMEPAGE="http://github.com/juergenhoetzel/babel"
+HOMEPAGE="https://github.com/juergenhoetzel/babel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

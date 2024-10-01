@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-babel for base64 content"
 
-HOMEPAGE="https://github.com/keyweeusr/ob-base64"
+HOMEPAGE="https://github.com/KeyWeeUsr/ob-base64"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

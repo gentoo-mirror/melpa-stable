@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Build functions which contextually jump between files"
 
-HOMEPAGE="http://github.com/eschulte/jump.el"
+HOMEPAGE="https://github.com/eschulte/jump.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

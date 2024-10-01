@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Some paredit-like features for html-mode"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://github.com/magnars/tagedit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

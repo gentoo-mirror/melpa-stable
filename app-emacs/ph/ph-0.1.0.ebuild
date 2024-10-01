@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A global minor mode for managing multiple projects"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://github.com/gromnitsky/ph"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

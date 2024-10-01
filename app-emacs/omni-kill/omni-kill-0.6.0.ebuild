@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Kill all the things"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://github.com/AdrieanKhisbe/omni-kill.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

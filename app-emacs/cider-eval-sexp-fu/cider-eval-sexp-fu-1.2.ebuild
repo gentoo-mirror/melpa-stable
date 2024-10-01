@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Briefly highlights an evaluated sexp"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://github.com/clojure-emacs/cider-eval-sexp-fu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

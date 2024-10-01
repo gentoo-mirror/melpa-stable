@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Paste snippets from an org-mode file"
 
-HOMEPAGE="http://github.com/Kungsgeten/yankpad"
+HOMEPAGE="https://github.com/Kungsgeten/yankpad"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

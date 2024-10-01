@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Another incremental search & replace, compatible with \"multiple-cursors\""
 
-HOMEPAGE="http://hins11.yu-yake.com/"
+HOMEPAGE="https://github.com/zk-phi/phi-search"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

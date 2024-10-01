@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Replaces default fringe bitmaps with better looking ones"
 
-HOMEPAGE="http://github.com/specialbomb/emacs-modern-fringes"
+HOMEPAGE="https://github.com/SpecialBomb/emacs-modern-fringes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

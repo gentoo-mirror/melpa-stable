@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An evil way to edit Lisp symbolic expressions as trees"
 
-HOMEPAGE="https://github.com/countvajhula/symex.el"
+HOMEPAGE="https://github.com/drym-org/symex.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Library for sorting items by frequency and recency of access"
 
-HOMEPAGE="http://github.com/alphapapa/frecency.el"
+HOMEPAGE="https://github.com/alphapapa/frecency.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

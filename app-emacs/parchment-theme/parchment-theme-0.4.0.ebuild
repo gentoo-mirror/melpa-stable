@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Light theme inspired by Acme and Leuven"
 
-HOMEPAGE="https://github.com/ajgrf/parchment"
+HOMEPAGE="https://gitlab.com/ajgrf/parchment"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

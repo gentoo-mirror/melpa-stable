@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Rdefs with helm interface"
 
-HOMEPAGE="https://github.com/saidie/helm-rdefs"
+HOMEPAGE="https://github.com/saidie/emacs-helm-rdefs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

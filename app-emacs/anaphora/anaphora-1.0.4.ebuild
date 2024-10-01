@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Anaphoric macros providing implicit temp variables"
 
-HOMEPAGE="http://github.com/rolandwalker/anaphora"
+HOMEPAGE="https://github.com/rolandwalker/anaphora"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

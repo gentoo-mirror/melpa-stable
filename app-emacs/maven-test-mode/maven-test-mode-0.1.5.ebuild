@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Utilities for navigating test files and running maven test tasks"
 
-HOMEPAGE="http://github.com/rranelli/maven-test-mode"
+HOMEPAGE="https://github.com/rranelli/maven-test-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

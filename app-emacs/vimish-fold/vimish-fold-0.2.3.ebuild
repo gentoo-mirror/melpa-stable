@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fold text like in Vim"
 
-HOMEPAGE="https://github.com/mrkkrp/vimish-fold"
+HOMEPAGE="https://github.com/matsievskiysv/vimish-fold"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helps users and programs keep track of positions even after buffer changes"
 
-HOMEPAGE="http://github.com/rocky/emacs-loc-changes"
+HOMEPAGE="https://github.com/rocky/emacs-loc-changes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

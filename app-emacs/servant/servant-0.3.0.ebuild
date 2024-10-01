@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="ELPA server written in Emacs Lisp"
 
-HOMEPAGE="http://github.com/rejeep/servant.el"
+HOMEPAGE="https://github.com/cask/servant"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

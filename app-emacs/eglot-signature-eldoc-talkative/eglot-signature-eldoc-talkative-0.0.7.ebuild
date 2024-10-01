@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Make Eglot make ElDoc echo docs"
 
-HOMEPAGE="https://codeberg.org/mekeor/emacs-eglot-signature-eldoc-talkative"
+HOMEPAGE="https://codeberg.org/mekeor/eglot-signature-eldoc-talkative"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

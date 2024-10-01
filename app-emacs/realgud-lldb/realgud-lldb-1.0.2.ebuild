@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Realgud front-end to lldb"
 
-HOMEPAGE="http://github.com/realgud/realgud-lldb"
+HOMEPAGE="https://github.com/realgud/realgud-lldb"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

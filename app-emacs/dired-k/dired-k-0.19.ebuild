@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Highlight dired buffer by file size, modified time, git status"
 
-HOMEPAGE="https://github.com/syohex/emacs-dired-k"
+HOMEPAGE="https://github.com/emacsorphanage/dired-k"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

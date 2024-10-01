@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Ruby files"
 
-HOMEPAGE="http://github.com/zenspider/Enhanced-Ruby-Mode"
+HOMEPAGE="https://github.com/zenspider/enhanced-ruby-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

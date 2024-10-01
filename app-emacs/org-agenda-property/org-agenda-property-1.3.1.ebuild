@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display org properties in the agenda buffer"
 
-HOMEPAGE="http://github.com/Bruce-Connor/org-agenda-property"
+HOMEPAGE="https://github.com/Malabarba/org-agenda-property"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

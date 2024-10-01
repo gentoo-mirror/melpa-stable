@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Jump to recently used Org headings"
 
-HOMEPAGE="http://github.com/alphapapa/org-recent-headings"
+HOMEPAGE="https://github.com/alphapapa/org-recent-headings"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

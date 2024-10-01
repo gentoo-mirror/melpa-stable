@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Edit, visualize, build and run Faust code"
 
-HOMEPAGE="https://bitbucket.org/yassinphilip/faustine"
+HOMEPAGE="https://bitbucket.org/yphil/faustine"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

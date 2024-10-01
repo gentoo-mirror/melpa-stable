@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for purescript repl psci"
 
-HOMEPAGE="https://github.com/ardumont/emacs-psci"
+HOMEPAGE="https://github.com/purescript-emacs/emacs-psci"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run Mocha or Jasmine tests"
 
-HOMEPAGE="http://github.com/scottaj/mocha.el"
+HOMEPAGE="https://github.com/scottaj/mocha.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

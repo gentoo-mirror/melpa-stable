@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert terminology from Google top search results"
 
-HOMEPAGE="http://github.com/redguardtoo/fastdef"
+HOMEPAGE="https://github.com/redguardtoo/fastdef"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

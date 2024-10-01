@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interface for getting/posting/deleting pastes from paste.debian.net"
 
-HOMEPAGE="http://github.com/alezost/debpaste.el"
+HOMEPAGE="https://github.com/alezost/debpaste.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

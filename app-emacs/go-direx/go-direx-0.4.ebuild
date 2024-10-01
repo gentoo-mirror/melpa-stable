@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tree style source code viewer for Go language"
 
-HOMEPAGE="https://github.com/syohex/emacs-go-direx"
+HOMEPAGE="https://github.com/emacsorphanage/go-direx"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

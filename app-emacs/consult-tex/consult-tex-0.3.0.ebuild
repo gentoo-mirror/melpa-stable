@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Consult powered completion for tex"
 
-HOMEPAGE="https://gitlab.com/titus.pinta/consult-TeX"
+HOMEPAGE="https://gitlab.com/titus.pinta/consult-tex"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

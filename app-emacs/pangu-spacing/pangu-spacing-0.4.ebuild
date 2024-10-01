@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor-mode to add space between Chinese and English characters"
 
-HOMEPAGE="http://github.com/coldnew/pangu-spacing"
+HOMEPAGE="https://github.com/coldnew/pangu-spacing"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

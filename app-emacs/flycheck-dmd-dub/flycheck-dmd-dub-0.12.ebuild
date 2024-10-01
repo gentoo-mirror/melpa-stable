@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sets flycheck-dmd-include-paths from dub package information"
 
-HOMEPAGE="http://github.com/atilaneves/flycheck-dmd-dub"
+HOMEPAGE="https://github.com/atilaneves/flycheck-dmd-dub"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

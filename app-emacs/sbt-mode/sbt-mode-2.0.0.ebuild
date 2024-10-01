@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interactive support for sbt projects"
 
-HOMEPAGE="https://github.com/ensime/emacs-sbt-mode"
+HOMEPAGE="https://github.com/hvesalai/emacs-sbt-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Bash completion for the shell buffer"
 
-HOMEPAGE="http://github.com/szermatt/emacs-bash-completion"
+HOMEPAGE="https://github.com/szermatt/emacs-bash-completion"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

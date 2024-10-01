@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A BibTeX database manager"
 
-HOMEPAGE="http://joostkremers.github.io/ebib/"
+HOMEPAGE="https://github.com/joostkremers/ebib"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

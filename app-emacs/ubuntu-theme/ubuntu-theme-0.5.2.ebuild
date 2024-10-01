@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A theme inspired by the default terminal colors in Ubuntu"
 
-HOMEPAGE="http://github.com/rocher/ubuntu-theme"
+HOMEPAGE="https://github.com/rocher/ubuntu-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Extends visual-regexp to support other regexp engines"
 
-HOMEPAGE="https://github.com/benma/visual-regexp-steroids.el/"
+HOMEPAGE="https://github.com/benma/visual-regexp-steroids.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Lsp client plugin for Python Jedi Language Server"
 
-HOMEPAGE="http://github.com/fredcamps/lsp-jedi"
+HOMEPAGE="https://github.com/fredcamps/lsp-jedi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

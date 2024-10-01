@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Edit Sass without a Turing Machine"
 
-HOMEPAGE="http://github.com/AdamNiederer/ssass-mode"
+HOMEPAGE="https://github.com/AdamNiederer/ssass-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helpers for computing deltas between sequences"
 
-HOMEPAGE="http://github.com/dieggsy/difflib.el"
+HOMEPAGE="https://github.com/dieggsy/difflib.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

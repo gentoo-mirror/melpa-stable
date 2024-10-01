@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Eldoc support for stan functions"
 
-HOMEPAGE="https://github.com/stan-dev/stan-mode/tree/master/eldoc-stan"
+HOMEPAGE="https://github.com/stan-dev/stan-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

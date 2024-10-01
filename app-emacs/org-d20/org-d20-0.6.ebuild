@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for d20 tabletop roleplaying games"
 
-HOMEPAGE="https://spwhitton.name/tech/code/org-d20/"
+HOMEPAGE="https://git.spwhitton.name/org-d20"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

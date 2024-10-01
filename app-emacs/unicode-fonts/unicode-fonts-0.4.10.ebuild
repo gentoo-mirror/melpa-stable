@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Configure Unicode fonts"
 
-HOMEPAGE="http://github.com/rolandwalker/unicode-fonts"
+HOMEPAGE="https://github.com/rolandwalker/unicode-fonts"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

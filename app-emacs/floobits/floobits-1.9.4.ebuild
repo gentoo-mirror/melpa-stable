@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Floobits plugin for real-time collaborative editing"
 
-HOMEPAGE="http://github.com/Floobits/floobits-emacs"
+HOMEPAGE="https://github.com/Floobits/floobits-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Timestamp and date/time library"
 
-HOMEPAGE="http://github.com/alphapapa/ts.el"
+HOMEPAGE="https://github.com/alphapapa/ts.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

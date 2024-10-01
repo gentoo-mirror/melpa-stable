@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show vertical line (column highlighting) mode"
 
-HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/vline.el"
+HOMEPAGE="https://github.com/buzztaiki/vline"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

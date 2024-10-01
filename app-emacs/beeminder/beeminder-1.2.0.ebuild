@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs interface for Beeminder"
 
-HOMEPAGE="http://www.philnewton.net/code/beeminder-el/"
+HOMEPAGE="https://github.com/Sodaware/beeminder.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

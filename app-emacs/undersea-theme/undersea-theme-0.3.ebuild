@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Theme styled after undersea imagery"
 
-HOMEPAGE="https://github.com/jcs-elpa/undersea-theme"
+HOMEPAGE="https://github.com/jcs-legacy/undersea-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

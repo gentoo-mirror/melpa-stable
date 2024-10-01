@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Manage external services"
 
-HOMEPAGE="http://github.com/rejeep/prodigy.el"
+HOMEPAGE="https://github.com/rejeep/prodigy.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

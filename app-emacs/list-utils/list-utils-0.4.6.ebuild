@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="List-manipulation utility functions"
 
-HOMEPAGE="http://github.com/rolandwalker/list-utils"
+HOMEPAGE="https://github.com/rolandwalker/list-utils"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

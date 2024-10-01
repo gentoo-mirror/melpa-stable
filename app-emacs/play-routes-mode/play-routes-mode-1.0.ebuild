@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Play Framework Routes File Support"
 
-HOMEPAGE="https://github.com/brocode/play-routes-mode/"
+HOMEPAGE="https://github.com/brocode/play-routes-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

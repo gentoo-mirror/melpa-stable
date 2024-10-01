@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display wttr(weather) in the mode line"
 
-HOMEPAGE="https://github.com/josegpt/display-wttr"
+HOMEPAGE="https://git.sr.ht/~josegpt/display-wttr"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

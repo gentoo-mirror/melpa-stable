@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs modes for debian packaging"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://salsa.debian.org/emacsen-team/dpkg-dev-el.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

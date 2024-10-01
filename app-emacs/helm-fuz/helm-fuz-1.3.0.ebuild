@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Integrate Helm and Fuz"
 
-HOMEPAGE="https://github.com/cireu/fuz.el"
+HOMEPAGE="https://github.com/rustify-emacs/fuz.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

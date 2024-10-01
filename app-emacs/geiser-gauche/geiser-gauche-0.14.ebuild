@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="[No description available]"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://gitlab.com/emacs-geiser/gauche"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-style comment editing"
 
-HOMEPAGE="https://github.com/tj64/outorg"
+HOMEPAGE="https://github.com/alphapapa/outorg"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

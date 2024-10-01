@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Hungry delete minor mode"
 
-HOMEPAGE="http://github.com/nflath/hungry-delete"
+HOMEPAGE="https://github.com/nflath/hungry-delete"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

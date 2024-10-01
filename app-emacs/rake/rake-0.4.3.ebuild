@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run rake commands"
 
-HOMEPAGE="https://github.com/asok/rake.el"
+HOMEPAGE="https://github.com/asok/rake"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

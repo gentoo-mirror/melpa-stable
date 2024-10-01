@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Shell command editing support with man page"
 
-HOMEPAGE="http://github.com/mhayashi1120/Emacs-shelldoc"
+HOMEPAGE="https://github.com/mhayashi1120/Emacs-shelldoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

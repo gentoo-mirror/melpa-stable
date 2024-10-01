@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Improved JavaScript editing mode"
 
-HOMEPAGE="https://github.com/mooz/js2-mode/"
+HOMEPAGE="https://github.com/mooz/js2-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

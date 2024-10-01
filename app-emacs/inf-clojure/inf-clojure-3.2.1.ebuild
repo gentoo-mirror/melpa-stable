@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run an external Clojure process in an Emacs buffer"
 
-HOMEPAGE="http://github.com/clojure-emacs/inf-clojure"
+HOMEPAGE="https://github.com/clojure-emacs/inf-clojure"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

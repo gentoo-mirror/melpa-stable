@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Evil keybindings for org-mode"
 
-HOMEPAGE="https://github.com/Somelauw/evil-org-mode.git"
+HOMEPAGE="https://github.com/Somelauw/evil-org-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

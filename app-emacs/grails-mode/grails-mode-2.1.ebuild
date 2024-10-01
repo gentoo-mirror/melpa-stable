@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor-mode that adds some Grails project management to a grails project"
 
-HOMEPAGE="http://blog.wolfman.com"
+HOMEPAGE="https://github.com/Groovy-Emacs-Modes/groovy-emacs-modes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

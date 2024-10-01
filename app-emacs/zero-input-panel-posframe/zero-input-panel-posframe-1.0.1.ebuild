@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Posframe based zero-input panel implementation"
 
-HOMEPAGE="https://gitlab.emacsos.com/sylecn/zero-el"
+HOMEPAGE="https://gitlab.emacsos.com/sylecn/zero-input-panel-posframe.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

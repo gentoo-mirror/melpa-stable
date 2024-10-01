@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Gnus Desktop Notification global minor mode"
 
-HOMEPAGE="http://www.thregr.org/~wavexx/hacks/gnus-desktop-notify/"
+HOMEPAGE="https://gitlab.com/wavexx/gnus-desktop-notify.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

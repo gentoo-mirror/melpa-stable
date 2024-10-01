@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Reformat python buffers using the \"black\" formatter"
 
-HOMEPAGE="https://github.com/proofit404/blacken"
+HOMEPAGE="https://github.com/pythonic-emacs/blacken"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

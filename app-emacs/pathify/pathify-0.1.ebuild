@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Symlink your scripts into a PATH directory"
 
-HOMEPAGE="https://gitlab.com/alezost-emacs/pathify"
+HOMEPAGE="https://github.com/alezost/pathify.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

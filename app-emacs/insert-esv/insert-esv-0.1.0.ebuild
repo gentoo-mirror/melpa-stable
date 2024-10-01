@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert ESV Bible passages"
 
-HOMEPAGE="https://github.com/sam030820/insert-esv/"
+HOMEPAGE="https://github.com/sam030820/insert-esv"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

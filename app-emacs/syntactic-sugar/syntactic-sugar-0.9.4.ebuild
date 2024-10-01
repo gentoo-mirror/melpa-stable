@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Effect-free forms such as if/then/else"
 
-HOMEPAGE="http://github.com/rolandwalker/syntactic-sugar"
+HOMEPAGE="https://github.com/rolandwalker/syntactic-sugar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

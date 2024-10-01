@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A friendly gopher and gemini client"
 
-HOMEPAGE="https://thelambdalab.xyz/elpher"
+HOMEPAGE="https://thelambdalab.xyz/git/elpher.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

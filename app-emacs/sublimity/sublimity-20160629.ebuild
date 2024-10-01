@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Smooth-scrolling, minimap and distraction-free mode"
 
-HOMEPAGE="http://hins11.yu-yake.com/"
+HOMEPAGE="https://github.com/zk-phi/sublimity"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

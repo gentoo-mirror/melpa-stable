@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Integrates GPaste with the kill-ring"
 
-HOMEPAGE="https://gitlab.petton.fr/DamienCassou/desktop-environment"
+HOMEPAGE="https://github.com/DamienCassou/gpastel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

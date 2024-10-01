@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A Theme with overwhelming bias towards cyan"
 
-HOMEPAGE="http://github.com/emacsfodder/emacs-theme-cyanometric"
+HOMEPAGE="https://github.com/emacsfodder/emacs-theme-cyanometric"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

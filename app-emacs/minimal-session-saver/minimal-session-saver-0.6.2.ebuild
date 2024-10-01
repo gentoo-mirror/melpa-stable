@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Very lean session saver"
 
-HOMEPAGE="http://github.com/rolandwalker/minimal-session-saver"
+HOMEPAGE="https://github.com/rolandwalker/minimal-session-saver"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

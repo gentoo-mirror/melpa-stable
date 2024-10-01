@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Theme-switching based on daytime"
 
-HOMEPAGE="https://github.com/GuidoSchmidt/circadian"
+HOMEPAGE="https://github.com/guidoschmidt/circadian.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

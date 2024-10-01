@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show lsp information with sideline"
 
-HOMEPAGE="https://github.com/jcs-elpa/sideline-lsp"
+HOMEPAGE="https://github.com/emacs-sideline/sideline-lsp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

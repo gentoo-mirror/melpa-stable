@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Lingr Client for GNU Emacs"
 
-HOMEPAGE="http://github.com/lugecy/lingr-el"
+HOMEPAGE="https://github.com/lugecy/lingr-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Clone repositories by searching github"
 
-HOMEPAGE="https://github.com/IvanMalison/github-search"
+HOMEPAGE="https://github.com/colonelpanic8/github-search"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

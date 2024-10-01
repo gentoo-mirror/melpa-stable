@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Making flymake work with PHP CodeSniffer"
 
-HOMEPAGE="https://github.com/senda-akiha/flymake-phpcs/"
+HOMEPAGE="https://github.com/flymake/flymake-phpcs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

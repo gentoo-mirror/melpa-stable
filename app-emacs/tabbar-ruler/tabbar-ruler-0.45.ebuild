@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pretty tabbar, autohide, use both tabbar/ruler"
 
-HOMEPAGE="http://github.com/mlf176f2/tabbar-ruler.el"
+HOMEPAGE="https://github.com/mattfidler/tabbar-ruler.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

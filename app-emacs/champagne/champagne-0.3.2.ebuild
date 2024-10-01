@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Graphical countdowns"
 
-HOMEPAGE="http://github.com/positron-solutions/champagne"
+HOMEPAGE="https://github.com/positron-solutions/champagne"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

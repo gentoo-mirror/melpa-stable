@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Straight from the soda fountain"
 
-HOMEPAGE="http://github.com/emacsfodder/emacs-theme-creamsody"
+HOMEPAGE="https://github.com/emacsfodder/emacs-theme-creamsody"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

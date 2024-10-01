@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Wraps a chunk of HTML code in tags"
 
-HOMEPAGE="https://github.com/jcs-elpa/htmltagwrap"
+HOMEPAGE="https://github.com/emacs-vs/htmltagwrap"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

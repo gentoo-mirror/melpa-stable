@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="LSP helm integration"
 
-HOMEPAGE="https://github.com/yyoncho/helm-lsp"
+HOMEPAGE="https://github.com/emacs-lsp/helm-lsp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

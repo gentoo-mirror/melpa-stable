@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="ERC nick highlighter that ignores uniquifying chars when colorizing"
 
-HOMEPAGE="http://www.github.com/leathekd/erc-hl-nicks"
+HOMEPAGE="https://github.com/leathekd/erc-hl-nicks"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

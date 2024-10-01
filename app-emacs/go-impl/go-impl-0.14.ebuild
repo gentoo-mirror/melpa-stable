@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Impl integration for go-mode"
 
-HOMEPAGE="https://github.com/syohex/emacs-go-impl"
+HOMEPAGE="https://github.com/emacsorphanage/go-impl"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

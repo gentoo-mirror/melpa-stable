@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Edit string literals in a dedicated buffer"
 
-HOMEPAGE="https://github.com/joodie/literal-string-mode/"
+HOMEPAGE="https://github.com/joodie/literal-string-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

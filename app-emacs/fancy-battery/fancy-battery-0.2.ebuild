@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fancy battery display"
 
-HOMEPAGE="https://github.com/lunaryorn/fancy-battery.el"
+HOMEPAGE="https://github.com/emacsorphanage/fancy-battery"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

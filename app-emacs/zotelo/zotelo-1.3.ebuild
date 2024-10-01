@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Manage Zotero collections from emacs"
 
-HOMEPAGE="https://github.com/vitoshka/zotelo"
+HOMEPAGE="https://github.com/vspinu/zotelo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

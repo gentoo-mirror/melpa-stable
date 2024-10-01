@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ansible minor mode"
 
-HOMEPAGE="http://101000lab.org"
+HOMEPAGE="https://gitlab.com/emacs-ansible/emacs-ansible"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

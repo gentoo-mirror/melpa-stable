@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Bookmarking and web archival system for Org mode"
 
-HOMEPAGE="https://github.com/scallywag/org-board"
+HOMEPAGE="https://github.com/charlesroelli/org-board"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

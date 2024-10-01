@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Google Closure dependency manager"
 
-HOMEPAGE="http://github.com/jart/js2-closure"
+HOMEPAGE="https://github.com/jart/js2-closure"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

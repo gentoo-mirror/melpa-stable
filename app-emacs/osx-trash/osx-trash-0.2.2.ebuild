@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="System trash for OS X"
 
-HOMEPAGE="https://github.com/lunaryorn/osx-trash.el"
+HOMEPAGE="https://github.com/emacsorphanage/osx-trash"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

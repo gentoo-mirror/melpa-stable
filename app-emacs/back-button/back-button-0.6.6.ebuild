@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Visual navigation through mark rings"
 
-HOMEPAGE="http://github.com/rolandwalker/back-button"
+HOMEPAGE="https://github.com/rolandwalker/back-button"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

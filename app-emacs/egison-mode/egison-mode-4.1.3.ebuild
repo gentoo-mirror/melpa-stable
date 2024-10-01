@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Egison editing mode"
 
-HOMEPAGE="https://github.com/egisatoshi/egison3/blob/master/elisp/egison-mode.el"
+HOMEPAGE="https://github.com/egison/egison"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

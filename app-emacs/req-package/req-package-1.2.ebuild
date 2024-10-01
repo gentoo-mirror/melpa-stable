@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A use-package wrapper for package runtime dependencies management"
 
-HOMEPAGE="https://github.com/edvorg/req-package"
+HOMEPAGE="https://github.com/emacsorphanage/req-package"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

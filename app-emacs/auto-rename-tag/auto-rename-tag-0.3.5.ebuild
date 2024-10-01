@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatically rename paired HTML/XML tag"
 
-HOMEPAGE="https://github.com/jcs-elpa/auto-rename-tag"
+HOMEPAGE="https://github.com/emacs-vs/auto-rename-tag"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

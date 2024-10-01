@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Obsidian Notes interface"
 
-HOMEPAGE="https://github.com./licht1stein/obsidian.el"
+HOMEPAGE="https://github.com/licht1stein/obsidian.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

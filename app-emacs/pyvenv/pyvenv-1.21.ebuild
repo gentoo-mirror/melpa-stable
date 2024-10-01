@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Python virtual environment interface"
 
-HOMEPAGE="http://github.com/jorgenschaefer/pyvenv"
+HOMEPAGE="https://github.com/jorgenschaefer/pyvenv"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

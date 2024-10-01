@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Core of BBDB"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://git.savannah.nongnu.org/git/bbdb.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

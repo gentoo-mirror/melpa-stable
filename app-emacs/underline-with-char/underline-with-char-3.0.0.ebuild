@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Underline with a char"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://gitlab.com/marcowahl/underline-with-char"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

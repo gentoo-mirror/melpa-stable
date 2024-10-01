@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Export org-mode to Google I/O HTML5 slide"
 
-HOMEPAGE="http://github.com/coldnew/org-ioslide"
+HOMEPAGE="https://github.com/coldnew/org-ioslide"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="GNU Hyperbole: The Everyday Hypertextual Information Manager"
 
-HOMEPAGE="http://www.gnu.org/software/hyperbole"
+HOMEPAGE="https://git.savannah.gnu.org/git/hyperbole.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

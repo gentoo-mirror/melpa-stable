@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple major mode for editing Unison"
 
-HOMEPAGE="https://github.com/unison-mode-emacs"
+HOMEPAGE="https://github.com/dariooddenino/unison-mode-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

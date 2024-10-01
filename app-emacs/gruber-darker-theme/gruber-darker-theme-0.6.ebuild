@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Gruber Darker color theme for Emacs 24"
 
-HOMEPAGE="http://github.com/rexim/gruber-darker-theme"
+HOMEPAGE="https://github.com/rexim/gruber-darker-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

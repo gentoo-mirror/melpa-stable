@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for General Algebraic Modeling System (GAMS)"
 
-HOMEPAGE="http://shirotakeda.org/en/gams/gams-mode/"
+HOMEPAGE="https://github.com/ShiroTakeda/gams-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

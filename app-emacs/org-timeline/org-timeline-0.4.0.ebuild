@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add graphical view of agenda to agenda buffer"
 
-HOMEPAGE="https://github.com/Fuco1/org-timeline/"
+HOMEPAGE="https://github.com/Fuco1/org-timeline"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

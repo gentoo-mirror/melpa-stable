@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pop up last commit information of current line"
 
-HOMEPAGE="https://github.com/syohex/emacs-git-messenger"
+HOMEPAGE="https://github.com/emacsorphanage/git-messenger"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

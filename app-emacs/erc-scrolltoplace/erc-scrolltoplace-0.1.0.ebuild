@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An Erc module to scrolltobottom better with keep-place"
 
-HOMEPAGE="http://github.com/jgkamat/erc-scrolltoplace"
+HOMEPAGE="https://gitlab.com/jgkamat/erc-scrolltoplace"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

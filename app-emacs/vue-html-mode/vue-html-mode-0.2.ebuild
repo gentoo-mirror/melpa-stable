@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Vue.js templates"
 
-HOMEPAGE="http://github.com/AdamNiederer/vue-html-mode"
+HOMEPAGE="https://github.com/AdamNiederer/vue-html-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

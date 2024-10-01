@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Real support for JSX"
 
-HOMEPAGE="https://github.com/felipeochoa/rjsx-mode/"
+HOMEPAGE="https://github.com/felipeochoa/rjsx-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Subfigure for latex export"
 
-HOMEPAGE="http://github.com/linktohack/ox-latexty-subfigure"
+HOMEPAGE="https://github.com/linktohack/ox-latex-subfigure"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

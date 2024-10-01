@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Temporary Highlighting after Function Calls"
 
-HOMEPAGE="https://github.com/ernestvanderlinden/emacs-afterglow"
+HOMEPAGE="https://github.com/ernstvanderlinden/emacs-afterglow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Kind of M-x rgrep adapted for Org mode"
 
-HOMEPAGE="https://sr.ht/~minshall/org-grep/"
+HOMEPAGE="https://git.sr.ht/~minshall/org-grep"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

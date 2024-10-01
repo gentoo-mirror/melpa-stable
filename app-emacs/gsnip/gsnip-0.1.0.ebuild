@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A gitlab snippet client"
 
-HOMEPAGE="https://github.com/kaiwk/gitlab-snippet"
+HOMEPAGE="https://github.com/kaiwk/gsnip"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

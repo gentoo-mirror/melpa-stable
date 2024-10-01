@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major modes for editing Angular 2"
 
-HOMEPAGE="http://github.com/AdamNiederer/ng2-mode"
+HOMEPAGE="https://github.com/AdamNiederer/ng2-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

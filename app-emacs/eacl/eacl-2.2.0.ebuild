@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Auto-complete lines by grepping project"
 
-HOMEPAGE="http://github.com/redguardtoo/eacl"
+HOMEPAGE="https://github.com/redguardtoo/eacl"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

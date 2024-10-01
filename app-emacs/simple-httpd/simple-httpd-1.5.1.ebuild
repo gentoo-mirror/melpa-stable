@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pure elisp HTTP server"
 
-HOMEPAGE="https://github.com/skeeto/emacs-http-server"
+HOMEPAGE="https://github.com/skeeto/emacs-web-server"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

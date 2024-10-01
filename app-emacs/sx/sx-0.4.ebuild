@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="StackExchange client. Ask and answer questions on Stack Overflow, Super User, and the likes"
 
-HOMEPAGE="https://github.com/vermiculus/sx.el/"
+HOMEPAGE="https://github.com/vermiculus/sx.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

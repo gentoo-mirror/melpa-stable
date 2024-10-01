@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Vim matchit ported to Evil"
 
-HOMEPAGE="http://github.com/redguardtoo/evil-matchit"
+HOMEPAGE="https://github.com/redguardtoo/evil-matchit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

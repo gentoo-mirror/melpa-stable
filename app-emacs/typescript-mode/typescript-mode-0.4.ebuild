@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing typescript"
 
-HOMEPAGE="http://github.com/ananthakumaran/typescript.el"
+HOMEPAGE="https://github.com/emacs-typescript/typescript.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

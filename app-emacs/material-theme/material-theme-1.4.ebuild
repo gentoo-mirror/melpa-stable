@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A Theme based on the colors of the Google Material Design"
 
-HOMEPAGE="http://github.com/cpaulik/emacs-material-theme"
+HOMEPAGE="https://github.com/cpaulik/emacs-material-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

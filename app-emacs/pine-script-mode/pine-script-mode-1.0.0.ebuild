@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Trading View Pine Script major mode"
 
-HOMEPAGE="https://github.com/ericcrosson/pine-script-mode"
+HOMEPAGE="https://github.com/EricCrosson/pine-script-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Feed summary interface for elfeed"
 
-HOMEPAGE="https://github.com/SqrtMinusOne/elfeed-summary.el"
+HOMEPAGE="https://github.com/SqrtMinusOne/elfeed-summary"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

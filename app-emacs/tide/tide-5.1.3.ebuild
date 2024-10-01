@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Typescript Interactive Development Environment"
 
-HOMEPAGE="http://github.com/ananthakumaran/tide"
+HOMEPAGE="https://github.com/ananthakumaran/tide"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

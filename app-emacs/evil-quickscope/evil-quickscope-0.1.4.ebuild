@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Highlight unique characters in words for f,F,t,T navigation"
 
-HOMEPAGE="http://github.com/blorbx/evil-quickscope"
+HOMEPAGE="https://github.com/blorbx/evil-quickscope"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

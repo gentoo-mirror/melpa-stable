@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Alternatives to \`message'"
 
-HOMEPAGE="http://github.com/rolandwalker/express"
+HOMEPAGE="https://github.com/rolandwalker/express"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Init directory instead of just a single file"
 
-HOMEPAGE="http://github.com/chaosemer/init-dir"
+HOMEPAGE="https://github.com/chaosemer/init-dir"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

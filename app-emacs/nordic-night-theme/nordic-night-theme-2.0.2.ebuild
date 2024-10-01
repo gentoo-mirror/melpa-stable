@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A darker, more colorful version of the lovely Nord theme"
 
-HOMEPAGE="https://sr.ht/~ashton314/nordic-night/"
+HOMEPAGE="https://codeberg.org/ashton314/nordic-night"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

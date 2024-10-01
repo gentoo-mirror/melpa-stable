@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A simple major mode for the musical programming language Alda"
 
-HOMEPAGE="http://github.com/jgkamat/alda-mode"
+HOMEPAGE="https://gitlab.com/jgkamat/alda-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

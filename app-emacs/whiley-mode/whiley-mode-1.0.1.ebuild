@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Whiley language"
 
-HOMEPAGE="http://github.com/Whiley/WhileyEmacsMode"
+HOMEPAGE="https://github.com/Whiley/WhileyEmacsMode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

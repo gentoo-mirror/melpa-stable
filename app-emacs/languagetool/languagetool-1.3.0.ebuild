@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="LanguageTool integration for grammar and spell check"
 
-HOMEPAGE="https://github.com/PillFall/Emacs-LanguageTool.el"
+HOMEPAGE="https://github.com/PillFall/languagetool.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

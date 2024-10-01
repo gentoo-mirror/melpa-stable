@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mode for the dot-language used by graphviz (att)"
 
-HOMEPAGE="https://ppareit.github.io/graphviz-dot-mode/"
+HOMEPAGE="https://github.com/ppareit/graphviz-dot-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

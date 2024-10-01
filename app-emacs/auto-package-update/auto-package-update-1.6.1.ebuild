@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatically update Emacs packages"
 
-HOMEPAGE="http://github.com/rranelli/auto-package-update.el"
+HOMEPAGE="https://github.com/rranelli/auto-package-update.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

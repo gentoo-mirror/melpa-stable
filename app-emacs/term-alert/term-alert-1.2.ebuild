@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Notifications when commands complete in term.el"
 
-HOMEPAGE="https://github.com/CallumCameron/term-alert"
+HOMEPAGE="https://github.com/calliecameron/term-alert"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Order Salads from sweetgreen.com"
 
-HOMEPAGE="https://www.github.com/CestDiego/sweetgreen.el"
+HOMEPAGE="https://github.com/CestDiego/sweetgreen.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

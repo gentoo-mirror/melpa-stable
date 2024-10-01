@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing jsonnet files"
 
-HOMEPAGE="https://github.com/mgyucht/jsonnet-mode"
+HOMEPAGE="https://github.com/tminor/jsonnet-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

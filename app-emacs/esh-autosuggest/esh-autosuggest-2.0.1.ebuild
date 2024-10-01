@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="History autosuggestions for eshell"
 
-HOMEPAGE="http://github.com/dieggsy/esh-autosuggest"
+HOMEPAGE="https://github.com/dieggsy/esh-autosuggest"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

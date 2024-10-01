@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Live Coding in Python"
 
-HOMEPAGE="http://donkirkby.github.io/live-py-plugin/"
+HOMEPAGE="https://github.com/donkirkby/live-py-plugin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

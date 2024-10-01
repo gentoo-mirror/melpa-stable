@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Modern API for working with files and directories"
 
-HOMEPAGE="http://github.com/rejeep/f.el"
+HOMEPAGE="https://github.com/rejeep/f.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

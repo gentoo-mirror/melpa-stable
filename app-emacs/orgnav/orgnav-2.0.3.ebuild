@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org tree navigation using helm"
 
-HOMEPAGE="http://github.com/facetframer/orgnav"
+HOMEPAGE="https://github.com/facetframer/orgnav"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

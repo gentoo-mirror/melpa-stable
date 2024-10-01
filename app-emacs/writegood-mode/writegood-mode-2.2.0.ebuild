@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Polish up poor writing on the fly"
 
-HOMEPAGE="http://github.com/bnbeckwith/writegood-mode"
+HOMEPAGE="https://github.com/bnbeckwith/writegood-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

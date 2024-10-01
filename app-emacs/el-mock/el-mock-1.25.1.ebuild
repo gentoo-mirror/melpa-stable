@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tiny Mock and Stub framework in Emacs Lisp"
 
-HOMEPAGE="http://github.com/rejeep/el-mock.el"
+HOMEPAGE="https://github.com/rejeep/el-mock.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

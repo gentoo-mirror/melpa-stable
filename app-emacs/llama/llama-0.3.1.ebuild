@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Compact syntax for short lambda"
 
-HOMEPAGE="https://git.sr.ht/~tarsius/llama"
+HOMEPAGE="https://github.com/tarsius/llama"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

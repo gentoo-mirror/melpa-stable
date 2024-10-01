@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Realgud front-end to the Ruby pry debugger"
 
-HOMEPAGE="http://github.com/rocky/realgud-pry"
+HOMEPAGE="https://github.com/realgud/realgud-pry"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

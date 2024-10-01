@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="[No description available]"
 
-HOMEPAGE="http://www.neilvandyke.org/revbufs/"
+HOMEPAGE="https://github.com/tychoish/revbufs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

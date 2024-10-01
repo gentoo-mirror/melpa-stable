@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Elixir tooling integration into Emacs"
 
-HOMEPAGE="http://www.github.com/tonini/alchemist.el"
+HOMEPAGE="https://github.com/tonini/alchemist.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

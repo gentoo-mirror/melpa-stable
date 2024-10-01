@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Go REPL Interactive Development in top of Gore"
 
-HOMEPAGE="http://www.github.com/manute/gorepl-mode"
+HOMEPAGE="https://github.com/manute/gorepl-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

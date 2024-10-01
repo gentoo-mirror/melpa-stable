@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs Version Manager"
 
-HOMEPAGE="http://github.com/rejeep/evm"
+HOMEPAGE="https://github.com/rejeep/evm.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

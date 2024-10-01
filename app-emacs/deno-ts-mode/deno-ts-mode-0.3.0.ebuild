@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Deno"
 
-HOMEPAGE="https://git.sr.ht/~mgmarlow/deno-ts-mode"
+HOMEPAGE="https://github.com/mgmarlow/deno-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Highlight a sentence based on customizable face"
 
-HOMEPAGE="http://github.com/milkypostman/hl-sentence"
+HOMEPAGE="https://github.com/milkypostman/hl-sentence"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

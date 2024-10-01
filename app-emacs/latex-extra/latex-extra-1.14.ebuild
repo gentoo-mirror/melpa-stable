@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Adds several useful functionalities to LaTeX-mode"
 
-HOMEPAGE="http://github.com/Malabarba/latex-extra"
+HOMEPAGE="https://github.com/Malabarba/latex-extra"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

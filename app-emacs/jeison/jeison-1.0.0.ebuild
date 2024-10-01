@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A library for declarative JSON parsing"
 
-HOMEPAGE="http://github.com/SavchenkoValeriy/jeison"
+HOMEPAGE="https://github.com/SavchenkoValeriy/jeison"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

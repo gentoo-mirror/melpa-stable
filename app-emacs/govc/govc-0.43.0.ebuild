@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interface to govc for managing VMware ESXi and vCenter"
 
-HOMEPAGE="https://github.com/vmware/govmomi/tree/main/govc/emacs"
+HOMEPAGE="https://github.com/vmware/govmomi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

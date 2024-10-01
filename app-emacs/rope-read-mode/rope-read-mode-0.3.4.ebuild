@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Rearrange lines to read text smoothly"
 
-HOMEPAGE="https://github.com/marcowahl/rope-read-mode"
+HOMEPAGE="https://gitlab.com/marcowahl/rope-read-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

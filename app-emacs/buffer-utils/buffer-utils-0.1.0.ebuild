@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Buffer-manipulation utility functions"
 
-HOMEPAGE="http://github.com/rolandwalker/buffer-utils"
+HOMEPAGE="https://github.com/rolandwalker/buffer-utils"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

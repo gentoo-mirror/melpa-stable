@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Scrape YouTube - Play with mpv & Download with yt-dlp |"
 
-HOMEPAGE="https://thanosapollo.org/projects/yeetube/"
+HOMEPAGE="https://git.thanosapollo.org/yeetube"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

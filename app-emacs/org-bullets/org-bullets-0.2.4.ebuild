@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show bullets in org-mode as UTF-8 characters"
 
-HOMEPAGE="https://github.com/sabof/org-bullets"
+HOMEPAGE="https://github.com/integral-dw/org-bullets"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

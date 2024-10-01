@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Query html document with css selectors"
 
-HOMEPAGE="http://github.com/zweifisch/enlive"
+HOMEPAGE="https://github.com/zweifisch/enlive"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

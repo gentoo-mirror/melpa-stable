@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs Lisp Information System Assistant"
 
-HOMEPAGE="http://github.com/s-kostyaev/elisa"
+HOMEPAGE="https://github.com/s-kostyaev/elisa"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

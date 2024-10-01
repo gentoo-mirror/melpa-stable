@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for ZenScript"
 
-HOMEPAGE="https://github.com/eutropius225/zenscript-mode"
+HOMEPAGE="https://github.com/eutro/zenscript-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

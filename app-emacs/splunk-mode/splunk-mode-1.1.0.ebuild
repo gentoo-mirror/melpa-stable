@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major Mode for editing Splunk SPL source code"
 
-HOMEPAGE="https://github.com/jakewilliami/splunk-mode/"
+HOMEPAGE="https://github.com/jakewilliami/splunk-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

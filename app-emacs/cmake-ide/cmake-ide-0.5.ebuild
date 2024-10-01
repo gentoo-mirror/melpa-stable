@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Calls CMake to find out include paths and other compiler flags"
 
-HOMEPAGE="http://github.com/atilaneves/cmake-ide"
+HOMEPAGE="https://github.com/atilaneves/cmake-ide"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

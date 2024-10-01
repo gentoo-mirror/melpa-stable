@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for Cacoo : http://cacoo.com"
 
-HOMEPAGE="https://github.com/kiwanami/emacs-cacoo/"
+HOMEPAGE="https://github.com/kiwanami/emacs-cacoo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

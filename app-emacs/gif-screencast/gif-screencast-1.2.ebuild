@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="One-frame-per-action GIF recording"
 
-HOMEPAGE="https://gitlab.com/ambrevar/emacs-gif-screencast"
+HOMEPAGE="https://gitlab.com/Ambrevar/emacs-gif-screencast"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

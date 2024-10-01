@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Haskell functions from Data.Text"
 
-HOMEPAGE="https://github.com/knupfer/haskell-emacs/modules/text"
+HOMEPAGE="https://github.com/knupfer/haskell-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

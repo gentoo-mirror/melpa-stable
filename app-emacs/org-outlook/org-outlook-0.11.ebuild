@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Outlook org"
 
-HOMEPAGE="https://github.com/mlf176f2/org-outlook.el"
+HOMEPAGE="https://github.com/mattfidler/org-outlook.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

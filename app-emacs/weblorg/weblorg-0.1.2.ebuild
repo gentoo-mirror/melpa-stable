@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Static Site Generator for org-mode"
 
-HOMEPAGE="https://emacs.love/weblorg"
+HOMEPAGE="https://github.com/emacs-love/weblorg"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

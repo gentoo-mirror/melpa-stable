@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for terraform configuration file"
 
-HOMEPAGE="https://github.com/syohex/emacs-terraform-mode"
+HOMEPAGE="https://github.com/hcl-emacs/terraform-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

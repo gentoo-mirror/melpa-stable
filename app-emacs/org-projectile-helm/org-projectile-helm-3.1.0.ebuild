@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm functions for org-projectile"
 
-HOMEPAGE="https://github.com/IvanMalison/org-projectile"
+HOMEPAGE="https://github.com/colonelpanic8/org-project-capture"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

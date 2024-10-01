@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Smart multi-purpose home / end keys"
 
-HOMEPAGE="https://www.github.com/Boruch_Baum/emacs-home-end"
+HOMEPAGE="https://github.com/Boruch-Baum/emacs-home-end"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

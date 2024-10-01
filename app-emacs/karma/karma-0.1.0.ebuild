@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Karma Test Runner Emacs Integration"
 
-HOMEPAGE="http://github.com/tonini/karma.el"
+HOMEPAGE="https://github.com/tonini/karma.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="NSIS-mode"
 
-HOMEPAGE="http://github.com/mlf176f2/nsis-mode"
+HOMEPAGE="https://github.com/mattfidler/nsis-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

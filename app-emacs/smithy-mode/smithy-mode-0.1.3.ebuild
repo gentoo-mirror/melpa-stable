@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Smithy IDL files"
 
-HOMEPAGE="http://github.com/mnemitz/smithy-mode"
+HOMEPAGE="https://github.com/mnemitz/smithy-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

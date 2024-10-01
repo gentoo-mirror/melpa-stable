@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Dart support lsp-mode"
 
-HOMEPAGE="https://emacs-lsp.github.io/lsp-dart"
+HOMEPAGE="https://github.com/emacs-lsp/lsp-dart"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Java Development Environment for Emacs"
 
-HOMEPAGE="http://github.com/jdee-emacs/jdee"
+HOMEPAGE="https://github.com/jdee-emacs/jdee"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

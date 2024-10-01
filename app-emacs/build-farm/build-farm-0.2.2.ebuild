@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interface for Nix and Guix build farms (Hydra and Cuirass)"
 
-HOMEPAGE="https://gitlab.com/alezost-emacs/build-farm"
+HOMEPAGE="https://github.com/alezost/build-farm.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

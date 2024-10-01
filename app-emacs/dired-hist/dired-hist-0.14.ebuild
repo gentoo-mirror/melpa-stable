@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Traverse Dired buffer's history: back, forward"
 
-HOMEPAGE="https://codeberg.org/Anoncheg/dired-hist"
+HOMEPAGE="https://github.com/Anoncheg1/dired-hist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

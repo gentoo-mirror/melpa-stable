@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Create local package repository from installed packages"
 
-HOMEPAGE="http://github.com/redguardtoo/elpa-mirror"
+HOMEPAGE="https://github.com/redguardtoo/elpa-mirror"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

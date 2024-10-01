@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Color editing goodies"
 
-HOMEPAGE="https://github.com/emacsfodder/kurecolor.el"
+HOMEPAGE="https://github.com/emacsfodder/kurecolor"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

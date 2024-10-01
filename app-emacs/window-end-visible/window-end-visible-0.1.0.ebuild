@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Find the last visible point in a window"
 
-HOMEPAGE="http://github.com/rolandwalker/window-end-visible"
+HOMEPAGE="https://github.com/rolandwalker/window-end-visible"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

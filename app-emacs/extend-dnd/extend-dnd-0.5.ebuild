@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="R drag and Drop"
 
-HOMEPAGE="https://github.com/mlf176f2/extend-dnd"
+HOMEPAGE="https://github.com/mattfidler/extend-dnd"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

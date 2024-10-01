@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Dart files"
 
-HOMEPAGE="https://github.com/bradyt/dart-mode"
+HOMEPAGE="https://github.com/emacsorphanage/dart-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

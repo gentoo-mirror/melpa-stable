@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Evil extensions for Org"
 
-HOMEPAGE="https://github.com/guiltydolphin/org-evil"
+HOMEPAGE="https://github.com/GuiltyDolphin/org-evil"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

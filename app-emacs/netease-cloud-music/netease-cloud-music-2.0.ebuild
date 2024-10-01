@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Netease Cloud Music client"
 
-HOMEPAGE="https://github.com/SpringHan/netease-cloud-music.git"
+HOMEPAGE="https://github.com/SpringHan/netease-cloud-music.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An Emacs interface to [Ameba](https://github.com/veelenga/ameba)"
 
-HOMEPAGE="https://github.com/veelenga/ameba.el"
+HOMEPAGE="https://github.com/crystal-ameba/ameba.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

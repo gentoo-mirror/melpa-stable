@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helps you to use shell easily on Emacs. Only one key action to work"
 
-HOMEPAGE="http://github.com/kyagi/shell-pop-el"
+HOMEPAGE="https://github.com/kyagi/shell-pop-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

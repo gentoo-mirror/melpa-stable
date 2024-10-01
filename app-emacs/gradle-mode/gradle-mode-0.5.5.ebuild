@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Gradle integration with Emacs' compile"
 
-HOMEPAGE="http://github.com/jacobono/emacs-gradle-mode"
+HOMEPAGE="https://github.com/scubacabra/emacs-gradle-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

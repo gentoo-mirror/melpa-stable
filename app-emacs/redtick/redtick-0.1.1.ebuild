@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Smallest pomodoro timer (1 char)"
 
-HOMEPAGE="http://github.com/ferfebles/redtick"
+HOMEPAGE="https://github.com/ferfebles/redtick"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

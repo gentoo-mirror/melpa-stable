@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Define and visualize hierarchies of keymaps"
 
-HOMEPAGE="http://github.com/erjoalgo/emacs-buttons"
+HOMEPAGE="https://github.com/erjoalgo/emacs-buttons"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

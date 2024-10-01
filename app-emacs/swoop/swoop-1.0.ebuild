@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Peculiar buffer navigation"
 
-HOMEPAGE="https://github.com/ShingoFukuyama/emacs-swoop"
+HOMEPAGE="https://github.com/emacsorphanage/swoop"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Web browsing helpers for OS X"
 
-HOMEPAGE="http://github.com/rolandwalker/osx-browse"
+HOMEPAGE="https://github.com/rolandwalker/osx-browse"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

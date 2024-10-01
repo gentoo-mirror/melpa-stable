@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Shell/Comint alternative based on term.el"
 
-HOMEPAGE="http://github.com/szermatt/mistty"
+HOMEPAGE="https://github.com/szermatt/mistty"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

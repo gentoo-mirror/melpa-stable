@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for SDML"
 
-HOMEPAGE="https://github.com/johnstonskj/emacs-sdml-mode"
+HOMEPAGE="https://github.com/sdm-lang/emacs-sdml-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

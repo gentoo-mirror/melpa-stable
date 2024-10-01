@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Import Textmate macros into yasnippet syntax"
 
-HOMEPAGE="https://github.com/mlf176f2/textmate-to-yas.el/"
+HOMEPAGE="https://github.com/mattfidler/textmate-to-yas.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

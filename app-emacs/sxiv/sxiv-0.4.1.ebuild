@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run the sxiv image viewer"
 
-HOMEPAGE="https://gitlab.com/contrapunctus/sxiv.el"
+HOMEPAGE="https://codeberg.org/contrapunctus/sxiv.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

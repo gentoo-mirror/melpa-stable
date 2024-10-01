@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Export org mode projects to EPUB"
 
-HOMEPAGE="http://github.com/ofosos/org-epub"
+HOMEPAGE="https://github.com/ofosos/ox-epub"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Generalized automatic execution in a single frame"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://git.sr.ht/~tomterl/fullframe"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

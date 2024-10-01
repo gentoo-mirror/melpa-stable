@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs interface to Ditz issue tracking system"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://hg.sr.ht/~zondo/ditz-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

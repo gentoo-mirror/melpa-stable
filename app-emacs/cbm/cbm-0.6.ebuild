@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Switch to similar buffers"
 
-HOMEPAGE="http://github.com/akermu/cbm.el"
+HOMEPAGE="https://github.com/akermu/cbm.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

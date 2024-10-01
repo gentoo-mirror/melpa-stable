@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Context-sensitive external browse URL or Internet search"
 
-HOMEPAGE="http://github.com/rolandwalker/browse-url-dwim"
+HOMEPAGE="https://github.com/rolandwalker/browse-url-dwim"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

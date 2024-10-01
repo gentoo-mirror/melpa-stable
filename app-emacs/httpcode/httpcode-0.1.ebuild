@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Explains the meaning of an HTTP status code"
 
-HOMEPAGE="http://github.com/rspivak/httpcode.el"
+HOMEPAGE="https://github.com/rspivak/httpcode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

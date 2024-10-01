@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Yet Another tex-mode for emacs //野鳥//"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://www.yatex.org/hgrepos/yatex"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

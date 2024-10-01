@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Group ibuffer's list by TRAMP connection"
 
-HOMEPAGE="http://github.com/svend/ibuffer-tramp"
+HOMEPAGE="https://github.com/svend/ibuffer-tramp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

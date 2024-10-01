@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show off-screen Org heading at top of window"
 
-HOMEPAGE="http://github.com/alphapapa/org-sticky-header"
+HOMEPAGE="https://github.com/alphapapa/org-sticky-header"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

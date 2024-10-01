@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major-mode for editing CMake sources"
 
-HOMEPAGE="https://stable.melpa.org/packages/"
+HOMEPAGE="https://gitlab.kitware.com/cmake/cmake.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

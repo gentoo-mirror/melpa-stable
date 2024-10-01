@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="HTTP request lib with flexible callback dispatch"
 
-HOMEPAGE="http://www.github.com/leathekd/grapnel"
+HOMEPAGE="https://github.com/leathekd/grapnel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

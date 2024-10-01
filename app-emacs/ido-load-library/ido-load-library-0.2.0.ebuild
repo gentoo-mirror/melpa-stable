@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Load-library alternative using ido-completing-read"
 
-HOMEPAGE="http://github.com/rolandwalker/ido-load-library"
+HOMEPAGE="https://github.com/rolandwalker/ido-load-library"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

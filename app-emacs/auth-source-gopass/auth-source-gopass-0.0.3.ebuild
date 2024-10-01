@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Gopass integration for auth-source"
 
-HOMEPAGE="https://github.com/"
+HOMEPAGE="https://github.com/triplem/auth-source-gopass"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

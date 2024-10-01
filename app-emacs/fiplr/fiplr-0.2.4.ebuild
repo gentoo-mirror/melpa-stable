@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fuzzy Search for Files in Projects"
 
-HOMEPAGE="https://github.com/d11wtq/fiplr"
+HOMEPAGE="https://github.com/grizzl/fiplr"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

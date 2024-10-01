@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Integration for project generation tools like cookiecutter"
 
-HOMEPAGE="https://github.com/laurencewarne/prefab.el"
+HOMEPAGE="https://github.com/LaurenceWarne/prefab.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

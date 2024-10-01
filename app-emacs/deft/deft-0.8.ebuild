@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quickly browse, filter, and edit plain text notes"
 
-HOMEPAGE="https://jblevins.org/projects/deft/"
+HOMEPAGE="https://github.com/jrblevin/deft"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

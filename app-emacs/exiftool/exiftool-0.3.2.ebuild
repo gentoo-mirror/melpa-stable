@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Elisp wrapper around ExifTool"
 
-HOMEPAGE="https://git.systemreboot.net/exiftool.el"
+HOMEPAGE="https://git.systemreboot.net/exiftool.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

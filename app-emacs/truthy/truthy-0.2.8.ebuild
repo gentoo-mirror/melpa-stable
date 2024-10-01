@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Test the content of a value"
 
-HOMEPAGE="http://github.com/rolandwalker/truthy"
+HOMEPAGE="https://github.com/rolandwalker/truthy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

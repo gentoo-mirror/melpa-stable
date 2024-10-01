@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Use frame title as screen tab"
 
-HOMEPAGE="http://github.com/rocher/elscreen-fr"
+HOMEPAGE="https://github.com/rocher/elscreen-fr"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

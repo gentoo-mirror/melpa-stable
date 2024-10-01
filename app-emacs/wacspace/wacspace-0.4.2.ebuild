@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="The WACky WorkSPACE manager for emACS"
 
-HOMEPAGE="http://github.com/shosti/wacspace.el"
+HOMEPAGE="https://github.com/shosti/wacspace.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

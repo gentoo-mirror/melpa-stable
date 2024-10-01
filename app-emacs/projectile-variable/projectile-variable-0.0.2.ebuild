@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Store project local variables"
 
-HOMEPAGE="https://github.com/zonuexe/projectile-variable"
+HOMEPAGE="https://github.com/emacs-php/projectile-variable"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Discover key bindings and their meaning for the current Emacs major mode"
 
-HOMEPAGE="https://github.com/steckerhalter/discover-my-major"
+HOMEPAGE="https://framagit.org/steckerhalter/discover-my-major.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

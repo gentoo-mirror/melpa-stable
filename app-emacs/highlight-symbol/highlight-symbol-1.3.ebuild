@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatic and manual symbol highlighting"
 
-HOMEPAGE="http://nschum.de/src/emacs/highlight-symbol/"
+HOMEPAGE="https://github.com/nschum/highlight-symbol.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

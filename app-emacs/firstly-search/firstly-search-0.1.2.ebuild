@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Search with any key: Dired, Package, Buffer menu modes"
 
-HOMEPAGE="https://codeberg.org/Anoncheg/firstly-search"
+HOMEPAGE="https://github.com/Anoncheg1/firstly-search"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

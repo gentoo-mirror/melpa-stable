@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Image manipulate extensions for Emacs"
 
-HOMEPAGE="https://github.com/mhayashi1120/Emacs-imagex"
+HOMEPAGE="https://github.com/emacsorphanage/image-plus"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

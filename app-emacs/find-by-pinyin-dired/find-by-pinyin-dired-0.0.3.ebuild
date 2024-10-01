@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Find file by first PinYin character of Chinese Hanzi"
 
-HOMEPAGE="http://github.com/redguardtoo/find-by-pinyin-dired"
+HOMEPAGE="https://github.com/redguardtoo/find-by-pinyin-dired"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

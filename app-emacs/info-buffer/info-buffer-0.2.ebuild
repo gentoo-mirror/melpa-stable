@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display info topics in separate buffers"
 
-HOMEPAGE="http://www.github.com/llvilanova/info-buffer"
+HOMEPAGE="https://gitlab.com/llvilanova/info-buffer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Hugo Markdown Back-End for Org Export Engine"
 
-HOMEPAGE="https://ox-hugo.scripter.co"
+HOMEPAGE="https://github.com/kaushalmodi/ox-hugo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

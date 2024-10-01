@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Rifle through your Org files"
 
-HOMEPAGE="http://github.com/alphapapa/helm-org-rifle"
+HOMEPAGE="https://github.com/alphapapa/org-rifle"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

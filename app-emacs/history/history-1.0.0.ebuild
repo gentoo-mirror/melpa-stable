@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="History utility for source code navigation"
 
-HOMEPAGE="https://github.com/boyw165/history"
+HOMEPAGE="https://github.com/tcw165/history"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

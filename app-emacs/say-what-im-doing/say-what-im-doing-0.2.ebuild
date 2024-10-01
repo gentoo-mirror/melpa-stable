@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Dictate what you're doing with text to speech"
 
-HOMEPAGE="http://github.com/benaiah/say-what-im-doing"
+HOMEPAGE="https://github.com/Benaiah/say-what-im-doing"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Loader for configuration files"
 
-HOMEPAGE="https://github.com/emacs-jp/init-loader/"
+HOMEPAGE="https://github.com/emacs-jp/init-loader"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

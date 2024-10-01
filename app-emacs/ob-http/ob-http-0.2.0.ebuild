@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Http request in org-mode babel"
 
-HOMEPAGE="http://github.com/zweifisch/ob-http"
+HOMEPAGE="https://github.com/zweifisch/ob-http"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

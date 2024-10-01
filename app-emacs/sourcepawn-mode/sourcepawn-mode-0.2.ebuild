@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="SourcePawn major mode for emacs"
 
-HOMEPAGE="http://gammalevel.com/teamfortress2/sourcepawn-mode"
+HOMEPAGE="https://github.com/agrif/sourcepawn-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
