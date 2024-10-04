@@ -21,10 +21,8 @@ KEYWORDS="~amd64 ~x86"
 DEPEND="app-emacs/compat
 	app-emacs/org-node
 	app-emacs/org-roam
-	app-emacs/emacsql
-	app-emacs/persist"
+	app-emacs/emacsql"
 RDEPEND="app-emacs/compat
 	app-emacs/org-node
 	app-emacs/org-roam
-	app-emacs/emacsql
-	app-emacs/persist"
+	app-emacs/emacsql"
