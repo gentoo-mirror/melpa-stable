@@ -2863,7 +2863,7 @@ app-emacs/tr-ime 0.5.0: Emulator of IME patch for Windows
 app-emacs/traad 3.1.1: Emacs interface to the traad refactoring server
 app-emacs/tracking 2.13: Buffer modification tracking
 app-emacs/transducers 1.1.0: Ergonomic, efficient data processing
-app-emacs/transient 0.7.6: Transient commands
+app-emacs/transient 0.7.7: Transient commands
 app-emacs/translate-mode 1.0.2: Paragraph-oriented side-by-side doc translation workflow
 app-emacs/transmission 0.12.2: Interface to a Transmission session
 app-emacs/transpose-frame 0.2.1: Transpose windows arrangement in a frame
