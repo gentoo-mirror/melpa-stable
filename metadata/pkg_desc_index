@@ -2019,11 +2019,11 @@ app-emacs/ob-ada-spark 1.3.0: Babel functions for Ada & SPARK
 app-emacs/ob-async 1.0.0: Asynchronous org-babel src block execution
 app-emacs/ob-base64 1.1.5: Org-babel for base64 content
 app-emacs/ob-blockdiag 20170728.113: Org-babel functions for blockdiag evaluation
-app-emacs/ob-chatgpt-shell 1.6.1: Org babel functions for ChatGPT evaluation
+app-emacs/ob-chatgpt-shell 1.8.1: Org babel functions for ChatGPT evaluation
 app-emacs/ob-coffeescript 1.0.0: Org-babel functions for coffee-script evaluation, and fully implementation!
 app-emacs/ob-compile 0.4: Run compile by org-babel
 app-emacs/ob-d2 0.0.3: Org-babel functions for d2
-app-emacs/ob-dall-e-shell 1.6.1: Org babel functions for DALL-E evaluation
+app-emacs/ob-dall-e-shell 1.8.1: Org babel functions for DALL-E evaluation
 app-emacs/ob-deno 1.0.1: Babel Functions for Javascript/TypeScript with Deno
 app-emacs/ob-ess-julia 1.0.3: Org babel support for Julia language
 app-emacs/ob-git-permalink 0.1.0: Easy code citation from repository hosting service
@@ -2618,7 +2618,7 @@ app-emacs/shackle 1.0.4: Enforce rules for popups
 app-emacs/shakespeare-mode 0.0.2: A major mode for editing Shakespearean templates
 app-emacs/shampoo 0.0.1: Shampoo, a remote Smalltalk developemnt
 app-emacs/shell-command-x 0.1.3: Extensions for shell commands
-app-emacs/shell-maker 1.6.1: Interaction mode for making comint shells
+app-emacs/shell-maker 1.8.1: Interaction mode for making comint shells
 app-emacs/shell-pop 0.64: Helps you to use shell easily on Emacs. Only one key action to work
 app-emacs/shell-split-string 0.1: Split strings using shell-like syntax
 app-emacs/shell-switcher 1.0.1: Provide fast switching between shell buffers
