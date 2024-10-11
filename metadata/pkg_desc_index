@@ -278,14 +278,14 @@ app-emacs/casual-avy 1.4.3: Transient UI for Avy
 app-emacs/casual-bookmarks 1.1.2: Transient UI for Bookmarks
 app-emacs/casual-calc 1.11.4: Transient UI for Calc
 app-emacs/casual-dired 1.8.3: Transient UI for Dired
-app-emacs/casual-editkit 1.0.12: Transient user interface library for editing commands
+app-emacs/casual-editkit 1.0.13: Transient user interface library for editing commands
 app-emacs/casual-ibuffer 1.1.5: Transient UI for IBuffer
 app-emacs/casual-info 1.3.3: Transient UI for Info
 app-emacs/casual-isearch 1.10.1: Transient UI for I-Search
 app-emacs/casual-lib 1.1.4: Library routines for Casual user interfaces
 app-emacs/casual-re-builder 1.1.3: Transient UI for RE-Builder
 app-emacs/casual-suite 1.7.4: A suite of opinionated Transient UIs
-app-emacs/casual-symbol-overlay 1.0.2: Transient UI for Symbol Overlay
+app-emacs/casual-symbol-overlay 1.1.0: Transient UI for Symbol Overlay
 app-emacs/catmacs 0.1.1: Simple CAT interface for Yaesu FT991A
 app-emacs/catppuccin-theme 0.1.0: Catppuccin Theme
 app-emacs/cbm 0.6: Switch to similar buffers
@@ -304,7 +304,7 @@ app-emacs/cg 1.4.6: Major mode for editing Constraint Grammar files
 app-emacs/champagne 0.3.2: Graphical countdowns
 app-emacs/char-menu 0.1.1: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 0.0.1: Unicode table for Emacs
-app-emacs/chatgpt-shell 1.6.1: ChatGPT shell + buffer insert commands
+app-emacs/chatgpt-shell 1.8.1: ChatGPT shell + buffer insert commands
 app-emacs/chatwork 0.3: ChatWork client for Emacs
 app-emacs/cheat-sh 1.8: Interact with cheat.sh
 app-emacs/checkbox 0.2.1: Quick manipulation of textual checkboxes
@@ -357,7 +357,7 @@ app-emacs/clues-theme 1.0.1: An Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.30.4: Major-mode for editing CMake sources
+app-emacs/cmake-mode 3.30.5: Major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -509,7 +509,7 @@ app-emacs/d-mode 2.0.12: D Programming Language major mode for (X)Emacs
 app-emacs/d2-mode 0.1.2: Major mode for working with d2 graphs
 app-emacs/dad-joke 1.4: Get/display dad jokes
 app-emacs/daemons 2.0.0: UI for managing init system daemons (services)
-app-emacs/dall-e-shell 1.6.1: Interaction mode for DALL-E
+app-emacs/dall-e-shell 1.8.1: Interaction mode for DALL-E
 app-emacs/dante 1.7: Development mode for Haskell
 app-emacs/dap-mode 0.8: Debug Adapter Protocol mode
 app-emacs/darcula-theme 2.0: Inspired by IntelliJ's Darcula theme
@@ -591,7 +591,6 @@ app-emacs/dired-rmjunk 1.2: A home directory cleanup utility for Dired
 app-emacs/dired-rsync 0.7: Allow rsync from dired buffers
 app-emacs/dired-rsync-transient 0.7: Transient command for dired-rsync
 app-emacs/dired-sidebar 0.2.0: Tree browser leveraging dired
-app-emacs/dired-single 0.3.1: Reuse the current dired buffer
 app-emacs/dired-toggle 0.1.5: Show dired as sidebar and will not create new buffers when changing dir
 app-emacs/dired-toggle-sudo 1.0: Browse directory with sudo privileges
 app-emacs/dired-view-data 1.0: View data from dired via ESS and R
@@ -1212,7 +1211,7 @@ app-emacs/gmail2bbdb 0.0.6: Import email and name into bbdb from vcard
 app-emacs/gmpl-mode 0.1.0: Major mode for editing GMPL(MathProg) files
 app-emacs/gn-mode 0.4.1: Major mode for editing GN (generate ninja) files
 app-emacs/gnome-screencast 1.4: Use Gnome screen recording functionality using elisp
-app-emacs/gnosis 0.4.3: Spaced Repetition System
+app-emacs/gnosis 0.4.4: Spaced Repetition System
 app-emacs/gntp 0.1: Growl Notification Protocol for Emacs
 app-emacs/gnuplot 0.8.1: Major-mode and interactive frontend for gnuplot
 app-emacs/gnus-desktop-notify 1.4: Gnus Desktop Notification global minor mode
@@ -1251,7 +1250,7 @@ app-emacs/goto-char-preview 0.1.0: Preview character when executing `goto-char` 
 app-emacs/goto-chg 1.7.5: Go to last change
 app-emacs/goto-last-change 1.2.1: Move point through buffer-undo-list positions
 app-emacs/goto-line-preview 0.1.1: Preview line when executing `goto-line` command
-app-emacs/govc 0.43.0: Interface to govc for managing VMware ESXi and vCenter
+app-emacs/govc 0.44.1: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
@@ -1653,7 +1652,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.12: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.24.1: Your Second Brain
+app-emacs/khoj 1.25.0: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: Incremental search for the kill ring
@@ -1866,7 +1865,7 @@ app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 0.4: Command line search and direct jump with Milkode
 app-emacs/mindstream 1.0: Start writing, stay focused, don't worry
-app-emacs/mini-echo 0.13.1: Echo buffer status in minibuffer window
+app-emacs/mini-echo 0.14.0: Echo buffer status in minibuffer window
 app-emacs/mini-modeline 20200408.729: Display modeline in minibuffer
 app-emacs/minibuffer-complete-cycle 1.25.20130814: Cycle through the *Completions* buffer
 app-emacs/minibuffer-cua 1.0.0: Make CUA mode's S-up/S-down work in minibuffer
@@ -2141,7 +2140,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 1.5.0: Link org-id entries into a network
+app-emacs/org-node 1.5.2: Link org-id entries into a network
 app-emacs/org-node-fakeroam 1.2.6: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2834,7 +2833,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2024.9.30.0: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2024.10.7.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2874,7 +2873,7 @@ app-emacs/tray 0.1.5: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.225: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.226: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
@@ -2951,6 +2950,7 @@ app-emacs/uuidgen 1.0: Provides various UUID generating functions
 app-emacs/uxntal-mode 0.3: Major mode for Uxntal assembly
 app-emacs/v2ex-mode 0.2: Major mode for visit http://v2ex.com/ site
 app-emacs/vagrant 0.6.2: Manage a vagrant box from emacs
+app-emacs/varuga 0.1.0: Send ical calendar invites by email
 app-emacs/vbasense 0.1.1: Provide a environment like Visual Basic Editor
 app-emacs/vc-hgcmd 1.14.1: VC mercurial backend that uses hg command server
 app-emacs/vc-msg 1.1.1: Show commit information of current line
@@ -3124,7 +3124,7 @@ app-emacs/zetz-mode 0.1.0: A major mode for the ZetZ programming language
 app-emacs/zk 0.7: Functions for working with Zettelkasten-style linked notes
 app-emacs/zk-desktop 0.7: Desktop environment for zk
 app-emacs/zk-index 0.7: Index for zk
-app-emacs/zmq 1.0.1: ZMQ bindings in Emacs-Lisp
+app-emacs/zmq 1.0.2: ZMQ bindings in Emacs-Lisp
 app-emacs/znc 0.4: ZNC + ERC
 app-emacs/zombie-trellys-mode 0.2.1: A minor mode for interaction with Zombie Trellys
 app-emacs/zone-tmux-clock 0.0.1: Zone out with a tmux style clock
