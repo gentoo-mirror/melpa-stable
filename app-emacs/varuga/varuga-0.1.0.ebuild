@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="dired-single"
+REALNAME="varuga"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Reuse the current dired buffer"
+DESCRIPTION="Send ical calendar invites by email"
 
-HOMEPAGE="https://codeberg.org/amano.kenji/dired-single"
+HOMEPAGE="https://git.systemreboot.net/varuga/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

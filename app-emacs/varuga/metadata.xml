@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Reuse the current dired buffer</longdescription>
+	<longdescription>Send ical calendar invites by email</longdescription>
 </pkgmetadata>
