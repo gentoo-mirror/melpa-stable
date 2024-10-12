@@ -694,7 +694,7 @@ app-emacs/eglot-java 1.35: Java extension for the eglot LSP client
 app-emacs/eglot-jl 2.4.0: Julia support for eglot
 app-emacs/eglot-luau 0.1.2: Luau language server integration for eglot
 app-emacs/eglot-signature-eldoc-talkative 0.0.7: Make Eglot make ElDoc echo docs
-app-emacs/eglot-tempel 0.8: Use tempel to expand snippets from eglot
+app-emacs/eglot-tempel 0.8.2: Use tempel to expand snippets from eglot
 app-emacs/eide 2.3.1: IDE interface
 app-emacs/eink-theme 1.0.0: E Ink color theme
 app-emacs/ejc-sql 0.4.1: Emacs SQL client uses Clojure JDBC.
