@@ -456,6 +456,7 @@ app-emacs/context-transient 1.0.1: Context specific transients
 app-emacs/contextual 1.0.1: Contextual profile management system
 app-emacs/contextual-menubar 1.0.0: Display the menubar only on a graphical display
 app-emacs/conventional-changelog 1.1.0: Conventional Changelog Generator
+app-emacs/copilot-chat 1.1.0: Copilot chat interface
 app-emacs/copy-as-format 0.0.9: Copy buffer locations as GitHub/Slack/JIRA etc... formatted code
 app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
