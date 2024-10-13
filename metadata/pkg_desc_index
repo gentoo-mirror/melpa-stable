@@ -1876,7 +1876,7 @@ app-emacs/minitest 0.9.2: An Emacs mode for ruby minitest files
 app-emacs/mint-mode 2.0.0: Major mode for the Mint programming language
 app-emacs/mips-mode 1.2.0: Major-mode for MIPS assembly
 app-emacs/mise 0.3.0: Support for `mise' cli
-app-emacs/mistty 1.0: Shell/Comint alternative based on term.el
+app-emacs/mistty 1.1: Shell/Comint alternative based on term.el
 app-emacs/mixed-pitch 1.1.1: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mlscroll 0.2.1: A scroll bar for the modeline
 app-emacs/mmm-jinja2 0.1: MMM submode class for Jinja2 Templates
