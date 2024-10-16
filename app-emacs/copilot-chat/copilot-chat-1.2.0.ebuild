@@ -5,20 +5,22 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="sisyphus"
+REALNAME="copilot-chat"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Create releases of Emacs packages"
+DESCRIPTION="Copilot chat interface"
 
-HOMEPAGE="https://github.com/magit/sisyphus"
+HOMEPAGE="https://github.com/chep/copilot-chat.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/compat
-	app-emacs/magit"
-RDEPEND="app-emacs/compat
-	app-emacs/magit"
+DEPEND="app-emacs/request
+	app-emacs/markdown-mode
+	app-emacs/chatgpt-shell"
+RDEPEND="app-emacs/request
+	app-emacs/markdown-mode
+	app-emacs/chatgpt-shell"
