@@ -100,7 +100,7 @@ app-emacs/anyins 0.1.1: Insert content at multiple places from shell command or 
 app-emacs/anzu 0.67: Show number of matches in mode-line while searching
 app-emacs/apache-mode 2.2.0: Major mode for editing Apache httpd configuration files
 app-emacs/apdl-mode 20.5.0: Major mode for the APDL programming language
-app-emacs/apheleia 4.2: Reformat buffer stably
+app-emacs/apheleia 4.3: Reformat buffer stably
 app-emacs/apib-mode 0.8: Major mode for API Blueprint files
 app-emacs/apiwrap 0.5: Api-wrapping macros
 app-emacs/apples-mode 0.0.2: Major mode for editing and executing AppleScript code
