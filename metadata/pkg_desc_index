@@ -150,6 +150,7 @@ app-emacs/auto-rename-tag 0.3.5: Automatically rename paired HTML/XML tag
 app-emacs/auto-shell-command 1.0.2: Run the shell command asynchronously that you specified when you save the file
 app-emacs/auto-sort-mode 0.1.4: Automatically sort lines between two delimiters
 app-emacs/auto-sudoedit 1.1.0: Auto sudo edit by tramp
+app-emacs/auto-virtualenv 2.2.0: Automatically activate Python virtualenvs based on project directory
 app-emacs/auto-yasnippet 0.3.0: Quickly create disposable yasnippets
 app-emacs/autobuild 2.0: Define and execute build rules and compilation pipelines
 app-emacs/autodisass-java-bytecode 1.3: Automatically disassemble Java bytecode
@@ -273,7 +274,7 @@ app-emacs/caseformat 0.1.0: Format based letter case converter
 app-emacs/cask-mode 0.1: Major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
 app-emacs/caskxy 0.0.5: Control Cask in Emacs
-app-emacs/casual 2.0.8: Transient user interfaces for various modes
+app-emacs/casual 2.1.0: Transient user interfaces for various modes
 app-emacs/casual-avy 2.0.0: Transient UI for Avy
 app-emacs/casual-suite 2.0.0: A suite of opinionated Transient UIs
 app-emacs/casual-symbol-overlay 2.0.0: Transient UI for Symbol Overlay
@@ -758,12 +759,6 @@ app-emacs/emacs-el-fetch 3.3.0: Show system information in Neofetch-like style (
 app-emacs/emacs-websearch 2.1.1: Query search engines
 app-emacs/emacsc 1.5.20240629.1: Helper for emacsc(1)
 app-emacs/emacsql 4.0.3: High-level SQL database front-end
-app-emacs/emacsql-mysql 4.0.3: EmacSQL back-end for MySQL
-app-emacs/emacsql-pg 4.0.3: EmacSQL back-end for PostgreSQL via pg
-app-emacs/emacsql-psql 4.0.3: EmacSQL back-end for PostgreSQL via psql
-app-emacs/emacsql-sqlite 4.0.3: EmacSQL back-end for SQLite
-app-emacs/emacsql-sqlite-builtin 4.0.3: EmacSQL back-end for SQLite using builtin support
-app-emacs/emacsql-sqlite-module 4.0.3: EmacSQL back-end for SQLite using a module
 app-emacs/emacsshot 0.5.0: Snapshot a frame or window from within
 app-emacs/emamux 0.14: Interact with tmux
 app-emacs/emaps 0.2.0: Utilities for working with keymaps
@@ -1646,7 +1641,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.12: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.29.0: Your Second Brain
+app-emacs/khoj 1.29.1: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: Incremental search for the kill ring
