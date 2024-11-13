@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>EmacSQL back-end for PostgreSQL via psql</longdescription>
+	<longdescription>Automatically activate Python virtualenvs based on project directory</longdescription>
 </pkgmetadata>
