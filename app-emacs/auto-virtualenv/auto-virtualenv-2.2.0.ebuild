@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="emacsql-sqlite-builtin"
+REALNAME="auto-virtualenv"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="EmacSQL back-end for SQLite using builtin support"
+DESCRIPTION="Automatically activate Python virtualenvs based on project directory"
 
-HOMEPAGE="https://github.com/magit/emacsql"
+HOMEPAGE="https://github.com/marcwebbie/auto-virtualenv"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
