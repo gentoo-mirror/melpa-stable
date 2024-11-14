@@ -656,7 +656,7 @@ app-emacs/easy-jekyll 2.6.30: Major mode managing jekyll blogs
 app-emacs/easy-kill 0.9.4: Kill & mark things easily
 app-emacs/easy-kill-extras 0.9.14: Extra functions for easy-kill
 app-emacs/easy-repeat 0.2: Repeat easily
-app-emacs/easysession 1.1.0: Easily persist and restore your editing sessions
+app-emacs/easysession 1.1.1: Easily persist and restore your editing sessions
 app-emacs/ebdb-mua-sidecar 1.6.0: EBDB Integration for Universal Sidecar
 app-emacs/ebf 1.0.0: Brainfuck language transpiler to Emacs Lisp
 app-emacs/ebib 2.44.1: A BibTeX database manager
@@ -2129,7 +2129,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 1.7.4: Link org-id entries into a network
+app-emacs/org-node 1.7.6: Link org-id entries into a network
 app-emacs/org-node-fakeroam 1.5.1: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
