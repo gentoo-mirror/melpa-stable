@@ -471,6 +471,7 @@ app-emacs/coverage 0.5: Code coverage line highlighting
 app-emacs/coverlay 3.0.2: Test coverage overlays
 app-emacs/cpp-auto-include 0.2.0: Insert and delete C++ header files automatically
 app-emacs/cpputils-cmake 5.5: Easy real time C++ syntax check and intellisense if you use CMake
+app-emacs/crc 1.1.2: Cyclic Redundancy Check
 app-emacs/creamsody-theme 1.0.9: Straight from the soda fountain
 app-emacs/create-link 1.0: Formatted link generator in browser
 app-emacs/creds 0.0.6.1: A parser credentials file library (not limited to credentials entries)
@@ -518,7 +519,7 @@ app-emacs/date-at-point 0.1: Add `date' to `thing-at-point' function
 app-emacs/date-field 0.0.1: Date widget
 app-emacs/datetime 0.10.1: Parsing, formatting and matching timestamps
 app-emacs/dbc 0.1: Control how to open buffers
-app-emacs/dbml-mode 1.1.0: Major mode for DBML
+app-emacs/dbml-mode 1.2.0: Major mode for DBML
 app-emacs/ddskk 17.1: Simple Kana to Kanji conversion program
 app-emacs/ddskk-posframe 1.0.0: Show Henkan tooltip for ddskk via posframe
 app-emacs/deadgrep 0.13: Fast, friendly searching with ripgrep
@@ -674,7 +675,7 @@ app-emacs/editorconfig 0.11.0: EditorConfig Emacs Plugin
 app-emacs/editorconfig-custom-majormode 0.0.3: Decide major-mode and mmm-mode from EditorConfig
 app-emacs/edn 1.1.2: Support for reading and writing the edn data format from elisp
 app-emacs/ednc 0.2: Emacs Desktop Notification Center
-app-emacs/edts 1.2.0: Erlang Development Tool Suite
+app-emacs/edts-mode 1.2.0: EDTS setup and configuration
 app-emacs/edwina 0.2.0: Dynamic window manager
 app-emacs/efar 1.29: FAR-like file manager
 app-emacs/eff 0.2: Show symbols in Executable File Formats
@@ -2130,7 +2131,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 1.8.2: Link org-id entries into a network
+app-emacs/org-node 1.8.3: Link org-id entries into a network
 app-emacs/org-node-fakeroam 1.5.1: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2213,7 +2214,7 @@ app-emacs/osx-location 0.4: Watch and respond to changes in geographical locatio
 app-emacs/osx-plist 2.0.0: Apple plist file parser
 app-emacs/osx-pseudo-daemon 2.2: Daemon mode that plays nice with OSX
 app-emacs/osx-trash 0.2.2: System trash for OS X
-app-emacs/otpp 3.0.1: One tab per project, with unique names
+app-emacs/otpp 3.0.2: One tab per project, with unique names
 app-emacs/outline-indent 1.0.6: Outline and fold text using indentation
 app-emacs/outline-minor-faces 1.1.0: Highlight only section headings
 app-emacs/outlook 0.1: Send emails in MS Outlook style
