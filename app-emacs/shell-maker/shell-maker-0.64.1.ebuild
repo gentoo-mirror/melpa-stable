@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interaction mode for making comint shells"
 
-HOMEPAGE="https://github.com/xenodium/chatgpt-shell"
+HOMEPAGE="https://github.com/xenodium/shell-maker"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
