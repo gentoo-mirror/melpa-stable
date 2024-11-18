@@ -601,6 +601,7 @@ app-emacs/discover 0.3: Discover more of Emacs
 app-emacs/discover-my-major 1.0: Discover key bindings and their meaning for the current Emacs major mode
 app-emacs/dispass 1.1.2: Emacs wrapper for DisPass
 app-emacs/display-wttr 2.1.0: Display wttr(weather) in the mode line
+app-emacs/disproject 0.14.0: Dispatch project commands with Transient
 app-emacs/dist-file-mode 1.0.0: Dispatch major mode for *.dist files
 app-emacs/ditz-mode 0.3: Emacs interface to Ditz issue tracking system
 app-emacs/dix 0.4.1: Apertium XML editing minor mode
@@ -692,7 +693,7 @@ app-emacs/eglot-tempel 0.8.2: Use tempel to expand snippets from eglot
 app-emacs/eide 2.3.1: IDE interface
 app-emacs/eink-theme 1.0.0: E Ink color theme
 app-emacs/ejc-sql 0.4.1: Emacs SQL client uses Clojure JDBC.
-app-emacs/ekg 0.6.3: A system for recording and linking information
+app-emacs/ekg 0.6.4: A system for recording and linking information
 app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
@@ -848,6 +849,7 @@ app-emacs/ethan-wspace 0.7.1: Whitespace customizations for emacs
 app-emacs/eval-in-repl 0.9.7: Consistent ESS-like eval interface for various REPLs
 app-emacs/eval-sexp-fu 0.6.0: Tiny functionality enhancements for evaluating sexps
 app-emacs/evalator 1.0.0: Package for interactive transformation of data with helm
+app-emacs/evedel 0.4.16: Instructed LLM programmer/assistant
 app-emacs/evenok 0.11.1: Themes with perceptively evenly distributed colors
 app-emacs/everlasting-scratch 0.1: The *scratch* that lasts forever
 app-emacs/evil 1.14.2: Extensible Vi layer for Emacs
@@ -1851,6 +1853,7 @@ app-emacs/mew 6.9: Messaging in the Emacs World
 app-emacs/meyvn 1.4: Meyvn client
 app-emacs/mgmtconfig-mode 0.0.26: Mgmt configuration management language
 app-emacs/mhc 1.2.7: Message Harmonized Calendaring system
+app-emacs/miasma-theme 1.0.1: Miasma: color theme inspired by the woods
 app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 0.4: Command line search and direct jump with Milkode
@@ -2866,7 +2869,7 @@ app-emacs/tray 0.1.5: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.232: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.234: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
