@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Functions to manage system packages</longdescription>
+	<longdescription>Erlang Development Tool Suite</longdescription>
 </pkgmetadata>
