@@ -348,7 +348,7 @@ app-emacs/clues-theme 1.0.1: An Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.31.0: Major-mode for editing CMake sources
+app-emacs/cmake-mode 3.31.1: Major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -412,7 +412,7 @@ app-emacs/company-web 2.1: Company version of ac-html, complete for web,html,emm
 app-emacs/company-wordfreq 0.1.2: Company backend for human language texts
 app-emacs/company-ycmd 1.2: Company-mode backend for ycmd
 app-emacs/competitive-programming-snippets 1.1.4: Competitive Programming snippets for Yasnippet
-app-emacs/compile-angel 1.0.0: Automatically Compile Elisp files (auto-compile alternative)
+app-emacs/compile-angel 1.0.1: Automatically Compile Elisp files (auto-compile alternative)
 app-emacs/compile-multi 0.6: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 0.6: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 0.6: Integration for `compile-multi' and `embark'
@@ -602,7 +602,7 @@ app-emacs/discover 0.3: Discover more of Emacs
 app-emacs/discover-my-major 1.0: Discover key bindings and their meaning for the current Emacs major mode
 app-emacs/dispass 1.1.2: Emacs wrapper for DisPass
 app-emacs/display-wttr 2.1.0: Display wttr(weather) in the mode line
-app-emacs/disproject 1.0.0: Dispatch project commands with Transient
+app-emacs/disproject 1.1.0: Dispatch project commands with Transient
 app-emacs/dist-file-mode 1.0.0: Dispatch major mode for *.dist files
 app-emacs/ditz-mode 0.3: Emacs interface to Ditz issue tracking system
 app-emacs/dix 0.4.1: Apertium XML editing minor mode
@@ -770,7 +770,7 @@ app-emacs/embark-org-roam 0.2: Embark export buffer for org roam nodes
 app-emacs/embrace 0.1.4: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 1.1.0: Test runner and report viewer for Midje
 app-emacs/emmet-mode 1.0.8: Unofficial Emmet's support for emacs
-app-emacs/emms 20.1: The Emacs Multimedia System
+app-emacs/emms 20.2: The Emacs Multimedia System
 app-emacs/emms-mode-line-cycle 0.2.5: Display the emms mode line as a ticker
 app-emacs/emms-player-simple-mpv 0.4.0: An extension of emms-player-simple.el for mpv JSON IPC
 app-emacs/emms-player-spotify 0.1: Spotify player for EMMS
@@ -2218,7 +2218,7 @@ app-emacs/osx-location 0.4: Watch and respond to changes in geographical locatio
 app-emacs/osx-plist 2.0.0: Apple plist file parser
 app-emacs/osx-pseudo-daemon 2.2: Daemon mode that plays nice with OSX
 app-emacs/osx-trash 0.2.2: System trash for OS X
-app-emacs/otpp 3.0.2: One tab per project, with unique names
+app-emacs/otpp 3.0.3: One tab per project, with unique names
 app-emacs/outline-indent 1.0.6: Outline and fold text using indentation
 app-emacs/outline-minor-faces 1.1.0: Highlight only section headings
 app-emacs/outlook 0.1: Send emails in MS Outlook style
@@ -2779,7 +2779,7 @@ app-emacs/symbol-overlay 4.3: Highlight symbols with keymap-enabled overlays
 app-emacs/symbolword-mode 1.0: [No description available]
 app-emacs/symex 1.0: An evil way to edit Lisp symbolic expressions as trees
 app-emacs/symon 20160630: Tiny graphical system monitor
-app-emacs/syncthing 2.2.0: Client for Syncthing
+app-emacs/syncthing 2.3.0: Client for Syncthing
 app-emacs/synosaurus 0.2.0: An extensible thesaurus supporting lookup and substitution
 app-emacs/syntactic-sugar 0.9.4: Effect-free forms such as if/then/else
 app-emacs/syntax-subword 0.2: Make operations on words more fine-grained
