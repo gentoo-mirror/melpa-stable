@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Outline and fold text using indentation</longdescription>
+	<longdescription>Folding text based on indentation (origami alternative)</longdescription>
 </pkgmetadata>
