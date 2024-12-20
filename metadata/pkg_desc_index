@@ -295,7 +295,7 @@ app-emacs/cg 1.4.6: Major mode for editing Constraint Grammar files
 app-emacs/champagne 0.3.2: Graphical countdowns
 app-emacs/char-menu 0.1.1: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 0.0.1: Unicode table for Emacs
-app-emacs/chatgpt-shell 2.8.3: A multi-LLM shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
+app-emacs/chatgpt-shell 2.9.1: A multi-LLM shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
 app-emacs/chatwork 0.3: ChatWork client for Emacs
 app-emacs/cheat-sh 1.8: Interact with cheat.sh
 app-emacs/checkbox 0.2.1: Quick manipulation of textual checkboxes
@@ -348,7 +348,7 @@ app-emacs/clues-theme 1.0.1: An Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.31.2: Major-mode for editing CMake sources
+app-emacs/cmake-mode 3.31.3: Major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -433,9 +433,9 @@ app-emacs/consult-compile-multi 0.6: Consulting read support for `compile-multi'
 app-emacs/consult-dir 0.1: Insert paths into the minibuffer prompt
 app-emacs/consult-eglot 0.3.0: A consulting-read interface for eglot
 app-emacs/consult-flycheck 1.0: Provides the command `consult-flycheck'
-app-emacs/consult-gh 1.0: Consulting GitHub Client
-app-emacs/consult-gh-embark 1.0: Embark Actions for consult-gh
-app-emacs/consult-gh-forge 1.0: Magit/Forge Integration for consult-gh
+app-emacs/consult-gh 2.0: Consulting GitHub Client
+app-emacs/consult-gh-embark 2.0: Embark Actions for consult-gh
+app-emacs/consult-gh-forge 2.0: Magit/Forge Integration for consult-gh
 app-emacs/consult-ghq 0.0.5: Ghq interface using consult
 app-emacs/consult-hatena-bookmark 0.3.1: Consult commands for the Hatena Bookmark
 app-emacs/consult-lsp 1.1: LSP-mode Consult integration
@@ -1162,7 +1162,7 @@ app-emacs/git-annex 1.1: Mode for easy editing of git-annex'd files
 app-emacs/git-attr 1.0.0: Git attributes of buffer file
 app-emacs/git-auto-commit-mode 4.7.0: Emacs Minor mode to automatically commit and push
 app-emacs/git-backup 0.0.1: Backup each file change using git
-app-emacs/git-cliff 0.7.0: Generate and update changelog using git-cliff
+app-emacs/git-cliff 0.9.0: Generate and update changelog using git-cliff
 app-emacs/git-command 0.2.0: Yet another Git interface
 app-emacs/git-commit-insert-issue 0.4.1: Get issues list when typing "Fixes #"
 app-emacs/git-grep-transient 0.1.1: Search for text using git grep command
@@ -1208,7 +1208,7 @@ app-emacs/gntp 0.1: Growl Notification Protocol for Emacs
 app-emacs/gnuplot 0.8.1: Major-mode and interactive frontend for gnuplot
 app-emacs/gnus-desktop-notify 1.4: Gnus Desktop Notification global minor mode
 app-emacs/gnus-notes 0.4.2: Keep handy notes of read Gnus articles with helm and org
-app-emacs/gnus-recent 0.4.0: Article breadcrumbs for Gnus
+app-emacs/gnus-recent 0.4.1: Article breadcrumbs for Gnus
 app-emacs/gnus-summary-repo 1.0.0: Import and export files between IMAP and local by using GNUS
 app-emacs/gnus-x-gm-raw 0.0.1: Search mail of Gmail using X-GM-RAW as web interface
 app-emacs/go-add-tags 0.4: Add field tags for struct fields
@@ -1666,7 +1666,7 @@ app-emacs/kubernetes-evil 0.18.0: Kubernetes keybindings for evil-mode
 app-emacs/kurecolor 1.7.1: Color editing goodies
 app-emacs/kuronami-theme 2.0: A deep blue theme with cool autumnal colors
 app-emacs/laas 1.1: A bundle of as-you-type LaTeX snippets
-app-emacs/lab 2.0.0: An interface for GitLab
+app-emacs/lab 2.1.1: An interface for GitLab
 app-emacs/labburn-theme 1.0.0: A lab color space zenburn theme
 app-emacs/lacquer 1.2.2: Switch theme/font by selecting from a cache
 app-emacs/lambdapi-mode 2.5.1: A major mode to edit Lambdapi files
@@ -2045,7 +2045,7 @@ app-emacs/ocamlformat 0.27.0: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: Automatic indentation with ocp-indent
 app-emacs/octicons 0.1: Octicons utility
-app-emacs/oer-reveal 4.27.1: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.28.2: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.0.3: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -2139,7 +2139,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 1.9.14: Link org-id entries into a network
+app-emacs/org-node 1.9.15: Link org-id entries into a network
 app-emacs/org-node-fakeroam 1.6.4: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2275,7 +2275,7 @@ app-emacs/parent-mode 2.3.1: Get major mode's parent modes
 app-emacs/parinfer-rust-mode 0.9.3: An interface for the parinfer-rust library
 app-emacs/parrot 1.1.1: Party Parrot rotates gracefully in mode-line
 app-emacs/parse-it 0.2.1: Basic Parser in Emacs Lisp
-app-emacs/parsebib 6.2.2: A library for parsing bib files
+app-emacs/parsebib 6.3: A library for parsing bib files
 app-emacs/parsec 0.1.4: Parser combinator library
 app-emacs/parseclj 1.1.1: Clojure/EDN parser
 app-emacs/parseedn 1.2.1: Clojure/EDN parser
@@ -2317,7 +2317,7 @@ app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: Another incremental search & replace, compatible with "multiple-cursors"
 app-emacs/phi-search-mc 2.2.1: Multiple-cursors extension for phi-search
 app-emacs/php-cs-fixer 2.1.1: The php-cs-fixer wrapper
-app-emacs/php-mode 1.26.1: Major mode for editing PHP code
+app-emacs/php-mode 1.27.0: Major mode for editing PHP code
 app-emacs/php-quickhelp 0.5.5: Quickhelp at point for php
 app-emacs/php-runtime 0.3.2: Language binding bridge to PHP
 app-emacs/phpactor 0.1.0: Interface to Phpactor
@@ -2399,7 +2399,7 @@ app-emacs/project-butler 0.4.0: Lay out a project's buffers
 app-emacs/project-explorer 0.14.3: A project explorer sidebar
 app-emacs/project-persist 1.0.1: A minor mode to allow loading and saving of project settings
 app-emacs/project-persist-drawer 0.0.4: Use a project drawer with project-persist
-app-emacs/project-tasks 0.7.0: Efficient task management for your project
+app-emacs/project-tasks 0.7.1: Efficient task management for your project
 app-emacs/projectile 2.8.0: Manage and navigate projects in Emacs easily
 app-emacs/projectile-git-autofetch 0.1.2: Automatically fetch git repositories
 app-emacs/projectile-rails 0.22.0: Minor mode for Rails projects based on projectile-mode
@@ -2412,7 +2412,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 29.1: Major mode for editing protocol buffers
+app-emacs/protobuf-mode 29.2: Major mode for editing protocol buffers
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions
 app-emacs/psalm 0.6.0: Interface to Psalm
