@@ -114,7 +114,7 @@ app-emacs/arxiv-mode 0.4.0: Read and search for articles on arXiv.org
 app-emacs/asilea 0.2.1: Find best compiler options using simulated annealing
 app-emacs/asm-blox 0.4.1: Programming game involving WAT
 app-emacs/assess 0.6: Test support functions
-app-emacs/astro-ts-mode 2.0.1: Major mode for editing Astro templates
+app-emacs/astro-ts-mode 2.0.2: Major mode for editing Astro templates
 app-emacs/async 1.9.9: Asynchronous processing in Emacs
 app-emacs/async-await 1.1: Async/Await
 app-emacs/asyncloop 1.1: Non-blocking series of functions
@@ -215,7 +215,6 @@ app-emacs/bnf-mode 0.4.5: Major mode for editing BNF grammars
 app-emacs/bnfc 0.4: Define context-free grammars for the BNFC tool
 app-emacs/bog 1.3.3: Extensions for research notes in Org mode
 app-emacs/bongo 1.1: Play music with Emacs
-app-emacs/bookmark-view 0.2: Bookmark views
 app-emacs/bool-flip 1.0.1: Flip the boolean under the point
 app-emacs/boon 1.3: Ergonomic Command Mode for Emacs
 app-emacs/borg 4.1.2: Assimilate Emacs packages as Git submodules
@@ -266,15 +265,15 @@ app-emacs/call-graph 0.1.0: Library to generate call graph for cpp functions
 app-emacs/camcorder 1.0: Record screencasts in gif or other formats
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cangjie 0.7.4: Retrieve cangjie code for han characters
-app-emacs/cape 1.7: Completion At Point Extensions
-app-emacs/capnp-mode 1.0.2: Major mode for editing Capn' Proto Files
+app-emacs/cape 1.8: Completion At Point Extensions
+app-emacs/capnp-mode 1.1.0: Major mode for editing Capn' Proto Files
 app-emacs/cargo 0.4.1: Emacs Minor Mode for Cargo, Rust's Package Manager
 app-emacs/cargo-mode 0.0.7: Cargo Major Mode. Cargo is the Rust package manager
 app-emacs/caseformat 0.1.0: Format based letter case converter
 app-emacs/cask-mode 0.1: Major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
 app-emacs/caskxy 0.0.5: Control Cask in Emacs
-app-emacs/casual 2.2.6: Transient user interfaces for various modes
+app-emacs/casual 2.2.7: Transient user interfaces for various modes
 app-emacs/casual-avy 2.0.1: Transient UI for Avy
 app-emacs/casual-suite 2.0.0: A suite of opinionated Transient UIs
 app-emacs/casual-symbol-overlay 2.0.0: Transient UI for Symbol Overlay
@@ -417,7 +416,7 @@ app-emacs/compile-multi 0.6: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 0.6: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 0.6: Integration for `compile-multi' and `embark'
 app-emacs/compile-multi-nerd-icons 0.6: Affixate `compile-multi' with nerd icons
-app-emacs/compiler-explorer 0.6.0: Compiler explorer client (godbolt.org)
+app-emacs/compiler-explorer 0.6.1: Compiler explorer client (godbolt.org)
 app-emacs/composable 0.0.1: Composable editing
 app-emacs/composer 0.2.0: Interface to PHP Composer
 app-emacs/concurrent 0.5.1: Concurrent utility functions for emacs lisp
@@ -426,7 +425,7 @@ app-emacs/conkeror-minor-mode 1.6.2: Mode for editing conkeror javascript files
 app-emacs/conllu-mode 0.5.0: Editing mode for CoNLL-U files
 app-emacs/connection 1.11: TCP-based client connection
 app-emacs/conner 0.4: Define and run project specific commands
-app-emacs/consult 1.8: Consulting completing-read
+app-emacs/consult 1.9: Consulting completing-read
 app-emacs/consult-ag 0.2.0: The silver searcher integration using Consult
 app-emacs/consult-codesearch 0.3: Consult interface for codesearch
 app-emacs/consult-compile-multi 0.6: Consulting read support for `compile-multi'
@@ -454,7 +453,7 @@ app-emacs/copy-as-format 0.0.9: Copy buffer locations as GitHub/Slack/JIRA etc..
 app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
 app-emacs/copyit-pandoc 0.1.0: Copy it, yank anything!
-app-emacs/corfu 1.5: COmpletion in Region FUnction
+app-emacs/corfu 1.6: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 1.3: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 6.3.1: Prescient.el + Corfu
 app-emacs/corral 0.3: Quickly surround text with delimiters
@@ -949,7 +948,6 @@ app-emacs/fill-column-indicator 1.90: Graphically indicate the fill column
 app-emacs/fill-function-arguments 0.9: Convert function arguments to/from single line
 app-emacs/fill-page 0.3.7: Fill buffer so you don't see empty lines at the end
 app-emacs/filldent 1.0.1: Fill or indent
-app-emacs/finalize 2.0.0: Finalizers for Emacs Lisp
 app-emacs/find-by-pinyin-dired 0.0.3: Find file by first PinYin character of Chinese Hanzi
 app-emacs/find-dupes-dired 1.0: Find dupes and handle in dired
 app-emacs/find-file-in-project 6.2.1: Find file/directory and review Diff/Patch/Commit efficiently
@@ -1300,7 +1298,6 @@ app-emacs/haskell-emacs-text 4.0.3: Haskell functions from Data.Text
 app-emacs/haskell-mode 17.5: A Haskell editing mode
 app-emacs/haskell-snippets 0.1.0: Yasnippets for Haskell
 app-emacs/haskell-tab-indent 0.3: Tab-based indentation for haskell-mode
-app-emacs/hasklig-mode 0.2: Hasklig ligatures
 app-emacs/hass 3.0.2: Interact with Home Assistant
 app-emacs/haxe-mode 0.3.3: Major mode for editing Haxe files
 app-emacs/haxor-mode 0.7.0: Major mode for editing Haxor Assembly Files
@@ -1584,7 +1581,7 @@ app-emacs/jet 1.2.0: Emacs integration for jet Clojure tool
 app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
-app-emacs/jinx 1.10: Enchanted Spell Checker
+app-emacs/jinx 1.11: Enchanted Spell Checker
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -1760,7 +1757,6 @@ app-emacs/lsp-ltex 0.2.1: LSP Clients for LTEX
 app-emacs/lsp-metals 1.2.0: Scala Client settings
 app-emacs/lsp-mode 9.0.0: LSP mode
 app-emacs/lsp-origami 1.0.0: Origami.el support for lsp-mode
-app-emacs/lsp-p4 0.1: P4 support for lsp-mode
 app-emacs/lsp-pyright 0.3.0: Python LSP client using Pyright
 app-emacs/lsp-python-ms 0.7.3: The lsp-mode client for Microsoft python-language-server
 app-emacs/lsp-scheme 0.1.1: Scheme support for lsp-mode
@@ -1810,7 +1806,7 @@ app-emacs/manage-minor-mode-table 0.1.3: Manage minor-modes in table
 app-emacs/map-progress 1.0.0: Mapping macros that report progress
 app-emacs/map-regexp 1.0.0: Map over matches of a regular expression
 app-emacs/marcopolo 0.3.0: Emacs client for Docker API
-app-emacs/marginalia 1.7: Enrich existing commands with completion annotations
+app-emacs/marginalia 1.8: Enrich existing commands with completion annotations
 app-emacs/mark-thing-at 1.0.0: Mark a pattern at the current point
 app-emacs/mark-tools 0.3: Some simple tools to access the mark-ring in Emacs
 app-emacs/markdown-changelog 0.0.2: Maintain changelog entries
@@ -2001,7 +1997,7 @@ app-emacs/notmuch-maildir 1.1.0: Display maildirs as a tree
 app-emacs/notmuch-transient 1.0.0: Command dispatchers for Notmuch
 app-emacs/nov 0.4.0: Featureful EPUB reader mode
 app-emacs/noxml-fold 0.0.2: Fold away XML things
-app-emacs/npm 0.2: Run your npm workflows
+app-emacs/npm 0.3: Run your npm workflows
 app-emacs/npm-mode 0.6.0: Minor mode for working with npm projects
 app-emacs/nrepl-sync 0.3.1: Connect to nrepl port and eval .sync.clj
 app-emacs/ns-auto-titlebar 0.3: Set the MacOS transparent titlebar to match theme
@@ -2067,7 +2063,7 @@ app-emacs/opensource 0.2.0: Client for Opensource API
 app-emacs/opensub 0.3.0: Search and download from open-subtitles
 app-emacs/operate-on-number 1.3.0: Operate on number at point with arithmetic functions
 app-emacs/orangey-bits-theme 1.0.2: A Theme with smashing orangey bits
-app-emacs/orderless 1.2: Completion style for matching regexps in any order
+app-emacs/orderless 1.3: Completion style for matching regexps in any order
 app-emacs/ordinal 1.0.0: Convert number to ordinal number notation
 app-emacs/org-ac 0.0.2: Some auto-complete sources for org-mode
 app-emacs/org-agenda-files-track 0.4.0: Fine-track `org-agenda-files' to speed-up `org-agenda'
@@ -2133,7 +2129,7 @@ app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various M
 app-emacs/org-make-toc 0.6: Automatic tables of contents for Org files
 app-emacs/org-mime 0.3.4: Org html export for text/html MIME emails
 app-emacs/org-ml 5.8.8: Functional Org Mode API
-app-emacs/org-modern 1.5: Modern looks for Org
+app-emacs/org-modern 1.6: Modern looks for Org
 app-emacs/org-movies 0.1: Manage watchlist with Org mode
 app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persistent history
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
@@ -2214,7 +2210,7 @@ app-emacs/orgstrap 1.5.5: Bootstrap an Org file using file local variables
 app-emacs/orgtbl-show-header 1.0.0: Show the header of the current column in the minibuffer
 app-emacs/origami-predef 1.0: Apply folding when finding (opening) files
 app-emacs/orthodox-christian-new-calendar-holidays 1.3.3: Feasts (NS)
-app-emacs/osm 1.4: OpenStreetMap viewer
+app-emacs/osm 1.5: OpenStreetMap viewer
 app-emacs/osx-browse 0.8.8: Web browsing helpers for OS X
 app-emacs/osx-clipboard 0.1: Use the OS X clipboard from terminal Emacs
 app-emacs/osx-dictionary 0.4: Interface for OSX Dictionary.app
@@ -2808,7 +2804,7 @@ app-emacs/tawny-mode 2.3.3: Ontology Editing with Tawny-OWL
 app-emacs/telega 0.8.3: Telegram client (unofficial)
 app-emacs/telepathy 1.0: Access Telepathy from Emacs
 app-emacs/telephone-line 0.6: Rewrite of Powerline
-app-emacs/tempel 1.2: Tempo templates/snippets with in-buffer field editing
+app-emacs/tempel 1.3: Tempo templates/snippets with in-buffer field editing
 app-emacs/templ-ts-mode 0.3: Major mode for editing Templ files
 app-emacs/templatel 0.1.6: Templating language;
 app-emacs/ten-hundred-mode 1.0.1: Use only the ten hundred most usual words
@@ -2972,7 +2968,7 @@ app-emacs/vegetative-theme 1.0.2: A Theme based on green CRT terminals
 app-emacs/verb 2.16.0: Organize and send HTTP requests
 app-emacs/verilog-ext 0.6.2: SystemVerilog Extensions
 app-emacs/verilog-ts-mode 0.3.0: Verilog Tree-sitter major mode
-app-emacs/vertico 1.9: VERTical Interactive COmpletion
+app-emacs/vertico 1.10: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 6.3.1: Prescient.el + Vertico
 app-emacs/vertigo 1.0: Jump across lines using the home row
 app-emacs/vhdl-ext 0.5.4: VHDL Extensions
