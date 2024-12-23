@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs Lisp socket-level interface to the PostgreSQL RDBMS"
+DESCRIPTION="Socket-level interface to the PostgreSQL database"
 
 HOMEPAGE="https://github.com/emarsden/pg-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
