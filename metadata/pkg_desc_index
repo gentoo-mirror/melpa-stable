@@ -503,7 +503,7 @@ app-emacs/cyphejor 0.1.2: Shorten major mode names using user-defined rules
 app-emacs/d-mode 2.0.12: D Programming Language major mode for (X)Emacs
 app-emacs/d2-mode 0.1.3: Major mode for working with d2 graphs
 app-emacs/dad-joke 1.4: Get/display dad jokes
-app-emacs/daemons 2.0.0: UI for managing init system daemons (services)
+app-emacs/daemons 2.1.0: UI for managing init system daemons (services)
 app-emacs/dall-e-shell 1.20.1: Interaction mode for DALL-E
 app-emacs/dante 1.7: Development mode for Haskell
 app-emacs/dap-mode 0.8: Debug Adapter Protocol mode
@@ -550,6 +550,7 @@ app-emacs/detached 0.10.1: A package to launch, and manage, detached processes
 app-emacs/devil 0.6.0: Minor mode for translating key sequences
 app-emacs/dianyou 0.0.3: Search and analyze mails in Gnus
 app-emacs/diary-manager 2.0.2: Simple personal diary
+app-emacs/dicom 0.4: DICOM viewer - Digital Imaging & Communications in Medicine
 app-emacs/dictcc 1.0.2: Look up translations on dict.cc
 app-emacs/dictionary 1.11: Client for rfc2229 dictionary servers
 app-emacs/didyoumean 0.4.0: Did you mean to open another file?
@@ -2601,6 +2602,7 @@ app-emacs/sekka 1.8.0: A client for Sekka IME server
 app-emacs/selcand 2.0: Select a candidate from a tree of hint characters
 app-emacs/select-themes 0.1.4: Color theme selection with completing-read
 app-emacs/selected-window-accent-mode 0.6.0: Accent Selected Window
+app-emacs/selected-window-contrast 0.0.4: Highlight by brightness of text and background
 app-emacs/selectric-mode 1.4.2: IBM Selectric mode for Emacs
 app-emacs/selectrum 3.1: Easily select item from list
 app-emacs/selectrum-prescient 6.3.1: Prescient.el + Selectrum
@@ -2793,7 +2795,7 @@ app-emacs/syslog-mode 3.0: Major-mode for viewing log files & strace output
 app-emacs/system-specific-settings 0.2: Apply settings only on certain systems
 app-emacs/systemd 1.6: Major mode for editing systemd units
 app-emacs/ta 1.5: A tool to deal with Chinese homophonic characters
-app-emacs/tab-bar-notch 0.0.6: Adjust tab-bar height for MacBook Pro notch
+app-emacs/tab-bar-notch 0.0.7: Adjust tab-bar height for MacBook Pro notch
 app-emacs/tab-line-nerd-icons 0.1: Add icons to tab-line tabs
 app-emacs/tabbar 2.2: Display a tab bar in the header line
 app-emacs/tabbar-ruler 0.45: Pretty tabbar, autohide, use both tabbar/ruler
@@ -2836,7 +2838,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2024.12.16.0: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2024.12.23.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2968,7 +2970,7 @@ app-emacs/vdm-mode 0.0.4: Major mode for the Vienna Development Method
 app-emacs/vdm-snippets 0.0.4: YASnippets for VDM mode
 app-emacs/vector-utils 0.1.2: Vector-manipulation utility functions
 app-emacs/vegetative-theme 1.0.2: A Theme based on green CRT terminals
-app-emacs/verb 2.16.0: Organize and send HTTP requests
+app-emacs/verb 3.0.0: Organize and send HTTP requests
 app-emacs/verilog-ext 0.6.2: SystemVerilog Extensions
 app-emacs/verilog-ts-mode 0.3.0: Verilog Tree-sitter major mode
 app-emacs/vertico 1.10: VERTical Interactive COmpletion
@@ -3091,7 +3093,7 @@ app-emacs/yagist 0.8.12: Yet Another Emacs integration for gist.github.com
 app-emacs/yaml 0.5.5: YAML parser for Elisp
 app-emacs/yaml-imenu 1.0.3: Enhancement of the imenu support in yaml-mode
 app-emacs/yaml-mode 0.0.16: Major mode for editing YAML files
-app-emacs/yaml-pro 1.3.0: Parser-aided YAML editing features
+app-emacs/yaml-pro 1.3.1: Parser-aided YAML editing features
 app-emacs/yang-mode 0.9.9: Major mode for editing YANG files
 app-emacs/yankpad 1.6: Paste snippets from an org-mode file
 app-emacs/yapfify 0.0.6: (automatically) format python buffers using YAPF
