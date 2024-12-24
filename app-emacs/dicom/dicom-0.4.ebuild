@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="daemons"
+REALNAME="dicom"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="UI for managing init system daemons (services)"
+DESCRIPTION="DICOM viewer - Digital Imaging & Communications in Medicine"
 
-HOMEPAGE="https://github.com/cbowdon/daemons.el"
+HOMEPAGE="https://github.com/minad/dicom"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/compat"
+RDEPEND="app-emacs/compat"
