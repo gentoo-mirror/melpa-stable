@@ -1696,7 +1696,7 @@ app-emacs/lem 0.22: A lemmy client
 app-emacs/lentic 0.11: One buffer as a view of another
 app-emacs/less-css-mode 0.21: Major mode for editing LESS CSS files (lesscss.org)
 app-emacs/letcheck 0.4: Check the erroneous assignments in let forms
-app-emacs/leuven-theme 1.2.1: Elegant Emacs color theme for a white background
+app-emacs/leuven-theme 1.2.2: Elegant Emacs color theme for a white background
 app-emacs/lfe-mode 2.1.5: Lisp Flavoured Erlang mode
 app-emacs/libbcel 0.4.0: Library to connect to basecamp 3 API
 app-emacs/libelcouch 0.11.0: Communication with CouchDB
@@ -2138,8 +2138,8 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 1.9.15: Link org-id entries into a network
-app-emacs/org-node-fakeroam 1.6.4: Stand-ins for org-roam-autosync-mode
+app-emacs/org-node 1.9.16: Link org-id entries into a network
+app-emacs/org-node-fakeroam 1.6.5: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
 app-emacs/org-page 0.41: A static site generator based on org mode
