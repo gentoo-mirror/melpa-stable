@@ -1461,6 +1461,7 @@ app-emacs/hyperdrive-org-transclusion 0.3.1: Tranclude hyperdrive content
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
 app-emacs/hyperstitional-themes 1.2.0: Weird themes with incremental palettes
+app-emacs/hyprlang-ts-mode 1.0.0: Major mode for editing hyprland configuration files
 app-emacs/ialign 0.5.0: Visual align-regexp
 app-emacs/ibrowse 0.2.3: Interact with your browser
 app-emacs/ibuffer-project 2.1: Group ibuffer's list by project or any function
@@ -1741,7 +1742,7 @@ app-emacs/logito 0.2.0: Logging library for Emacs
 app-emacs/logms 0.3.1: Log message with clickable links to context
 app-emacs/lognav-mode 0.0.8: Navigate Log Error Messages
 app-emacs/logstash-conf 0.4: Basic mode for editing logstash configuration
-app-emacs/logview 0.19: Major mode for viewing log files
+app-emacs/logview 0.19.1: Major mode for viewing log files
 app-emacs/loop 1.3: Friendly imperative loop structures
 app-emacs/loophole 0.8.3: Manage temporary key bindings
 app-emacs/loopy 0.13.0: A looping macro
@@ -1855,7 +1856,7 @@ app-emacs/mew 6.9: Messaging in the Emacs World
 app-emacs/meyvn 1.4: Meyvn client
 app-emacs/mgmtconfig-mode 0.0.26: Mgmt configuration management language
 app-emacs/mhc 1.2.7: Message Harmonized Calendaring system
-app-emacs/miasma-theme 1.4.0: Miasma: color theme inspired by the woods
+app-emacs/miasma-theme 1.5.0: Miasma: color theme inspired by the woods
 app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 0.4: Command line search and direct jump with Milkode
