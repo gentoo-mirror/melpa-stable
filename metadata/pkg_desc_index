@@ -2074,7 +2074,7 @@ app-emacs/org-agenda-files-track 0.4.0: Fine-track `org-agenda-files' to speed-u
 app-emacs/org-agenda-files-track-ql 0.4.0: Fine-track `org-agenda-files' to speed-up `org-ql-views'
 app-emacs/org-agenda-property 1.3.1: Display org properties in the agenda buffer
 app-emacs/org-ai 0.5.4: Use ChatGPT and other LLMs in org-mode and beyond
-app-emacs/org-alert 0.2.0: Notify org deadlines via notify-send
+app-emacs/org-alert 0.3.0: Notify org deadlines via notify-send
 app-emacs/org-analyzer 1.0.4: Org-analyzer is a tool that extracts time tracking data from org files
 app-emacs/org-anki 3.3.2: Synchronize org-mode entries to Anki
 app-emacs/org-appear 0.3.1: Auto-toggle Org elements
