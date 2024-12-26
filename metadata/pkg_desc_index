@@ -221,7 +221,7 @@ app-emacs/borg 4.1.2: Assimilate Emacs packages as Git submodules
 app-emacs/boxes 2.3.1: ASCII boxes unlimited!
 app-emacs/boxquote 2.3: Quote text with a semi-box
 app-emacs/brazilian-holidays 2.1.3: Brazilian holidays
-app-emacs/brf 2.0: Brf-mode provides features from the legendary editor Brief
+app-emacs/brf 2.1: Brf-mode provides features from the legendary editor Brief
 app-emacs/brightscript-mode 1.1.0: Major mode for editing Brightscript files
 app-emacs/browse-at-remote 0.14.0: Open github/gitlab/bitbucket/stash/gist/phab/sourcehut page from Emacs
 app-emacs/browse-kill-ring 2.0.0: Interactively insert items from kill-ring
@@ -772,7 +772,7 @@ app-emacs/embark-org-roam 0.2: Embark export buffer for org roam nodes
 app-emacs/embrace 0.1.4: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 1.1.0: Test runner and report viewer for Midje
 app-emacs/emmet-mode 1.0.8: Unofficial Emmet's support for emacs
-app-emacs/emms 20.2: The Emacs Multimedia System
+app-emacs/emms 21: The Emacs Multimedia System
 app-emacs/emms-mode-line-cycle 0.2.5: Display the emms mode line as a ticker
 app-emacs/emms-player-simple-mpv 0.4.0: An extension of emms-player-simple.el for mpv JSON IPC
 app-emacs/emms-player-spotify 0.1: Spotify player for EMMS
@@ -1653,7 +1653,7 @@ app-emacs/kill-dollar-mode 1.0.0: Remove leading $ from shell-script-like text
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: Incremental search for the kill ring
 app-emacs/killer 1.0.0: Kill and delete text
-app-emacs/kivy-mode 2.3.0: Emacs major mode for editing Kivy files
+app-emacs/kivy-mode 2.3.1: Emacs major mode for editing Kivy files
 app-emacs/klondike 1.2.0: Klondike
 app-emacs/know-your-http-well 0.6.0: Look up the meaning of HTTP headers, methods, relations, status codes
 app-emacs/ksp-cfg-mode 0.6: Major mode for editing KSP CFG files
