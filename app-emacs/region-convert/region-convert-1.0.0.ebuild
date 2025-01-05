@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Convert string in region by Lisp function"
 
-HOMEPAGE="https://github.com/zonuexe/region-convert.el"
+HOMEPAGE="https://github.com/zonuexe/right-click-context"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

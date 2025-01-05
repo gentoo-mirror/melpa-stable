@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A dark but vibrant color theme for Emacs"
 
-HOMEPAGE="https://github.com/myTerminal/overcast-theme"
+HOMEPAGE="http://ismail.teamfluxion.com"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

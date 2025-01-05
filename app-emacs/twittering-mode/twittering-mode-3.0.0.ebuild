@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Twitter"
 
-HOMEPAGE="https://github.com/hayamiz/twittering-mode"
+HOMEPAGE="http://twmode.sf.net/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

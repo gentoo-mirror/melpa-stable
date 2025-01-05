@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major-mode for easy buffer-navigation"
 
-HOMEPAGE="https://github.com/alphapapa/navi"
+HOMEPAGE="https://github.com/tj64/navi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

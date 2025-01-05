@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Zone out with a tmux style clock"
 
-HOMEPAGE="https://depp.brause.cc/zone-tmux-clock.git"
+HOMEPAGE="https://depp.brause.cc/zone-tmux-clock"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

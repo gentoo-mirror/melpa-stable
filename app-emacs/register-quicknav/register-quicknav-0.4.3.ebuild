@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quickly jump to next/previous register"
 
-HOMEPAGE="https://schlomp.space/tastytea/register-quicknav.git"
+HOMEPAGE="https://schlomp.space/tastytea/register-quicknav"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Functions for setting multiple hooks"
 
-HOMEPAGE="https://github.com/nickserv/add-hooks"
+HOMEPAGE="https://github.com/nickmccurdy/add-hooks"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

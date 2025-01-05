@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Manipulate Clojure parse trees"
 
-HOMEPAGE="https://github.com/corgi-emacs/walkclj"
+HOMEPAGE="https://github.com/plexus/walkclj"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

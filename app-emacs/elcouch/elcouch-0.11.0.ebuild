@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="View and manipulate CouchDB databases"
 
-HOMEPAGE="https://github.com/DamienCassou/elcouch"
+HOMEPAGE="https://gitlab.petton.fr/DamienCassou/elcouch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Auto indent Minor mode"
 
-HOMEPAGE="https://github.com/mattfidler/auto-indent-mode.el"
+HOMEPAGE="https://github.com/mlf176f2/auto-indent-mode.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

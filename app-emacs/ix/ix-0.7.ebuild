@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs client for http://ix.io pastebin"
 
-HOMEPAGE="https://github.com/theanalyst/ix.el"
+HOMEPAGE="http://www.github.com/theanalyst/ix.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

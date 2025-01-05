@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interface to Poetry"
 
-HOMEPAGE="https://github.com/cybniv/poetry.el"
+HOMEPAGE="https://github.com/galaunay/poetry.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

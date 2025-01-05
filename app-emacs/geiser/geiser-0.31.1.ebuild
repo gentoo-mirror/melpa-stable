@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="GNU Emacs and Scheme talk to each other"
 
-HOMEPAGE="https://gitlab.com/emacs-geiser/geiser"
+HOMEPAGE="https://gitlab.com/emacs-geiser/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

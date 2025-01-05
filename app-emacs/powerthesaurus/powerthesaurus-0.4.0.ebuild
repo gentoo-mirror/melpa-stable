@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Powerthesaurus integration"
 
-HOMEPAGE="https://github.com/SavchenkoValeriy/emacs-powerthesaurus"
+HOMEPAGE="http://github.com/SavchenkoValeriy/emacs-powerthesaurus"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

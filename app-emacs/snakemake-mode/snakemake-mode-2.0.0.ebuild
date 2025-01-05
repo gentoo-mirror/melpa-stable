@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Snakemake files"
 
-HOMEPAGE="https://github.com/kyleam/snakemake-mode"
+HOMEPAGE="https://git.kyleam.com/snakemake-mode/about"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Jump to references/definitions using ag & js2-mode's AST"
 
-HOMEPAGE="https://github.com/js-emacs/xref-js2"
+HOMEPAGE="https://github.com/NicolasPetton/xref-js2"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

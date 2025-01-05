@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert <script src=\"..\"> for popular JavaScript libraries"
 
-HOMEPAGE="https://github.com/rejeep/html-script-src.el"
+HOMEPAGE="http://github.com/rejeep/html-script-src"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

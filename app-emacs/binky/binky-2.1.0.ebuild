@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Jump between points like a rabbit"
 
-HOMEPAGE="https://github.com/liuyinz/binky.el"
+HOMEPAGE="https://github.com/liuyinz/binky-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

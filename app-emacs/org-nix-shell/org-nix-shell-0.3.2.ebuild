@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org local nix-shell"
 
-HOMEPAGE="https://github.com/AntonHakansson/org-nix-shell"
+HOMEPAGE="https://github.com/AntonHakansson/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

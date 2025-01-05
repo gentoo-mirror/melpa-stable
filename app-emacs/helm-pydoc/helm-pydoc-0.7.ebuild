@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pydoc with helm interface"
 
-HOMEPAGE="https://github.com/emacsorphanage/helm-pydoc"
+HOMEPAGE="https://github.com/syohex/emacs-helm-pydoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

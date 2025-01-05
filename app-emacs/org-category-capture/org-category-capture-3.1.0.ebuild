@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Contextualy capture of org-mode TODOs"
 
-HOMEPAGE="https://github.com/colonelpanic8/org-project-capture"
+HOMEPAGE="https://github.com/IvanMalison/org-project-capture"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

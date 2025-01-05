@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Easily resize windows"
 
-HOMEPAGE="https://github.com/dpsutton/resize-window"
+HOMEPAGE="https://github.com/dpsutton/resize-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sync org files with external calendar through CalDAV"
 
-HOMEPAGE="https://github.com/dengste/org-caldav"
+HOMEPAGE="https://github.com/dengste/org-caldav/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Popup documentation for completion candidates"
 
-HOMEPAGE="https://github.com/company-mode/company-quickhelp"
+HOMEPAGE="https://www.github.com/expez/company-quickhelp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="File slideshow"
 
-HOMEPAGE="https://github.com/mhayashi1120/Emacs-slideview"
+HOMEPAGE="https://github.com/mhayashi1120/Emacs-slideview/raw/master/slideview.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

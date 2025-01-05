@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Consult interface for codesearch"
 
-HOMEPAGE="https://github.com/youngker/consult-codesearch.el"
+HOMEPAGE="https://github.com/youngker/consult-codesearch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Edit Sudo security policies"
 
-HOMEPAGE="https://gitlab.com/mavit/etc-sudoers-mode"
+HOMEPAGE="https://gitlab.com/mavit/etc-sudoers-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

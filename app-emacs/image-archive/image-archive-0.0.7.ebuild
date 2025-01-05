@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Image thumbnails in archive file with non-blocking"
 
-HOMEPAGE="https://github.com/mhayashi1120/Emacs-image-archive"
+HOMEPAGE="https://github.com/mhayashi1120/Emacs-image-archive/raw/master/image-archive.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

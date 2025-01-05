@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Information about packages"
 
-HOMEPAGE="https://github.com/emacsorphanage/pkg-info"
+HOMEPAGE="https://github.com/lunaryorn/pkg-info.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

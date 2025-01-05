@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Slim files"
 
-HOMEPAGE="https://github.com/slim-template/emacs-slim"
+HOMEPAGE="http://github.com/minad/emacs-slim"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

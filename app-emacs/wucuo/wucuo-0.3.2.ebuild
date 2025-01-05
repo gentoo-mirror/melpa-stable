@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fastest solution to spell check camel case code or plain text"
 
-HOMEPAGE="https://github.com/redguardtoo/wucuo"
+HOMEPAGE="http://github.com/redguardtoo/wucuo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

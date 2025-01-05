@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display a git project status in a dashboard widget"
 
-HOMEPAGE="https://github.com/functionreturnfunction/dashboard-project-status"
+HOMEPAGE="https://github.com/functionreturnfurnction/dashboard-project-status"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

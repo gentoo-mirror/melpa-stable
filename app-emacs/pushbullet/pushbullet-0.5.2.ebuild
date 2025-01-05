@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs client for the PushBullet Android app"
 
-HOMEPAGE="https://github.com/theanalyst/revolver"
+HOMEPAGE="http://www.github.com/theanalyst/revolver"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

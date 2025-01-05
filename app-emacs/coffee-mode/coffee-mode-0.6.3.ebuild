@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for CoffeeScript code"
 
-HOMEPAGE="https://github.com/defunkt/coffee-mode"
+HOMEPAGE="http://github.com/defunkt/coffee-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

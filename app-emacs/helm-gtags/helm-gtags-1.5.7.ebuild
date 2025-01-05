@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="GNU GLOBAL helm interface"
 
-HOMEPAGE="https://github.com/emacsorphanage/helm-gtags"
+HOMEPAGE="https://github.com/syohex/emacs-helm-gtags"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

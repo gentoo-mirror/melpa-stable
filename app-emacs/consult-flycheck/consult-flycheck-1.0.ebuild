@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Provides the command \`consult-flycheck'"
 
-HOMEPAGE="https://github.com/minad/consult-flycheck"
+HOMEPAGE="https://github.com/minad/consult"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

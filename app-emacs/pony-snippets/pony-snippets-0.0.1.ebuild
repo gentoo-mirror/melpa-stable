@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Yasnippets for Pony"
 
-HOMEPAGE="https://github.com/ponylang/pony-snippets"
+HOMEPAGE="https://github.com/seantallen/pony-snippets"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Highlight by brightness of text and background"
 
-HOMEPAGE="https://codeberg.org/Anoncheg/selected-window-contrast"
+HOMEPAGE="https://github.com/Anoncheg1/selected-window-contrast"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

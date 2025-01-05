@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fast, dynamic bindings for window-switching/resizing"
 
-HOMEPAGE="https://github.com/genovese/win-switch"
+HOMEPAGE="http://www.stat.cmu.edu/~genovese/emacs/win-switch/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

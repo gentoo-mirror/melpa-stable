@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mode-specific scratch buffers"
 
-HOMEPAGE="https://codeberg.org/emacs-weirdware/scratch"
+HOMEPAGE="https://github.com/ieure/scratch-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

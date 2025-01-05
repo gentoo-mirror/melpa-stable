@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Concurrent utility functions for emacs lisp"
 
-HOMEPAGE="https://github.com/kiwanami/emacs-deferred"
+HOMEPAGE="https://github.com/kiwanami/emacs-deferred/blob/master/README-concurrent.markdown"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

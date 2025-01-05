@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Cyclic Redundancy Check"
 
-HOMEPAGE="https://codeberg.org/WammKD/Emacs-CRC"
+HOMEPAGE="https://codeberg.org/Nzgg/Emacs-CRC"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

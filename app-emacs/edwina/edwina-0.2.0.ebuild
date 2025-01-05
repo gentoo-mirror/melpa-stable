@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Dynamic window manager"
 
-HOMEPAGE="https://gitlab.com/ajgrf/edwina"
+HOMEPAGE="https://github.com/ajgrf/edwina"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

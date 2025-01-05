@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode API client for status.net open microblogging"
 
-HOMEPAGE="https://github.com/gabrielsaldana/Emacs-Identica-mode"
+HOMEPAGE="http://blog.gabrielsaldana.org/identica-mode-for-emacs/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

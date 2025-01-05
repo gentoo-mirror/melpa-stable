@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A quick cursor location minor mode for emacs"
 
-HOMEPAGE="https://github.com/winterTTr/ace-jump-mode"
+HOMEPAGE="https://github.com/winterTTr/ace-jump-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

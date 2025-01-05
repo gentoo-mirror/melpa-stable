@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Hde dotfiles in dired"
 
-HOMEPAGE="https://github.com/mattiasb/dired-hide-dotfiles"
+HOMEPAGE="https://github.com/mattiasb/.emacs.d"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

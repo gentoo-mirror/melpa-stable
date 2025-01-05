@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A helm extension for sage-shell-mode"
 
-HOMEPAGE="https://github.com/sagemath/helm-sage"
+HOMEPAGE="https://github.com/stakemori/helm-sage"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

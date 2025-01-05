@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Send ical calendar invites by email"
 
-HOMEPAGE="https://git.systemreboot.net/varuga/"
+HOMEPAGE="https://git.systemreboot.net/varuga"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

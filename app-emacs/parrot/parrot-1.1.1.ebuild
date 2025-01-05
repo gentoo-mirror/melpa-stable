@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Party Parrot rotates gracefully in mode-line"
 
-HOMEPAGE="https://github.com/dp12/parrot"
+HOMEPAGE="https://github.com/dp12/parrot.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

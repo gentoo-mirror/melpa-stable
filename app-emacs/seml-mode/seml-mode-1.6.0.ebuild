@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major-mode for SEML, S-Expression Markup Language, file"
 
-HOMEPAGE="https://github.com/conao3/seml-mode.el"
+HOMEPAGE="https://github.com/conao3/seml-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

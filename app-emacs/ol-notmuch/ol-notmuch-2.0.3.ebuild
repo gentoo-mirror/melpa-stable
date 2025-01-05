@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Links to notmuch messages"
 
-HOMEPAGE="https://github.com/tarsius/ol-notmuch"
+HOMEPAGE="https://git.sr.ht/~tarsius/ol-notmuch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A retro-groove colour theme for Emacs"
 
-HOMEPAGE="https://github.com/greduan/emacs-theme-gruvbox"
+HOMEPAGE="http://github.com/greduan/emacs-theme-gruvbox"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

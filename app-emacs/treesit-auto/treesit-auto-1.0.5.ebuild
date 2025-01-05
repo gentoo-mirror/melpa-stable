@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatically use tree-sitter enhanced major modes"
 
-HOMEPAGE="https://github.com/renzmann/treesit-auto"
+HOMEPAGE="https://github.com/renzmann/treesit-auto.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

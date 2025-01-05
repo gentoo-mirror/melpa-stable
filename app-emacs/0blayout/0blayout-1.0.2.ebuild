@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Layout grouping with ease"
 
-HOMEPAGE="https://github.com/etu/0blayout-mode"
+HOMEPAGE="https://github.com/etu/0blayout"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

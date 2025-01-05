@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Makes ido-mode display vertically"
 
-HOMEPAGE="https://github.com/creichert/ido-vertical-mode.el"
+HOMEPAGE="https://github.com/gempesaw/ido-vertical-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A modular front-end for interacting with external debuggers"
 
-HOMEPAGE="https://github.com/realgud/realgud"
+HOMEPAGE="http://github.com/realgud/realgud/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

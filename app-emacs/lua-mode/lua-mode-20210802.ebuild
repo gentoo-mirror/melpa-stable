@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A major-mode for editing Lua scripts"
 
-HOMEPAGE="https://github.com/immerrr/lua-mode"
+HOMEPAGE="http://immerrr.github.com/lua-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

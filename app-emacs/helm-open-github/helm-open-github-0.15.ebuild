@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Utilities of Opening Github Page"
 
-HOMEPAGE="https://github.com/emacsorphanage/helm-open-github"
+HOMEPAGE="https://github.com/syohex/emacs-helm-open-github"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

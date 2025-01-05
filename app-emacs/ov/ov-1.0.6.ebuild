@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Overlay library for Emacs Lisp"
 
-HOMEPAGE="https://github.com/emacsorphanage/ov"
+HOMEPAGE="https://github.com/ShingoFukuyama/ov.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

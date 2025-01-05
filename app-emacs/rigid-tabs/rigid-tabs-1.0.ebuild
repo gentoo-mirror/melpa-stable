@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Rigidify and adjust the visual alignment of TABs"
 
-HOMEPAGE="https://gitlab.com/wavexx/rigid-tabs.el"
+HOMEPAGE="https://github.com/wavexx/rigid-tabs.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

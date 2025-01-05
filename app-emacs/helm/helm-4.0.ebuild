@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm is an Emacs incremental and narrowing framework"
 
-HOMEPAGE="https://github.com/emacs-helm/helm"
+HOMEPAGE="https://emacs-helm.github.io/helm/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

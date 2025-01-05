@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quickly surround text with delimiters"
 
-HOMEPAGE="https://github.com/nivekuil/corral"
+HOMEPAGE="http://github.com/nivekuil/corral"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

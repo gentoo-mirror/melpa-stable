@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fuzzy Search Library & Completing Read"
 
-HOMEPAGE="https://github.com/grizzl/grizzl"
+HOMEPAGE="https://github.com/d11wtq/grizzl"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

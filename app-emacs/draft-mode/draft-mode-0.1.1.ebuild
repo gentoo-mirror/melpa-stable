@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Rough drafting for Emacs"
 
-HOMEPAGE="https://gitlab.com/gaudecker/draft-mode"
+HOMEPAGE="https://github.com/gaudecker/draft-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

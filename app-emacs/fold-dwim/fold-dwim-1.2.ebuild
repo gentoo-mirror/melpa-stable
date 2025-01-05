@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="[No description available]"
 
-HOMEPAGE="https://github.com/emacsattic/fold-dwim"
+HOMEPAGE="http://www.dur.ac.uk/p.j.heslin/emacs/download/fold-dwim.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A static site generator based on org mode"
 
-HOMEPAGE="https://github.com/emacsorphanage/org-page"
+HOMEPAGE="https://github.com/kelvinh/org-page"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

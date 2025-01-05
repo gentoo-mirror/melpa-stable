@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A front-end for rtags"
 
-HOMEPAGE="https://github.com/Andersbakken/rtags"
+HOMEPAGE="http://rtags.net"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

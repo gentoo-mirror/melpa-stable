@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Serve buffers live over HTTP"
 
-HOMEPAGE="https://github.com/skeeto/impatient-mode"
+HOMEPAGE="https://github.com/netguy204/imp.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display Flycheck error messages using popup.el"
 
-HOMEPAGE="https://github.com/flycheck/flycheck-popup-tip"
+HOMEPAGE="https://github.com/flycheck/flycheck-popup-tip/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

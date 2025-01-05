@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Yet another snippet extension for Emacs"
 
-HOMEPAGE="https://github.com/joaotavora/yasnippet"
+HOMEPAGE="http://github.com/joaotavora/yasnippet"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

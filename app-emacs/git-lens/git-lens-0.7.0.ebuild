@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show new, deleted or modified files in branch"
 
-HOMEPAGE="https://codeberg.org/pidu/git-lens"
+HOMEPAGE="https://github.com/pidu/git-lens"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

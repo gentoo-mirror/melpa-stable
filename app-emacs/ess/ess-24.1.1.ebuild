@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs Speaks Statistics"
 
-HOMEPAGE="https://github.com/emacs-ess/ESS"
+HOMEPAGE="https://ess.r-project.org/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Get issues list when typing \"Fixes #\""
 
-HOMEPAGE="https://gitlab.com/emacs-stuff/git-commit-insert-issue"
+HOMEPAGE="https://gitlab.com/emacs-stuff/git-commit-insert-issue/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

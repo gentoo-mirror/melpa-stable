@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Grammarly API interface"
 
-HOMEPAGE="https://github.com/emacs-grammarly/grammarly"
+HOMEPAGE="https://github.com/jcs-elpa/grammarly"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

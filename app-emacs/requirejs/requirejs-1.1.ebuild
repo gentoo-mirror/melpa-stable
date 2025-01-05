@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Requirejs import manipulation and source traversal"
 
-HOMEPAGE="https://github.com/joeheyming/requirejs-emacs"
+HOMEPAGE="https://github.com/syohex/requirejs-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

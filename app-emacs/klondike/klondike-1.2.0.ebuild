@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Klondike"
 
-HOMEPAGE="https://codeberg.org/WammKD/Emacs-Klondike"
+HOMEPAGE="https://codeberg.org/Nzgg/Emacs-Klondike"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

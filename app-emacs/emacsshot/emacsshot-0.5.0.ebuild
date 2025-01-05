@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Snapshot a frame or window from within"
 
-HOMEPAGE="https://gitlab.com/marcowahl/emacsshot"
+HOMEPAGE="https://github.com/marcowahl/emacsshot"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

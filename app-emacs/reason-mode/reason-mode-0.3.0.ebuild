@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A major emacs mode for editing Reason (based on rust-mode)"
 
-HOMEPAGE="https://github.com/reasonml-editor/reason-mode"
+HOMEPAGE="https://github.com/arichiardi/reason-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

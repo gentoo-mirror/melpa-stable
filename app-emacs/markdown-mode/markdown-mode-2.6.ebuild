@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Markdown-formatted text"
 
-HOMEPAGE="https://github.com/jrblevin/markdown-mode"
+HOMEPAGE="https://jblevins.org/projects/markdown-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

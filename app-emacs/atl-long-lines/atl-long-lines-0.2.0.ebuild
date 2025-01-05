@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Turn off truncate-lines when the line is long"
 
-HOMEPAGE="https://github.com/jcs-legacy/atl-long-lines"
+HOMEPAGE="https://github.com/jcs-elpa/atl-long-lines"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

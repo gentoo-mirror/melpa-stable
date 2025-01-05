@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An auto-magical, which-key-based hydra banisher"
 
-HOMEPAGE="https://github.com/cyruseuros/hercules"
+HOMEPAGE="https://gitlab.com/jjzmajic/hercules"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

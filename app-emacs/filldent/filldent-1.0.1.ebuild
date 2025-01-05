@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fill or indent"
 
-HOMEPAGE="https://codeberg.org/acdw/filldent.el"
+HOMEPAGE="https://github.com/duckwork/filldent.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

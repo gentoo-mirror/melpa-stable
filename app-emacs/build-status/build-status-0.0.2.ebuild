@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mode line build status indicator"
 
-HOMEPAGE="https://github.com/sshaw/build-status"
+HOMEPAGE="http://github.com/sshaw/build-status"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

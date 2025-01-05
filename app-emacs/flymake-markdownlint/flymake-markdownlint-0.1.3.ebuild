@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Markdown linter with markdownlint"
 
-HOMEPAGE="https://codeberg.org/shaohme/flymake-markdownlint"
+HOMEPAGE="https://github.com/shaohme/flymake-markdownlint"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

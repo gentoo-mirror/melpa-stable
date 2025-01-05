@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tab-based indentation for haskell-mode"
 
-HOMEPAGE="https://git.spwhitton.name/haskell-tab-indent"
+HOMEPAGE="https://spwhitton.name/tech/code/haskell-tab-indent/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

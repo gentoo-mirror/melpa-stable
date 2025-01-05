@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="The Emacs StartUp Profiler (ESUP)"
 
-HOMEPAGE="https://github.com/jschaf/esup"
+HOMEPAGE="http://github.com/jschaf/esup"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

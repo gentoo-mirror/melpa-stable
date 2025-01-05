@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Wrap text with punctation or tag"
 
-HOMEPAGE="https://github.com/rejeep/wrap-region.el"
+HOMEPAGE="http://github.com/rejeep/wrap-region"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

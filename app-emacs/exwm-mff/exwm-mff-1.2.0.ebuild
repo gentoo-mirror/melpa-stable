@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mouse Follows Focus"
 
-HOMEPAGE="https://codeberg.org/emacs-weirdware/exwm-mff"
+HOMEPAGE="https://github.com/ieure/exwm-mff"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

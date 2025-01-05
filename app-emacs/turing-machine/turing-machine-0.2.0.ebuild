@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Single-tape Turing machine simulator"
 
-HOMEPAGE="https://github.com/dieggsy/turing-machine"
+HOMEPAGE="http://github.com/therockmandolinist/turing-machine"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

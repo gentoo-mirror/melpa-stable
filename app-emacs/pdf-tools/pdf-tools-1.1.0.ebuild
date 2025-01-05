@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Support library for PDF documents"
 
-HOMEPAGE="https://github.com/vedang/pdf-tools"
+HOMEPAGE="http://github.com/vedang/pdf-tools/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

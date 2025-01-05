@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="The php-cs-fixer wrapper"
 
-HOMEPAGE="https://github.com/pivaldi/php-cs-fixer"
+HOMEPAGE="https://github.com/OVYA/php-cs-fixer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

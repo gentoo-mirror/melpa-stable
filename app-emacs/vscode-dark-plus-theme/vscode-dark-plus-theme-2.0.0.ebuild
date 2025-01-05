@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Default Visual Studio Code Dark+ theme"
 
-HOMEPAGE="https://github.com/ianyepan/vscode-dark-plus-emacs-theme"
+HOMEPAGE="https://github.com/ianpan870102/vscode-dark-plus-emacs-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatically apply LLM-created code-suggestions"
 
-HOMEPAGE="https://github.com/lanceberge/elysium"
+HOMEPAGE="https://github.com/lanceberge/elysium/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

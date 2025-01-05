@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Contextual terminal management"
 
-HOMEPAGE="https://github.com/colonelpanic8/term-manager"
+HOMEPAGE="https://www.github.com/IvanMalison/term-manager"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

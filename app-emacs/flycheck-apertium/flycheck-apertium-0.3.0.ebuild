@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Apertium checkers in flycheck"
 
-HOMEPAGE="https://github.com/unhammer/flycheck-apertium"
+HOMEPAGE="http://wiki.apertium.org/wiki/Emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

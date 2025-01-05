@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Utilities for navigating vhdl sources"
 
-HOMEPAGE="https://gitlab.com/emacs-elisp/vhdl-tools"
+HOMEPAGE="https://github.com/csantosb/vhdl-tools/wiki"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

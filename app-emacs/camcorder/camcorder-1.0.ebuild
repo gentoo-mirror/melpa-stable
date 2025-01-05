@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Record screencasts in gif or other formats"
 
-HOMEPAGE="https://github.com/Malabarba/camcorder.el"
+HOMEPAGE="http://github.com/Bruce-Connor/camcorder.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

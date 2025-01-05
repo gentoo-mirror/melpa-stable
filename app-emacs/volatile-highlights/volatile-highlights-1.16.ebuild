@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for visual feedback on some operations"
 
-HOMEPAGE="https://github.com/k-talo/volatile-highlights.el"
+HOMEPAGE="http://www.emacswiki.org/emacs/download/volatile-highlights.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

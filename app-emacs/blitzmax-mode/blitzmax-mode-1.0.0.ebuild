@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A major mode for editing BlitzMax source code"
 
-HOMEPAGE="https://github.com/Sodaware/blitzmax-mode"
+HOMEPAGE="https://www.sodaware.net/dev/tools/blitzmax-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Haml files"
 
-HOMEPAGE="https://github.com/nex3/haml-mode"
+HOMEPAGE="http://github.com/nex3/haml/tree/master"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

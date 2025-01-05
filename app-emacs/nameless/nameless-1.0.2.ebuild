@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Hide package namespace in your emacs-lisp code"
 
-HOMEPAGE="https://github.com/Malabarba/Nameless"
+HOMEPAGE="https://github.com/Malabarba/nameless"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

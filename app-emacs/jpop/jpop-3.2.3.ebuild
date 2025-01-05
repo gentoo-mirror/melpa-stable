@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Lightweight project cacheing and navigation framework"
 
-HOMEPAGE="https://github.com/domtronn/jpop.el"
+HOMEPAGE="https://github.com/domtronn/jpop"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

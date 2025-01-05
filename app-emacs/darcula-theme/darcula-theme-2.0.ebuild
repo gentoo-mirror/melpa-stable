@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Inspired by IntelliJ's Darcula theme"
 
-HOMEPAGE="https://gitlab.com/fommil/emacs-darcula-theme"
+HOMEPAGE="https://github.com/fommil/darcula-theme-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

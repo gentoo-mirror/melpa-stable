@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Edit a single list"
 
-HOMEPAGE="https://github.com/emacsmirror/edit-list"
+HOMEPAGE="http://mwolson.org/static/dist/elisp/edit-list.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

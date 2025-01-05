@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Manage the external elisp bits and pieces you depend upon"
 
-HOMEPAGE="https://github.com/dimitri/el-get"
+HOMEPAGE="http://www.emacswiki.org/emacs/el-get"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

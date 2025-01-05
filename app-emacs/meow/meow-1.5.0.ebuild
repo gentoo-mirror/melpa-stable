@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Yet Another modal editing"
 
-HOMEPAGE="https://github.com/meow-edit/meow"
+HOMEPAGE="https://www.github.com/DogLooksGood/meow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

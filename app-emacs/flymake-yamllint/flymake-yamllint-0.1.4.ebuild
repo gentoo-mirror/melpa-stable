@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="YAML linter with yamllint"
 
-HOMEPAGE="https://codeberg.org/shaohme/flymake-yamllint"
+HOMEPAGE="https://github.com/shaohme/flymake-yamllint"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

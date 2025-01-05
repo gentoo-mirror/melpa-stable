@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add local todo items to the magit status buffer"
 
-HOMEPAGE="https://github.com/danielma/magit-org-todos.el"
+HOMEPAGE="http://github.com/danielma/magit-org-todos"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

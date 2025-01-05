@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display maildirs as a tree"
 
-HOMEPAGE="https://github.com/tarsius/notmuch-maildir"
+HOMEPAGE="https://git.sr.ht/~tarsius/notmuch-maildir"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

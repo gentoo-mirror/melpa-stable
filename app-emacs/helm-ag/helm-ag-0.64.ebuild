@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="The silver searcher with helm interface"
 
-HOMEPAGE="https://github.com/emacsorphanage/helm-ag"
+HOMEPAGE="https://github.com/syohex/emacs-helm-ag"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

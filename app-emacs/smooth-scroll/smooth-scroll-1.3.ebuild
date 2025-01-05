@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for smooth scrolling and in-place scrolling"
 
-HOMEPAGE="https://github.com/k-talo/smooth-scroll.el"
+HOMEPAGE="http://www.emacswiki.org/emacs/download/smooth-scroll.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

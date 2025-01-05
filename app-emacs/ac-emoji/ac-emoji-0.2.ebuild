@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Auto-complete source of Emoji"
 
-HOMEPAGE="https://github.com/emacsorphanage/ac-emoji"
+HOMEPAGE="https://github.com/syohex/emacs-ac-emoji"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An atcoder-tools client"
 
-HOMEPAGE="https://github.com/sei40kr/emacs-atcoder-tools"
+HOMEPAGE="https://github.com/sei40kr/atcoder-tools"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

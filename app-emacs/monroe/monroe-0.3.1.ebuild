@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Yet another client for nREPL"
 
-HOMEPAGE="https://github.com/sanel/monroe"
+HOMEPAGE="http://www.github.com/sanel/monroe"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

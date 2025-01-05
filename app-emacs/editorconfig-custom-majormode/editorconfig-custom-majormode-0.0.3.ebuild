@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Decide major-mode and mmm-mode from EditorConfig"
 
-HOMEPAGE="https://github.com/10sr/editorconfig-custom-majormode-el"
+HOMEPAGE="https://github.com/10sr/editorconfig-custom-major-mode-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

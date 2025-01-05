@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ecukes step definitions"
 
-HOMEPAGE="https://github.com/ecukes/espuds"
+HOMEPAGE="http://github.com/ecukes/espuds"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Manage multiple terminals and run commands on them"
 
-HOMEPAGE="https://github.com/sagarjha/multi-run"
+HOMEPAGE="https://www.github.com/sagarjha/multi-run"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

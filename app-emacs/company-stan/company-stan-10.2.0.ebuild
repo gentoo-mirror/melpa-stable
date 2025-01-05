@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A company-mode completion backend for stan"
 
-HOMEPAGE="https://github.com/stan-dev/stan-mode"
+HOMEPAGE="https://github.com/stan-dev/stan-mode/tree/master/company-stan"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

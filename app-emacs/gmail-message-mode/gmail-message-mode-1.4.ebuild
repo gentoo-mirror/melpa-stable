@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A major-mode for editing gmail messages using markdown syntax"
 
-HOMEPAGE="https://github.com/Malabarba/gmail-mode"
+HOMEPAGE="http://github.com/Bruce-Connor/gmail-message-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

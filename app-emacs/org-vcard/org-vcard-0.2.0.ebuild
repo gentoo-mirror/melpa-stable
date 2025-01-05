@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-mode support for vCard export and import"
 
-HOMEPAGE="https://github.com/pinoaffe/org-vcard"
+HOMEPAGE="https://github.com/flexibeast/org-vcard"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

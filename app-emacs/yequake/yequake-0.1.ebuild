@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Drop-down frames, like Yakuake"
 
-HOMEPAGE="https://github.com/alphapapa/yequake"
+HOMEPAGE="http://github.com/alphapapa/yequake"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

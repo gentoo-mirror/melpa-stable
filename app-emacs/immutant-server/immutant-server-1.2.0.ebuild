@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run your Immutant server in Emacs"
 
-HOMEPAGE="https://github.com/leathekd/immutant-server.el"
+HOMEPAGE="http://www.github.com/leathekd/immutant-server.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

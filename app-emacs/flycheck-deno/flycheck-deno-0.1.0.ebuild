@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flycheck for deno-lint"
 
-HOMEPAGE="https://github.com/flycheck/flycheck-deno"
+HOMEPAGE="https://github.com/jcs-elpa/flycheck-deno"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

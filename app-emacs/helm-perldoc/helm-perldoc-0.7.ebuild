@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Perldoc with helm interface"
 
-HOMEPAGE="https://github.com/emacsorphanage/helm-perldoc"
+HOMEPAGE="https://github.com/syohex/emacs-helm-perldoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

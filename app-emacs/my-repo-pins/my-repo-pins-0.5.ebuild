@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Keep your git repositories organized"
 
-HOMEPAGE="https://github.com/picnoir/my-repo-pins"
+HOMEPAGE="https://alternativebit.fr/projects/my-repo-pins/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

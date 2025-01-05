@@ -3,11 +3,11 @@ DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpa
 DEPEND=app-emacs/helm app-emacs/rtags
 DESCRIPTION=A front-end for rtags
 EAPI=8
-HOMEPAGE=https://github.com/Andersbakken/rtags
+HOMEPAGE=http://rtags.net
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/helm app-emacs/rtags >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/helm-rtags-3.23.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=a0ba932d21d423d97b6d05d083b24e3c
+_md5_=3b4c7fb7a48c1d18abc6f0461e4b0e28

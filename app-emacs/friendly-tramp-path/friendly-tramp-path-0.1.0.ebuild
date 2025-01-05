@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Human-friendly TRAMP path construction"
 
-HOMEPAGE="https://github.com/p3r7/friendly-tramp-path"
+HOMEPAGE="https://github.com/p3r7/prf-tramp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

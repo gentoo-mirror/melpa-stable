@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pony support in Flycheck"
 
-HOMEPAGE="https://github.com/ponylang/flycheck-pony"
+HOMEPAGE="https://github.com/seantallen/flycheck-pony"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

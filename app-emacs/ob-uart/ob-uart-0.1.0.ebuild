@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-babel support for UART communication"
 
-HOMEPAGE="https://github.com/andrmuel/ob-uart"
+HOMEPAGE="https://www.0x7.ch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

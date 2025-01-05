@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A soothing Emacs 24 light-on-dark theme"
 
-HOMEPAGE="https://github.com/jimeh/twilight-anti-bright-theme"
+HOMEPAGE="https://github.com/jimeh/twilight-anti-bright-theme.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

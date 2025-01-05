@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Company-mode completion back-end for irony-mode"
 
-HOMEPAGE="https://github.com/Sarcasm/company-irony"
+HOMEPAGE="https://github.com/Sarcasm/company-irony/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

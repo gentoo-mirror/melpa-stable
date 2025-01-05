@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Try out Emacs packages"
 
-HOMEPAGE="https://github.com/larstvei/Try"
+HOMEPAGE="http://github.com/larstvei/try"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

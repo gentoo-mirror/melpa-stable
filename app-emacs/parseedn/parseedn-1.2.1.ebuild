@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Clojure/EDN parser"
 
-HOMEPAGE="https://github.com/clojure-emacs/parseedn"
+HOMEPAGE="http://www.github.com/clojure-emacs/parseedn"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

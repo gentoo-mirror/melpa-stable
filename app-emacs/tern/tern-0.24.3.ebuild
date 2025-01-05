@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tern-powered JavaScript integration"
 
-HOMEPAGE="https://github.com/ternjs/tern"
+HOMEPAGE="http://ternjs.net/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

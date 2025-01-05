@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add some help functions and support for Eshell"
 
-HOMEPAGE="https://github.com/tom-tan/esh-help"
+HOMEPAGE="https://github.com/tom-tan/esh-help/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

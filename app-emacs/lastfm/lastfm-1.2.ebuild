@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Last.fm API for Emacs Lisp"
 
-HOMEPAGE="https://github.com/mihaiolteanu/lastfm.el"
+HOMEPAGE="https://github.com/mihaiolteanu/lastfm.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

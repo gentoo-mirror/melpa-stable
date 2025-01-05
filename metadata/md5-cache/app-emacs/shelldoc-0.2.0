@@ -3,11 +3,11 @@ DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpa
 DEPEND=app-emacs/s
 DESCRIPTION=Shell command editing support with man page
 EAPI=8
-HOMEPAGE=https://github.com/mhayashi1120/Emacs-shelldoc
+HOMEPAGE=http://github.com/mhayashi1120/Emacs-shelldoc
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/s >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/shelldoc-0.2.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=f0370ed3c4049c2b4d8e28f4d3419932
+_md5_=cfd4ea5e2ab2694b1a4486422fb66ddf

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Using posframe to show which-key"
 
-HOMEPAGE="https://github.com/emacsorphanage/which-key-posframe"
+HOMEPAGE="https://github.com/yanghaoxie/which-key-posframe"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

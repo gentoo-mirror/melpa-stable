@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Reverse theme for Emacs"
 
-HOMEPAGE="https://github.com/emacsorphanage/reverse-theme"
+HOMEPAGE="https://github.com/syohex/emacs-reverse-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

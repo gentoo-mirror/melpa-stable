@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ansible documentation Minor Mode"
 
-HOMEPAGE="https://github.com/emacsorphanage/ansible-doc"
+HOMEPAGE="https://github.com/lunaryorn/ansible-doc.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

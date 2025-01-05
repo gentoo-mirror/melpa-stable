@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs client for Jenkins"
 
-HOMEPAGE="https://github.com/AshtonKem/Butler"
+HOMEPAGE="http://www.github.com/AshtonKem/Butler.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Completing read function for robe"
 
-HOMEPAGE="https://github.com/emacsorphanage/helm-robe"
+HOMEPAGE="https://github.com/syohex/emacs-helm-robe"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

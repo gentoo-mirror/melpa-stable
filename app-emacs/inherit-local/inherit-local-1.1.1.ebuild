@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Inherited buffer-local variables"
 
-HOMEPAGE="https://github.com/shlevy/inherit-local"
+HOMEPAGE="https://github.com/shlevy/inherit-local/tree-master/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

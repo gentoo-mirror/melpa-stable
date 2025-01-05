@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Enhance filetype major mode"
 
-HOMEPAGE="https://github.com/emacs-php/magic-filetype.el"
+HOMEPAGE="https://github.com/zonuexe/magic-filetype.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

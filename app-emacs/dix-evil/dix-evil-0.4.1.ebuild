@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Optional evil-integration with dix.el"
 
-HOMEPAGE="https://github.com/unhammer/dix"
+HOMEPAGE="http://wiki.apertium.org/wiki/Emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

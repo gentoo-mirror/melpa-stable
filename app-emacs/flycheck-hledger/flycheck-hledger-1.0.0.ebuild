@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flycheck module to check hledger journals"
 
-HOMEPAGE="https://github.com/DamienCassou/flycheck-hledger"
+HOMEPAGE="https://github.com/DamienCassou/flycheck-hledger/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

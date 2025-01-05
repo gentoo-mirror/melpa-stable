@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show icons for modes"
 
-HOMEPAGE="https://github.com/ryuslash/mode-icons"
+HOMEPAGE="http://ryuslash.org/projects/mode-icons.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helper functions for fringe bitmaps"
 
-HOMEPAGE="https://github.com/nschum/fringe-helper.el"
+HOMEPAGE="http://nschum.de/src/emacs/fringe-helper/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

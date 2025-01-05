@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Smart-mode-line theme that mimics the powerline appearance"
 
-HOMEPAGE="https://github.com/Malabarba/smart-mode-line"
+HOMEPAGE="http://github.com/Bruce-Connor/smart-mode-line"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

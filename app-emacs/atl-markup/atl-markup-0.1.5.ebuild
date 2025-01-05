@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatically truncate lines for markup languages"
 
-HOMEPAGE="https://github.com/jcs-legacy/atl-markup"
+HOMEPAGE="https://github.com/jcs-elpa/atl-markup"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

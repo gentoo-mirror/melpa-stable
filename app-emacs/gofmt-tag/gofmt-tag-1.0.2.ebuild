@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Format and align go struct tags"
 
-HOMEPAGE="https://github.com/M1ndo/gofmt-tag"
+HOMEPAGE="https://github.com/m1ndo/gofmt-tag"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

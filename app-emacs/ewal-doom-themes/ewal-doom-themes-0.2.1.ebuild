@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Dread the colors of darkness"
 
-HOMEPAGE="https://github.com/cyruseuros/ewal"
+HOMEPAGE="https://gitlab.com/jjzmajic/ewal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

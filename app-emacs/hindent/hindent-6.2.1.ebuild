@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Indent haskell code using the \"hindent\" program"
 
-HOMEPAGE="https://github.com/mihaimaruseac/hindent"
+HOMEPAGE="https://github.com/chrisdone/hindent"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

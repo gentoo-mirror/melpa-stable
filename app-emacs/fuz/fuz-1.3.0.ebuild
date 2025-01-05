@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fast and precise fuzzy scoring/matching utils"
 
-HOMEPAGE="https://github.com/rustify-emacs/fuz.el"
+HOMEPAGE="https://github.com/cireu/fuz.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

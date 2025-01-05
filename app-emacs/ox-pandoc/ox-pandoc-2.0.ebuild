@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An Org-mode exporter using pandoc"
 
-HOMEPAGE="https://github.com/emacsorphanage/ox-pandoc"
+HOMEPAGE="https://github.com/a-fent/ox-pandoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A complete port of the default JetBrains Darcula theme"
 
-HOMEPAGE="https://github.com/ianyepan/jetbrains-darcula-emacs-theme"
+HOMEPAGE="https://github.com/ianpan870102/jetbrains-darcula-emacs-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Go Delve - Debug Go programs interactively with the GUD"
 
-HOMEPAGE="https://github.com/benma/go-dlv.el"
+HOMEPAGE="https://github.com/benma/go-dlv.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

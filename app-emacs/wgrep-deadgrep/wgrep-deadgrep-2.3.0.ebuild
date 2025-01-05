@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Writable deadgrep buffer and apply the changes to files"
 
-HOMEPAGE="https://github.com/mhayashi1120/Emacs-wgrep"
+HOMEPAGE="http://github.com/mhayashi1120/Emacs-wgrep/raw/master/wgrep-deadgrep.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

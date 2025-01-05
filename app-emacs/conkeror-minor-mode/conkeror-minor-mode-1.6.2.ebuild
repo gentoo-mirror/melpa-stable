@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mode for editing conkeror javascript files"
 
-HOMEPAGE="https://github.com/Malabarba/conkeror-minor-mode"
+HOMEPAGE="http://github.com/Bruce-Connor/conkeror-minor-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
