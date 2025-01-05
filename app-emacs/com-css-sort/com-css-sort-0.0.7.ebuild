@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Common way of sorting the CSS attributes"
 
-HOMEPAGE="https://github.com/jcs-elpa/com-css-sort"
+HOMEPAGE="https://github.com/jcs090218/com-css-sort"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

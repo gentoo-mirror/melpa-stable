@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Miasma: color theme inspired by the woods"
 
-HOMEPAGE="https://github.com/daut/miasma-theme.el"
+HOMEPAGE="http://github.com/daut/miasma-theme.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

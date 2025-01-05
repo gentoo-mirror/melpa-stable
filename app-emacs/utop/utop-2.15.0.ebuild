@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Universal toplevel for OCaml"
 
-HOMEPAGE="https://github.com/diml/utop"
+HOMEPAGE="https://github.com/ocaml-community/utop"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

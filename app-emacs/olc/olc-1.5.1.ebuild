@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Open location code library"
 
-HOMEPAGE="https://gitlab.liu.se/davby02/olc.git"
+HOMEPAGE="https://gitlab.liu.se/davby02/olc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

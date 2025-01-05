@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A coffee-break roguelike</longdescription>
+	<longdescription>Main file for roguel-ike</longdescription>
 </pkgmetadata>

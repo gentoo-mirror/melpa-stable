@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run notmuch within emacs"
 
-HOMEPAGE="https://git.notmuchmail.org/git/notmuch"
+HOMEPAGE="https://notmuchmail.org"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

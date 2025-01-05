@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ispell-complete-word with helm interface"
 
-HOMEPAGE="https://github.com/emacsorphanage/helm-ispell"
+HOMEPAGE="https://github.com/syohex/emacs-helm-ispell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

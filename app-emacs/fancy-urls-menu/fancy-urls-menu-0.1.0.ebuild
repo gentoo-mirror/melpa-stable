@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interface for viewing and opening URLs in current buffer"
 
-HOMEPAGE="https://codeberg.org/kakafarm/emacs-fancy-urls-menu"
+HOMEPAGE="https://codeberg.org/kakafarm/emacs-fancy-urls-menu/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

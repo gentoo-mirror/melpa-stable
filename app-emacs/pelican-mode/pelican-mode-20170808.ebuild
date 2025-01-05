@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for editing Pelican sites"
 
-HOMEPAGE="https://gitlab.com/joewreschnig/pelican-mode"
+HOMEPAGE="https://git.korewanetadesu.com/pelican-mode.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Download&Extract subtitles from opensubtitles"
 
-HOMEPAGE="https://github.com/redguardtoo/shenshou"
+HOMEPAGE="http://github.com/redguardtoo/shenshou"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

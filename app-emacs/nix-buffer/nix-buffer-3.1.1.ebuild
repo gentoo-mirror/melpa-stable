@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Set up buffer environments with nix"
 
-HOMEPAGE="https://github.com/shlevy/nix-buffer"
+HOMEPAGE="https://github.com/shlevy/nix-buffer/tree/master/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

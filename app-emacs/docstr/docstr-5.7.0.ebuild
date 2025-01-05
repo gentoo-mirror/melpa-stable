@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A document string minor mode"
 
-HOMEPAGE="https://github.com/emacs-vs/docstr"
+HOMEPAGE="https://github.com/jcs-elpa/docstr"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

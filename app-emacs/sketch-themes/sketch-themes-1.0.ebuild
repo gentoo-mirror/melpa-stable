@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sketch color themes"
 
-HOMEPAGE="https://github.com/dawranliou/sketch-themes"
+HOMEPAGE="https://github.com/dawranliou/emacs.d/themes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

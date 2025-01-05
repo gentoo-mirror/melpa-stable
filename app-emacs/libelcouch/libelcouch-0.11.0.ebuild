@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Communication with CouchDB"
 
-HOMEPAGE="https://github.com/DamienCassou/libelcouch"
+HOMEPAGE="https://gitlab.petton.fr/elcouch/libelcouch/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

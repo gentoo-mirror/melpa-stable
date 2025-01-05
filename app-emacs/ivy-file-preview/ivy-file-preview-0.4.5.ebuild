@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Preview the current ivy file selection"
 
-HOMEPAGE="https://github.com/jcs-legacy/ivy-file-preview"
+HOMEPAGE="https://github.com/jcs-elpa/ivy-file-preview"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

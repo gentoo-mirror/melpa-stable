@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Basic linting for Emacs Lisp"
 
-HOMEPAGE="https://github.com/gonewest818/elisp-lint"
+HOMEPAGE="http://github.com/gonewest818/elisp-lint/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

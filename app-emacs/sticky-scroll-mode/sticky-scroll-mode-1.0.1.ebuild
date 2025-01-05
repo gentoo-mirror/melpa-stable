@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sticky scrolling"
 
-HOMEPAGE="https://github.com/jclasley/sticky-scroll-mode"
+HOMEPAGE="https://github.com/jclasley/sticky-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

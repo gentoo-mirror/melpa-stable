@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Merlin and auto-complete integration"
 
-HOMEPAGE="https://github.com/ocaml/merlin"
+HOMEPAGE="http://github.com/ocaml/merlin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

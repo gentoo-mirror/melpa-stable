@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Rewrite of Powerline"
 
-HOMEPAGE="https://github.com/milkypostman/powerline"
+HOMEPAGE="http://github.com/milkypostman/powerline/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

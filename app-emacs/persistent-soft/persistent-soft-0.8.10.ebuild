@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Persistent storage, returning nil on failure"
 
-HOMEPAGE="https://github.com/rolandwalker/persistent-soft"
+HOMEPAGE="http://github.com/rolandwalker/persistent-soft"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

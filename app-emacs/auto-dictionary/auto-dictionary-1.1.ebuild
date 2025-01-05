@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatic dictionary switcher for flyspell"
 
-HOMEPAGE="https://github.com/nschum/auto-dictionary-mode"
+HOMEPAGE="http://nschum.de/src/emacs/auto-dictionary/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

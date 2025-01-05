@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Russian holidays and conferences. Updated 2024-11-22"
 
-HOMEPAGE="https://codeberg.org/Anoncheg/emacs-russian-calendar"
+HOMEPAGE="https://github.com/Anoncheg1/emacs-russian-calendar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

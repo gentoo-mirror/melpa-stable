@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm Interface for nixos-options"
 
-HOMEPAGE="https://github.com/nix-community/nix-emacs"
+HOMEPAGE="http://www.github.com/travisbhartwell/nix-emacs/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An unofficial TabNine package with TabNine Chat supported"
 
-HOMEPAGE="https://github.com/shuxiao9058/tabnine"
+HOMEPAGE="https://github.com/shuxiao9058/tabnine/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

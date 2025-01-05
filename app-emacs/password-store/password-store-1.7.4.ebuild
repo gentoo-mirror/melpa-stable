@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Password store (pass) support"
 
-HOMEPAGE="https://github.com/zx2c4/password-store"
+HOMEPAGE="https://www.passwordstore.org/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

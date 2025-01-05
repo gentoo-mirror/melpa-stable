@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tools for wisp: the Whitespace-to-Lisp preprocessor"
 
-HOMEPAGE="https://hg.sr.ht/~arnebab/wisp"
+HOMEPAGE="http://www.draketo.de/english/wisp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

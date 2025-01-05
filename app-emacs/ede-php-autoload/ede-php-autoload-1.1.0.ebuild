@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple EDE PHP Project"
 
-HOMEPAGE="https://github.com/emacs-php/ede-php-autoload"
+HOMEPAGE="https://github.com/stevenremot/ede-php-autoload"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

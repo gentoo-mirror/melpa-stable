@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatic insertion of end blocks for Ruby"
 
-HOMEPAGE="https://github.com/rejeep/ruby-end.el"
+HOMEPAGE="http://github.com/rejeep/ruby-end"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

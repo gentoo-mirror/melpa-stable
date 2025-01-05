@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Navigate windows and frames using numbers"
 
-HOMEPAGE="https://github.com/deb0ch/emacs-winum"
+HOMEPAGE="http://github.com/deb0ch/winum.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

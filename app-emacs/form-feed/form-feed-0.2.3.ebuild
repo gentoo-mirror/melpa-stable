@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display ^L glyphs as horizontal lines"
 
-HOMEPAGE="https://depp.brause.cc/form-feed.git"
+HOMEPAGE="https://depp.brause.cc/form-feed"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

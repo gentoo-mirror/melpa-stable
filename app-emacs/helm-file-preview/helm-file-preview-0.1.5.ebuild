@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Preview the current helm file selection"
 
-HOMEPAGE="https://github.com/jcs-legacy/helm-file-preview"
+HOMEPAGE="https://github.com/jcs-elpa/helm-file-preview"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Integrated theming for common packages"
 
-HOMEPAGE="https://github.com/rdallasgray/graphene-meta-theme"
+HOMEPAGE="https://github.com/rdallasgray/graphene"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

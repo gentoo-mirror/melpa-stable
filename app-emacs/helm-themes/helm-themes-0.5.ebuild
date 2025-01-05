@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Color theme selection with helm interface"
 
-HOMEPAGE="https://github.com/emacsorphanage/helm-themes"
+HOMEPAGE="https://github.com/syohex/emacs-helm-themes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

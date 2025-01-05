@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Conveniently use the Kibit Leiningen plugin from Emacs"
 
-HOMEPAGE="https://github.com/brunchboy/kibit-helper"
+HOMEPAGE="http://www.github.com/brunchboy/kibit-helper"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

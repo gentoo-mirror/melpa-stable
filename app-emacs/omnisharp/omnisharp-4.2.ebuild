@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Omnicompletion (intellisense) and more for C#"
 
-HOMEPAGE="https://github.com/OmniSharp/omnisharp-emacs"
+HOMEPAGE="https://github.com/Omnisharp/omnisharp-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

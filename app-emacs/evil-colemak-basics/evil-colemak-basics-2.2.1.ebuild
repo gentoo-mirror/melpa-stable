@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Basic Colemak key bindings for evil-mode"
 
-HOMEPAGE="https://github.com/wbolster/emacs-evil-colemak-basics"
+HOMEPAGE="https://github.com/wbolster/evil-colemak-basics"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

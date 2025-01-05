@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Support for the Foo programming language"
 
-HOMEPAGE="https://github.com/Y0ngg4n/org-auto-export-pandoc"
+HOMEPAGE="https://example.com/foo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

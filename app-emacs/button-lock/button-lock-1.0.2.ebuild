@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Clickable text defined by regular expression"
 
-HOMEPAGE="https://github.com/rolandwalker/button-lock"
+HOMEPAGE="http://github.com/rolandwalker/button-lock"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add field tags for struct fields"
 
-HOMEPAGE="https://github.com/emacsorphanage/go-add-tags"
+HOMEPAGE="https://github.com/syohex/emacs-go-add-tags"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

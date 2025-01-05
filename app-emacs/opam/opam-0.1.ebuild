@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="OPAM tools"
 
-HOMEPAGE="https://github.com/emacsorphanage/opam"
+HOMEPAGE="https://github.com/lunaryorn/opam.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

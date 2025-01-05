@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Library to connect to basecamp 3 API"
 
-HOMEPAGE="https://github.com/DamienCassou/libbcel"
+HOMEPAGE="https://gitlab.petton.fr/bcel/libbcel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

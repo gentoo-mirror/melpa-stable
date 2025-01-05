@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Sass files"
 
-HOMEPAGE="https://github.com/nex3/sass-mode"
+HOMEPAGE="http://github.com/nex3/haml/tree/master"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

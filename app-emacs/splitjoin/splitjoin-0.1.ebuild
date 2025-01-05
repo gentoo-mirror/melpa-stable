@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Splitjoin"
 
-HOMEPAGE="https://github.com/emacsorphanage/splitjoin"
+HOMEPAGE="https://github.com/syohex/emacs-splitjoin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

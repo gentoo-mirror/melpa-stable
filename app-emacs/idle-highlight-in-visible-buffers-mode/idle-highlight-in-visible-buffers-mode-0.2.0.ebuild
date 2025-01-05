@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Highlight the word the point is on"
 
-HOMEPAGE="https://github.com/ignacy/idle-highlight-in-visible-buffers-mode"
+HOMEPAGE="https://github.com/ignacy/idle-highlight-in-visible-buffers"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

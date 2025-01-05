@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Print a fortune in your scratch buffer"
 
-HOMEPAGE="https://github.com/andyleejordan/fortune-cookie"
+HOMEPAGE="https://github.com/andschwa/fortune-cookie"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

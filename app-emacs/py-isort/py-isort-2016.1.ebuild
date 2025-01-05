@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Use isort to sort the imports in a Python buffer"
 
-HOMEPAGE="https://github.com/paetzke/py-isort.el"
+HOMEPAGE="http://paetzke.me/project/py-isort.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

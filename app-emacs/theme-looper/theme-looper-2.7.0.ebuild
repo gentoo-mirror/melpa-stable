@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Loop thru the available color-themes"
 
-HOMEPAGE="https://github.com/myTerminal/theme-looper"
+HOMEPAGE="http://ismail.teamfluxion.com"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

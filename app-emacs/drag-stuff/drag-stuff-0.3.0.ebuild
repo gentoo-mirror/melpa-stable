@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Drag stuff (lines, words, region, etc...) around"
 
-HOMEPAGE="https://github.com/rejeep/drag-stuff.el"
+HOMEPAGE="http://github.com/rejeep/drag-stuff"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

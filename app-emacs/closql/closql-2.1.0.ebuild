@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Store EIEIO objects using EmacSQL"
 
-HOMEPAGE="https://github.com/magit/closql"
+HOMEPAGE="https://github.com/emacscollective/closql"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

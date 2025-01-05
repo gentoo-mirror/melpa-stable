@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Make dired more like ranger"
 
-HOMEPAGE="https://github.com/punassuming/ranger.el"
+HOMEPAGE="https://github.com/ralesi/ranger"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

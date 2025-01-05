@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A set of bleak themes"
 
-HOMEPAGE="https://depp.brause.cc/punpun-themes.git"
+HOMEPAGE="https://depp.brause.cc/punpun-themes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

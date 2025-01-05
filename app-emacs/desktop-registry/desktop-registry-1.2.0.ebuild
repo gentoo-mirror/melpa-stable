@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Keep a central registry of desktop files"
 
-HOMEPAGE="https://github.com/ryuslash/desktop-registry"
+HOMEPAGE="http://projects.ryuslash.org/desktop-registry/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

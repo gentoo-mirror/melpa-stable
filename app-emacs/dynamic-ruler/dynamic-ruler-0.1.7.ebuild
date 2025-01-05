@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Displays a dynamic ruler at point"
 
-HOMEPAGE="https://github.com/rocher/dynamic-ruler"
+HOMEPAGE="http://rocher.github.io/dynamic-ruler"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

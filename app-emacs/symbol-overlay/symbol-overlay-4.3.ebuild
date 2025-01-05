@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Highlight symbols with keymap-enabled overlays"
 
-HOMEPAGE="https://github.com/wolray/symbol-overlay"
+HOMEPAGE="https://github.com/wolray/symbol-overlay/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

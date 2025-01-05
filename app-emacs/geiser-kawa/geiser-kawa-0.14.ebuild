@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Kawa scheme support for Geiser"
 
-HOMEPAGE="https://gitlab.com/emacs-geiser/kawa"
+HOMEPAGE="https://gitlab.com/spellcard199/geiser-kawa"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org html export for text/html MIME emails"
 
-HOMEPAGE="https://github.com/org-mime/org-mime"
+HOMEPAGE="http://github.com/org-mime/org-mime"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

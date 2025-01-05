@@ -3,11 +3,11 @@ DEFINED_PHASES=compile configure info install postinst postrm prepare setup test
 DEPEND=app-emacs/auto-complete app-emacs/rtags
 DESCRIPTION=Auto-complete back-end for RTags
 EAPI=8
-HOMEPAGE=https://github.com/Andersbakken/rtags
+HOMEPAGE=http://rtags.net
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/auto-complete app-emacs/rtags >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://stable.melpa.org/packages/ac-rtags-3.23.tar
-_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	4ee3453b022aae73f4d827a0f98920c2	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=3a20a27e8e0e56087b141d52248ff9a7
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=277b1551b731533652de968e9567a41c

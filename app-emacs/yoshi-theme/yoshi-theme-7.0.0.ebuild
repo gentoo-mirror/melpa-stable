@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Theme named after my cat"
 
-HOMEPAGE="https://github.com/ryuslash/yoshi-theme"
+HOMEPAGE="http://projects.ryuslash.org/yoshi-theme/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

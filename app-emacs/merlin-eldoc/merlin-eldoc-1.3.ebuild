@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Eldoc for OCaml and Reason"
 
-HOMEPAGE="https://github.com/Khady/merlin-eldoc"
+HOMEPAGE="https://github.com/khady/merlin-eldoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

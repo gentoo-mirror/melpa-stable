@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Turn string into ansi strings"
 
-HOMEPAGE="https://github.com/rejeep/ansi.el"
+HOMEPAGE="http://github.com/rejeep/ansi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

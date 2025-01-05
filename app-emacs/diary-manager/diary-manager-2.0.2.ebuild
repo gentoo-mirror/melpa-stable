@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple personal diary"
 
-HOMEPAGE="https://github.com/radian-software/diary-manager"
+HOMEPAGE="https://github.com/raxod502/diary-manager"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Writable pt buffer"
 
-HOMEPAGE="https://github.com/mhayashi1120/Emacs-wgrep"
+HOMEPAGE="http://github.com/mhayashi1120/Emacs-wgrep/raw/master/wgrep-pt.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

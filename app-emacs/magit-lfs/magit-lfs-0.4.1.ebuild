@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Magit plugin for Git LFS"
 
-HOMEPAGE="https://github.com/Ailrun/magit-lfs"
+HOMEPAGE="https://github.com/ailrun/magit-lfs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

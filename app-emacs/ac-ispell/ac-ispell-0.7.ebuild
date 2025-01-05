@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ispell completion source for auto-complete"
 
-HOMEPAGE="https://github.com/emacsorphanage/ac-ispell"
+HOMEPAGE="https://github.com/syohex/emacs-ac-ispell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

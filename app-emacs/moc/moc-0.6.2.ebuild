@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Master of Ceremonies"
 
-HOMEPAGE="https://github.com/positron-solutions/moc"
+HOMEPAGE="http://github.com/positron-solutions/moc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

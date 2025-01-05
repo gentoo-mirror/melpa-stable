@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs task tracker client"
 
-HOMEPAGE="https://github.com/FlowerAutomation/flower"
+HOMEPAGE="https://github.com/PositiveTechnologies/flower"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

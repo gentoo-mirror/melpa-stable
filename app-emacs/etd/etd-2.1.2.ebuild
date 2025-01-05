@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Examples to Tests and Docs"
 
-HOMEPAGE="https://github.com/emacsfodder/etd"
+HOMEPAGE="https://github.com/emacsfodder/kurecolor"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

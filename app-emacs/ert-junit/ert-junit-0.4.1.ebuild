@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="JUnit XML reports from ert results"
 
-HOMEPAGE="https://bitbucket.org/olanilsson/ert-junit"
+HOMEPAGE="http://bitbucket.org/olanilsson/ert-junit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ido/ivy/helm imenu across same mode/project/etc buffers"
 
-HOMEPAGE="https://github.com/vspinu/imenu-anywhere"
+HOMEPAGE="https://github.com/vitoshka/imenu-anywhere"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

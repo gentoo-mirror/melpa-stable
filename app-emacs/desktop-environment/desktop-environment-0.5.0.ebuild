@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helps you control your GNU/Linux computer"
 
-HOMEPAGE="https://github.com/DamienCassou/desktop-environment"
+HOMEPAGE="https://gitlab.petton.fr/DamienCassou/desktop-environment"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

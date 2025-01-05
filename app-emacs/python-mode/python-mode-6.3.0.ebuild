@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Python major mode"
 
-HOMEPAGE="https://gitlab.com/python-mode-devs/python-mode"
+HOMEPAGE="https://gitlab.com/groups/python-mode-devs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

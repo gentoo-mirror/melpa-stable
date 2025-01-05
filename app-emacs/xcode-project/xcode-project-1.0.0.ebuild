@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A package for reading Xcode project files"
 
-HOMEPAGE="https://github.com/nhojb/xcode-project"
+HOMEPAGE="https://github.com/nhojb/xcode-project.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

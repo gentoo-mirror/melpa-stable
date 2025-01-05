@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Enforce rules for popups"
 
-HOMEPAGE="https://depp.brause.cc/shackle.git"
+HOMEPAGE="https://depp.brause.cc/shackle"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

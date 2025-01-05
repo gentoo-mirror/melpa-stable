@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A color theme for the night owls out there"
 
-HOMEPAGE="https://github.com/aaronjensen/night-owl-emacs"
+HOMEPAGE="http://github.com/aaronjensen/night-owl-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

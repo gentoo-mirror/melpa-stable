@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pretend to write code like a pro"
 
-HOMEPAGE="https://github.com/dieggsy/emacs-hacker-typer"
+HOMEPAGE="http://github.com/therockmandolinist/emacs-hacker-typer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

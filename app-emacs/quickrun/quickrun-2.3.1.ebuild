@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run commands quickly"
 
-HOMEPAGE="https://github.com/emacsorphanage/quickrun"
+HOMEPAGE="https://github.com/syohex/emacs-quickrun"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

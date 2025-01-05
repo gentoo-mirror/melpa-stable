@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A version of Chris Kempson's various Tomorrow themes"
 
-HOMEPAGE="https://github.com/purcell/color-theme-sanityinc-tomorrow"
+HOMEPAGE="http://github.com/purcell/color-theme-sanityinc-tomorrow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

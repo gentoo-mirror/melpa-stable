@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Eredis, a Redis client in emacs lisp"
 
-HOMEPAGE="https://github.com/justinhj/eredis"
+HOMEPAGE="http://github.com/justinhj/eredis/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

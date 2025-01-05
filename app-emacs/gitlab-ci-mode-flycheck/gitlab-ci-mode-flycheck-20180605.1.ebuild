@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flycheck support for ‘gitlab-ci-mode’"
 
-HOMEPAGE="https://gitlab.com/joewreschnig/gitlab-ci-mode-flycheck"
+HOMEPAGE="https://gitlab.com/joewreschnig/gitlab-ci-mode-flycheck/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

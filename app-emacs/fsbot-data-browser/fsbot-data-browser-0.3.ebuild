@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Browse the fsbot database using tabulated-list-mode"
 
-HOMEPAGE="https://github.com/Benaiah/fsbot-data-browser"
+HOMEPAGE="http://github.com/benaiah/fsbot-data-browser"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Make emacs scroll smoothly"
 
-HOMEPAGE="https://github.com/aspiers/smooth-scrolling"
+HOMEPAGE="http://github.com/aspiers/smooth-scrolling/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

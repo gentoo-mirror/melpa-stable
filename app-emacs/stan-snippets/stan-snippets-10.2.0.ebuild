@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Yasnippets for Stan"
 
-HOMEPAGE="https://github.com/stan-dev/stan-mode"
+HOMEPAGE="https://github.com/stan-dev/stan-mode/tree/master/stan-snippets"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

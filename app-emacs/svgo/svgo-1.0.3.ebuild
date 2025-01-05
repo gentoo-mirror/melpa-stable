@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="SVG optimization with SVGO"
 
-HOMEPAGE="https://github.com/hupf/svgo.el"
+HOMEPAGE="https://github.com/hupf/svgo.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

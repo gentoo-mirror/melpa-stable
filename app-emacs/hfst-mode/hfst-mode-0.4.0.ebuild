@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing HFST files"
 
-HOMEPAGE="https://github.com/unhammer/hfst-mode"
+HOMEPAGE="http://wiki.apertium.org/wiki/Emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

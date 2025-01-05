@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing web templates"
 
-HOMEPAGE="https://github.com/fxbois/web-mode"
+HOMEPAGE="https://web-mode.org"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A simple TOC generator for markdown file"
 
-HOMEPAGE="https://github.com/ardumont/markdown-toc"
+HOMEPAGE="http://github.com/ardumont/markdown-toc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

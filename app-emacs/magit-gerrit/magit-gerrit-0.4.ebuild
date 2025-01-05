@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Magit plugin for Gerrit Code Review"
 
-HOMEPAGE="https://github.com/emacsorphanage/magit-gerrit"
+HOMEPAGE="https://github.com/terranpro/magit-gerrit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

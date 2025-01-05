@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Octicons utility"
 
-HOMEPAGE="https://github.com/emacsorphanage/octicons"
+HOMEPAGE="https://github.com/syohex/emacs-octicons"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

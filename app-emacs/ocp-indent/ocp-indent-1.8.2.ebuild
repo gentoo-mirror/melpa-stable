@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatic indentation with ocp-indent"
 
-HOMEPAGE="https://github.com/OCamlPro/ocp-indent"
+HOMEPAGE="http://www.typerex.org/ocp-indent.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

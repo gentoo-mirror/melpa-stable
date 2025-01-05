@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatic highlighting current symbol minor mode"
 
-HOMEPAGE="https://github.com/elp-revive/auto-highlight-symbol"
+HOMEPAGE="http://github.com/jcs-elpa/auto-highlight-symbol"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Reversible C-x 1 (delete-other-windows)"
 
-HOMEPAGE="https://github.com/LouisKottmann/zygospore.el"
+HOMEPAGE="https://github.com/louiskottmann/zygospore.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

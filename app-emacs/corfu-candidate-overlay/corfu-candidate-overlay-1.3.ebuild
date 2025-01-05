@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show first candidate in an overlay while typing"
 
-HOMEPAGE="https://code.bsdgeek.org/adam/corfu-candidate-overlay"
+HOMEPAGE="https://code.bsdgeek.org/adam/corfu-candidate-overlay/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Code for dealing with Groovy imports"
 
-HOMEPAGE="https://github.com/mbezjak/emacs-groovy-imports"
+HOMEPAGE="http://www.github.com/mbezjak/emacs-groovy-imports"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

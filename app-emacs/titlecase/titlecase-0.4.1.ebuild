@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Title-case phrases"
 
-HOMEPAGE="https://codeberg.org/acdw/titlecase.el"
+HOMEPAGE="https://github.com/duckwork/titlecase.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

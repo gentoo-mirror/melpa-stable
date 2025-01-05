@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quick search&input email from BBDB based on Emacs API \`completing-read'"
 
-HOMEPAGE="https://github.com/redguardtoo/counsel-bbdb"
+HOMEPAGE="https://github.com/redguard/counsel-bbdb"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

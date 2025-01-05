@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Exuberant ctags auto-complete.el source"
 
-HOMEPAGE="https://github.com/k1LoW/auto-complete-exuberant-ctags"
+HOMEPAGE="http://code.101000lab.org"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

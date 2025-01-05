@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Import Javascript dependencies"
 
-HOMEPAGE="https://github.com/Galooshi/emacs-import-js"
+HOMEPAGE="http://github.com/Galooshi/emacs-import-js/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

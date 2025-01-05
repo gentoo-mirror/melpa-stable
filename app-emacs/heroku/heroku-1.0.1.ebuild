@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Like Magit but for Heroku CLI"
 
-HOMEPAGE="https://github.com/licht1stein/heroku.el"
+HOMEPAGE="https://github.com./licht1stein/heroku.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

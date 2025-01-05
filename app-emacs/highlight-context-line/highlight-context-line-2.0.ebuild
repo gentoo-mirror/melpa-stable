@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Improve orientation when scrolling"
 
-HOMEPAGE="https://github.com/ska2342/highlight-context-line"
+HOMEPAGE="https://github.com/ska2342/highlight-context-line/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

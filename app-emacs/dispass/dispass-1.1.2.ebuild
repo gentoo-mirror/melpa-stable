@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs wrapper for DisPass"
 
-HOMEPAGE="https://github.com/ryuslash/dispass.el"
+HOMEPAGE="http://projects.ryuslash.org/dispass.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

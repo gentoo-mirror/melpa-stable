@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flexible ERC notifications"
 
-HOMEPAGE="https://github.com/leathekd/ercn"
+HOMEPAGE="http://www.github.com/leathekd/ercn"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

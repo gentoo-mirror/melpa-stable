@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Nimbus dark theme"
 
-HOMEPAGE="https://github.com/mrcnski/nimbus-theme"
+HOMEPAGE="https://github.com/m-cat/nimbus-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

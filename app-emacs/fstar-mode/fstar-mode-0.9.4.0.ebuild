@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Support for F* programming"
 
-HOMEPAGE="https://github.com/FStarLang/fstar-mode.el"
+HOMEPAGE="https://github.com/FStarLang/fstar.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

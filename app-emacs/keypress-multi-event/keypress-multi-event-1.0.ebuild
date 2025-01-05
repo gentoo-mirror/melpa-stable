@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Perform different actions for the same keypress"
 
-HOMEPAGE="https://github.com/Boruch-Baum/emacs-keypress-multi-event"
+HOMEPAGE="https://www.github.com/Boruch_Baum/emacs-keypress-multi-event"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Grammarly support for Flycheck"
 
-HOMEPAGE="https://github.com/emacs-grammarly/flycheck-grammarly"
+HOMEPAGE="https://github.com/jcs-elpa/flycheck-grammarly"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

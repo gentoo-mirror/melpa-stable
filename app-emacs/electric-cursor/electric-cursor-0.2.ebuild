@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Change cursor automatically depending on mode"
 
-HOMEPAGE="https://codeberg.org/acdw/electric-cursor.el"
+HOMEPAGE="https://github.com/duckwork/electric-cursor"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

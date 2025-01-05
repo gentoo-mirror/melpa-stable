@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="PlatformIO integration"
 
-HOMEPAGE="https://github.com/ZachMassia/PlatformIO-Mode"
+HOMEPAGE="https://github.com/zachmassia/platformio-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

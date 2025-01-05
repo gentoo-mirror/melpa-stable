@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Pillar files"
 
-HOMEPAGE="https://github.com/pillar-markup/pillar-mode"
+HOMEPAGE="http://github.com/DamienCassou/pillar-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

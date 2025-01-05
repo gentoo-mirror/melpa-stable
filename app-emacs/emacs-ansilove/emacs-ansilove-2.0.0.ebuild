@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display buffers as PNG images using ansilove"
 
-HOMEPAGE="https://gitlab.com/xgqt/emacs-ansilove"
+HOMEPAGE="https://gitlab.com/xgqt/emacs-ansilove/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

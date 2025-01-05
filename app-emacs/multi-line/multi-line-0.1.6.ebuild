@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Multi-line statements"
 
-HOMEPAGE="https://github.com/colonelpanic8/multi-line"
+HOMEPAGE="https://github.com/IvanMalison/multi-line"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

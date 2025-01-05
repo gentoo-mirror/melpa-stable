@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for interacting with Pandoc"
 
-HOMEPAGE="https://github.com/joostkremers/pandoc-mode"
+HOMEPAGE="http://joostkremers.github.io/pandoc-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

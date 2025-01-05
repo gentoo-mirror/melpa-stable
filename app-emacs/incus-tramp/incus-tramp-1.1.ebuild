@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="TRAMP integration for Incus containers"
 
-HOMEPAGE="https://gitlab.com/lckarssen/incus-tramp"
+HOMEPAGE="https://gitlab.com/lckarssen/incus-tramp.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

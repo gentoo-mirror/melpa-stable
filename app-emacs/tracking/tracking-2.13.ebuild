@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Buffer modification tracking"
 
-HOMEPAGE="https://github.com/emacs-circe/circe"
+HOMEPAGE="https://github.com/emacs-circe/circe/wiki/Tracking"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

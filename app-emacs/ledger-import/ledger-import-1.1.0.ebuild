@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fetch OFX files from bank and push them to Ledger"
 
-HOMEPAGE="https://github.com/DamienCassou/ledger-import"
+HOMEPAGE="https://gitlab.petton.fr/mpdel/libmpdel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

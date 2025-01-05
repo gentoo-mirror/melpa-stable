@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Series tracker"
 
-HOMEPAGE="https://github.com/MaximeWack/seriestracker"
+HOMEPAGE="https://www.github.com/MaximeWack/seriesTracker"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

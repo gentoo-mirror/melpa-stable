@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flip the boolean under the point"
 
-HOMEPAGE="https://github.com/michaeljb/bool-flip"
+HOMEPAGE="http://github.com/michaeljb/bool-flip/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

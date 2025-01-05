@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Regularly persist bookmarks, history, recent files and more"
 
-HOMEPAGE="https://codeberg.org/bram85/emacs-persist-state"
+HOMEPAGE="https://codeberg.org/bram85/emacs-persist-state.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

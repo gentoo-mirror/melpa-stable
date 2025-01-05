@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Hylang"
 
-HOMEPAGE="https://github.com/hylang/hy-mode"
+HOMEPAGE="http://github.com/hylang/hy-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

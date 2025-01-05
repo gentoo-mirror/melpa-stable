@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="[No description available]"
 
-HOMEPAGE="https://git.carcosa.net/jmcbray/emacs-instapaper.git"
+HOMEPAGE="htts://bitbucket.org/jfm/emacs-instapaper"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

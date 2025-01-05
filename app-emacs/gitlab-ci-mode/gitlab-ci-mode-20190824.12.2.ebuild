@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mode for editing GitLab CI files"
 
-HOMEPAGE="https://gitlab.com/joewreschnig/gitlab-ci-mode"
+HOMEPAGE="https://gitlab.com/joewreschnig/gitlab-ci-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

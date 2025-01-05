@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ess Smart Underscore"
 
-HOMEPAGE="https://github.com/mattfidler/ess-smart-underscore.el"
+HOMEPAGE="http://github.com/mlf176f2/ess-smart-underscore.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

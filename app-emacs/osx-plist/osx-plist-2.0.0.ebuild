@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Apple plist file parser"
 
-HOMEPAGE="https://github.com/gonewest818/osx-plist"
+HOMEPAGE="https://github.com/gonewest818/osx-plist.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ert-runner Integration Into Emacs"
 
-HOMEPAGE="https://github.com/tonini/overseer.el"
+HOMEPAGE="http://www.github.com/tonini/overseer.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

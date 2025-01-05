@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A package for interacting with chezmoi"
 
-HOMEPAGE="https://github.com/tuh8888/chezmoi.el"
+HOMEPAGE="http://www.github.com/tuh8888/chezmoi.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

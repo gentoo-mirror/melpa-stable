@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quickly find files in a git, mercurial or other repository"
 
-HOMEPAGE="https://github.com/h/find-file-in-repository"
+HOMEPAGE="https://github.com/hoffstaetter/find-file-in-repository"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

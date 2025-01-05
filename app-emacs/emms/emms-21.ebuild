@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="The Emacs Multimedia System"
 
-HOMEPAGE="https://git.savannah.gnu.org/git/emms.git"
+HOMEPAGE="https://www.gnu.org/software/emms/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

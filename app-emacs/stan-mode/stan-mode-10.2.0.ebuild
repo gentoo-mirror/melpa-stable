@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Stan files"
 
-HOMEPAGE="https://github.com/stan-dev/stan-mode"
+HOMEPAGE="https://github.com/stan-dev/stan-mode/tree/master/stan-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

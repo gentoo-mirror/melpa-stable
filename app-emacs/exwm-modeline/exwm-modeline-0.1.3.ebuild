@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A modeline segment for EXWM workspaces"
 
-HOMEPAGE="https://github.com/SqrtMinusOne/exwm-modeline"
+HOMEPAGE="https://github.com/SqrtMinusOne/pomm.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

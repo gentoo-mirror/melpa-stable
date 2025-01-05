@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run Windows application associated with a file"
 
-HOMEPAGE="https://github.com/emacsorphanage/w32-browser"
+HOMEPAGE="http://www.emacswiki.org/w32-browser.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mosey around your buffers"
 
-HOMEPAGE="https://github.com/alphapapa/mosey.el"
+HOMEPAGE="http://github.com/alphapapa/mosey.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Walk through git revisions of a file"
 
-HOMEPAGE="https://codeberg.org/pidu/git-timemachine"
+HOMEPAGE="https://gitlab.com/pidu/git-timemachine"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

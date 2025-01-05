@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Auto-complete source for alchemist"
 
-HOMEPAGE="https://github.com/emacsorphanage/ac-alchemist"
+HOMEPAGE="https://github.com/syohex/emacs-ac-alchemist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

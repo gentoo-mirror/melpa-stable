@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Highlighting region by last updated time"
 
-HOMEPAGE="https://github.com/emacsorphanage/smeargle"
+HOMEPAGE="https://github.com/syohex/emacs-smeargle"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
