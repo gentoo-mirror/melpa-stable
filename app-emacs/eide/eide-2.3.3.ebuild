@@ -5,20 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="magit-stgit"
+REALNAME="eide"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="StGit extension for Magit"
+DESCRIPTION="IDE features"
 
-HOMEPAGE="https://github.com/stacked-git/magit-stgit"
+HOMEPAGE="https://software.hjuvi.fr.eu.org/eide/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/magit
-	app-emacs/magit-popup"
-RDEPEND="app-emacs/magit
-	app-emacs/magit-popup"
+DEPEND=""
+RDEPEND=""
