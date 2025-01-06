@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>IDE features</longdescription>
+	<longdescription>Convert commentary of elisp files to markdown</longdescription>
 </pkgmetadata>
