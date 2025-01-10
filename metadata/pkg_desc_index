@@ -841,7 +841,7 @@ app-emacs/eslint-disable-rule 0.3.0: Commands to add JS comments disabling eslin
 app-emacs/eslint-fix 1.0.0: Fix JavaScript files using ESLint
 app-emacs/eslintd-fix 1.2.0: Use eslint_d to automatically fix js files
 app-emacs/espuds 0.3.3: Ecukes step definitions
-app-emacs/ess 24.1.1: Emacs Speaks Statistics
+app-emacs/ess 25.1.0: Emacs Speaks Statistics
 app-emacs/ess-R-data-view 1.0: Data viewer for GNU R
 app-emacs/ess-r-insert-obj 1.0: ESS complete insert value
 app-emacs/ess-smart-equals 0.3.1: Flexible, context-sensitive assignment key for R/S
@@ -2150,7 +2150,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 1.9.19: Link org-id entries into a network
+app-emacs/org-node 1.9.21: Link org-id entries into a network
 app-emacs/org-node-fakeroam 1.7.0: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
