@@ -347,7 +347,7 @@ app-emacs/clues-theme 1.0.1: An Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.31.3: Major-mode for editing CMake sources
+app-emacs/cmake-mode 3.31.4: Major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -1555,7 +1555,7 @@ app-emacs/isearch-project 0.2.6: Incremental search through the whole project
 app-emacs/isgd 1.1: Shorten URLs using the isgd.com shortener service
 app-emacs/islisp-mode 0.3.1: Major mode for ISLisp programming
 app-emacs/iso_639 1.0.0: ISO 639
-app-emacs/iter2 1.4: Reimplementation of Elisp generators
+app-emacs/iter2 2.0: Reimplementation of Elisp generators
 app-emacs/ivy 0.14.2: Incremental Vertical completYon
 app-emacs/ivy-avy 0.14.2: Avy integration for Ivy
 app-emacs/ivy-bibtex 2.0.0: A BibTeX bibliography manager based on Ivy
@@ -2864,7 +2864,7 @@ app-emacs/timer-revert 0.1: Minor mode to revert buffer for a given time interva
 app-emacs/timesheet 0.5.0: Timesheet management add-on for org-mode
 app-emacs/timonier 0.1.0: Timonier, Manage Kubernetes Applications from Emacs
 app-emacs/timu-caribbean-theme 1.5: Color theme with cyan as a dominant color
-app-emacs/timu-line 1.1: Custom and simple mode line
+app-emacs/timu-line 1.2: Custom and simple mode line
 app-emacs/timu-macos-theme 1.4: Color theme inspired by the macOS UI
 app-emacs/timu-rouge-theme 1.9: Color theme inspired by the Rouge Theme for VSCode
 app-emacs/timu-spacegrey-theme 2.9: Color theme inspired by the Spacegray theme in Sublime Text
