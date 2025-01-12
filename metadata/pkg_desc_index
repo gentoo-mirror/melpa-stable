@@ -230,7 +230,6 @@ app-emacs/bshell 1.0: Manage and track multiple inferior shells
 app-emacs/buffer-flip 3.0: Cycle through buffers like Alt-Tab in Windows
 app-emacs/buffer-manage 1.1: Manage buffers
 app-emacs/buffer-move 0.6.2: [No description available]
-app-emacs/buffer-ring 0.3.4: Rings and tori for buffer navigation
 app-emacs/buffer-sets 3.7.2: Sets of Buffers for Buffer Management
 app-emacs/buffer-terminator 1.1.0: Safely Terminate/Kill Buffers Automatically
 app-emacs/buffer-utils 0.1.0: Buffer-manipulation utility functions
@@ -1883,7 +1882,7 @@ app-emacs/mips-mode 1.2.0: Major-mode for MIPS assembly
 app-emacs/mise 0.3.0: Support for `mise' cli
 app-emacs/mistty 1.3: Shell/Comint alternative based on term.el
 app-emacs/mixed-pitch 1.1.1: Use a variable pitch, keeping fixed pitch where it's sensible
-app-emacs/mlscroll 0.2.2: A scroll bar for the modeline
+app-emacs/mlscroll 0.2.3: A scroll bar for the modeline
 app-emacs/mmm-jinja2 0.1: MMM submode class for Jinja2 Templates
 app-emacs/mmm-mode 0.5.11: Allow Multiple Major Modes in a buffer
 app-emacs/mmt 0.2.0: Missing macro tools for Emacs Lisp
@@ -1972,7 +1971,6 @@ app-emacs/nerd-icons 0.1.0: Emacs Nerd Font Icons Library
 app-emacs/nerd-icons-corfu 0.4.2: Icons for Corfu via nerd-icons
 app-emacs/nerd-icons-ibuffer 1.0.0: Display nerd icons in ibuffer
 app-emacs/nerd-icons-ivy-rich 1.0.0: Excellent experience with nerd icons for ivy/counsel
-app-emacs/netease-cloud-music 2.0: Netease Cloud Music client
 app-emacs/netease-music 1.0: Listen netease music
 app-emacs/neuron-mode 1.0: Major mode for editing zettelkasten notes using neuron
 app-emacs/ng2-mode 0.2.2: Major modes for editing Angular 2
@@ -2207,7 +2205,7 @@ app-emacs/org-upcoming-modeline 0.1.6: Show next org event in mode line
 app-emacs/org-vcard 0.2.0: Org-mode support for vCard export and import
 app-emacs/org-visibility 1.1.12: Persistent org tree visibility
 app-emacs/org-web-tools 1.3: Display and capture web content with Org-mode
-app-emacs/org-web-track 0.1.0: Web data tracking framework in Org Mode
+app-emacs/org-web-track 0.1.1: Web data tracking framework in Org Mode
 app-emacs/org-wild-notifier 0.5.0: Customizable org-agenda notifications
 app-emacs/org-working-set 2.6.4: Manage and visit a small set of org-nodes
 app-emacs/org-zettelkasten 0.7.0: A Zettelkasten mode leveraging Org
@@ -2322,7 +2320,7 @@ app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
 app-emacs/pet 3.1.0: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: A simple wrapper around asynchronous processes
-app-emacs/pg 0.45: Socket-level interface to the PostgreSQL database
+app-emacs/pg 0.46: Socket-level interface to the PostgreSQL database
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: Another incremental search & replace, compatible with "multiple-cursors"
 app-emacs/phi-search-mc 2.2.1: Multiple-cursors extension for phi-search
@@ -2895,7 +2893,7 @@ app-emacs/tray 0.1.5: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.246: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.247: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
