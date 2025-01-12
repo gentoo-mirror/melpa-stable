@@ -1707,7 +1707,7 @@ app-emacs/lentic 0.11: One buffer as a view of another
 app-emacs/less-css-mode 0.21: Major mode for editing LESS CSS files (lesscss.org)
 app-emacs/letcheck 0.4: Check the erroneous assignments in let forms
 app-emacs/leuven-theme 1.2.2: Elegant Emacs color theme for a white background
-app-emacs/lfe-mode 2.1.5: Lisp Flavoured Erlang mode
+app-emacs/lfe-mode 2.2.0: Lisp Flavoured Erlang mode
 app-emacs/libbcel 0.4.0: Library to connect to basecamp 3 API
 app-emacs/libelcouch 0.11.0: Communication with CouchDB
 app-emacs/liberime 0.0.6: Rime elisp binding
