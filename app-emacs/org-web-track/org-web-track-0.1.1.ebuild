@@ -19,6 +19,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/request
-	app-emacs/enlive"
+	app-emacs/enlive
+	app-emacs/gnuplot"
 RDEPEND="app-emacs/request
-	app-emacs/enlive"
+	app-emacs/enlive
+	app-emacs/gnuplot"
