@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="crc"
+REALNAME="transducers"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Cyclic Redundancy Check"
+DESCRIPTION="Ergonomic, efficient data processing"
 
-HOMEPAGE="https://codeberg.org/Jaft/Emacs-CRC"
+HOMEPAGE="https://codeberg.org/fosskers/transducers.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
