@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="transducers"
+REALNAME="acton-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Ergonomic, efficient data processing"
+DESCRIPTION="Major mode for editing Acton source code"
 
-HOMEPAGE="https://git.sr.ht/~fosskers/transducers.el"
+HOMEPAGE="https://github.com/actonlang/acton-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

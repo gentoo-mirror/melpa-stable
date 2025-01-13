@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="crc"
+REALNAME="pdf-meta-edit"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Cyclic Redundancy Check"
+DESCRIPTION="Editing PDFs' metadata"
 
-HOMEPAGE="https://codeberg.org/Jaft/Emacs-CRC"
+HOMEPAGE="https://github.com/krisbalintona/pdf-meta-edit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
