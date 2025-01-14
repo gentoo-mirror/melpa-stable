@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An extensible thesaurus supporting lookup and substitution"
+DESCRIPTION="An Emacs frontend for thesauri"
 
 HOMEPAGE="https://github.com/hpdeifel/synosaurus"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
