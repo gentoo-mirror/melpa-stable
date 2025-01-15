@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Edit PDF metadata via pdftk</longdescription>
+	<longdescription>A LaTeX editing environment for mathematical documents</longdescription>
 </pkgmetadata>
