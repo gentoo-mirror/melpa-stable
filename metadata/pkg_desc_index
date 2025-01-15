@@ -294,7 +294,7 @@ app-emacs/cg 1.4.6: Major mode for editing Constraint Grammar files
 app-emacs/champagne 0.3.2: Graphical countdowns
 app-emacs/char-menu 0.1.1: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 0.0.1: Unicode table for Emacs
-app-emacs/chatgpt-shell 2.11.6: A multi-LLM shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
+app-emacs/chatgpt-shell 2.12.2: A multi-LLM shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
 app-emacs/chatwork 0.3: ChatWork client for Emacs
 app-emacs/cheat-sh 1.8: Interact with cheat.sh
 app-emacs/checkbox 0.2.1: Quick manipulation of textual checkboxes
@@ -656,7 +656,7 @@ app-emacs/e2wm-pkgex4pl 0.0.1: Plugin of e2wm.el for package explorer of Perl
 app-emacs/e2wm-sww 0.0.3: Plugin of e2wm.el to switch plugin quickly
 app-emacs/e2wm-term 0.1.0: Perspective of e2wm.el for work in terminal
 app-emacs/eacl 2.2.0: Auto-complete lines by grepping project
-app-emacs/eask 0.10.2: Core Eask APIs, for Eask CLI development
+app-emacs/eask 0.10.3: Core Eask APIs, for Eask CLI development
 app-emacs/eask-mode 0.1.0: Major mode for editing Eask files
 app-emacs/easky 0.1.0: Control Eask in Emacs
 app-emacs/easy-hugo 3.10.61: Write blogs made with hugo by markdown or org-mode
@@ -740,7 +740,7 @@ app-emacs/elisp-refs 1.5: Find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.13.1: Tool for interacting with LLMs
+app-emacs/ellama 0.13.2: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: [No description available]
@@ -2307,7 +2307,7 @@ app-emacs/pcomplete-extension 1.0: Additional completion for pcomplete
 app-emacs/pcre2el 1.12: Regexp syntax converter
 app-emacs/pcsv 1.4.0: Parser of csv
 app-emacs/pd-remote 1.2.0: Pd remote control helper
-app-emacs/pdf-meta-edit 0.2.0: Editing PDFs' metadata
+app-emacs/pdf-meta-edit 0.2.1: Edit PDF metadata via pdftk
 app-emacs/pdf-tools 1.1.0: Support library for PDF documents
 app-emacs/pelican-mode 20170808: Minor mode for editing Pelican sites
 app-emacs/per-buffer-theme 2.2: Change theme and font according to buffer name or major mode
@@ -3092,6 +3092,7 @@ app-emacs/wucuo 0.3.2: Fastest solution to spell check camel case code or plain 
 app-emacs/x86-lookup 1.2.1: Jump to x86 instruction documentation
 app-emacs/xcode-project 1.0.0: A package for reading Xcode project files
 app-emacs/xcscope 1.5: Cscope interface for (X)Emacs
+app-emacs/xenops 0.0.1: A LaTeX editing environment for mathematical documents
 app-emacs/xkb-mode 0.2.0: Major mode for editing X Keyboard Extension (XKB) files
 app-emacs/xkcd 1.1: View xkcd from Emacs
 app-emacs/xmind-org 0.1.1: Import XMind mindmaps into Org
