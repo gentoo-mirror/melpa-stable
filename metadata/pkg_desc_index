@@ -433,9 +433,9 @@ app-emacs/consult-dir 0.1: Insert paths into the minibuffer prompt
 app-emacs/consult-eglot 0.4.0: A consulting-read interface for eglot
 app-emacs/consult-eglot-embark 0.4.0: Embark integration for `consult-eglot'
 app-emacs/consult-flycheck 1.0: Provides the command `consult-flycheck'
-app-emacs/consult-gh 2.1: Consulting GitHub Client
-app-emacs/consult-gh-embark 2.1: Embark Actions for consult-gh
-app-emacs/consult-gh-forge 2.1: Magit/Forge Integration for consult-gh
+app-emacs/consult-gh 2.2: Consulting GitHub Client
+app-emacs/consult-gh-embark 2.2: Embark Actions for consult-gh
+app-emacs/consult-gh-forge 2.2: Magit/Forge Integration for consult-gh
 app-emacs/consult-ghq 0.0.5: Ghq interface using consult
 app-emacs/consult-hatena-bookmark 0.3.1: Consult commands for the Hatena Bookmark
 app-emacs/consult-lsp 1.1: LSP-mode Consult integration
@@ -713,7 +713,7 @@ app-emacs/el2org 0.6.0: Convert elisp file to org file
 app-emacs/elbank 1.2: Personal finances reporting application
 app-emacs/elcouch 0.11.0: View and manipulate CouchDB databases
 app-emacs/eldev 1.11: Elisp development tool
-app-emacs/eldoc-box 1.12.1: Display documentation in childframe
+app-emacs/eldoc-box 1.13.1: Display documentation in childframe
 app-emacs/eldoc-eask 0.1.0: Eldoc support for Eask-file
 app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use
 app-emacs/eldoc-stan 10.2.0: Eldoc support for stan functions
@@ -927,7 +927,7 @@ app-emacs/eziam-themes 5.1: The mostly monochrome Eziam theme family
 app-emacs/f 0.21.0: Modern API for working with files and directories
 app-emacs/f3 0.1: A helm interface to find
 app-emacs/fabric 0.2.0: Launch Fabric using Emacs
-app-emacs/face-explorer 0.0.5: Tools for faces and text properties
+app-emacs/face-explorer 0.0.6: Tools for faces and text properties
 app-emacs/factlog 0.0.1: File activity logger
 app-emacs/faff-theme 3.5: Light Emacs color theme on cornsilk3 background
 app-emacs/fancy-battery 0.2: Fancy battery display
@@ -955,7 +955,7 @@ app-emacs/fill-page 0.3.7: Fill buffer so you don't see empty lines at the end
 app-emacs/filldent 1.0.1: Fill or indent
 app-emacs/find-by-pinyin-dired 0.0.3: Find file by first PinYin character of Chinese Hanzi
 app-emacs/find-dupes-dired 1.0: Find dupes and handle in dired
-app-emacs/find-file-in-project 6.2.1: Find file/directory and review Diff/Patch/Commit efficiently
+app-emacs/find-file-in-project 6.2.2: Find file/directory and review Diff/Patch/Commit efficiently
 app-emacs/find-file-in-repository 1.2: Quickly find files in a git, mercurial or other repository
 app-emacs/finito 0.5.0: View and collect books
 app-emacs/fiplr 0.2.4: Fuzzy Search for Files in Projects
@@ -1656,7 +1656,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.12: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.33.2: Your Second Brain
+app-emacs/khoj 1.34.0: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-dollar-mode 1.0.0: Remove leading $ from shell-script-like text
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
@@ -1921,7 +1921,7 @@ app-emacs/move-mode 1.1.1: A major-mode for editing Move language
 app-emacs/move-text 2.0.10: Move current line or region with M-up or M-down
 app-emacs/mowedline 3.3.0: Elisp utilities for using mowedline
 app-emacs/mowie 0.1.1: Cycle Through Point-Moving Commands
-app-emacs/mozc 2.30.5544.102: Minor mode to input Japanese with Mozc
+app-emacs/mozc 2.31.5712.102: Minor mode to input Japanese with Mozc
 app-emacs/mozc-temp 1.0.0: Use mozc temporarily
 app-emacs/mpdel 2.1.0: Play and control your MPD music
 app-emacs/mpdel-embark 0.4.0: Integrate MPDel with Embark
@@ -2004,11 +2004,11 @@ app-emacs/nord-theme 0.5.0: An arctic, north-bluish clean and elegant theme
 app-emacs/nordic-night-theme 2.0.3: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 0.2: A mostly colorless version of nord-theme
 app-emacs/notmuch 0.38.3: Run notmuch within emacs
-app-emacs/notmuch-addr 1.0.1: Improved address completion for Notmuch
+app-emacs/notmuch-addr 1.1.0: Improved address completion for Notmuch
 app-emacs/notmuch-bookmarks 0.2: Add bookmark handling for notmuch buffers
 app-emacs/notmuch-labeler 0.1: Improve notmuch way of displaying labels
-app-emacs/notmuch-maildir 1.1.0: Display maildirs as a tree
-app-emacs/notmuch-transient 1.0.1: Command dispatchers for Notmuch
+app-emacs/notmuch-maildir 1.2.0: Display maildirs as a tree
+app-emacs/notmuch-transient 1.1.0: Command dispatchers for Notmuch
 app-emacs/nov 0.4.0: Featureful EPUB reader mode
 app-emacs/noxml-fold 0.0.2: Fold away XML things
 app-emacs/npm 0.3: Run your npm workflows
@@ -2052,13 +2052,14 @@ app-emacs/obfusurl 2.1: Obfuscate URLs so they aren't spoilers
 app-emacs/objc-font-lock 0.0.5: Highlight Objective-C method calls
 app-emacs/objed 0.8.1: Navigate and edit text objects
 app-emacs/obsidian 1.4.4: Obsidian Notes interface
+app-emacs/ocaml-eglot 1.0.0: An OCaml companion for Eglot
 app-emacs/ocamlformat 0.27.0: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: Automatic indentation with ocp-indent
 app-emacs/octicons 0.1: Octicons utility
 app-emacs/oer-reveal 4.28.2: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
-app-emacs/ol-notmuch 2.0.3: Links to notmuch messages
+app-emacs/ol-notmuch 2.1.0: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
 app-emacs/olivetti 2.0.7: Minor mode to automatically balance window margins
 app-emacs/omni-kill 0.6.0: Kill all the things
@@ -2136,7 +2137,7 @@ app-emacs/org-jami-bot 0.0.4: Capture GNU Jami messages as notes and todos in Or
 app-emacs/org-jira 4.4.2: Syncing between Jira and Org-mode
 app-emacs/org-journal 2.2.0: A simple org-mode based journaling mode
 app-emacs/org-journal-tags 0.4.0: Tagging and querying system of org-journal
-app-emacs/org-kanban 0.6.9: Kanban dynamic block for org-mode
+app-emacs/org-kanban 0.6.10: Kanban dynamic block for org-mode
 app-emacs/org-link-beautify 1.2.3: Beautify Org Links
 app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
@@ -2274,7 +2275,7 @@ app-emacs/paimon 0.2.0: A major mode for Splunk
 app-emacs/palimpsest 1.1: Various deletion strategies when editing
 app-emacs/panda-theme 0.1: Panda Theme
 app-emacs/pandoc 0.0.1: Pandoc interface
-app-emacs/pandoc-mode 2.33: Minor mode for interacting with Pandoc
+app-emacs/pandoc-mode 2.34.1: Minor mode for interacting with Pandoc
 app-emacs/pangu-spacing 0.4: Minor-mode to add space between Chinese and English characters
 app-emacs/paperless 1.3.2: A major mode for sorting and filing PDF documents
 app-emacs/paradox 2.5.4: A modern Packages Menu. Colored, with package ratings, and customizable
@@ -2293,7 +2294,7 @@ app-emacs/parseedn 1.2.1: Clojure/EDN parser
 app-emacs/pass 2.0: Major mode for password-store.el
 app-emacs/password-menu 0.1.0: Password Menu for auth-source secrets
 app-emacs/password-store 1.7.4: Password store (pass) support
-app-emacs/password-store-menu 1.0.1: A better, more complete UI for password-store
+app-emacs/password-store-menu 1.0.2: A better, more complete UI for password-store
 app-emacs/password-store-otp 0.1.5: Password store (pass) OTP extension support
 app-emacs/pastehub 0.5.2: A client for the PasteHub cloud service
 app-emacs/pastelmac-theme 1.0: A soothing theme with a pastel color palette
@@ -2904,6 +2905,7 @@ app-emacs/treemacs-all-the-icons 3.1: All-the-icons integration for treemacs
 app-emacs/treemacs-evil 3.1: Evil mode integration for treemacs
 app-emacs/treemacs-icons-dired 3.1: Treemacs icons for dired
 app-emacs/treemacs-magit 3.1: Magit integration for treemacs
+app-emacs/treemacs-nerd-icons 0.0.1: Emacs Nerd Font Icons theme for treemacs
 app-emacs/treemacs-persp 3.1: Persp-mode integration for treemacs
 app-emacs/treemacs-perspective 3.1: Perspective integration for treemacs
 app-emacs/treemacs-projectile 3.1: Projectile integration for treemacs
@@ -3126,7 +3128,7 @@ app-emacs/yatex 1.83: Yet Another tex-mode for emacs //野鳥//
 app-emacs/yaxception 1.0.0: Provide framework about exception like Java for Elisp
 app-emacs/ycmd 1.2: Emacs bindings to the ycmd completion server
 app-emacs/ydk-mode 1.0.0: Language support for Yu-Gi-Oh! deck files
-app-emacs/yeetube 2.1.7: Scrape YouTube - Play with mpv & Download with yt-dlp |
+app-emacs/yeetube 2.1.8: Scrape YouTube, Play with mpv & Download with yt-dlp
 app-emacs/yequake 0.1: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 0.1.0: Display ghostly yesql defqueries inline
 app-emacs/yoshi-theme 7.0.0: Theme named after my cat
