@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Scrape YouTube, Play with mpv &amp; Download with yt-dlp</longdescription>
+	<longdescription>An OCaml companion for Eglot</longdescription>
 </pkgmetadata>

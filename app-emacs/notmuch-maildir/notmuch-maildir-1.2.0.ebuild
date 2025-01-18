@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="notmuch-addr"
+REALNAME="notmuch-maildir"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Improved address completion for Notmuch"
+DESCRIPTION="Display maildirs as a tree"
 
-HOMEPAGE="https://git.sr.ht/~tarsius/notmuch-addr"
+HOMEPAGE="https://github.com/tarsius/notmuch-maildir"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
