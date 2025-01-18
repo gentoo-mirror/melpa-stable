@@ -5,20 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="notmuch-maildir"
+REALNAME="yeetube"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display maildirs as a tree"
+DESCRIPTION="Scrape YouTube, Play with mpv & Download with yt-dlp"
 
-HOMEPAGE="https://git.sr.ht/~tarsius/notmuch-maildir"
+HOMEPAGE="https://thanosapollo.org/projects/yeetube/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/compat
-	app-emacs/notmuch"
-RDEPEND="app-emacs/compat
-	app-emacs/notmuch"
+DEPEND="app-emacs/compat"
+RDEPEND="app-emacs/compat"
