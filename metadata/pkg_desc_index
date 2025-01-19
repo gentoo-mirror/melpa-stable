@@ -2294,7 +2294,7 @@ app-emacs/parseedn 1.2.1: Clojure/EDN parser
 app-emacs/pass 2.0: Major mode for password-store.el
 app-emacs/password-menu 0.1.0: Password Menu for auth-source secrets
 app-emacs/password-store 1.7.4: Password store (pass) support
-app-emacs/password-store-menu 1.0.2: A better, more complete UI for password-store
+app-emacs/password-store-menu 1.0.3: A better, more complete UI for password-store
 app-emacs/password-store-otp 0.1.5: Password store (pass) OTP extension support
 app-emacs/pastehub 0.5.2: A client for the PasteHub cloud service
 app-emacs/pastelmac-theme 1.0: A soothing theme with a pastel color palette
@@ -3023,6 +3023,7 @@ app-emacs/vulpea 0.3.0: A collection of org-roam note-taking functions
 app-emacs/w32-browser 235: Run Windows application associated with a file
 app-emacs/w32-ime 0.0.1: Windows IME UI/UX controler
 app-emacs/wacspace 0.4.2: The WACky WorkSPACE manager for emACS
+app-emacs/wakib-keys 1.0.0: Minor Mode for Modern Keybindings
 app-emacs/walkclj 0.2.0: Manipulate Clojure parse trees
 app-emacs/walkman 0.2: Write HTTP requests in Org mode
 app-emacs/wandbox 0.6.4: Wandbox client
