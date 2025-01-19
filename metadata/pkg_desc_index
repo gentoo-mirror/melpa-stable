@@ -1754,7 +1754,7 @@ app-emacs/logstash-conf 0.4: Basic mode for editing logstash configuration
 app-emacs/logview 0.19.1: Major mode for viewing log files
 app-emacs/loop 1.3: Friendly imperative loop structures
 app-emacs/loophole 0.8.3: Manage temporary key bindings
-app-emacs/loopy 0.13.0: A looping macro
+app-emacs/loopy 0.14.0: A looping macro
 app-emacs/loopy-dash 0.13.0: Dash destructuring for `loopy'
 app-emacs/lox-mode 1.3: Major mode for the Lox programming language
 app-emacs/lsp-dart 1.24.3: Dart support lsp-mode
@@ -2762,7 +2762,7 @@ app-emacs/standard-dirs 2.0.0: Platform-specific paths for config, cache, and ot
 app-emacs/starhugger 0.5.0: Hugging Face/AI-powered text & code completion client
 app-emacs/stash 0.4.1: Lightweight persistent caching
 app-emacs/status 0.3: This package adds support for status icons to Emacs
-app-emacs/stgit 2.5.0: Major mode for StGit interaction
+app-emacs/stgit 2.5.1: Major mode for StGit interaction
 app-emacs/sticky-scroll-mode 1.0.1: Sticky scrolling
 app-emacs/stock-tracker 0.1.6: Track stock price
 app-emacs/streak 3.0.0: Track a daily streak in your Mode Line
