@@ -5,20 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="password-store-menu"
+REALNAME="trope-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A better, more complete UI for password-store"
+DESCRIPTION="Major mode to edit TV Tropes format \".trp\" files"
 
-HOMEPAGE="https://github.com/rjekker/password-store-menu"
+HOMEPAGE="https://github.com/TriAttack238/trope-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/password-store
-	app-emacs/pass"
-RDEPEND="app-emacs/password-store
-	app-emacs/pass"
+DEPEND=""
+RDEPEND=""
