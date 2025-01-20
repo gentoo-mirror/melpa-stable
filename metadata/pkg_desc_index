@@ -667,7 +667,7 @@ app-emacs/easy-repeat 0.2: Repeat easily
 app-emacs/easysession 1.1.1: Easily persist and restore your editing sessions
 app-emacs/ebdb-mua-sidecar 1.6.0: EBDB Integration for Universal Sidecar
 app-emacs/ebf 1.0.0: Brainfuck language transpiler to Emacs Lisp
-app-emacs/ebib 2.48: A BibTeX database manager
+app-emacs/ebib 2.49: A BibTeX database manager
 app-emacs/ebib-sidecar 1.6.0: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/eclim 0.4: An interface to the Eclipse IDE
 app-emacs/ecukes 0.6.18: Cucumber for Emacs
@@ -713,7 +713,7 @@ app-emacs/el2org 0.6.0: Convert elisp file to org file
 app-emacs/elbank 1.2: Personal finances reporting application
 app-emacs/elcouch 0.11.0: View and manipulate CouchDB databases
 app-emacs/eldev 1.11: Elisp development tool
-app-emacs/eldoc-box 1.13.1: Display documentation in childframe
+app-emacs/eldoc-box 1.13.2: Display documentation in childframe
 app-emacs/eldoc-eask 0.1.0: Eldoc support for Eask-file
 app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use
 app-emacs/eldoc-stan 10.2.0: Eldoc support for stan functions
@@ -1706,7 +1706,7 @@ app-emacs/lem 0.22: A lemmy client
 app-emacs/lentic 0.11: One buffer as a view of another
 app-emacs/less-css-mode 0.21: Major mode for editing LESS CSS files (lesscss.org)
 app-emacs/letcheck 0.4: Check the erroneous assignments in let forms
-app-emacs/leuven-theme 1.2.2: Elegant Emacs color theme for a white background
+app-emacs/leuven-theme 1.3.0: Elegant Emacs color theme for a white background
 app-emacs/lfe-mode 2.2.0: Lisp Flavoured Erlang mode
 app-emacs/libbcel 0.4.0: Library to connect to basecamp 3 API
 app-emacs/libelcouch 0.11.0: Communication with CouchDB
@@ -2294,7 +2294,7 @@ app-emacs/parseedn 1.2.1: Clojure/EDN parser
 app-emacs/pass 2.0: Major mode for password-store.el
 app-emacs/password-menu 0.1.0: Password Menu for auth-source secrets
 app-emacs/password-store 1.7.4: Password store (pass) support
-app-emacs/password-store-menu 1.0.3: A better, more complete UI for password-store
+app-emacs/password-store-menu 1.0.5: A better, more complete UI for password-store
 app-emacs/password-store-otp 0.1.5: Password store (pass) OTP extension support
 app-emacs/pastehub 0.5.2: A client for the PasteHub cloud service
 app-emacs/pastelmac-theme 1.0: A soothing theme with a pastel color palette
@@ -2897,7 +2897,7 @@ app-emacs/tray 0.1.5: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.247: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.248: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
@@ -2916,6 +2916,7 @@ app-emacs/treeview 1.3.0: A generic tree navigation library
 app-emacs/trimspace-mode 1.1: A minor mode to trim trailing whitespace and newlines
 app-emacs/trinary 1.2.1: Trinary logic
 app-emacs/tron-legacy-theme 2.6.0: An original retro-futuristic theme inspired by Tron: Legacy
+app-emacs/trope-mode 0.1.0: Major mode to edit TV Tropes format ".trp" files
 app-emacs/trr 2.0.0: A type-writing training program on GNU Emacs
 app-emacs/truthy 0.2.8: Test the content of a value
 app-emacs/try 0.0.1: Try out Emacs packages
