@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Play, pause, resume music on a Bluesound player"
 
-HOMEPAGE="https://git.sr.ht/~rwv/bluesound-el"
+HOMEPAGE="https://git.sr.ht/~rwv/bluesound-el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

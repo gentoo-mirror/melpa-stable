@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Find file by zoxide"
 
-HOMEPAGE="https://git.sr.ht/~vonfry/zoxide.el"
+HOMEPAGE="https://gitlab.com/Vonfry/zoxide.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

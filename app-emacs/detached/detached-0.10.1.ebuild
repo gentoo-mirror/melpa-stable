@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A package to launch, and manage, detached processes"
 
-HOMEPAGE="https://git.sr.ht/~niklaseklund/detached.el"
+HOMEPAGE="https://sr.ht/~niklaseklund/detached.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Seamless integration with Darkman"
 
-HOMEPAGE="https://git.sr.ht/~grtcdr/darkman.el"
+HOMEPAGE="https://darkman.grtcdr.tn"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
