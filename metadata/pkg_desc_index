@@ -231,6 +231,7 @@ app-emacs/bshell 1.0: Manage and track multiple inferior shells
 app-emacs/buffer-flip 3.0: Cycle through buffers like Alt-Tab in Windows
 app-emacs/buffer-manage 1.1: Manage buffers
 app-emacs/buffer-move 0.6.2: [No description available]
+app-emacs/buffer-ring 0.3.4: Rings and tori for buffer navigation
 app-emacs/buffer-sets 3.7.2: Sets of Buffers for Buffer Management
 app-emacs/buffer-terminator 1.1.0: Safely Terminate/Kill Buffers Automatically
 app-emacs/buffer-utils 0.1.0: Buffer-manipulation utility functions
@@ -438,7 +439,7 @@ app-emacs/consult-gh-embark 2.2: Embark Actions for consult-gh
 app-emacs/consult-gh-forge 2.2: Magit/Forge Integration for consult-gh
 app-emacs/consult-ghq 0.0.5: Ghq interface using consult
 app-emacs/consult-hatena-bookmark 0.3.1: Consult commands for the Hatena Bookmark
-app-emacs/consult-lsp 1.1: LSP-mode Consult integration
+app-emacs/consult-lsp 2.1: LSP-mode Consult integration
 app-emacs/consult-notmuch 0.8.1: Notmuch search using consult
 app-emacs/consult-project-extra 0.1: Consult integration for project.el
 app-emacs/consult-recoll 0.8.1: Recoll queries using consult
@@ -649,6 +650,7 @@ app-emacs/dynamic-fonts 0.6.4: Set faces based on available fonts
 app-emacs/dynamic-ruler 0.1.7: Displays a dynamic ruler at point
 app-emacs/dynamic-spaces 0.0.1: Don't move text separated by multiple spaces
 app-emacs/dynaring 0.4: A dynamically sized ring structure
+app-emacs/e2ansi 0.2.0: Syntax highlighting for `less', powered by Emacs
 app-emacs/e2wm 1.4: Simple window manager for emacs
 app-emacs/e2wm-R 0.4: Some e2wm plugin and perspective for GNU R
 app-emacs/e2wm-direx 0.0.7: Plugin of e2wm.el for direx.el
@@ -1464,7 +1466,7 @@ app-emacs/hydandata-light-theme 0.9.0: A light color theme that is easy on your 
 app-emacs/hyde 0.2: [No description available]
 app-emacs/hydra 0.15.0: Make bindings that stick around
 app-emacs/hyperbole 9.0.1: GNU Hyperbole: The Everyday Hypertextual Information Manager
-app-emacs/hyperdrive 0.4.2: P2P filesystem
+app-emacs/hyperdrive 0.5.2: P2P filesystem
 app-emacs/hyperdrive-org-transclusion 0.3.1: Tranclude hyperdrive content
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
@@ -1739,7 +1741,7 @@ app-emacs/live-code-talks 0.2.1: Support for slides with live code in them
 app-emacs/live-preview 0.1.2: Live preview by any shell command while editing
 app-emacs/live-py-mode 4.12.0: Live Coding in Python
 app-emacs/lively 0.2: Interactively updating text
-app-emacs/llama 0.4.1: Compact syntax for short lambda
+app-emacs/llama 0.5.0: Compact syntax for short lambda
 app-emacs/lms 1.1: Squeezebox / Logitech Media Server frontend
 app-emacs/load-relative 1.3.2: Relative file load (within a multi-file Emacs package)
 app-emacs/loc-changes 1.1: Helps users and programs keep track of positions even after buffer changes
@@ -1912,7 +1914,7 @@ app-emacs/mood-line 3.1.1: A minimal mode line inspired by doom-modeline
 app-emacs/mood-one-theme 1.2.2: A dark color scheme inspired by the Doom One theme
 app-emacs/moody 1.1.2: Tabs and ribbons for the mode line
 app-emacs/moom 1.6.0: Commands to control frame position and size
-app-emacs/morlock 1.2.0: More font-lock keywords for elisp
+app-emacs/morlock 2.0.0: More font-lock keywords for elisp
 app-emacs/mosey 0.2: Mosey around your buffers
 app-emacs/most-faces 0.2: A List of Most Available Faces
 app-emacs/most-used-words 0.2: Display most used words in buffer
@@ -2294,7 +2296,7 @@ app-emacs/parseedn 1.2.1: Clojure/EDN parser
 app-emacs/pass 2.0: Major mode for password-store.el
 app-emacs/password-menu 0.1.0: Password Menu for auth-source secrets
 app-emacs/password-store 1.7.4: Password store (pass) support
-app-emacs/password-store-menu 1.0.5: A better, more complete UI for password-store
+app-emacs/password-store-menu 1.1.0: A better, more complete UI for password-store
 app-emacs/password-store-otp 0.1.5: Password store (pass) OTP extension support
 app-emacs/pastehub 0.5.2: A client for the PasteHub cloud service
 app-emacs/pastelmac-theme 1.0: A soothing theme with a pastel color palette
@@ -2856,7 +2858,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2025.1.13.0: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2025.1.20.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2867,7 +2869,7 @@ app-emacs/timesheet 0.5.0: Timesheet management add-on for org-mode
 app-emacs/timonier 0.1.0: Timonier, Manage Kubernetes Applications from Emacs
 app-emacs/timu-caribbean-theme 1.5: Color theme with cyan as a dominant color
 app-emacs/timu-line 1.4: Custom and simple mode line
-app-emacs/timu-macos-theme 1.4: Color theme inspired by the macOS UI
+app-emacs/timu-macos-theme 1.5: Color theme inspired by the macOS UI
 app-emacs/timu-rouge-theme 1.9: Color theme inspired by the Rouge Theme for VSCode
 app-emacs/timu-spacegrey-theme 2.9: Color theme inspired by the Spacegray theme in Sublime Text
 app-emacs/titlecase 0.4.1: Title-case phrases
