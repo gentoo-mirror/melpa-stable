@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for ChordPro lead sheet file format"
 
-HOMEPAGE="https://git.sr.ht/~breatheoutbreathein/chordpro-mode.el"
+HOMEPAGE="https://git.sr.ht/~breatheoutbreathein/chordpro-mode.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="morlock"
+REALNAME="llama"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="More font-lock keywords for elisp"
+DESCRIPTION="Compact syntax for short lambda"
 
-HOMEPAGE="https://github.com/tarsius/morlock"
+HOMEPAGE="https://github.com/tarsius/llama"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

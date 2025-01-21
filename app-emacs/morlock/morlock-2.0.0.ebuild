@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="highlight-parentheses"
+REALNAME="morlock"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlight surrounding parentheses"
+DESCRIPTION="More font-lock keywords for elisp"
 
-HOMEPAGE="https://sr.ht/~tsdh/highlight-parentheses.el/"
+HOMEPAGE="https://github.com/tarsius/morlock"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
