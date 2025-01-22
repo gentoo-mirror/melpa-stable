@@ -669,7 +669,7 @@ app-emacs/easy-repeat 0.2: Repeat easily
 app-emacs/easysession 1.1.1: Easily persist and restore your editing sessions
 app-emacs/ebdb-mua-sidecar 1.6.0: EBDB Integration for Universal Sidecar
 app-emacs/ebf 1.0.0: Brainfuck language transpiler to Emacs Lisp
-app-emacs/ebib 2.49: A BibTeX database manager
+app-emacs/ebib 2.49.1: A BibTeX database manager
 app-emacs/ebib-sidecar 1.6.0: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/eclim 0.4: An interface to the Eclipse IDE
 app-emacs/ecukes 0.6.18: Cucumber for Emacs
@@ -706,7 +706,7 @@ app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
 app-emacs/el-init-viewer 0.1.0: Record viewer for el-init
-app-emacs/el-job 0.3.19: Call a function using all CPU cores
+app-emacs/el-job 0.3.21: Call a function using all CPU cores
 app-emacs/el-mock 1.25.1: Tiny Mock and Stub framework in Emacs Lisp
 app-emacs/el-patch 3.1: Future-proof your Elisp
 app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
@@ -1640,7 +1640,7 @@ app-emacs/kaesar-pbkdf2 0.9.1: PBKDF2 extension for kaesar.el
 app-emacs/kagi 0.6: Kagi API integration
 app-emacs/kakapo-mode 1.2: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment
 app-emacs/kaocha-runner 0.3.2: A package for running Kaocha tests via CIDER
-app-emacs/kaolin-themes 1.7.1: A set of eye pleasing themes
+app-emacs/kaolin-themes 1.7.2: A set of eye pleasing themes
 app-emacs/karma 0.1.0: Karma Test Runner Emacs Integration
 app-emacs/keepass-mode 0.0.5: Mode for KeePass DB
 app-emacs/kele 0.6.0: Spritzy Kubernetes cluster management
@@ -1677,7 +1677,7 @@ app-emacs/kubernetes-evil 0.18.0: Kubernetes keybindings for evil-mode
 app-emacs/kurecolor 1.7.1: Color editing goodies
 app-emacs/kuronami-theme 2.0: A deep blue theme with cool autumnal colors
 app-emacs/laas 1.1: A bundle of as-you-type LaTeX snippets
-app-emacs/lab 2.1.1: An interface for GitLab
+app-emacs/lab 2.2.2: An interface for GitLab
 app-emacs/labburn-theme 1.0.0: A lab color space zenburn theme
 app-emacs/lacquer 1.2.2: Switch theme/font by selecting from a cache
 app-emacs/lambdapi-mode 2.5.1: A major mode to edit Lambdapi files
@@ -1914,7 +1914,7 @@ app-emacs/mood-line 3.1.1: A minimal mode line inspired by doom-modeline
 app-emacs/mood-one-theme 1.2.2: A dark color scheme inspired by the Doom One theme
 app-emacs/moody 1.1.2: Tabs and ribbons for the mode line
 app-emacs/moom 1.6.0: Commands to control frame position and size
-app-emacs/morlock 2.0.0: More font-lock keywords for elisp
+app-emacs/morlock 2.0.1: More font-lock keywords for elisp
 app-emacs/mosey 0.2: Mosey around your buffers
 app-emacs/most-faces 0.2: A List of Most Available Faces
 app-emacs/most-used-words 0.2: Display most used words in buffer
@@ -2447,7 +2447,7 @@ app-emacs/puppet-mode 0.4: Major mode for Puppet manifests
 app-emacs/pushbullet 0.5.2: Emacs client for the PushBullet Android app
 app-emacs/py-autopep8 2016.1: Use autopep8 to beautify a Python buffer
 app-emacs/py-isort 2016.1: Use isort to sort the imports in a Python buffer
-app-emacs/py-vterm-interaction 1.0.6: A mode for Python REPL using vterm
+app-emacs/py-vterm-interaction 1.0.8: A mode for Python REPL using vterm
 app-emacs/py-yapf 2016.1: Use yapf to beautify a Python buffer
 app-emacs/pycarddavel 1.0.1: Integrate pycarddav
 app-emacs/pydoc 0.1: Functional, syntax highlighted pydoc navigation
