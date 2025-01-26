@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Link org-id entries into a network</longdescription>
+	<longdescription>Fast org-roam replacement</longdescription>
 </pkgmetadata>
