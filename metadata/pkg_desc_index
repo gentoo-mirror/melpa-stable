@@ -343,7 +343,7 @@ app-emacs/clojure-quick-repls 0.1.0: Quickly create Clojure and ClojureScript re
 app-emacs/clojure-snippets 1.0.1: Yasnippets for clojure
 app-emacs/clojure-ts-mode 0.2.2: Major mode for Clojure code
 app-emacs/clomacs 0.0.5: Simplifies Emacs Lisp interaction with Clojure
-app-emacs/closql 2.1.0: Store EIEIO objects using EmacSQL
+app-emacs/closql 2.2.0: Store EIEIO objects using EmacSQL
 app-emacs/clues-theme 1.0.1: An Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
@@ -741,7 +741,7 @@ app-emacs/elisp-refs 1.5: Find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.13.2: Tool for interacting with LLMs
+app-emacs/ellama 0.13.4: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: [No description available]
@@ -1666,6 +1666,7 @@ app-emacs/killer 1.0.0: Kill and delete text
 app-emacs/kivy-mode 2.3.1: Emacs major mode for editing Kivy files
 app-emacs/klondike 1.2.0: Klondike
 app-emacs/know-your-http-well 0.6.0: Look up the meaning of HTTP headers, methods, relations, status codes
+app-emacs/kql-mode 0.3: Major mode for highlighting KQL
 app-emacs/ksp-cfg-mode 0.6: Major mode for editing KSP CFG files
 app-emacs/ksp-mode 0.1.1: Major mode for editing ksp files
 app-emacs/kubectx-mode 1.2.0: Change kubectl context/namespace and show in mode line
@@ -1821,7 +1822,7 @@ app-emacs/map-progress 1.0.0: Mapping macros that report progress
 app-emacs/map-regexp 1.0.0: Map over matches of a regular expression
 app-emacs/marcopolo 0.3.0: Emacs client for Docker API
 app-emacs/marginalia 1.8: Enrich existing commands with completion annotations
-app-emacs/mark-thing-at 1.0.0: Mark a pattern at the current point
+app-emacs/mark-thing-at 1.1.0: Mark a pattern at the current point
 app-emacs/mark-tools 0.3: Some simple tools to access the mark-ring in Emacs
 app-emacs/markdown-changelog 0.0.2: Maintain changelog entries
 app-emacs/markdown-mode 2.6: Major mode for Markdown-formatted text
@@ -1881,6 +1882,7 @@ app-emacs/minimal-session-saver 0.6.2: Very lean session saver
 app-emacs/minions 1.0.3: A minor-mode menu for the mode line
 app-emacs/minitest 0.9.2: An Emacs mode for ruby minitest files
 app-emacs/mint-mode 2.0.0: Major mode for the Mint programming language
+app-emacs/minuet 0.3: Code completion using LLM
 app-emacs/mips-mode 1.2.0: Major-mode for MIPS assembly
 app-emacs/mise 0.3.1: Support for `mise' cli
 app-emacs/mistty 1.3: Shell/Comint alternative based on term.el
@@ -3104,6 +3106,7 @@ app-emacs/xmind-org 0.1.1: Import XMind mindmaps into Org
 app-emacs/xml-format 1.0.0: XML reformatter using xmllint
 app-emacs/xml-rpc 1.6.15: An elisp implementation of clientside XML-RPC
 app-emacs/xmlgen 0.5: A DSL for generating XML
+app-emacs/xmltokf 0.2.3: Functional wrappers around xmltok
 app-emacs/xmlunicode 1.26: Unicode support for XML
 app-emacs/xquery-tool 0.2.0: A simple interface to saxonb's xquery
 app-emacs/xref-js2 1.6: Jump to references/definitions using ag & js2-mode's AST
