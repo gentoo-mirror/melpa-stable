@@ -18,5 +18,7 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/password-store"
-RDEPEND="app-emacs/password-store"
+DEPEND="app-emacs/password-store
+	app-emacs/transient"
+RDEPEND="app-emacs/password-store
+	app-emacs/transient"
