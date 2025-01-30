@@ -1446,7 +1446,7 @@ app-emacs/hookify 0.2.1: Interactive commands to create temporary hooks
 app-emacs/hotfuzz 1.0: Fuzzy completion style
 app-emacs/hound 1.1.0: Display hound search results in a compilation window
 app-emacs/hover 1.2.3: Package to use hover with flutter
-app-emacs/howm 1.5.2: Wiki-like note-taking tool
+app-emacs/howm 1.5.3: Wiki-like note-taking tool
 app-emacs/ht 2.3: The missing hash table library for Emacs
 app-emacs/html-script-src 0.0.2: Insert <script src=".."> for popular JavaScript libraries
 app-emacs/html-to-markdown 1.5.1: HTML to Markdown converter written in Emacs-lisp
@@ -2154,7 +2154,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 1.9.28: Fast org-roam replacement
+app-emacs/org-node 1.9.29: Fast org-roam replacement
 app-emacs/org-node-fakeroam 1.7.0: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
