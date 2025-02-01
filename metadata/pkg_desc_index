@@ -1741,7 +1741,7 @@ app-emacs/live-code-talks 0.2.1: Support for slides with live code in them
 app-emacs/live-preview 0.1.2: Live preview by any shell command while editing
 app-emacs/live-py-mode 4.12.0: Live Coding in Python
 app-emacs/lively 0.2: Interactively updating text
-app-emacs/llama 0.5.0: Compact syntax for short lambda
+app-emacs/llama 0.6.0: Compact syntax for short lambda
 app-emacs/lms 1.1: Squeezebox / Logitech Media Server frontend
 app-emacs/load-relative 1.3.2: Relative file load (within a multi-file Emacs package)
 app-emacs/loc-changes 1.1: Helps users and programs keep track of positions even after buffer changes
