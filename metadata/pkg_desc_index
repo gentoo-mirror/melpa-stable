@@ -520,7 +520,7 @@ app-emacs/dashboard-ls 0.3.0: Display files/directories in current directory on 
 app-emacs/dashboard-project-status 0.0.1: Display a git project status in a dashboard widget
 app-emacs/date-at-point 0.1: Add `date' to `thing-at-point' function
 app-emacs/date-field 0.0.1: Date widget
-app-emacs/datetime 0.10.1: Parsing, formatting and matching timestamps
+app-emacs/datetime 0.10.2: Parsing, formatting and matching timestamps
 app-emacs/dbc 0.1: Control how to open buffers
 app-emacs/dbml-mode 1.2.1: Major mode for DBML
 app-emacs/ddskk 17.1: Simple Kana to Kanji conversion program
@@ -930,7 +930,7 @@ app-emacs/f3 0.1: A helm interface to find
 app-emacs/fabric 0.2.0: Launch Fabric using Emacs
 app-emacs/face-explorer 0.0.6: Tools for faces and text properties
 app-emacs/factlog 0.0.1: File activity logger
-app-emacs/faff-theme 3.5: Light Emacs color theme on cornsilk3 background
+app-emacs/faff-theme 3.6.1: Light Emacs color theme on cornsilk3 background
 app-emacs/fancy-battery 0.2: Fancy battery display
 app-emacs/fancy-narrow 0.9.5: Narrow-to-region with more eye candy
 app-emacs/fancy-urls-menu 0.1.0: Interface for viewing and opening URLs in current buffer
@@ -2860,7 +2860,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2025.1.27.0: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2025.2.3.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
