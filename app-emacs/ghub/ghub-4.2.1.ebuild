@@ -5,22 +5,24 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="magit-file-icons"
+REALNAME="ghub"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Icons for file entries in Magit buffers"
+DESCRIPTION="Client libraries for Git forge APIs"
 
-HOMEPAGE="https://github.com/gekoke/magit-file-icons"
+HOMEPAGE="https://github.com/magit/ghub"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/magit
-	app-emacs/nerd-icons
-	app-emacs/el-patch"
-RDEPEND="app-emacs/magit
-	app-emacs/nerd-icons
-	app-emacs/el-patch"
+DEPEND="app-emacs/compat
+	app-emacs/let-alist
+	app-emacs/llama
+	app-emacs/treepy"
+RDEPEND="app-emacs/compat
+	app-emacs/let-alist
+	app-emacs/llama
+	app-emacs/treepy"
