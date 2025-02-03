@@ -5,22 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="ghub"
+REALNAME="pif"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Client libraries for Git forge APIs"
+DESCRIPTION="Prevent Initial Flash of Light"
 
-HOMEPAGE="https://github.com/magit/ghub"
+HOMEPAGE="https://github.com/oliverepper/pif"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/compat
-	app-emacs/let-alist
-	app-emacs/treepy"
-RDEPEND="app-emacs/compat
-	app-emacs/let-alist
-	app-emacs/treepy"
+DEPEND=""
+RDEPEND=""

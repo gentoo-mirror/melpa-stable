@@ -12,13 +12,15 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show flycheck errors with sideline"
 
-HOMEPAGE="https://github.com/jcs-elpa/sideline-flycheck"
+HOMEPAGE="https://github.com/emacs-sideline/sideline-flycheck"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/flycheck
-	app-emacs/sideline"
-RDEPEND="app-emacs/flycheck
-	app-emacs/sideline"
+DEPEND="app-emacs/sideline
+	app-emacs/flycheck
+	app-emacs/ht"
+RDEPEND="app-emacs/sideline
+	app-emacs/flycheck
+	app-emacs/ht"
