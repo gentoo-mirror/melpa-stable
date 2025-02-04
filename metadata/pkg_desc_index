@@ -1096,7 +1096,7 @@ app-emacs/fontify-face 1.1.0: Fontify symbols representing faces with that face
 app-emacs/fontsloth 0.15.3: Elisp otf/ttf font loader/renderer
 app-emacs/for 1.4: Iteration and sequence
 app-emacs/foreman-mode 0.0.1: View and manage Procfile-based applications
-app-emacs/forge 0.4.6: Access Git forges from Magit
+app-emacs/forge 0.4.7: Access Git forges from Magit
 app-emacs/form-feed 0.2.3: Display ^L glyphs as horizontal lines
 app-emacs/format-all 0.6.0: Auto-format C, C++, JS, Python, Ruby and 50 other languages
 app-emacs/format-sql 0.4: Use format-sql to make your SQL readable in directly Emacs
