@@ -741,7 +741,7 @@ app-emacs/elisp-refs 1.5: Find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 0.13.5: Tool for interacting with LLMs
+app-emacs/ellama 0.13.7: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: [No description available]
@@ -2818,7 +2818,7 @@ app-emacs/system-specific-settings 0.2: Apply settings only on certain systems
 app-emacs/systemd 1.6: Major mode for editing systemd units
 app-emacs/ta 1.5: A tool to deal with Chinese homophonic characters
 app-emacs/tab-bar-notch 0.0.7: Adjust tab-bar height for MacBook Pro notch
-app-emacs/tab-line-nerd-icons 0.1: Add icons to tab-line tabs
+app-emacs/tab-line-nerd-icons 0.2: Add icons to tab-line tabs
 app-emacs/tabbar 2.2: Display a tab bar in the header line
 app-emacs/tabbar-ruler 0.45: Pretty tabbar, autohide, use both tabbar/ruler
 app-emacs/tabgo 1.0.1: Jump to tabs, avy style
@@ -3119,7 +3119,7 @@ app-emacs/xwidgets-reuse 0.3: Reuse xwidgets sessions to reduce resource consump
 app-emacs/yabaki-theme 2.0.1: Yabaki, the cast shadow
 app-emacs/yafolding 0.4.1: Folding code blocks based on indentation
 app-emacs/yagist 0.8.12: Yet Another Emacs integration for gist.github.com
-app-emacs/yaml 1.1.0: YAML parser for Elisp
+app-emacs/yaml 1.2.0: YAML parser for Elisp
 app-emacs/yaml-imenu 1.0.3: Enhancement of the imenu support in yaml-mode
 app-emacs/yaml-mode 0.0.16: Major mode for editing YAML files
 app-emacs/yaml-pro 1.3.1: Parser-aided YAML editing features
