@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A JavaScript refactoring library for emacs"
+DESCRIPTION="The beginnings of a JavaScript refactoring library in emacs"
 
 HOMEPAGE="https://github.com/js-emacs/js2-refactor.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

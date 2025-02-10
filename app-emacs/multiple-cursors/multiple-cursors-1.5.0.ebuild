@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Multiple cursors for Emacs"
+DESCRIPTION="Multiple cursors for emacs"
 
 HOMEPAGE="https://github.com/magnars/multiple-cursors.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

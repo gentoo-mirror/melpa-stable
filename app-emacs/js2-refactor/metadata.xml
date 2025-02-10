@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A JavaScript refactoring library for emacs</longdescription>
+	<longdescription>The beginnings of a JavaScript refactoring library in emacs</longdescription>
 </pkgmetadata>
