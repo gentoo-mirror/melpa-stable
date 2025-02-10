@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="vlf"
+REALNAME="kixtart-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="View Large Files"
+DESCRIPTION="Major mode for editing KiXtart scripts"
 
-HOMEPAGE="https://github.com/m00natic/vlfi"
+HOMEPAGE="https://git.sr.ht/~mew/kixtart-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/eldoc"
+RDEPEND="app-emacs/eldoc"
