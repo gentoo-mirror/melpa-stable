@@ -1272,7 +1272,7 @@ app-emacs/grapnel 0.5.3: HTTP request lib with flexible callback dispatch
 app-emacs/grass-mode 0.1: Provides Emacs modes for interacting with the GRASS GIS program
 app-emacs/green-is-the-new-black-theme 1.0.0: A cool and minimalist green blackened theme engine
 app-emacs/green-screen-theme 1.0.26: A nice color theme for those who miss green CRTs
-app-emacs/grip-mode 2.3.3: Instant GitHub-flavored Markdown/Org preview using grip
+app-emacs/grip-mode 2.4.0: Instant GitHub-flavored Markdown/Org preview using grip
 app-emacs/grizzl 0.1.1: Fuzzy Search Library & Completing Read
 app-emacs/groovy-imports 1.0.1: Code for dealing with Groovy imports
 app-emacs/groovy-mode 2.1: Major mode for Groovy source files
@@ -1967,7 +1967,6 @@ app-emacs/nasm-mode 1.1.1: NASM x86 assembly major mode
 app-emacs/nav-flash 1.1.2: Briefly highlight the current line
 app-emacs/navi-mode 2.0: Major-mode for easy buffer-navigation
 app-emacs/navigel 1.0.0: Facilitate the creation of tabulated-list based UIs
-app-emacs/navorski 0.2.7: Helping you live in the terminal, like Viktor did
 app-emacs/ncl-mode 0.99: Major Mode for editing NCL scripts and other goodies
 app-emacs/neil 0.3.68: Companion for Babashka Neil
 app-emacs/nemerle 1.2: Major mode for editing nemerle programs
@@ -2934,7 +2933,6 @@ app-emacs/tumble 1.5: An Tumblr mode for Emacs
 app-emacs/turing-machine 0.2.0: Single-tape Turing machine simulator
 app-emacs/turtles 2.0.0: Screen-grabbing test utility
 app-emacs/twilight-anti-bright-theme 0.3.0: A soothing Emacs 24 light-on-dark theme
-app-emacs/twittering-mode 3.0.0: Major mode for Twitter
 app-emacs/typescript-mode 0.4: Major mode for editing typescript
 app-emacs/typewriter-roll-mode 1.2.1: Aid for distraction-free writing
 app-emacs/typit 0.3.0: Typing game similar to tests on 10 fast fingers
