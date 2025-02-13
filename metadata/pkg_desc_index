@@ -101,7 +101,7 @@ app-emacs/anyins 0.1.1: Insert content at multiple places from shell command or 
 app-emacs/anzu 0.67: Show number of matches in mode-line while searching
 app-emacs/apache-mode 2.2.0: Major mode for editing Apache httpd configuration files
 app-emacs/apdl-mode 20.5.0: Major mode for the APDL programming language
-app-emacs/apheleia 4.3: Reformat buffer stably
+app-emacs/apheleia 4.4: Reformat buffer stably
 app-emacs/apib-mode 0.8: Major mode for API Blueprint files
 app-emacs/apiwrap 0.5: Api-wrapping macros
 app-emacs/apples-mode 0.0.2: Major mode for editing and executing AppleScript code
@@ -741,7 +741,7 @@ app-emacs/elisp-refs 1.5: Find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 1.0.1: Tool for interacting with LLMs
+app-emacs/ellama 1.0.3: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: [No description available]
@@ -1313,7 +1313,7 @@ app-emacs/haxe-mode 0.3.3: Major mode for editing Haxe files
 app-emacs/haxor-mode 0.7.0: Major mode for editing Haxor Assembly Files
 app-emacs/hcl-mode 0.3: Major mode for Hashicorp
 app-emacs/heaven-and-hell 0.0.5: Easy toggle light/dark themes
-app-emacs/helm 4.0: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 4.0.1: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-ack 0.13: Ack command with helm interface
 app-emacs/helm-ag 0.64: The silver searcher with helm interface
 app-emacs/helm-apt 1.1: Helm interface for Debian/Ubuntu packages (apt-*)
@@ -1332,7 +1332,7 @@ app-emacs/helm-circe 0.4: Helm circe buffer management
 app-emacs/helm-codesearch 0.6.0: Helm interface for codesearch
 app-emacs/helm-commandlinefu 0.3: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 0.2.8: Helm interface for company-mode
-app-emacs/helm-core 4.0: Development files for Helm
+app-emacs/helm-core 4.0.1: Development files for Helm
 app-emacs/helm-cscope 0.1.1: Helm interface for xcscope.el
 app-emacs/helm-dash 1.3.0: Offline documentation browser for +150 APIs using Dash docsets
 app-emacs/helm-descbinds 1.13: A convenient `describe-bindings' with `helm'
@@ -1710,7 +1710,7 @@ app-emacs/lem 0.22: A lemmy client
 app-emacs/lentic 0.11: One buffer as a view of another
 app-emacs/less-css-mode 0.21: Major mode for editing LESS CSS files (lesscss.org)
 app-emacs/letcheck 0.4: Check the erroneous assignments in let forms
-app-emacs/leuven-theme 1.3.0: Elegant Emacs color theme for a white background
+app-emacs/leuven-theme 2.5.212: Elegant Emacs color theme for a white background
 app-emacs/lfe-mode 2.2.0: Lisp Flavoured Erlang mode
 app-emacs/libbcel 0.4.0: Library to connect to basecamp 3 API
 app-emacs/libelcouch 0.11.0: Communication with CouchDB
@@ -2420,7 +2420,7 @@ app-emacs/project-explorer 0.14.3: A project explorer sidebar
 app-emacs/project-persist 1.0.1: A minor mode to allow loading and saving of project settings
 app-emacs/project-persist-drawer 0.0.4: Use a project drawer with project-persist
 app-emacs/project-tasks 0.7.1: Efficient task management for your project
-app-emacs/projectile 2.8.0: Manage and navigate projects in Emacs easily
+app-emacs/projectile 2.9.1: Manage and navigate projects in Emacs easily
 app-emacs/projectile-git-autofetch 0.1.2: Automatically fetch git repositories
 app-emacs/projectile-rails 0.22.0: Minor mode for Rails projects based on projectile-mode
 app-emacs/projectile-ripgrep 0.4.0: Run ripgrep with Projectile
@@ -2807,7 +2807,7 @@ app-emacs/sx 0.4: StackExchange client. Ask and answer questions on Stack Overfl
 app-emacs/sxiv 0.4.1: Run the sxiv image viewer
 app-emacs/symbol-overlay 4.3: Highlight symbols with keymap-enabled overlays
 app-emacs/symbolword-mode 1.0: [No description available]
-app-emacs/symex 1.0: An evil way to edit Lisp symbolic expressions as trees
+app-emacs/symex 1.1: An evil way to edit Lisp symbolic expressions as trees
 app-emacs/symon 20160630: Tiny graphical system monitor
 app-emacs/syncthing 3.0.1: Client for Syncthing
 app-emacs/synosaurus 0.2.1: An Emacs frontend for thesauri
