@@ -22,17 +22,13 @@ DEPEND="app-emacs/lispy
 	app-emacs/paredit
 	app-emacs/evil-cleverparens
 	app-emacs/evil
-	app-emacs/smartparens
 	app-emacs/evil-surround
 	app-emacs/hydra
-	app-emacs/seq
-	app-emacs/undo-tree"
+	app-emacs/seq"
 RDEPEND="app-emacs/lispy
 	app-emacs/paredit
 	app-emacs/evil-cleverparens
 	app-emacs/evil
-	app-emacs/smartparens
 	app-emacs/evil-surround
 	app-emacs/hydra
-	app-emacs/seq
-	app-emacs/undo-tree"
+	app-emacs/seq"
