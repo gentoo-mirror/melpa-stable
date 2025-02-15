@@ -449,7 +449,7 @@ app-emacs/consult-vc-modified-files 0.0.3: Show git modified files in a vc proje
 app-emacs/context-transient 1.0.1: Context specific transients
 app-emacs/contextual 1.0.1: Contextual profile management system
 app-emacs/contextual-menubar 1.0.0: Display the menubar only on a graphical display
-app-emacs/copilot-chat 1.2.0: Copilot chat interface
+app-emacs/copilot-chat 2.0.0: Copilot chat interface
 app-emacs/copy-as-format 0.0.9: Copy buffer locations as GitHub/Slack/JIRA etc... formatted code
 app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
@@ -599,7 +599,7 @@ app-emacs/diredful 1.10: Colorful file names in dired buffers
 app-emacs/direnv 2.2.0: Support for direnv
 app-emacs/direx 1.0.0: Simple Directory Explorer
 app-emacs/direx-grep 0.1.0: Grep node of direx.el using incremental search like anything.el/helm.el
-app-emacs/dirvish 2.0.53: A modern file manager based on dired mode
+app-emacs/dirvish 2.1.0: A modern file manager based on dired mode
 app-emacs/disable-mouse 0.3: Disable mouse commands globally
 app-emacs/disaster 1.1: Disassemble C, C++ or Fortran code under cursor
 app-emacs/discover 0.3: Discover more of Emacs
@@ -741,7 +741,7 @@ app-emacs/elisp-refs 1.5: Find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 1.1.2: Tool for interacting with LLMs
+app-emacs/ellama 1.1.3: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: [No description available]
@@ -1835,7 +1835,7 @@ app-emacs/markup 2.0.1: Simple markup generation helpers
 app-emacs/markup-faces 1.0.0: Collection of faces for markup language modes
 app-emacs/marquee-header 0.1.0: Code interface for displaying marquee in header
 app-emacs/marshal 0.9.1: Eieio extension for automatic (un)marshalling
-app-emacs/mastodon 1.1.9: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 1.1.10: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 1.4: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 5.1.1: Preview TeX math equations inline
 app-emacs/math-symbol-lists 1.3: Lists of Unicode math symbols and latex commands
