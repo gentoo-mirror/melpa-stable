@@ -19,8 +19,10 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/llm
+	app-emacs/plz
 	app-emacs/transient
 	app-emacs/compat"
 RDEPEND="app-emacs/llm
+	app-emacs/plz
 	app-emacs/transient
 	app-emacs/compat"
