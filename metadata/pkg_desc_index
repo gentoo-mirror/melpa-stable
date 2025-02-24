@@ -56,7 +56,7 @@ app-emacs/aes 1.0: Implementation of AES
 app-emacs/affe 0.9: Asynchronous Fuzzy Finder for Emacs
 app-emacs/afterglow 0.2.1: Temporary Highlighting after Function Calls
 app-emacs/ag 0.48: A front-end for ag ('the silver searcher'), the C ack replacement
-app-emacs/age 0.1.5: The Age Encryption Library
+app-emacs/age 0.1.6: The Age Encryption Library
 app-emacs/agenix 1.3: Decrypt and encrypt agenix secrets
 app-emacs/aggressive-indent 1.10.0: Minor mode to aggressively keep your code always indented
 app-emacs/ahk-mode 1.5.6: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
@@ -348,7 +348,7 @@ app-emacs/clues-theme 1.0.1: An Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.31.5: Major-mode for editing CMake sources
+app-emacs/cmake-mode 3.31.6: Major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -2867,7 +2867,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2025.2.17.0: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2025.2.24.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
