@@ -308,7 +308,7 @@ app-emacs/chroma 1.1.0: Color manipulation library
 app-emacs/chronometrist 0.10.0: Friendly and powerful personal time tracker and analyzer
 app-emacs/chronometrist-key-values 0.10.0: Add key-values to Chronometrist data
 app-emacs/chronometrist-spark 0.10.0: Show sparklines in Chronometrist buffers
-app-emacs/cider 1.17.0: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 1.17.1: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-eval-sexp-fu 1.2: Briefly highlights an evaluated sexp
 app-emacs/cider-hydra 0.1.0: Hydras for CIDER
 app-emacs/cil-mode 0.4: Common Intermediate Language mode
@@ -1315,7 +1315,7 @@ app-emacs/haxe-mode 0.3.3: Major mode for editing Haxe files
 app-emacs/haxor-mode 0.7.0: Major mode for editing Haxor Assembly Files
 app-emacs/hcl-mode 0.3: Major mode for Hashicorp
 app-emacs/heaven-and-hell 0.0.5: Easy toggle light/dark themes
-app-emacs/helm 4.0.1: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 4.0.2: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-ack 0.13: Ack command with helm interface
 app-emacs/helm-ag 0.64: The silver searcher with helm interface
 app-emacs/helm-apt 1.1: Helm interface for Debian/Ubuntu packages (apt-*)
@@ -1334,7 +1334,7 @@ app-emacs/helm-circe 0.4: Helm circe buffer management
 app-emacs/helm-codesearch 0.6.0: Helm interface for codesearch
 app-emacs/helm-commandlinefu 0.3: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 0.2.8: Helm interface for company-mode
-app-emacs/helm-core 4.0.1: Development files for Helm
+app-emacs/helm-core 4.0.2: Development files for Helm
 app-emacs/helm-cscope 0.1.1: Helm interface for xcscope.el
 app-emacs/helm-dash 1.3.0: Offline documentation browser for +150 APIs using Dash docsets
 app-emacs/helm-descbinds 1.13: A convenient `describe-bindings' with `helm'
@@ -1658,7 +1658,7 @@ app-emacs/keymap-utils 4.0.2: Keymap utilities
 app-emacs/keypress-multi-event 1.0: Perform different actions for the same keypress
 app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
-app-emacs/khalel 0.1.12: Import, edit and create calendar events through khal
+app-emacs/khalel 0.1.13: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
 app-emacs/khoj 1.36.6: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
