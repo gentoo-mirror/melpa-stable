@@ -222,7 +222,7 @@ app-emacs/borg 4.1.2: Assimilate Emacs packages as Git submodules
 app-emacs/boxes 2.3.1: ASCII boxes unlimited!
 app-emacs/boxquote 2.3: Quote text with a semi-box
 app-emacs/brazilian-holidays 2.1.3: Brazilian holidays
-app-emacs/brf 2.2: Brf-mode provides features from the legendary editor Brief
+app-emacs/brf 2.3: Brf-mode provides features from the legendary editor Brief
 app-emacs/brightscript-mode 1.1.0: Major mode for editing Brightscript files
 app-emacs/browse-at-remote 0.14.0: Open github/gitlab/bitbucket/stash/gist/phab/sourcehut page from Emacs
 app-emacs/browse-kill-ring 2.0.0: Interactively insert items from kill-ring
@@ -445,7 +445,7 @@ app-emacs/consult-project-extra 0.1: Consult integration for project.el
 app-emacs/consult-recoll 1.0.0: Recoll queries using consult
 app-emacs/consult-tex 0.3.0: Consult powered completion for tex
 app-emacs/consult-todo 0.5.0: Search hl-todo keywords in consult
-app-emacs/consult-vc-modified-files 0.0.5: Show git modified files in a vc project with consult
+app-emacs/consult-vc-modified-files 0.0.7: Show git modified files in a vc project with consult
 app-emacs/context-transient 1.0.1: Context specific transients
 app-emacs/contextual 1.0.1: Contextual profile management system
 app-emacs/contextual-menubar 1.0.0: Display the menubar only on a graphical display
@@ -1829,7 +1829,7 @@ app-emacs/marginalia 1.8: Enrich existing commands with completion annotations
 app-emacs/mark-thing-at 1.1.0: Mark a pattern at the current point
 app-emacs/mark-tools 0.3: Some simple tools to access the mark-ring in Emacs
 app-emacs/markdown-changelog 0.0.2: Maintain changelog entries
-app-emacs/markdown-mode 2.6: Major mode for Markdown-formatted text
+app-emacs/markdown-mode 2.7: Major mode for Markdown-formatted text
 app-emacs/markdown-preview-mode 0.9.4: Markdown realtime preview minor mode
 app-emacs/markdown-soma 0.4.0: Live preview for Markdown
 app-emacs/markdown-toc 0.1.5: A simple TOC generator for markdown file
@@ -2158,7 +2158,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 1.9.39: Fast org-roam replacement
+app-emacs/org-node 1.9.40: Fast org-roam replacement
 app-emacs/org-node-fakeroam 1.7.0: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
