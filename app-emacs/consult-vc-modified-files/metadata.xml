@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Show git modified files in a vc project with consult</longdescription>
+	<longdescription>Show git modified files with consult and vc</longdescription>
 </pkgmetadata>
