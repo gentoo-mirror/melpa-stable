@@ -133,7 +133,7 @@ app-emacs/auth-source-gopass 0.0.3: Gopass integration for auth-source
 app-emacs/auth-source-keytar 0.1.3: Integrate auth-source with keytar
 app-emacs/auth-source-kwallet 0.0.1: KWallet integration for auth-source
 app-emacs/auth-source-xoauth2 1.0: Integrate auth-source with XOAUTH2
-app-emacs/auto-compile 2.0.4: Automatically compile Emacs Lisp libraries
+app-emacs/auto-compile 2.0.5: Automatically compile Emacs Lisp libraries
 app-emacs/auto-complete 1.5.1: Auto Completion for GNU Emacs
 app-emacs/auto-complete-clang-async 0.5: Auto Completion source for clang for GNU Emacs
 app-emacs/auto-complete-exuberant-ctags 0.0.7: Exuberant ctags auto-complete.el source
@@ -189,7 +189,7 @@ app-emacs/bibclean-format 0.0.2: Reformat BibTeX and Scribe using bibclean
 app-emacs/biblio 0.3: Browse and import bibliographic references from CrossRef, arXiv, DBLP, HAL, Dissemin, and doi.org
 app-emacs/biblio-core 0.3: A framework for looking up and displaying bibliographic entries
 app-emacs/bibtex-completion 2.0.0: A BibTeX backend for completion frameworks
-app-emacs/bicycle 1.0.0: Cycle outline and code visibility
+app-emacs/bicycle 1.0.1: Cycle outline and code visibility
 app-emacs/bifocal 0.0.6: Split-screen scrolling for comint-mode buffers
 app-emacs/binclock 1.11: Display the current time using a binary clock
 app-emacs/bind 0.9.1: Bind commands to keys
@@ -222,7 +222,7 @@ app-emacs/borg 4.1.2: Assimilate Emacs packages as Git submodules
 app-emacs/boxes 2.3.1: ASCII boxes unlimited!
 app-emacs/boxquote 2.3: Quote text with a semi-box
 app-emacs/brazilian-holidays 2.1.3: Brazilian holidays
-app-emacs/brf 2.3: Brf-mode provides features from the legendary editor Brief
+app-emacs/brf 2.4: Brf-mode provides features from the legendary editor Brief
 app-emacs/brightscript-mode 1.1.0: Major mode for editing Brightscript files
 app-emacs/browse-at-remote 0.14.0: Open github/gitlab/bitbucket/stash/gist/phab/sourcehut page from Emacs
 app-emacs/browse-kill-ring 2.0.0: Interactively insert items from kill-ring
@@ -758,7 +758,7 @@ app-emacs/elscreen-fr 0.0.3: Use frame title as screen tab
 app-emacs/elscreen-mew 1.0.2: ElScreen Add-On for Mew
 app-emacs/elscreen-tab 1.1.0: Minor mode to display tabs of elscreen in a dedicated buffer
 app-emacs/elwm 0.0.2: Minimalistic window manager for emacs
-app-emacs/elx 2.1.0: Extract information from Emacs Lisp libraries
+app-emacs/elx 2.2.1: Extract information from Emacs Lisp libraries
 app-emacs/elysium 0.0.1: Automatically apply LLM-created code-suggestions
 app-emacs/emacs-aio 1.0: Async/await for Emacs Lisp
 app-emacs/emacs-ansilove 2.0.0: Display buffers as PNG images using ansilove
@@ -766,7 +766,7 @@ app-emacs/emacs-crystal-mode 0.1.0: Major mode for editing Crystal files
 app-emacs/emacs-el-fetch 3.3.0: Show system information in Neofetch-like style (eg CPU, RAM)
 app-emacs/emacs-websearch 2.1.1: Query search engines
 app-emacs/emacsc 1.6.20241206: Helper for emacsc(1)
-app-emacs/emacsql 4.1.0: High-level SQL database front-end
+app-emacs/emacsql 4.2.0: High-level SQL database front-end
 app-emacs/emacsshot 0.5.0: Snapshot a frame or window from within
 app-emacs/emamux 0.14: Interact with tmux
 app-emacs/emaps 0.2.0: Utilities for working with keymaps
@@ -1107,7 +1107,7 @@ app-emacs/fountain-mode 3.7.3: Major mode for screenwriting in Fountain markup
 app-emacs/fpga 0.2.0: FPGA & ASIC Utils
 app-emacs/frame-purpose 1.0: Purpose-specific frames
 app-emacs/frames-only-mode 1.0.0: Use frames instead of Emacs windows
-app-emacs/frameshot 1.0.0: Take screenshots of a frame
+app-emacs/frameshot 1.0.1: Take screenshots of a frame
 app-emacs/frecency 1.0: Library for sorting items by frequency and recency of access
 app-emacs/free-keys 1.0.0: Show free keybindings for modkeys or prefixes
 app-emacs/freeze-it 0.2.2: Minor mode to make your previous writing read-only
@@ -1160,7 +1160,7 @@ app-emacs/gh 1.0.1: A GitHub library for Emacs
 app-emacs/gh-notify 2.1.1: A veneer for Magit/Forge GitHub notifications
 app-emacs/ghc-imported-from 0.1.2: Haskell documentation lookup with ghc-imported-from
 app-emacs/ghq 0.2.0: Ghq interface for emacs
-app-emacs/ghub 4.2.1: Client libraries for Git forge APIs
+app-emacs/ghub 4.2.2: Client libraries for Git forge APIs
 app-emacs/ghub+ 0.3: A thick GitHub API client built on ghub
 app-emacs/gif-screencast 1.2: One-frame-per-action GIF recording
 app-emacs/girly-notebook-theme 1.2.1: A light theme with vivid colours and cursive text
@@ -1442,7 +1442,7 @@ app-emacs/history 1.0.0: History utility for source code navigation
 app-emacs/historyf 0.0.9: File history library like browser
 app-emacs/hl-anything 0.0.9: Highlight symbols, selections, enclosing parens and more
 app-emacs/hl-sentence 3: Highlight a sentence based on customizable face
-app-emacs/hl-todo 3.8.2: Highlight TODO and similar keywords
+app-emacs/hl-todo 3.8.3: Highlight TODO and similar keywords
 app-emacs/hmac 1.0: Hash-based message authentication code
 app-emacs/home-end 1.0: Smart multi-purpose home / end keys
 app-emacs/hookify 0.2.1: Interactive commands to create temporary hooks
@@ -1650,7 +1650,7 @@ app-emacs/key-assist 1.0: Minibuffer keybinding cheatsheet and launcher
 app-emacs/key-chord 0.7.1: Map pairs of simultaneously pressed keys to commands
 app-emacs/key-combo 1.6: Map key sequence to commands
 app-emacs/key-seq 1.0.1: Map pairs of sequentially pressed keys to commands
-app-emacs/keycast 1.4.1: Show current command and its binding
+app-emacs/keycast 1.4.2: Show current command and its binding
 app-emacs/keychain-environment 2.4.1: Load keychain environment variables
 app-emacs/keydef 1.15: A simpler way to define keys, with kbd syntax
 app-emacs/keyfreq 1.8: Track command frequencies
@@ -1712,7 +1712,7 @@ app-emacs/lem 0.22: A lemmy client
 app-emacs/lentic 0.11: One buffer as a view of another
 app-emacs/less-css-mode 0.21: Major mode for editing LESS CSS files (lesscss.org)
 app-emacs/letcheck 0.4: Check the erroneous assignments in let forms
-app-emacs/leuven-theme 2.5.212: Elegant Emacs color theme for a white background
+app-emacs/leuven-theme 2.5.301: Elegant Emacs color theme for a white background
 app-emacs/lfe-mode 2.2.0: Lisp Flavoured Erlang mode
 app-emacs/libbcel 0.4.0: Library to connect to basecamp 3 API
 app-emacs/libelcouch 0.11.0: Communication with CouchDB
@@ -1745,7 +1745,7 @@ app-emacs/live-code-talks 0.2.1: Support for slides with live code in them
 app-emacs/live-preview 0.1.2: Live preview by any shell command while editing
 app-emacs/live-py-mode 4.12.0: Live Coding in Python
 app-emacs/lively 0.2: Interactively updating text
-app-emacs/llama 0.6.0: Compact syntax for short lambda
+app-emacs/llama 0.6.1: Compact syntax for short lambda
 app-emacs/lms 1.1: Squeezebox / Logitech Media Server frontend
 app-emacs/load-relative 1.3.2: Relative file load (within a multi-file Emacs package)
 app-emacs/loc-changes 1.1: Helps users and programs keep track of positions even after buffer changes
@@ -2013,7 +2013,7 @@ app-emacs/notmuch 0.38.3: Run notmuch within emacs
 app-emacs/notmuch-addr 1.1.0: Improved address completion for Notmuch
 app-emacs/notmuch-bookmarks 0.2: Add bookmark handling for notmuch buffers
 app-emacs/notmuch-labeler 0.1: Improve notmuch way of displaying labels
-app-emacs/notmuch-maildir 1.2.0: Display maildirs as a tree
+app-emacs/notmuch-maildir 1.2.1: Display maildirs as a tree
 app-emacs/notmuch-transient 1.1.0: Command dispatchers for Notmuch
 app-emacs/nov 0.4.0: Featureful EPUB reader mode
 app-emacs/noxml-fold 0.0.2: Fold away XML things
@@ -2159,7 +2159,7 @@ app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
 app-emacs/org-node 1.9.42: Fast org-roam replacement
-app-emacs/org-node-fakeroam 1.7.0: Stand-ins for org-roam-autosync-mode
+app-emacs/org-node-fakeroam 1.7.1: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
 app-emacs/org-page 0.41: A static site generator based on org mode
@@ -2226,7 +2226,7 @@ app-emacs/organize-imports-java 0.3.0: Automatically organize imports in Java co
 app-emacs/orgbox 0.5.0: Mailbox-like task scheduling Org
 app-emacs/orgit 2.0.0: Support for Org links to Magit buffers
 app-emacs/orgit-forge 1.0.0: Org links to Forge issue buffers
-app-emacs/orglink 1.2.4: Use Org Mode links in other modes
+app-emacs/orglink 1.2.5: Use Org Mode links in other modes
 app-emacs/orgnav 2.0.3: Org tree navigation using helm
 app-emacs/orgnote 0.10.3: Sync org-roam notes with OrgNote app
 app-emacs/orgstrap 1.5.5: Bootstrap an Org file using file local variables
@@ -2289,7 +2289,7 @@ app-emacs/paradox 2.5.4: A modern Packages Menu. Colored, with package ratings, 
 app-emacs/parchment-theme 0.4.0: Light theme inspired by Acme and Leuven
 app-emacs/paredit 26: Minor mode for editing parentheses
 app-emacs/paredit-everywhere 0.4: Enable some paredit features in non-lisp buffers
-app-emacs/paren-face 1.1.2: A face for parentheses in lisp modes
+app-emacs/paren-face 1.1.3: A face for parentheses in lisp modes
 app-emacs/parent-mode 2.3.1: Get major mode's parent modes
 app-emacs/parinfer-rust-mode 0.9.3: An interface for the parinfer-rust library
 app-emacs/parrot 1.1.1: Party Parrot rotates gracefully in mode-line
@@ -2685,7 +2685,7 @@ app-emacs/simple-modeline 1.4: A simple mode-line configuration for Emacs
 app-emacs/simpleclip 1.0.10: Simplified access to the system clipboard
 app-emacs/simplenote2 3.0.0: Interact with simple-note.appspot.com
 app-emacs/simplezen 0.1.1: A simple subset of zencoding-mode for Emacs
-app-emacs/sisyphus 0.2.1: Create releases of Emacs packages
+app-emacs/sisyphus 0.2.2: Create releases of Emacs packages
 app-emacs/skeletor 1.6.1: Provides project skeletons for Emacs
 app-emacs/sketch-themes 1.0: Sketch color themes
 app-emacs/skewer-less 0.2: Skewer support for live LESS stylesheet updates
