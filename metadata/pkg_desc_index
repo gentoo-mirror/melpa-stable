@@ -2694,7 +2694,7 @@ app-emacs/sl 0.2: An Emacs clone of sl(1)
 app-emacs/slideview 0.6.1: File slideshow
 app-emacs/slim-mode 1.1: Major mode for editing Slim files
 app-emacs/slime 2.31: Superior Lisp Interaction Mode for Emacs
-app-emacs/slime-company 1.6: Slime completion backend for company mode
+app-emacs/slime-company 1.7: Slime completion backend for company mode
 app-emacs/slime-docker 0.8.3: Integration of SLIME with Docker containers
 app-emacs/slime-volleyball 1.1: An SVG Slime Volleyball Game
 app-emacs/slstats 1.10: Acquire and display stats about Second Life
