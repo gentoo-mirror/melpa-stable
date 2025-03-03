@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Call a function using all CPU cores"
+DESCRIPTION="Contrived way to call a function using all CPU cores"
 
 HOMEPAGE="https://github.com/meedstrom/el-job"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
