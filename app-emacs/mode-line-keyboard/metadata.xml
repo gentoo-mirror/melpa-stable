@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Contrived way to call a function using all CPU cores</longdescription>
+	<longdescription>Keyboard in mode line for touch screens</longdescription>
 </pkgmetadata>

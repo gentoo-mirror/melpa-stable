@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="ISO 639"
 
-HOMEPAGE="https://codeberg.org/Jaft/emacs-iso-639"
+HOMEPAGE="https://codeberg.org/tomenzgg/emacs-iso-639"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
