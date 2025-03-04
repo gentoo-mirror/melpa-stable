@@ -5,22 +5,24 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="org-node"
+REALNAME="org-node-fakeroam"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fast org-roam replacement"
+DESCRIPTION="Stand-ins for org-roam-autosync-mode"
 
-HOMEPAGE="https://github.com/meedstrom/org-node"
+HOMEPAGE="https://github.com/meedstrom/org-node-fakeroam"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/compat
-	app-emacs/el-job
-	app-emacs/llama"
+	app-emacs/emacsql
+	app-emacs/org-node
+	app-emacs/org-roam"
 RDEPEND="app-emacs/compat
-	app-emacs/el-job
-	app-emacs/llama"
+	app-emacs/emacsql
+	app-emacs/org-node
+	app-emacs/org-roam"
