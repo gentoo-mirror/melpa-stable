@@ -523,6 +523,7 @@ app-emacs/date-field 0.0.1: Date widget
 app-emacs/datetime 0.10.2: Parsing, formatting and matching timestamps
 app-emacs/dbc 0.1: Control how to open buffers
 app-emacs/dbml-mode 1.2.1: Major mode for DBML
+app-emacs/ddate 1.0.0: Manage Discordian dates with ddate
 app-emacs/ddskk 17.1: Simple Kana to Kanji conversion program
 app-emacs/ddskk-posframe 1.0.0: Show Henkan tooltip for ddskk via posframe
 app-emacs/deadgrep 0.13: Fast, friendly searching with ripgrep
@@ -1757,7 +1758,7 @@ app-emacs/logito 0.2.0: Logging library for Emacs
 app-emacs/logms 0.3.1: Log message with clickable links to context
 app-emacs/lognav-mode 0.0.8: Navigate Log Error Messages
 app-emacs/logstash-conf 0.4: Basic mode for editing logstash configuration
-app-emacs/logview 0.19.1: Major mode for viewing log files
+app-emacs/logview 0.19.2: Major mode for viewing log files
 app-emacs/loop 1.3: Friendly imperative loop structures
 app-emacs/loophole 0.8.3: Manage temporary key bindings
 app-emacs/loopy 0.14.0: A looping macro
@@ -2159,7 +2160,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 2.0.5: Fast org-roam replacement
+app-emacs/org-node 2.1.2: Fast org-roam replacement
 app-emacs/org-node-fakeroam 2.0.0: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
