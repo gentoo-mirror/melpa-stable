@@ -18,11 +18,9 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/compat
-	app-emacs/llama
+DEPEND="app-emacs/llama
 	app-emacs/el-job
 	app-emacs/magit-section"
-RDEPEND="app-emacs/compat
-	app-emacs/llama
+RDEPEND="app-emacs/llama
 	app-emacs/el-job
 	app-emacs/magit-section"
