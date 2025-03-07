@@ -600,7 +600,7 @@ app-emacs/diredful 1.10: Colorful file names in dired buffers
 app-emacs/direnv 2.2.0: Support for direnv
 app-emacs/direx 1.0.0: Simple Directory Explorer
 app-emacs/direx-grep 0.1.0: Grep node of direx.el using incremental search like anything.el/helm.el
-app-emacs/dirvish 2.1.0: A modern file manager based on dired mode
+app-emacs/dirvish 2.2.0: A modern file manager based on dired mode
 app-emacs/disable-mouse 0.3: Disable mouse commands globally
 app-emacs/disaster 1.2: Disassemble C, C++ or Fortran code under cursor
 app-emacs/discover 0.3: Discover more of Emacs
