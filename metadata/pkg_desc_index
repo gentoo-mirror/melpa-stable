@@ -295,7 +295,7 @@ app-emacs/cg 1.4.6: Major mode for editing Constraint Grammar files
 app-emacs/champagne 0.3.2: Graphical countdowns
 app-emacs/char-menu 0.1.1: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 0.0.1: Unicode table for Emacs
-app-emacs/chatgpt-shell 2.13.1: A multi-LLM shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
+app-emacs/chatgpt-shell 2.16.1: A multi-LLM shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
 app-emacs/chatwork 0.3: ChatWork client for Emacs
 app-emacs/cheat-sh 1.8: Interact with cheat.sh
 app-emacs/checkbox 0.2.1: Quick manipulation of textual checkboxes
@@ -445,7 +445,7 @@ app-emacs/consult-project-extra 0.1: Consult integration for project.el
 app-emacs/consult-recoll 1.0.0: Recoll queries using consult
 app-emacs/consult-tex 0.4.0: Consult powered completion for tex
 app-emacs/consult-todo 0.5.0: Search hl-todo keywords in consult
-app-emacs/consult-vc-modified-files 0.0.9: Show git modified files with consult and vc
+app-emacs/consult-vc-modified-files 0.1.0: Show git modified files in a vc project with consult
 app-emacs/context-transient 1.0.1: Context specific transients
 app-emacs/contextual 1.0.1: Contextual profile management system
 app-emacs/contextual-menubar 1.0.0: Display the menubar only on a graphical display
@@ -706,7 +706,7 @@ app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
 app-emacs/el-init-viewer 0.1.0: Record viewer for el-init
-app-emacs/el-job 2.1.0: Contrived way to call a function using all CPU cores
+app-emacs/el-job 2.2.0: Contrived way to call a function using all CPU cores
 app-emacs/el-mock 1.25.1: Tiny Mock and Stub framework in Emacs Lisp
 app-emacs/el-patch 3.1: Future-proof your Elisp
 app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
@@ -1890,7 +1890,7 @@ app-emacs/mint-mode 2.0.0: Major mode for the Mint programming language
 app-emacs/minuet 0.4.3: Code completion using LLM
 app-emacs/mips-mode 1.2.0: Major-mode for MIPS assembly
 app-emacs/mise 0.3.1: Support for `mise' cli
-app-emacs/mistty 1.3: Shell/Comint alternative based on term.el
+app-emacs/mistty 1.4: Shell/Comint alternative based on term.el
 app-emacs/mixed-pitch 1.1.1: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mlscroll 0.2.3: A scroll bar for the modeline
 app-emacs/mmm-jinja2 0.1: MMM submode class for Jinja2 Templates
@@ -2275,8 +2275,8 @@ app-emacs/pacfiles-mode 1.2: The pacnew and pacsave merging tool
 app-emacs/pack 0.1.1: Pack and unpack archive files
 app-emacs/package+ 1.4.0: Extensions for the package library
 app-emacs/package-build 4.0.0: Tools for assembling a package archive
-app-emacs/package-lint 0.24: A linting library for elisp package authors
-app-emacs/package-lint-flymake 0.24: A package-lint Flymake backend
+app-emacs/package-lint 0.25: A linting library for elisp package authors
+app-emacs/package-lint-flymake 0.25: A package-lint Flymake backend
 app-emacs/package-utils 1.0.1: Extensions for package.el
 app-emacs/pact-mode 0.0.5: Mode for Pact, a LISPlike smart contract language
 app-emacs/page-break-lines 0.15: Display ^L page breaks as tidy horizontal lines
