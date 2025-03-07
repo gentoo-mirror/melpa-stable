@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show git modified files with consult and vc"
+DESCRIPTION="Show git modified files in a vc project with consult"
 
 HOMEPAGE="https://github.com/chmouel/consult-vc-modified-files"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
