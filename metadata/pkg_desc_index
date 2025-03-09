@@ -115,7 +115,7 @@ app-emacs/arxiv-mode 0.4.0: Read and search for articles on arXiv.org
 app-emacs/asilea 0.2.1: Find best compiler options using simulated annealing
 app-emacs/asm-blox 0.4.1: Programming game involving WAT
 app-emacs/assess 0.6: Test support functions
-app-emacs/astro-ts-mode 3.0.0: Major mode for editing Astro templates
+app-emacs/astro-ts-mode 3.0.1: Major mode for editing Astro templates
 app-emacs/async 1.9.9: Asynchronous processing in Emacs
 app-emacs/async-await 1.1: Async/Await
 app-emacs/asyncloop 1.1: Non-blocking series of functions
@@ -2160,7 +2160,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 2.2.0: Fast org-roam replacement
+app-emacs/org-node 2.2.1: Fast org-roam replacement
 app-emacs/org-node-fakeroam 2.0.0: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
