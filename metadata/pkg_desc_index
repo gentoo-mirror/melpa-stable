@@ -263,6 +263,7 @@ app-emacs/calfw-ical 1.6: Calendar view for ical format
 app-emacs/calfw-org 1.6: Calendar view for org-agenda
 app-emacs/calibredb 2.13.0: Yet another calibre client
 app-emacs/call-graph 0.1.0: Library to generate call graph for cpp functions
+app-emacs/calle24 1.0.4: Emacs Toolbar Support for SF Symbols
 app-emacs/camcorder 1.0: Record screencasts in gif or other formats
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cangjie 0.7.4: Retrieve cangjie code for han characters
@@ -706,7 +707,7 @@ app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
 app-emacs/el-init-viewer 0.1.0: Record viewer for el-init
-app-emacs/el-job 2.2.0: Contrived way to call a function using all CPU cores
+app-emacs/el-job 2.2.1: Contrived way to call a function using all CPU cores
 app-emacs/el-mock 1.25.1: Tiny Mock and Stub framework in Emacs Lisp
 app-emacs/el-patch 3.1: Future-proof your Elisp
 app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
@@ -742,7 +743,7 @@ app-emacs/elisp-refs 1.5: Find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 1.5.0: Tool for interacting with LLMs
+app-emacs/ellama 1.5.1: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: [No description available]
@@ -1091,7 +1092,7 @@ app-emacs/fold-dwim 1.2: [No description available]
 app-emacs/fold-dwim-org 0.6: Fold DWIM bound to org key-strokes
 app-emacs/fold-this 0.3.0: Just fold this region please
 app-emacs/font-lock-profiler 0.0.4: Coverage and timing tool for font-lock
-app-emacs/font-lock-studio 0.0.9: Debugger for Font Lock keywords
+app-emacs/font-lock-studio 0.0.10: Debugger for Font Lock keywords
 app-emacs/font-utils 0.7.8: Utility functions for working with fonts
 app-emacs/fontawesome 0.4: Fontawesome utility
 app-emacs/fontify-face 1.1.0: Fontify symbols representing faces with that face
@@ -2160,7 +2161,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 2.2.1: Fast org-roam replacement
+app-emacs/org-node 2.2.2: Fast org-roam replacement
 app-emacs/org-node-fakeroam 2.0.0: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2910,7 +2911,7 @@ app-emacs/tray 0.1.5: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.263: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.264: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
