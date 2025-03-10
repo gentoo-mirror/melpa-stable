@@ -18,7 +18,9 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/consult-gh
+DEPEND="app-emacs/consult
+	app-emacs/consult-gh
 	app-emacs/embark-consult"
-RDEPEND="app-emacs/consult-gh
+RDEPEND="app-emacs/consult
+	app-emacs/consult-gh
 	app-emacs/embark-consult"
