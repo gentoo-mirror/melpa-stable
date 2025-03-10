@@ -263,7 +263,7 @@ app-emacs/calfw-ical 1.6: Calendar view for ical format
 app-emacs/calfw-org 1.6: Calendar view for org-agenda
 app-emacs/calibredb 2.13.0: Yet another calibre client
 app-emacs/call-graph 0.1.0: Library to generate call graph for cpp functions
-app-emacs/calle24 1.0.4: Emacs Toolbar Support for SF Symbols
+app-emacs/calle24 1.0.5: Emacs Toolbar Support for SF Symbols
 app-emacs/camcorder 1.0: Record screencasts in gif or other formats
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cangjie 0.7.4: Retrieve cangjie code for han characters
@@ -435,9 +435,10 @@ app-emacs/consult-dir 0.1: Insert paths into the minibuffer prompt
 app-emacs/consult-eglot 0.5.0: A consulting-read interface for eglot
 app-emacs/consult-eglot-embark 0.5.0: Embark integration for `consult-eglot'
 app-emacs/consult-flycheck 1.0: Provides the command `consult-flycheck'
-app-emacs/consult-gh 2.2: Consulting GitHub Client
-app-emacs/consult-gh-embark 2.2: Embark Actions for consult-gh
-app-emacs/consult-gh-forge 2.2: Magit/Forge Integration for consult-gh
+app-emacs/consult-gh 2.3: Consulting GitHub Client
+app-emacs/consult-gh-embark 2.3: Embark Actions for consult-gh
+app-emacs/consult-gh-forge 2.3: Magit/Forge Integration for consult-gh
+app-emacs/consult-gh-with-pr-review 2.3: "pr-review" Integration for consult-gh
 app-emacs/consult-ghq 0.0.5: Ghq interface using consult
 app-emacs/consult-hatena-bookmark 0.3.1: Consult commands for the Hatena Bookmark
 app-emacs/consult-lsp 2.1: LSP-mode Consult integration
@@ -743,7 +744,7 @@ app-emacs/elisp-refs 1.5: Find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 1.5.1: Tool for interacting with LLMs
+app-emacs/ellama 1.5.2: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: [No description available]
@@ -1583,6 +1584,7 @@ app-emacs/ivy-searcher 0.3.10: Ivy interface to use searcher
 app-emacs/ivy-youtube 0.3.2: Query YouTube and play videos in your browser
 app-emacs/ix 0.7: Emacs client for http://ix.io pastebin
 app-emacs/j-mode 1.1.1: Major mode for editing J programs
+app-emacs/jabber 0.9.0: A minimal Jabber client
 app-emacs/jack 1.0: HTML renderer library
 app-emacs/jade-mode 1.0.0: Major mode for editing .jade files
 app-emacs/jami-bot 0.0.2: An extendable chat bot for the private messenger GNU Jami
@@ -1865,7 +1867,7 @@ app-emacs/merlin-ac 4.1: Merlin and auto-complete integration
 app-emacs/merlin-company 4.1: Merlin and company mode integration
 app-emacs/merlin-eldoc 1.3: Eldoc for OCaml and Reason
 app-emacs/merlin-iedit 4.1: Merlin and iedit integration
-app-emacs/mermaid-docker-mode 2.0.2: Render mermaid graphs with Docker service
+app-emacs/mermaid-docker-mode 2.0.3: Render mermaid graphs with Docker service
 app-emacs/meson-mode 0.3: Major mode for the Meson build system files
 app-emacs/meta-presenter 1.1.0: A simple multi-file presentation tool for Emacs
 app-emacs/metamorph 1.0.0: Transform your buffers with lisp
@@ -2018,7 +2020,7 @@ app-emacs/notmuch-bookmarks 0.2: Add bookmark handling for notmuch buffers
 app-emacs/notmuch-labeler 0.1: Improve notmuch way of displaying labels
 app-emacs/notmuch-maildir 1.2.1: Display maildirs as a tree
 app-emacs/notmuch-transient 1.1.0: Command dispatchers for Notmuch
-app-emacs/nov 0.4.0: Featureful EPUB reader mode
+app-emacs/nov 0.5.0: Featureful EPUB reader mode
 app-emacs/noxml-fold 0.0.2: Fold away XML things
 app-emacs/npm 0.3: Run your npm workflows
 app-emacs/npm-mode 0.6.0: Minor mode for working with npm projects
@@ -2161,7 +2163,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 2.2.2: Fast org-roam replacement
+app-emacs/org-node 2.3.0: Fast org-roam replacement
 app-emacs/org-node-fakeroam 2.0.0: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2870,7 +2872,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2025.3.3.0: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2025.3.10.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
