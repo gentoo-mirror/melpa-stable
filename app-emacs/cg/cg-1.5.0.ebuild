@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Constraint Grammar files"
 
-HOMEPAGE="https://visl.sdu.dk/constraint_grammar.html"
+HOMEPAGE="https://edu.visl.dk/constraint_grammar.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

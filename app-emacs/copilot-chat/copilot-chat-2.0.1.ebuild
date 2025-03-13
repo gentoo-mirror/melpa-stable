@@ -23,10 +23,12 @@ DEPEND="app-emacs/request
 	app-emacs/magit
 	app-emacs/transient
 	app-emacs/org-mode
-	app-emacs/polymode"
+	app-emacs/polymode
+	app-emacs/shell-maker"
 RDEPEND="app-emacs/request
 	app-emacs/markdown-mode
 	app-emacs/magit
 	app-emacs/transient
 	app-emacs/org-mode
-	app-emacs/polymode"
+	app-emacs/polymode
+	app-emacs/shell-maker"
