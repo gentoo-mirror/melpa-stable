@@ -18,13 +18,9 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/dash
-	app-emacs/graphql
-	app-emacs/spinner
+DEPEND="app-emacs/s
 	app-emacs/emacs-aio
 	app-emacs/log4e"
-RDEPEND="app-emacs/dash
-	app-emacs/graphql
-	app-emacs/spinner
+RDEPEND="app-emacs/s
 	app-emacs/emacs-aio
 	app-emacs/log4e"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A Flymake backend for bashate (a Bash style checker)</longdescription>
+	<longdescription>A Flymake backend for bashate, a Bash scripts style checker</longdescription>
 </pkgmetadata>
