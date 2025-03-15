@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Easily persist and restore your editing sessions</longdescription>
+	<longdescription>Persist and restore your sessions (desktop.el alternative)</longdescription>
 </pkgmetadata>

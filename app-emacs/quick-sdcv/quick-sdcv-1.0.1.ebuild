@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="easysession"
+REALNAME="quick-sdcv"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Easily persist and restore your editing sessions"
+DESCRIPTION="Offline dictionary using 'sdcv' (StartDict cli dictionary)"
 
-HOMEPAGE="https://github.com/jamescherti/easysession.el"
+HOMEPAGE="https://github.com/jamescherti/quick-sdcv.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/f"
-RDEPEND="app-emacs/f"
+DEPEND=""
+RDEPEND=""

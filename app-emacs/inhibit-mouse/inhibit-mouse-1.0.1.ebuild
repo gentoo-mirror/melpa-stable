@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="flymake-bashate"
+REALNAME="inhibit-mouse"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A Flymake backend for bashate (a Bash style checker)"
+DESCRIPTION="Deactivate mouse input (alternative to disable-mouse)"
 
-HOMEPAGE="https://github.com/jamescherti/flymake-bashate.el"
+HOMEPAGE="https://github.com/jamescherti/inhibit-mouse.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/flymake-quickdef"
-RDEPEND="app-emacs/flymake-quickdef"
+DEPEND=""
+RDEPEND=""
