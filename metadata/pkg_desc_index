@@ -263,7 +263,7 @@ app-emacs/calfw-ical 1.6: Calendar view for ical format
 app-emacs/calfw-org 1.6: Calendar view for org-agenda
 app-emacs/calibredb 2.13.0: Yet another calibre client
 app-emacs/call-graph 0.1.0: Library to generate call graph for cpp functions
-app-emacs/calle24 1.0.6: Emacs Toolbar Support for SF Symbols
+app-emacs/calle24 1.0.7: Emacs Toolbar Support for SF Symbols
 app-emacs/camcorder 1.0: Record screencasts in gif or other formats
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cangjie 0.7.4: Retrieve cangjie code for han characters
@@ -275,7 +275,7 @@ app-emacs/caseformat 0.1.0: Format based letter case converter
 app-emacs/cask-mode 0.1: Major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
 app-emacs/caskxy 0.0.5: Control Cask in Emacs
-app-emacs/casual 2.4.0: Transient user interfaces for various modes
+app-emacs/casual 2.4.1: Transient user interfaces for various modes
 app-emacs/casual-avy 2.0.1: Transient UI for Avy
 app-emacs/casual-suite 2.0.0: A suite of opinionated Transient UIs
 app-emacs/casual-symbol-overlay 2.0.0: Transient UI for Symbol Overlay
@@ -413,7 +413,7 @@ app-emacs/company-web 2.1: Company version of ac-html, complete for web,html,emm
 app-emacs/company-wordfreq 0.1.2: Company backend for human language texts
 app-emacs/company-ycmd 1.2: Company-mode backend for ycmd
 app-emacs/competitive-programming-snippets 1.1.4: Competitive Programming snippets for Yasnippet
-app-emacs/compile-angel 1.0.5: Automatically Compile Elisp files (auto-compile alternative)
+app-emacs/compile-angel 1.0.6: Automatically Compile Elisp files (auto-compile alternative)
 app-emacs/compile-multi 0.7: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 0.7: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 0.7: Integration for `compile-multi' and `embark'
@@ -668,7 +668,7 @@ app-emacs/easy-jekyll 2.6.30: Major mode managing jekyll blogs
 app-emacs/easy-kill 0.9.4: Kill & mark things easily
 app-emacs/easy-kill-extras 0.9.14: Extra functions for easy-kill
 app-emacs/easy-repeat 0.2: Repeat easily
-app-emacs/easysession 1.1.2: Easily persist and restore your editing sessions
+app-emacs/easysession 1.1.3: Persist and restore your sessions (desktop.el alternative)
 app-emacs/ebdb-mua-sidecar 1.6.0: EBDB Integration for Universal Sidecar
 app-emacs/ebf 1.0.0: Brainfuck language transpiler to Emacs Lisp
 app-emacs/ebib 2.49.1: A BibTeX database manager
@@ -708,7 +708,7 @@ app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
 app-emacs/el-init-viewer 0.1.0: Record viewer for el-init
-app-emacs/el-job 2.2.2: Contrived way to call a function using all CPU cores
+app-emacs/el-job 2.2.3: Contrived way to call a function using all CPU cores
 app-emacs/el-mock 1.25.1: Tiny Mock and Stub framework in Emacs Lisp
 app-emacs/el-patch 3.1: Future-proof your Elisp
 app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
@@ -716,7 +716,7 @@ app-emacs/el2markdown 0.0.8: Convert commentary of elisp files to markdown
 app-emacs/el2org 0.6.0: Convert elisp file to org file
 app-emacs/elbank 1.2: Personal finances reporting application
 app-emacs/elcouch 0.11.0: View and manipulate CouchDB databases
-app-emacs/eldev 1.11: Elisp development tool
+app-emacs/eldev 1.11.1: Elisp development tool
 app-emacs/eldoc-box 1.13.2: Display documentation in childframe
 app-emacs/eldoc-eask 0.1.0: Eldoc support for Eask-file
 app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use
@@ -744,7 +744,7 @@ app-emacs/elisp-refs 1.5: Find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 1.5.4: Tool for interacting with LLMs
+app-emacs/ellama 1.5.6: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: [No description available]
@@ -951,7 +951,7 @@ app-emacs/feature-mode 0.4: Major mode for editing Gherkin (i.e. Cucumber) user 
 app-emacs/fedi 0.2: Helper functions for fediverse clients
 app-emacs/feed-discovery 1.0.0: Discover feed url by RSS/Atom autodiscovery
 app-emacs/feline 1.1: A modeline with very little
-app-emacs/fennel-mode 0.9.1: A major-mode for editing Fennel code
+app-emacs/fennel-mode 0.9.2: A major-mode for editing Fennel code
 app-emacs/ffmpeg-player 0.2.1: Play video using ffmpeg
 app-emacs/file-info 0.6.1: Show pretty information about current file
 app-emacs/fill-column-indicator 1.90: Graphically indicate the fill column
@@ -1042,8 +1042,8 @@ app-emacs/flycheck-vdm 0.0.4: Syntax checking for vdm-mode
 app-emacs/flycheck-yamllint 0.1.0: Flycheck integration for YAMLLint
 app-emacs/flycheck-ycmd 1.2: Flycheck integration for ycmd
 app-emacs/flymake-actionlint 0.1.0: A Flymake handler for actionlint
-app-emacs/flymake-ansible-lint 1.0.1: A Flymake backend for ansible-lint
-app-emacs/flymake-bashate 1.0.1: A Flymake backend for bashate (a Bash style checker)
+app-emacs/flymake-ansible-lint 1.0.2: A Flymake backend for ansible-lint
+app-emacs/flymake-bashate 1.0.2: A Flymake backend for bashate, a Bash scripts style checker
 app-emacs/flymake-coffee 0.12: A flymake handler for coffee script
 app-emacs/flymake-collection 1.0.1: Collection of checkers for flymake, bringing flymake to the level of flycheck
 app-emacs/flymake-css 0.3: Flymake support for css using csslint
@@ -1257,7 +1257,7 @@ app-emacs/govc 0.49.0: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
-app-emacs/gptel 0.9.7: Interact with ChatGPT or other LLMs
+app-emacs/gptel 0.9.8: Interact with ChatGPT or other LLMs
 app-emacs/gptel-fn-complete 0.3.1: Complete the function at point using gptel
 app-emacs/gpx 0.1.0: Major mode for GPX files
 app-emacs/grab-mac-link 0.3: Grab link from Mac Apps and insert it into Emacs
@@ -1295,7 +1295,7 @@ app-emacs/gvariant 1.0.0: GVariant (GLib) helpers
 app-emacs/gxref 0.1: Xref backend using GNU Global
 app-emacs/hack-mode 1.3: Major mode for the Hack programming language
 app-emacs/hacker-typer 1.0.6: Pretend to write code like a pro
-app-emacs/hackernews 0.7.0: Hacker News Client for Emacs
+app-emacs/hackernews 0.7.1: Hacker News Client for Emacs
 app-emacs/halloweenie-theme 0.1.1: Dark and spooky Halloween color theme
 app-emacs/ham-mode 1.1.2: Html As Markdown. Transparently edit an html file using markdown
 app-emacs/hamburger-menu 1.0.6: Mode line hamburger menu
@@ -1538,7 +1538,7 @@ app-emacs/inform 1.3: Symbol links in Info buffers to their help documentation
 app-emacs/inform7 0.1.1: Major mode for working with Inform 7 files
 app-emacs/inherit-local 1.1.1: Inherited buffer-local variables
 app-emacs/inheritenv 0.2: Make temp buffers inherit buffer-local environment variables
-app-emacs/inhibit-mouse 1.0.0: Deactivate mouse input during editing
+app-emacs/inhibit-mouse 1.0.1: Deactivate mouse input (alternative to disable-mouse)
 app-emacs/ini-mode 0.0.8: Major mode for Windows-style ini files
 app-emacs/init-dir 0.2.1: Init directory instead of just a single file
 app-emacs/init-loader 0.2: Loader for configuration files
@@ -1711,7 +1711,7 @@ app-emacs/leaf-tree 1.0.0: Interactive side-bar feature for init.el using leaf
 app-emacs/leanote 0.4.0: A minor mode writing markdown leanote
 app-emacs/ledger-import 1.1.0: Fetch OFX files from bank and push them to Ledger
 app-emacs/ledger-mode 4.0.0: Helper code for use with the "ledger" command-line tool
-app-emacs/leetcode 0.1.27: An leetcode client
+app-emacs/leetcode 0.1.28: An leetcode client
 app-emacs/lem 0.22: A lemmy client
 app-emacs/lentic 0.11: One buffer as a view of another
 app-emacs/less-css-mode 0.21: Major mode for editing LESS CSS files (lesscss.org)
@@ -1749,7 +1749,7 @@ app-emacs/live-code-talks 0.2.1: Support for slides with live code in them
 app-emacs/live-preview 0.1.2: Live preview by any shell command while editing
 app-emacs/live-py-mode 4.12.0: Live Coding in Python
 app-emacs/lively 0.2: Interactively updating text
-app-emacs/llama 0.6.1: Compact syntax for short lambda
+app-emacs/llama 0.6.2: Compact syntax for short lambda
 app-emacs/lms 1.1: Squeezebox / Logitech Media Server frontend
 app-emacs/load-relative 1.3.2: Relative file load (within a multi-file Emacs package)
 app-emacs/loc-changes 1.1: Helps users and programs keep track of positions even after buffer changes
@@ -1924,7 +1924,7 @@ app-emacs/mood-line 3.1.1: A minimal mode line inspired by doom-modeline
 app-emacs/mood-one-theme 1.2.2: A dark color scheme inspired by the Doom One theme
 app-emacs/moody 1.1.2: Tabs and ribbons for the mode line
 app-emacs/moom 1.6.0: Commands to control frame position and size
-app-emacs/morlock 2.0.1: More font-lock keywords for elisp
+app-emacs/morlock 2.1.0: More font-lock keywords for elisp
 app-emacs/mosey 0.2: Mosey around your buffers
 app-emacs/most-faces 0.2: A List of Most Available Faces
 app-emacs/most-used-words 0.2: Display most used words in buffer
@@ -2149,7 +2149,7 @@ app-emacs/org-jami-bot 0.0.4: Capture GNU Jami messages as notes and todos in Or
 app-emacs/org-jira 4.4.2: Syncing between Jira and Org-mode
 app-emacs/org-journal 2.2.0: A simple org-mode based journaling mode
 app-emacs/org-journal-tags 0.4.0: Tagging and querying system of org-journal
-app-emacs/org-kanban 0.6.13: Kanban dynamic block for org-mode
+app-emacs/org-kanban 0.6.14: Kanban dynamic block for org-mode
 app-emacs/org-link-beautify 1.2.3: Beautify Org Links
 app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
@@ -2440,7 +2440,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 30.0: Major mode for editing protocol buffers
+app-emacs/protobuf-mode 30.1: Major mode for editing protocol buffers
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions
 app-emacs/psalm 0.6.0: Interface to Psalm
@@ -2491,7 +2491,7 @@ app-emacs/quasi-monochrome-theme 1.2: Quasi Monochrome theme
 app-emacs/quelpa 1.0: Emacs Lisp packages built directly from source
 app-emacs/quelpa-leaf 0.0.1: Quelpa handler for leaf
 app-emacs/quelpa-use-package 0.0.1: Quelpa handler for use-package
-app-emacs/quick-sdcv 1.0.0: Interface for the sdcv command (StartDict cli dictionary)
+app-emacs/quick-sdcv 1.0.1: Offline dictionary using 'sdcv' (StartDict cli dictionary)
 app-emacs/quickrun 2.3.1: Run commands quickly
 app-emacs/quiet 0.1: Disconnect from the online world for a while
 app-emacs/quilt 0.6: Minor mode for working with files in quilt
@@ -2890,7 +2890,7 @@ app-emacs/titlecase 0.4.1: Title-case phrases
 app-emacs/toc-org 1.2.0: Add table of contents to org-mode files (formerly, org-toc)
 app-emacs/tokei 0.2: Display codebase statistics
 app-emacs/toml 0.1.0: TOML (Tom's Obvious, Minimal Language) parser
-app-emacs/tomorrow-night-deepblue-theme 1.2.0: The Tomorrow Night Deepblue color theme
+app-emacs/tomorrow-night-deepblue-theme 1.2.1: The Tomorrow Night Deepblue color theme
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/torus 2.2: A buffer groups manager
 app-emacs/total-lines 0.2.0: Keep track of a buffer's total number of lines
