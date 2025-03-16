@@ -61,6 +61,7 @@ app-emacs/agenix 1.3: Decrypt and encrypt agenix secrets
 app-emacs/aggressive-indent 1.10.0: Minor mode to aggressively keep your code always indented
 app-emacs/ahk-mode 1.5.6: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 1.10.0: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
+app-emacs/aidermacs 1.0: AI pair programming with Aider
 app-emacs/aiken-mode 1.0.2: Major mode for Aiken
 app-emacs/airline-themes 1.8: Vim-airline themes for emacs powerline
 app-emacs/alan-mode 1.0.0: Major mode for editing M-industries Alan files
@@ -2073,7 +2074,7 @@ app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.1.0: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
 app-emacs/olivetti 2.0.7: Minor mode to automatically balance window margins
-app-emacs/ollama-buddy 0.1.0: Ollama Buddy: Your Friendly AI Assistant
+app-emacs/ollama-buddy 0.2.0: Ollama Buddy: Your Friendly AI Assistant
 app-emacs/omni-kill 0.6.0: Kill all the things
 app-emacs/omni-log 0.4.0: Logging utilities
 app-emacs/omni-quotes 0.5.1: Random quotes displayer
@@ -2842,7 +2843,7 @@ app-emacs/tawny-mode 2.3.3: Ontology Editing with Tawny-OWL
 app-emacs/telega 0.8.3: Telegram client (unofficial)
 app-emacs/telepathy 1.0: Access Telepathy from Emacs
 app-emacs/telephone-line 0.6: Rewrite of Powerline
-app-emacs/tempel 1.3: Tempo templates/snippets with in-buffer field editing
+app-emacs/tempel 1.4: Tempo templates/snippets with in-buffer field editing
 app-emacs/templ-ts-mode 0.3: Major mode for editing Templ files
 app-emacs/templatel 0.1.6: Templating language;
 app-emacs/ten-hundred-mode 1.0.1: Use only the ten hundred most usual words
