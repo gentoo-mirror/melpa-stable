@@ -263,7 +263,7 @@ app-emacs/calfw-ical 1.6: Calendar view for ical format
 app-emacs/calfw-org 1.6: Calendar view for org-agenda
 app-emacs/calibredb 2.13.0: Yet another calibre client
 app-emacs/call-graph 0.1.0: Library to generate call graph for cpp functions
-app-emacs/calle24 1.0.7: Emacs Toolbar Support for SF Symbols
+app-emacs/calle24 1.0.8: Emacs Toolbar Support for SF Symbols
 app-emacs/camcorder 1.0: Record screencasts in gif or other formats
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cangjie 0.7.4: Retrieve cangjie code for han characters
@@ -2014,7 +2014,7 @@ app-emacs/non-edit-mode 0.2.0: Minor mode that disables editing
 app-emacs/nord-theme 0.6.0: An arctic, north-bluish clean and elegant theme
 app-emacs/nordic-night-theme 2.0.3: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 0.2: A mostly colorless version of nord-theme
-app-emacs/notmuch 0.38.3: Run notmuch within emacs
+app-emacs/notmuch 0.39: Run notmuch within emacs
 app-emacs/notmuch-addr 1.1.0: Improved address completion for Notmuch
 app-emacs/notmuch-bookmarks 0.2: Add bookmark handling for notmuch buffers
 app-emacs/notmuch-labeler 0.1: Improve notmuch way of displaying labels
@@ -2902,7 +2902,7 @@ app-emacs/tr-ime 0.5.0: Emulator of IME patch for Windows
 app-emacs/traad 3.1.1: Emacs interface to the traad refactoring server
 app-emacs/tracking 2.13: Buffer modification tracking
 app-emacs/transducers 1.4.0: Ergonomic, efficient data processing
-app-emacs/transient 0.8.5: Transient commands
+app-emacs/transient 0.8.6: Transient commands
 app-emacs/translate-mode 1.0.2: Paragraph-oriented side-by-side doc translation workflow
 app-emacs/transmission 0.12.2: Interface to a Transmission session
 app-emacs/transpose-frame 0.2.1: Transpose windows arrangement in a frame
@@ -2942,7 +2942,7 @@ app-emacs/tss 0.6.0: Provide a interface for auto-complete.el/flymake.el on type
 app-emacs/tuareg 3.0.1: OCaml mode
 app-emacs/tumble 1.5: An Tumblr mode for Emacs
 app-emacs/turing-machine 0.2.0: Single-tape Turing machine simulator
-app-emacs/turtles 2.0.0: Screen-grabbing test utility
+app-emacs/turtles 2.0.1: Screen-grabbing test utility
 app-emacs/twilight-anti-bright-theme 0.3.0: A soothing Emacs 24 light-on-dark theme
 app-emacs/typescript-mode 0.4: Major mode for editing typescript
 app-emacs/typewriter-roll-mode 1.2.1: Aid for distraction-free writing
