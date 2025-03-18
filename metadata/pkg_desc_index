@@ -709,7 +709,7 @@ app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
 app-emacs/el-init-viewer 0.1.0: Record viewer for el-init
-app-emacs/el-job 2.2.3: Contrived way to call a function using all CPU cores
+app-emacs/el-job 2.3.0: Contrived way to call a function using all CPU cores
 app-emacs/el-mock 1.25.1: Tiny Mock and Stub framework in Emacs Lisp
 app-emacs/el-patch 3.1: Future-proof your Elisp
 app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
@@ -1131,7 +1131,7 @@ app-emacs/function-args 0.6.0: C++ completion for GNU Emacs
 app-emacs/fussy 2.1: Fuzzy completion style using `flx'
 app-emacs/fuz 1.3.0: Fast and precise fuzzy scoring/matching utils
 app-emacs/fuzzy 0.3: Fuzzy Matching
-app-emacs/fuzzy-finder 0.0.1: Fuzzy Finder App Integration
+app-emacs/fuzzy-finder 0.0.2: Fuzzy Finder App Integration
 app-emacs/fvwm-mode 2.0.0: A major mode for editing Fvwm configuration files
 app-emacs/fwb-cmds 2.0.2: Misc frame, window and buffer commands
 app-emacs/fxrd-mode 1.0: Major mode for editing fixed field width files
@@ -1259,7 +1259,7 @@ app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
 app-emacs/gptel 0.9.8: Interact with ChatGPT or other LLMs
-app-emacs/gptel-fn-complete 0.3.1: Complete the function at point using gptel
+app-emacs/gptel-fn-complete 0.3.2: Complete the function at point using gptel
 app-emacs/gpx 0.1.0: Major mode for GPX files
 app-emacs/grab-mac-link 0.3: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 0.5: Grab links from X11 apps and insert into Emacs
@@ -1601,6 +1601,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.0: Enchanted Spell Checker
+app-emacs/jira 0.1.1: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -1830,7 +1831,7 @@ app-emacs/manage-minor-mode-table 0.1.3: Manage minor-modes in table
 app-emacs/map-progress 1.0.0: Mapping macros that report progress
 app-emacs/map-regexp 1.0.0: Map over matches of a regular expression
 app-emacs/marcopolo 0.3.0: Emacs client for Docker API
-app-emacs/marginalia 1.8: Enrich existing commands with completion annotations
+app-emacs/marginalia 2.0: Enrich existing commands with completion annotations
 app-emacs/mark-thing-at 1.1.0: Mark a pattern at the current point
 app-emacs/mark-tools 0.3: Some simple tools to access the mark-ring in Emacs
 app-emacs/markdown-changelog 0.0.2: Maintain changelog entries
@@ -2092,7 +2093,7 @@ app-emacs/opensource 0.2.0: Client for Opensource API
 app-emacs/opensub 0.3.0: Search and download from open-subtitles
 app-emacs/operate-on-number 1.3.0: Operate on number at point with arithmetic functions
 app-emacs/orangey-bits-theme 1.0.2: A Theme with smashing orangey bits
-app-emacs/orderless 1.3: Completion style for matching regexps in any order
+app-emacs/orderless 1.4: Completion style for matching regexps in any order
 app-emacs/ordinal 1.0.0: Convert number to ordinal number notation
 app-emacs/org-ac 0.0.2: Some auto-complete sources for org-mode
 app-emacs/org-agenda-files-track 0.4.0: Fine-track `org-agenda-files' to speed-up `org-agenda'
@@ -2235,7 +2236,7 @@ app-emacs/orgit-forge 1.0.0: Org links to Forge issue buffers
 app-emacs/orglink 1.2.5: Use Org Mode links in other modes
 app-emacs/orgnav 2.0.3: Org tree navigation using helm
 app-emacs/orgnote 0.10.3: Sync org-roam notes with OrgNote app
-app-emacs/orgstrap 1.5.5: Bootstrap an Org file using file local variables
+app-emacs/orgstrap 1.5.6: Bootstrap an Org file using file local variables
 app-emacs/orgtbl-show-header 1.0.0: Show the header of the current column in the minibuffer
 app-emacs/origami-predef 1.0: Apply folding when finding (opening) files
 app-emacs/orthodox-christian-new-calendar-holidays 1.3.3: Feasts (NS)
@@ -2257,7 +2258,8 @@ app-emacs/ov 1.0.6: Overlay library for Emacs Lisp
 app-emacs/overcast-theme 1.3.0: A dark but vibrant color theme for Emacs
 app-emacs/overseer 0.3.0: Ert-runner Integration Into Emacs
 app-emacs/owdriver 0.4.0: Quickly perform various actions on other windows
-app-emacs/ox-bb 0.0.1: BBCode Back-End for Org Export Engine
+app-emacs/ox-bb 0.0.2: BBCode Back-End for Org Export Engine
+app-emacs/ox-beamer-lecture 1.0: Beamer Lecture Back-End for Org Export Engine
 app-emacs/ox-epub 0.3: Export org mode projects to EPUB
 app-emacs/ox-gfm 1.0: Github Flavored Markdown Back-End for Org Export Engine
 app-emacs/ox-haunt 0.2: Haunt-flavored HTML backend for the Org export engine
@@ -2300,7 +2302,7 @@ app-emacs/parent-mode 2.3.1: Get major mode's parent modes
 app-emacs/parinfer-rust-mode 0.9.3: An interface for the parinfer-rust library
 app-emacs/parrot 1.1.1: Party Parrot rotates gracefully in mode-line
 app-emacs/parse-it 0.2.1: Basic Parser in Emacs Lisp
-app-emacs/parsebib 6.6: A library for parsing bib files
+app-emacs/parsebib 6.7: A library for parsing bib files
 app-emacs/parsec 0.1.4: Parser combinator library
 app-emacs/parseclj 1.1.1: Clojure/EDN parser
 app-emacs/parseedn 1.2.1: Clojure/EDN parser
@@ -2914,7 +2916,7 @@ app-emacs/tray 0.1.5: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.264: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.265: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.1: A tree style file explorer package
