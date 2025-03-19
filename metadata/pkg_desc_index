@@ -3010,7 +3010,7 @@ app-emacs/vdm-mode 0.0.4: Major mode for the Vienna Development Method
 app-emacs/vdm-snippets 0.0.4: YASnippets for VDM mode
 app-emacs/vector-utils 0.1.2: Vector-manipulation utility functions
 app-emacs/vegetative-theme 1.0.2: A Theme based on green CRT terminals
-app-emacs/verb 3.0.0: Organize and send HTTP requests
+app-emacs/verb 3.1.0: Organize and send HTTP requests
 app-emacs/verilog-ext 0.6.2: SystemVerilog Extensions
 app-emacs/verilog-ts-mode 0.3.0: Verilog Tree-sitter major mode
 app-emacs/vertico 2.0: VERTical Interactive COmpletion
