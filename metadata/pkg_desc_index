@@ -297,7 +297,7 @@ app-emacs/cg 1.5.0: Major mode for editing Constraint Grammar files
 app-emacs/champagne 0.3.2: Graphical countdowns
 app-emacs/char-menu 0.1.1: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 0.0.1: Unicode table for Emacs
-app-emacs/chatgpt-shell 2.16.1: A multi-LLM shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
+app-emacs/chatgpt-shell 2.16.3: A family of utilities to interact with LLMs (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity)
 app-emacs/chatwork 0.3: ChatWork client for Emacs
 app-emacs/cheat-sh 1.8: Interact with cheat.sh
 app-emacs/checkbox 0.2.1: Quick manipulation of textual checkboxes
@@ -863,7 +863,7 @@ app-emacs/eval-in-repl 0.9.7: Consistent ESS-like eval interface for various REP
 app-emacs/eval-sexp-fu 0.6.0: Tiny functionality enhancements for evaluating sexps
 app-emacs/evalator 1.0.0: Package for interactive transformation of data with helm
 app-emacs/evedel 0.4.20: Instructed LLM programmer/assistant
-app-emacs/evenok 0.12.0: Themes with perceptively evenly distributed colors
+app-emacs/evenok 0.12.1: Themes with perceptively evenly distributed colors
 app-emacs/everlasting-scratch 0.1: The *scratch* that lasts forever
 app-emacs/evil 1.14.2: Extensible Vi layer for Emacs
 app-emacs/evil-anzu 0.3: Anzu for evil-mode
@@ -1601,7 +1601,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.0: Enchanted Spell Checker
-app-emacs/jira 0.1.1: Emacs Interface to Jira
+app-emacs/jira 0.2.0: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -1666,7 +1666,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.13: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.36.6: Your Second Brain
+app-emacs/khoj 1.37.0: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-dollar-mode 1.0.0: Remove leading $ from shell-script-like text
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
@@ -1983,7 +1983,7 @@ app-emacs/nemerle 1.2: Major mode for editing nemerle programs
 app-emacs/neon-mode 1.3.0: Simple major mode for editing neon files
 app-emacs/neotree 0.6.0: A tree plugin like NerdTree for Vim
 app-emacs/nerd-icons 0.1.0: Emacs Nerd Font Icons Library
-app-emacs/nerd-icons-corfu 0.5.0: Icons for Corfu via nerd-icons
+app-emacs/nerd-icons-corfu 0.5.1: Icons for Corfu via nerd-icons
 app-emacs/nerd-icons-ibuffer 1.0.0: Display nerd icons in ibuffer
 app-emacs/nerd-icons-ivy-rich 1.0.0: Excellent experience with nerd icons for ivy/counsel
 app-emacs/netease-music 1.0: Listen netease music
@@ -2070,7 +2070,7 @@ app-emacs/ocamlformat 0.27.0: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: Automatic indentation with ocp-indent
 app-emacs/octicons 0.1: Octicons utility
-app-emacs/oer-reveal 4.28.4: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.29.0: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.1.0: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
