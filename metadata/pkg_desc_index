@@ -1525,6 +1525,7 @@ app-emacs/indent-control 0.3.4: Management for indentation level
 app-emacs/indent-guide 20160630: Show vertical lines to guide indentation
 app-emacs/indent-info 1.0.0: Show indentation information in status bar
 app-emacs/indent-lint 1.0.0: Async indentation checker
+app-emacs/indexed 0.2.0: Cache metadata on all Org files
 app-emacs/indium 2.1.7: JavaScript Awesome Development Environment
 app-emacs/inf-clojure 3.2.1: Run an external Clojure process in an Emacs buffer
 app-emacs/inf-crystal 0.1.0: Run a Inferior-Crystal process in a buffer
@@ -1601,7 +1602,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.0: Enchanted Spell Checker
-app-emacs/jira 0.2.0: Emacs Interface to Jira
+app-emacs/jira 0.2.2: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -2165,7 +2166,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 2.3.2: Fast org-roam replacement
+app-emacs/org-node 2.3.3: Fast org-roam replacement
 app-emacs/org-node-fakeroam 2.0.0: Stand-ins for org-roam-autosync-mode
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2198,7 +2199,7 @@ app-emacs/org-special-block-extras 2: 30 new custom blocks & 34 link types for O
 app-emacs/org-sql 4.0.0: Org-Mode SQL converter
 app-emacs/org-starter 0.2.10: A basic configuration framework for org mode
 app-emacs/org-starter-swiper 0.2.10: Swiper for org-starter
-app-emacs/org-static-blog 1.6.0: A simple org-mode based static blog generator
+app-emacs/org-static-blog 1.7.0: A simple org-mode based static blog generator
 app-emacs/org-sticky-header 1.1: Show off-screen Org heading at top of window
 app-emacs/org-super-agenda 1.3: Supercharge your agenda
 app-emacs/org-superstar-mode 1.5.0: Prettify headings and plain lists in Org mode
@@ -2919,16 +2920,16 @@ app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-langs 0.12.265: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
-app-emacs/treemacs 3.1: A tree style file explorer package
-app-emacs/treemacs-all-the-icons 3.1: All-the-icons integration for treemacs
-app-emacs/treemacs-evil 3.1: Evil mode integration for treemacs
-app-emacs/treemacs-icons-dired 3.1: Treemacs icons for dired
-app-emacs/treemacs-magit 3.1: Magit integration for treemacs
+app-emacs/treemacs 3.2: A tree style file explorer package
+app-emacs/treemacs-all-the-icons 3.2: All-the-icons integration for treemacs
+app-emacs/treemacs-evil 3.2: Evil mode integration for treemacs
+app-emacs/treemacs-icons-dired 3.2: Treemacs icons for dired
+app-emacs/treemacs-magit 3.2: Magit integration for treemacs
 app-emacs/treemacs-nerd-icons 0.0.1: Emacs Nerd Font Icons theme for treemacs
-app-emacs/treemacs-persp 3.1: Persp-mode integration for treemacs
-app-emacs/treemacs-perspective 3.1: Perspective integration for treemacs
-app-emacs/treemacs-projectile 3.1: Projectile integration for treemacs
-app-emacs/treemacs-tab-bar 3.1: Tab bar integration for treemacs
+app-emacs/treemacs-persp 3.2: Persp-mode integration for treemacs
+app-emacs/treemacs-perspective 3.2: Perspective integration for treemacs
+app-emacs/treemacs-projectile 3.2: Projectile integration for treemacs
+app-emacs/treemacs-tab-bar 3.2: Tab bar integration for treemacs
 app-emacs/treepy 0.1.2: Generic tree traversal tools
 app-emacs/treesit-auto 1.0.5: Automatically use tree-sitter enhanced major modes
 app-emacs/treeview 1.3.0: A generic tree navigation library
