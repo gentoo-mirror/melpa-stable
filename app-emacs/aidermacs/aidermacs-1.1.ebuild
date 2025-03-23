@@ -5,20 +5,20 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="indexed"
+REALNAME="aidermacs"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Cache metadata on all Org files"
+DESCRIPTION="AI pair programming with Aider"
 
-HOMEPAGE="https://github.com/meedstrom/org-node"
+HOMEPAGE="https://github.com/MatthewZMD/aidermacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/llama
-	app-emacs/el-job"
-RDEPEND="app-emacs/llama
-	app-emacs/el-job"
+DEPEND="app-emacs/transient
+	app-emacs/compat"
+RDEPEND="app-emacs/transient
+	app-emacs/compat"
