@@ -745,7 +745,7 @@ app-emacs/elisp-refs 1.5: Find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 1.6.1: Tool for interacting with LLMs
+app-emacs/ellama 1.6.2: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: [No description available]
@@ -1453,7 +1453,7 @@ app-emacs/hookify 0.2.1: Interactive commands to create temporary hooks
 app-emacs/hotfuzz 1.0: Fuzzy completion style
 app-emacs/hound 1.1.0: Display hound search results in a compilation window
 app-emacs/hover 1.2.3: Package to use hover with flutter
-app-emacs/howm 1.5.3: Wiki-like note-taking tool
+app-emacs/howm 1.5.4: Wiki-like note-taking tool
 app-emacs/ht 2.3: The missing hash table library for Emacs
 app-emacs/html-script-src 0.0.2: Insert <script src=".."> for popular JavaScript libraries
 app-emacs/html-to-markdown 1.5.1: HTML to Markdown converter written in Emacs-lisp
@@ -1513,7 +1513,6 @@ app-emacs/imenu-list 0.9: Show imenu entries in a separate buffer
 app-emacs/imenus 0.2: Imenu for multiple buffers and without subgroups
 app-emacs/imgur 1.1.0: Imgur client
 app-emacs/immaterial-theme 0.9.4: A flexible theme based on material design principles
-app-emacs/immutant-server 1.2.0: Run your Immutant server in Emacs
 app-emacs/impatient-mode 1.1: Serve buffers live over HTTP
 app-emacs/impatient-showdown 0.1.2: Preview markdown buffer live over HTTP using showdown
 app-emacs/import-js 3.0.0: Import Javascript dependencies
@@ -1525,7 +1524,7 @@ app-emacs/indent-control 0.3.4: Management for indentation level
 app-emacs/indent-guide 20160630: Show vertical lines to guide indentation
 app-emacs/indent-info 1.0.0: Show indentation information in status bar
 app-emacs/indent-lint 1.0.0: Async indentation checker
-app-emacs/indexed 0.3.3: Cache metadata on all Org files
+app-emacs/indexed 0.4.1: Cache metadata on all Org files
 app-emacs/indium 2.1.7: JavaScript Awesome Development Environment
 app-emacs/inf-clojure 3.2.1: Run an external Clojure process in an Emacs buffer
 app-emacs/inf-crystal 0.1.0: Run a Inferior-Crystal process in a buffer
@@ -1602,7 +1601,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.0: Enchanted Spell Checker
-app-emacs/jira 0.3.0: Emacs Interface to Jira
+app-emacs/jira 0.4.0: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -1667,7 +1666,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.13: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.37.0: Your Second Brain
+app-emacs/khoj 1.37.2: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-dollar-mode 1.0.0: Remove leading $ from shell-script-like text
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
@@ -2071,7 +2070,7 @@ app-emacs/ocamlformat 0.27.0: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: Automatic indentation with ocp-indent
 app-emacs/octicons 0.1: Octicons utility
-app-emacs/oer-reveal 4.29.0: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.30.2: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.1.0: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -2876,7 +2875,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2025.3.10.0: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2025.3.24.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -3025,7 +3024,7 @@ app-emacs/vim-tab-bar 1.0.7: Vim-like tab bar
 app-emacs/vimgolf 0.10.3: VimGolf interface for the One True Editor
 app-emacs/vimish-fold 0.2.3: Fold text like in Vim
 app-emacs/virtualenvwrapper 0.2.0: A featureful virtualenv tool for Emacs
-app-emacs/visual-fill-column 2.6.3: Fill-column for visual-line-mode
+app-emacs/visual-fill-column 2.7: Fill-column for visual-line-mode
 app-emacs/visual-regexp 1.1.2: A regexp/replace command for Emacs with interactive visual feedback
 app-emacs/visual-regexp-steroids 1.1.0: Extends visual-regexp to support other regexp engines
 app-emacs/visual-replace 1.2: A prompt for replace-string and query-replace
