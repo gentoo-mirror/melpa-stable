@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="ansible-vault"
+REALNAME="tangonov-theme"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode for editing ansible vault files"
+DESCRIPTION="A 256 color dark theme featuring bright pastels"
 
-HOMEPAGE="http://github.com/zellio/ansible-vault-mode"
+HOMEPAGE="https://sr.ht/~trevdev/tangonov-theme/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
