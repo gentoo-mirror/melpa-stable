@@ -97,7 +97,7 @@ app-emacs/annoying-arrows-mode 0.1.0: Ring the bell if using arrows too much
 app-emacs/ansi 0.4.1: Turn string into ansi strings
 app-emacs/ansible 0.4.1: Ansible minor mode
 app-emacs/ansible-doc 0.4: Ansible documentation Minor Mode
-app-emacs/ansible-vault 0.5.2: Minor mode for editing ansible vault files
+app-emacs/ansible-vault 0.5.4: Minor mode for editing ansible vault files
 app-emacs/anti-zenburn-theme 2.5.1: Low-contrast Zenburn-inverted theme
 app-emacs/anyins 0.1.1: Insert content at multiple places from shell command or kill-ring
 app-emacs/anzu 0.67: Show number of matches in mode-line while searching
@@ -710,7 +710,7 @@ app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
 app-emacs/el-init-viewer 0.1.0: Record viewer for el-init
-app-emacs/el-job 2.3.1: Contrived way to call a function using all CPU cores
+app-emacs/el-job 2.4.1: Contrived way to call a function using all CPU cores
 app-emacs/el-mock 1.25.1: Tiny Mock and Stub framework in Emacs Lisp
 app-emacs/el-patch 3.1: Future-proof your Elisp
 app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
@@ -1525,7 +1525,7 @@ app-emacs/indent-control 0.3.4: Management for indentation level
 app-emacs/indent-guide 20160630: Show vertical lines to guide indentation
 app-emacs/indent-info 1.0.0: Show indentation information in status bar
 app-emacs/indent-lint 1.0.0: Async indentation checker
-app-emacs/indexed 0.4.1: Cache metadata on all Org files
+app-emacs/indexed 0.5.2: Cache metadata on all Org files
 app-emacs/indium 2.1.7: JavaScript Awesome Development Environment
 app-emacs/inf-clojure 3.2.1: Run an external Clojure process in an Emacs buffer
 app-emacs/inf-crystal 0.1.0: Run a Inferior-Crystal process in a buffer
@@ -2840,6 +2840,7 @@ app-emacs/tablist 1.1: Extended tabulated-list-mode
 app-emacs/tabnine 0.1.0: An unofficial TabNine package with TabNine Chat supported
 app-emacs/tagedit 1.4.0: Some paredit-like features for html-mode
 app-emacs/talonscript-mode 1.0.0: Major mode for Talon Voice's .talon files
+app-emacs/tangonov-theme 1.5.1: A 256 color dark theme featuring bright pastels
 app-emacs/tao-theme 1.1.1: This package provides two parametrized uncoloured color themes for Emacs: tao-yin and tao-yang
 app-emacs/taskpaper-mode 1.0: Major mode for working with TaskPaper files
 app-emacs/tawny-mode 2.3.3: Ontology Editing with Tawny-OWL
