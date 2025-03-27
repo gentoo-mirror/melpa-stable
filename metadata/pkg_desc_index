@@ -298,7 +298,7 @@ app-emacs/cg 1.5.0: Major mode for editing Constraint Grammar files
 app-emacs/champagne 0.3.2: Graphical countdowns
 app-emacs/char-menu 0.1.1: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 0.0.1: Unicode table for Emacs
-app-emacs/chatgpt-shell 2.16.3: A family of utilities to interact with LLMs (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity)
+app-emacs/chatgpt-shell 2.16.4: A family of utilities to interact with LLMs (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity)
 app-emacs/chatwork 0.3: ChatWork client for Emacs
 app-emacs/cheat-sh 1.8: Interact with cheat.sh
 app-emacs/checkbox 0.2.1: Quick manipulation of textual checkboxes
@@ -351,7 +351,7 @@ app-emacs/clues-theme 1.0.1: An Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 3.31.6: Major-mode for editing CMake sources
+app-emacs/cmake-mode 4.0.0: Major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -710,7 +710,7 @@ app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
 app-emacs/el-init-viewer 0.1.0: Record viewer for el-init
-app-emacs/el-job 2.4.1: Contrived way to call a function using all CPU cores
+app-emacs/el-job 2.4.3: Contrived way to call a function using all CPU cores
 app-emacs/el-mock 1.25.1: Tiny Mock and Stub framework in Emacs Lisp
 app-emacs/el-patch 3.1: Future-proof your Elisp
 app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
@@ -781,7 +781,7 @@ app-emacs/embark-org-roam 0.2: Embark export buffer for org roam nodes
 app-emacs/embrace 0.1.4: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 1.1.0: Test runner and report viewer for Midje
 app-emacs/emmet-mode 1.0.8: Unofficial Emmet's support for emacs
-app-emacs/emms 21: The Emacs Multimedia System
+app-emacs/emms 22: The Emacs Multimedia System
 app-emacs/emms-mode-line-cycle 0.2.5: Display the emms mode line as a ticker
 app-emacs/emms-player-simple-mpv 0.4.0: An extension of emms-player-simple.el for mpv JSON IPC
 app-emacs/emms-player-spotify 0.2: Spotify player for EMMS
@@ -949,7 +949,7 @@ app-emacs/faust-mode 0.6: Faust syntax colorizer for Emacs
 app-emacs/faustine 0.4: Edit, visualize, build and run Faust code
 app-emacs/fcitx 0.2.3: Make fcitx better in Emacs
 app-emacs/fd-dired 0.1.0: Find-dired alternative using fd
-app-emacs/feature-mode 0.4: Major mode for editing Gherkin (i.e. Cucumber) user stories
+app-emacs/feature-mode 0.6: Major mode for editing Gherkin (i.e. Cucumber) user stories
 app-emacs/fedi 0.2: Helper functions for fediverse clients
 app-emacs/feed-discovery 1.0.0: Discover feed url by RSS/Atom autodiscovery
 app-emacs/feline 1.1: A modeline with very little
@@ -1525,7 +1525,7 @@ app-emacs/indent-control 0.3.4: Management for indentation level
 app-emacs/indent-guide 20160630: Show vertical lines to guide indentation
 app-emacs/indent-info 1.0.0: Show indentation information in status bar
 app-emacs/indent-lint 1.0.0: Async indentation checker
-app-emacs/indexed 0.5.2: Cache metadata on all Org files
+app-emacs/indexed 0.6.3: Cache metadata on all Org files
 app-emacs/indium 2.1.7: JavaScript Awesome Development Environment
 app-emacs/inf-clojure 3.2.1: Run an external Clojure process in an Emacs buffer
 app-emacs/inf-crystal 0.1.0: Run a Inferior-Crystal process in a buffer
@@ -2444,7 +2444,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 30.1: Major mode for editing protocol buffers
+app-emacs/protobuf-mode 30.2: Major mode for editing protocol buffers
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions
 app-emacs/psalm 0.6.0: Interface to Psalm
