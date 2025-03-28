@@ -458,7 +458,7 @@ app-emacs/copy-as-format 0.0.9: Copy buffer locations as GitHub/Slack/JIRA etc..
 app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
 app-emacs/copyit-pandoc 0.1.0: Copy it, yank anything!
-app-emacs/corfu 1.7: COmpletion in Region FUnction
+app-emacs/corfu 2.0: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 1.3: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 6.3.1: Prescient.el + Corfu
 app-emacs/corral 0.3: Quickly surround text with delimiters
@@ -746,7 +746,7 @@ app-emacs/elisp-refs 1.5: Find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 1.6.2: Tool for interacting with LLMs
+app-emacs/ellama 1.7.2: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: [No description available]
@@ -820,7 +820,7 @@ app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics
 app-emacs/eri 2.7.0.1: Enhanced relative indentation (eri)
 app-emacs/erk 0.5.3: Elisp (GitHub) Repository Kit
-app-emacs/erlang 27.3: Erlang major mode
+app-emacs/erlang 27.3.1: Erlang major mode
 app-emacs/erlang-ts 0.2: Major modes for editing Erlang
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/eros-inspector 1.0.1: Glue between eros and inspector
@@ -949,7 +949,7 @@ app-emacs/faust-mode 0.6: Faust syntax colorizer for Emacs
 app-emacs/faustine 0.4: Edit, visualize, build and run Faust code
 app-emacs/fcitx 0.2.3: Make fcitx better in Emacs
 app-emacs/fd-dired 0.1.0: Find-dired alternative using fd
-app-emacs/feature-mode 0.6: Major mode for editing Gherkin (i.e. Cucumber) user stories
+app-emacs/feature-mode 0.6.1: Major mode for editing Gherkin (i.e. Cucumber) user stories
 app-emacs/fedi 0.2: Helper functions for fediverse clients
 app-emacs/feed-discovery 1.0.0: Discover feed url by RSS/Atom autodiscovery
 app-emacs/feline 1.1: A modeline with very little
@@ -1602,7 +1602,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.0: Enchanted Spell Checker
-app-emacs/jira 0.5.0: Emacs Interface to Jira
+app-emacs/jira 0.6.0: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
