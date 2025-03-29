@@ -463,7 +463,7 @@ app-emacs/corfu-candidate-overlay 1.3: Show first candidate in an overlay while 
 app-emacs/corfu-prescient 6.3.1: Prescient.el + Corfu
 app-emacs/corral 0.3: Quickly surround text with delimiters
 app-emacs/cort 7.1.0: Simplify extended unit test framework
-app-emacs/counsel 0.15.0: Various completion functions using Ivy
+app-emacs/counsel 0.15.1: Various completion functions using Ivy
 app-emacs/counsel-bbdb 0.0.5: Quick search&input email from BBDB based on Emacs API `completing-read'
 app-emacs/counsel-css 1.0.7: Stylesheet-selector-aware swiper
 app-emacs/counsel-dash 0.1.3: Browse dash docsets using Ivy
@@ -1565,8 +1565,8 @@ app-emacs/isgd 1.1: Shorten URLs using the isgd.com shortener service
 app-emacs/islisp-mode 0.3.1: Major mode for ISLisp programming
 app-emacs/iso_639 1.0.0: ISO 639
 app-emacs/iter2 2.2: Reimplementation of Elisp generators
-app-emacs/ivy 0.15.0: Incremental Vertical completYon
-app-emacs/ivy-avy 0.15.0: Avy integration for Ivy
+app-emacs/ivy 0.15.1: Incremental Vertical completYon
+app-emacs/ivy-avy 0.15.1: Avy integration for Ivy
 app-emacs/ivy-bibtex 2.0.0: A BibTeX bibliography manager based on Ivy
 app-emacs/ivy-erlang-complete 0.3.2: Erlang context sensitive completion at point using ivy. It also support xref and eldoc
 app-emacs/ivy-explorer 0.3.2: Dynamic file browsing grid using ivy
@@ -1574,7 +1574,7 @@ app-emacs/ivy-file-preview 0.4.5: Preview the current ivy file selection
 app-emacs/ivy-fuz 1.0.0: Integration between fuz and ivy
 app-emacs/ivy-gitlab 0.8.0: Ivy interface to Gitlab
 app-emacs/ivy-hoogle 0.1.1: Search Hoogle using ivy
-app-emacs/ivy-hydra 0.15.0: Additional key bindings for Ivy
+app-emacs/ivy-hydra 0.15.1: Additional key bindings for Ivy
 app-emacs/ivy-migemo 1.4.0: Use migemo on ivy
 app-emacs/ivy-mpdel 1.0.0: Ivy interface to navigate MPD
 app-emacs/ivy-posframe 0.5.5: Using posframe to show Ivy
@@ -1602,7 +1602,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.0: Enchanted Spell Checker
-app-emacs/jira 0.6.0: Emacs Interface to Jira
+app-emacs/jira 0.7.0: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -1667,7 +1667,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.13: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.37.2: Your Second Brain
+app-emacs/khoj 1.38.0: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-dollar-mode 1.0.0: Remove leading $ from shell-script-like text
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
@@ -2340,7 +2340,7 @@ app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
 app-emacs/pet 3.1.0: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: A simple wrapper around asynchronous processes
-app-emacs/pg 0.50: Socket-level interface to the PostgreSQL database
+app-emacs/pg 0.51: Socket-level interface to the PostgreSQL database
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: Another incremental search & replace, compatible with "multiple-cursors"
 app-emacs/phi-search-mc 2.2.1: Multiple-cursors extension for phi-search
@@ -2810,7 +2810,7 @@ app-emacs/sweetgreen 0.5: Order Salads from sweetgreen.com
 app-emacs/swift-helpful 0.3: Show documentation for Swift programs
 app-emacs/swift-mode 9.2.0: Major-mode for Apple's Swift programming language
 app-emacs/swift3-mode 2.1.1: Major-mode for Apple's Swift programming language
-app-emacs/swiper 0.15.0: Isearch with an overview. Oh, man!
+app-emacs/swiper 0.15.1: Isearch with an overview. Oh, man!
 app-emacs/swiper-helm 0.2.0: Helm version of Swiper
 app-emacs/switch-buffer-functions 0.0.1: Hook run when current buffer changed
 app-emacs/switch-window 1.6.2: A *visual* way to switch window
