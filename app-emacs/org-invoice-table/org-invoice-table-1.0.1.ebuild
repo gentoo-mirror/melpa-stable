@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="dir-config"
+REALNAME="org-invoice-table"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Automatically find and load the .dir-config.el Elisp file"
+DESCRIPTION="Invoicing table formatter for org-mode"
 
-HOMEPAGE="https://github.com/jamescherti/dir-config.el"
+HOMEPAGE="https://codeberg.org/trevdev/org-invoice-table"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

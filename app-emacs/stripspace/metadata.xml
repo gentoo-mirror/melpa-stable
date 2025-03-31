@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Find and evaluate .dir-config.el (dir-locals alternative)</longdescription>
+	<longdescription>Auto remove trailing whitespace and restore column</longdescription>
 </pkgmetadata>

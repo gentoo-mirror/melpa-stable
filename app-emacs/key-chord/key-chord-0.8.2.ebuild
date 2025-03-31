@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Map pairs of simultaneously pressed keys to commands"
 
-HOMEPAGE="https://github.com/emacsorphanage/key-chord"
+HOMEPAGE="https://github.com/LemonBreezes/key-chord"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
