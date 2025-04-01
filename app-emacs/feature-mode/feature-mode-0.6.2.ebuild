@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Gherkin (i.e. Cucumber) user stories"
 
-HOMEPAGE="https://github.com/michaelklishin/cucumber.el"
+HOMEPAGE="https://github.com/freesteph/cucumber.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
