@@ -949,7 +949,7 @@ app-emacs/faust-mode 0.6: Faust syntax colorizer for Emacs
 app-emacs/faustine 0.4: Edit, visualize, build and run Faust code
 app-emacs/fcitx 0.2.3: Make fcitx better in Emacs
 app-emacs/fd-dired 0.1.0: Find-dired alternative using fd
-app-emacs/feature-mode 0.6.1: Major mode for editing Gherkin (i.e. Cucumber) user stories
+app-emacs/feature-mode 0.6.2: Major mode for editing Gherkin (i.e. Cucumber) user stories
 app-emacs/fedi 0.2: Helper functions for fediverse clients
 app-emacs/feed-discovery 1.0.0: Discover feed url by RSS/Atom autodiscovery
 app-emacs/feline 1.1: A modeline with very little
@@ -1024,7 +1024,7 @@ app-emacs/flycheck-objc-clang 4.0.2: Flycheck: Objective-C support using Clang
 app-emacs/flycheck-ocaml 0.4.2: Flycheck: OCaml support
 app-emacs/flycheck-package 0.14: A Flycheck checker for elisp package authors
 app-emacs/flycheck-pest 0.1.0: Flycheck integration for Pest -
-app-emacs/flycheck-phpstan 0.8.0: Flycheck integration for PHPStan
+app-emacs/flycheck-phpstan 0.8.2: Flycheck integration for PHPStan
 app-emacs/flycheck-pony 0.3.0: Pony support in Flycheck
 app-emacs/flycheck-popup-tip 0.12.2: Display Flycheck error messages using popup.el
 app-emacs/flycheck-pos-tip 0.3: Display Flycheck errors in GUI tooltips
@@ -1073,7 +1073,7 @@ app-emacs/flymake-perlcritic 1.0.3: Flymake handler for Perl to invoke Perl::Cri
 app-emacs/flymake-pest 0.1.0: A flymake handler for Pest files
 app-emacs/flymake-php 0.5: A flymake handler for php-mode files
 app-emacs/flymake-phpcs 1.1: Making flymake work with PHP CodeSniffer
-app-emacs/flymake-phpstan 0.8.0: Flymake backend for PHP using PHPStan
+app-emacs/flymake-phpstan 0.8.2: Flymake backend for PHP using PHPStan
 app-emacs/flymake-python-pyflakes 0.9: A flymake handler for python-mode files using pyflakes (or flake8)
 app-emacs/flymake-quickdef 1.0.0: Quickly define a new Flymake backend
 app-emacs/flymake-rakudo 0.1.0: Flymake syntax checker for Rakudo
@@ -2188,7 +2188,7 @@ app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
 app-emacs/org-recur 1.3.3: Recurring org-mode tasks
 app-emacs/org-ref 2.0.0: Citations, cross-references and bibliographies in org-mode
 app-emacs/org-repo-todo 0.0.3: Simple repository todo management with org-mode
-app-emacs/org-reverse-datetree 0.4.2.2: Create reverse date trees in org-mode
+app-emacs/org-reverse-datetree 0.4.3: Create reverse date trees in org-mode
 app-emacs/org-rich-yank 0.2.2: Paste with org-mode markup and link to source
 app-emacs/org-roam 2.2.2: A database abstraction layer for Org-mode
 app-emacs/org-roam-bibtex 0.6.2: Org Roam meets BibTeX
@@ -2351,7 +2351,7 @@ app-emacs/php-mode 1.27.0: Major mode for editing PHP code
 app-emacs/php-quickhelp 0.5.5: Quickhelp at point for php
 app-emacs/php-runtime 0.3.2: Language binding bridge to PHP
 app-emacs/phpactor 0.1.0: Interface to Phpactor
-app-emacs/phpstan 0.8.0: Interface to PHPStan
+app-emacs/phpstan 0.8.2: Interface to PHPStan
 app-emacs/phpt-mode 0.0.1: Major mode for editing PHPT test code
 app-emacs/phpunit 0.17.1: Launch PHP unit tests using phpunit
 app-emacs/pickle 0.0.3: Major mode for editing cucumber gherkin files
@@ -2880,7 +2880,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2025.3.24.0: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2025.3.31.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
