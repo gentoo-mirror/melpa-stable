@@ -62,7 +62,7 @@ app-emacs/aggressive-indent 1.10.0: Minor mode to aggressively keep your code al
 app-emacs/ahk-mode 1.5.6: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 1.10.0: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
 app-emacs/aider 0.6.0: Interact with Aider: AI pair programming made simple
-app-emacs/aidermacs 1.1: AI pair programming with Aider
+app-emacs/aidermacs 1.2: AI pair programming with Aider
 app-emacs/aiken-mode 1.0.2: Major mode for Aiken
 app-emacs/airline-themes 1.8: Vim-airline themes for emacs powerline
 app-emacs/alan-mode 1.0.0: Major mode for editing M-industries Alan files
@@ -747,7 +747,7 @@ app-emacs/elisp-refs 1.5: Find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 1.8.0: Tool for interacting with LLMs
+app-emacs/ellama 1.8.1: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: [No description available]
