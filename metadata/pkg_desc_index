@@ -363,7 +363,7 @@ app-emacs/coffee-mode 0.6.3: Major mode for CoffeeScript code
 app-emacs/color-identifiers-mode 1.0.0: Color identifiers based on their names
 app-emacs/color-theme-modern 0.0.3: Reimplement colortheme with Emacs 24 theme framework
 app-emacs/color-theme-sanityinc-solarized 2.29: A version of Ethan Schoonover's Solarized themes
-app-emacs/color-theme-sanityinc-tomorrow 1.17: A version of Chris Kempson's various Tomorrow themes
+app-emacs/color-theme-sanityinc-tomorrow 1.18: A version of Chris Kempson's "tomorrow" themes
 app-emacs/colorless-themes 0.2: A macro to generate mostly colorless themes
 app-emacs/colormaps 0.1.2: Hex colormaps
 app-emacs/com-css-sort 0.0.7: Common way of sorting the CSS attributes
@@ -645,7 +645,7 @@ app-emacs/dslide 0.6.2: Domain Specific sLIDEs. Programmable Presentation
 app-emacs/dtrt-indent 1.23: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
-app-emacs/dune 3.17.2: Integration with the dune build system
+app-emacs/dune 3.18.0: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
 app-emacs/duplexer 0.2.0: Handle conflicts between local minor modes and reuse rules
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
@@ -663,7 +663,7 @@ app-emacs/e2wm-pkgex4pl 0.0.1: Plugin of e2wm.el for package explorer of Perl
 app-emacs/e2wm-sww 0.0.3: Plugin of e2wm.el to switch plugin quickly
 app-emacs/e2wm-term 0.1.0: Perspective of e2wm.el for work in terminal
 app-emacs/eacl 2.2.0: Auto-complete lines by grepping project
-app-emacs/eask 0.10.3: Core Eask APIs, for Eask CLI development
+app-emacs/eask 0.11.0: Core Eask APIs, for Eask CLI development
 app-emacs/eask-mode 0.1.0: Major mode for editing Eask files
 app-emacs/easky 0.1.0: Control Eask in Emacs
 app-emacs/easy-hugo 3.10.61: Write blogs made with hugo by markdown or org-mode
@@ -821,7 +821,7 @@ app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics
 app-emacs/eri 2.7.0.1: Enhanced relative indentation (eri)
 app-emacs/erk 0.5.3: Elisp (GitHub) Repository Kit
-app-emacs/erlang 27.3.1: Erlang major mode
+app-emacs/erlang 27.3.2: Erlang major mode
 app-emacs/erlang-ts 0.2: Major modes for editing Erlang
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/eros-inspector 1.0.1: Glue between eros and inspector
@@ -1046,7 +1046,7 @@ app-emacs/flycheck-yamllint 0.1.0: Flycheck integration for YAMLLint
 app-emacs/flycheck-ycmd 1.2: Flycheck integration for ycmd
 app-emacs/flymake-actionlint 0.1.0: A Flymake handler for actionlint
 app-emacs/flymake-ansible-lint 1.0.2: A Flymake backend for ansible-lint
-app-emacs/flymake-bashate 1.0.2: A Flymake backend for bashate, a Bash scripts style checker
+app-emacs/flymake-bashate 1.0.3: A Flymake backend for bashate, a Bash scripts style checker
 app-emacs/flymake-coffee 0.12: A flymake handler for coffee script
 app-emacs/flymake-collection 1.0.1: Collection of checkers for flymake, bringing flymake to the level of flycheck
 app-emacs/flymake-css 0.3: Flymake support for css using csslint
@@ -1602,7 +1602,7 @@ app-emacs/jet 1.2.0: Emacs integration for jet Clojure tool
 app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
-app-emacs/jinx 2.0: Enchanted Spell Checker
+app-emacs/jinx 2.1: Enchanted Spell Checker
 app-emacs/jira 0.7.0: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
@@ -1668,7 +1668,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.13: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.38.0: Your Second Brain
+app-emacs/khoj 1.39.0: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-dollar-mode 1.0.0: Remove leading $ from shell-script-like text
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
@@ -1895,7 +1895,7 @@ app-emacs/minimal-session-saver 0.6.2: Very lean session saver
 app-emacs/minions 1.0.3: A minor-mode menu for the mode line
 app-emacs/minitest 0.9.2: An Emacs mode for ruby minitest files
 app-emacs/mint-mode 2.0.0: Major mode for the Mint programming language
-app-emacs/minuet 0.5.0: Code completion using LLM
+app-emacs/minuet 0.5.2: Code completion using LLM
 app-emacs/mips-mode 1.2.0: Major-mode for MIPS assembly
 app-emacs/mise 0.3.1: Support for `mise' cli
 app-emacs/mistty 1.4: Shell/Comint alternative based on term.el
@@ -2244,7 +2244,7 @@ app-emacs/orgstrap 1.5.6: Bootstrap an Org file using file local variables
 app-emacs/orgtbl-show-header 1.0.0: Show the header of the current column in the minibuffer
 app-emacs/origami-predef 1.0: Apply folding when finding (opening) files
 app-emacs/orthodox-christian-new-calendar-holidays 1.3.3: Feasts (NS)
-app-emacs/osm 1.6: OpenStreetMap viewer
+app-emacs/osm 1.7: OpenStreetMap viewer
 app-emacs/osx-browse 0.8.8: Web browsing helpers for OS X
 app-emacs/osx-clipboard 0.1: Use the OS X clipboard from terminal Emacs
 app-emacs/osx-dictionary 0.4: Interface for OSX Dictionary.app
