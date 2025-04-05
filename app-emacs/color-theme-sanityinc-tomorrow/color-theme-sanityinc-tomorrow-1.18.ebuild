@@ -10,9 +10,9 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A version of Chris Kempson's various Tomorrow themes"
+DESCRIPTION="A version of Chris Kempson's \"tomorrow\" themes"
 
-HOMEPAGE="http://github.com/purcell/color-theme-sanityinc-tomorrow"
+HOMEPAGE="https://github.com/purcell/color-theme-sanityinc-tomorrow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
