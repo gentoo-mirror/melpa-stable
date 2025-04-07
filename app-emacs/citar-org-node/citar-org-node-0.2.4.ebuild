@@ -5,20 +5,22 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="ac-emacs-eclim"
+REALNAME="citar-org-node"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Auto-complete source for eclim"
+DESCRIPTION="Citar integration with org-node"
 
-HOMEPAGE="https://github.com/emacs-eclim/emacs-eclim"
+HOMEPAGE="https://github.com/krisbalintona/citar-org-node"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/eclim
-	app-emacs/auto-complete"
-RDEPEND="app-emacs/eclim
-	app-emacs/auto-complete"
+DEPEND="app-emacs/citar
+	app-emacs/org-node
+	app-emacs/ht"
+RDEPEND="app-emacs/citar
+	app-emacs/org-node
+	app-emacs/ht"
