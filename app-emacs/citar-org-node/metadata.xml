@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Company-mode backend for eclim</longdescription>
+	<longdescription>Citar integration with org-node</longdescription>
 </pkgmetadata>
