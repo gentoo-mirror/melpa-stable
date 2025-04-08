@@ -662,7 +662,7 @@ app-emacs/e2wm-pkgex4pl 0.0.1: Plugin of e2wm.el for package explorer of Perl
 app-emacs/e2wm-sww 0.0.3: Plugin of e2wm.el to switch plugin quickly
 app-emacs/e2wm-term 0.1.0: Perspective of e2wm.el for work in terminal
 app-emacs/eacl 2.2.0: Auto-complete lines by grepping project
-app-emacs/eask 0.11.0: Core Eask APIs, for Eask CLI development
+app-emacs/eask 0.11.1: Core Eask APIs, for Eask CLI development
 app-emacs/eask-mode 0.1.0: Major mode for editing Eask files
 app-emacs/easky 0.1.0: Control Eask in Emacs
 app-emacs/easy-hugo 3.10.61: Write blogs made with hugo by markdown or org-mode
@@ -1747,6 +1747,7 @@ app-emacs/literal-string 0.5: Edit string literals in a dedicated buffer
 app-emacs/literate-coffee-mode 0.4: Major-mode for Literate CoffeeScript
 app-emacs/literate-elisp 0.8: Literate program to write elisp codes in org mode
 app-emacs/litex-mode 0.3.0: Minor mode for converting lisp to LaTeX
+app-emacs/lithium 0.1: Lightweight modal interfaces
 app-emacs/live-code-talks 0.2.1: Support for slides with live code in them
 app-emacs/live-preview 0.1.2: Live preview by any shell command while editing
 app-emacs/live-py-mode 4.12.0: Live Coding in Python
@@ -1893,7 +1894,7 @@ app-emacs/minimal-session-saver 0.6.2: Very lean session saver
 app-emacs/minions 1.0.3: A minor-mode menu for the mode line
 app-emacs/minitest 0.9.2: An Emacs mode for ruby minitest files
 app-emacs/mint-mode 2.0.0: Major mode for the Mint programming language
-app-emacs/minuet 0.5.2: Code completion using LLM
+app-emacs/minuet 0.5.3: Code completion using LLM
 app-emacs/mips-mode 1.2.0: Major-mode for MIPS assembly
 app-emacs/mise 0.3.1: Support for `mise' cli
 app-emacs/mistty 1.4: Shell/Comint alternative based on term.el
@@ -2148,7 +2149,7 @@ app-emacs/org-index 7.4.7: Ranked and incremental search among selected org-head
 app-emacs/org-inline-anim 0.3: Inline playback of animated GIF/PNG for Org
 app-emacs/org-inline-pdf 0.5: Inline PDF previewing for Org
 app-emacs/org-inline-pdfcomment 1.0.2: Export Support for Inline Tasks as PDF Comments
-app-emacs/org-invoice-table 1.0.1: Invoicing table formatter for org-mode
+app-emacs/org-invoice-table 1.1.1: Invoicing table formatter for org-mode
 app-emacs/org-jami-bot 0.0.4: Capture GNU Jami messages as notes and todos in Org mode
 app-emacs/org-jira 4.4.2: Syncing between Jira and Org-mode
 app-emacs/org-journal 2.2.0: A simple org-mode based journaling mode
