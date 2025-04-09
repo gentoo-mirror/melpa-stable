@@ -704,7 +704,7 @@ app-emacs/eglot-tempel 0.8.2: Use tempel to expand snippets from eglot
 app-emacs/eide 2.3.3: IDE features
 app-emacs/eink-theme 1.0.0: E Ink color theme
 app-emacs/ejc-sql 0.4.1: Emacs SQL client uses Clojure JDBC.
-app-emacs/ekg 0.6.4: A system for recording and linking information
+app-emacs/ekg 0.7.0: A system for recording and linking information
 app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
@@ -2066,7 +2066,7 @@ app-emacs/ob-uart 0.1.0: Org-babel support for UART communication
 app-emacs/obfusurl 2.1: Obfuscate URLs so they aren't spoilers
 app-emacs/objc-font-lock 0.0.5: Highlight Objective-C method calls
 app-emacs/objed 0.8.1: Navigate and edit text objects
-app-emacs/obsidian 1.4.4: Obsidian Notes interface
+app-emacs/obsidian 2.0.0: Obsidian Notes interface
 app-emacs/ocaml-eglot 1.1.0: An OCaml companion for Eglot
 app-emacs/ocamlformat 0.27.0: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
@@ -2149,7 +2149,7 @@ app-emacs/org-index 7.4.7: Ranked and incremental search among selected org-head
 app-emacs/org-inline-anim 0.3: Inline playback of animated GIF/PNG for Org
 app-emacs/org-inline-pdf 0.5: Inline PDF previewing for Org
 app-emacs/org-inline-pdfcomment 1.0.2: Export Support for Inline Tasks as PDF Comments
-app-emacs/org-invoice-table 1.1.1: Invoicing table formatter for org-mode
+app-emacs/org-invoice-table 1.1.2: Invoicing table formatter for org-mode
 app-emacs/org-jami-bot 0.0.4: Capture GNU Jami messages as notes and todos in Org mode
 app-emacs/org-jira 4.4.2: Syncing between Jira and Org-mode
 app-emacs/org-journal 2.2.0: A simple org-mode based journaling mode
@@ -2891,7 +2891,7 @@ app-emacs/timesheet 0.5.0: Timesheet management add-on for org-mode
 app-emacs/timonier 0.1.0: Timonier, Manage Kubernetes Applications from Emacs
 app-emacs/timu-caribbean-theme 1.5: Color theme with cyan as a dominant color
 app-emacs/timu-line 1.5: Custom and simple mode line
-app-emacs/timu-macos-theme 1.6: Color theme inspired by the macOS UI
+app-emacs/timu-macos-theme 1.7: Color theme inspired by the macOS UI
 app-emacs/timu-rouge-theme 1.9: Color theme inspired by the Rouge Theme for VSCode
 app-emacs/timu-spacegrey-theme 2.9: Color theme inspired by the Spacegray theme in Sublime Text
 app-emacs/titlecase 0.4.1: Title-case phrases
