@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Obsidian Notes interface"
 
-HOMEPAGE="https://github.com./licht1stein/obsidian.el"
+HOMEPAGE="https://github.com/licht1stein/obsidian.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
@@ -23,10 +23,12 @@ DEPEND="app-emacs/f
 	app-emacs/dash
 	app-emacs/markdown-mode
 	app-emacs/elgrep
-	app-emacs/yaml"
+	app-emacs/yaml
+	app-emacs/ht"
 RDEPEND="app-emacs/f
 	app-emacs/s
 	app-emacs/dash
 	app-emacs/markdown-mode
 	app-emacs/elgrep
-	app-emacs/yaml"
+	app-emacs/yaml
+	app-emacs/ht"
