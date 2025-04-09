@@ -641,7 +641,7 @@ app-emacs/drag-stuff 0.3.0: Drag stuff (lines, words, region, etc...) around
 app-emacs/drupal-mode 0.8.1: Advanced minor mode for Drupal development
 app-emacs/drupal-spell 0.2.2: Aspell extra dictionary for Drupal
 app-emacs/dslide 0.6.2: Domain Specific sLIDEs. Programmable Presentation
-app-emacs/dtrt-indent 1.23: Adapt to foreign indentation offsets
+app-emacs/dtrt-indent 1.24: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
 app-emacs/dune 3.18.0: Integration with the dune build system
