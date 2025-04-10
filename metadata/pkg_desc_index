@@ -297,7 +297,7 @@ app-emacs/cg 1.5.0: Major mode for editing Constraint Grammar files
 app-emacs/champagne 0.3.2: Graphical countdowns
 app-emacs/char-menu 0.1.1: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 0.0.1: Unicode table for Emacs
-app-emacs/chatgpt-shell 2.16.4: A family of utilities to interact with LLMs (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity)
+app-emacs/chatgpt-shell 2.17.1: A family of utilities to interact with LLMs (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity)
 app-emacs/chatwork 0.3: ChatWork client for Emacs
 app-emacs/cheat-sh 1.8: Interact with cheat.sh
 app-emacs/checkbox 0.2.1: Quick manipulation of textual checkboxes
@@ -305,7 +305,7 @@ app-emacs/chee 0.3.0: Interface to chee using dired and image-dired
 app-emacs/chezmoi 0.0.1: A package for interacting with chezmoi
 app-emacs/chinese-word-at-point 0.2.3: Add `chinese-word' thing to `thing-at-point'
 app-emacs/choice-program 0.15: Parameter based program
-app-emacs/chordpro-mode 2.4.0: Major mode for ChordPro lead sheet file format
+app-emacs/chordpro-mode 2.6.0: Major mode for ChordPro lead sheet file format
 app-emacs/chroma 1.1.0: Color manipulation library
 app-emacs/chronometrist 0.10.0: Friendly and powerful personal time tracker and analyzer
 app-emacs/chronometrist-key-values 0.10.0: Add key-values to Chronometrist data
@@ -1897,7 +1897,7 @@ app-emacs/mint-mode 2.0.0: Major mode for the Mint programming language
 app-emacs/minuet 0.5.3: Code completion using LLM
 app-emacs/mips-mode 1.2.0: Major-mode for MIPS assembly
 app-emacs/mise 0.3.1: Support for `mise' cli
-app-emacs/mistty 1.4: Shell/Comint alternative based on term.el
+app-emacs/mistty 1.5: Shell/Comint alternative based on term.el
 app-emacs/mixed-pitch 1.1.1: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mlscroll 0.2.3: A scroll bar for the modeline
 app-emacs/mmm-jinja2 0.1: MMM submode class for Jinja2 Templates
@@ -2520,7 +2520,7 @@ app-emacs/rc-mode 1.0.13: Major mode for the Plan9 rc shell
 app-emacs/rcirc-styles 1.3.2: Support mIRC-style color and attribute codes
 app-emacs/rdf-prefix 1.14: Prefix lookup for RDF
 app-emacs/react-snippets 0.1: Yasnippets for React
-app-emacs/ready-player 0.30.1: Open media files in ready-player major mode
+app-emacs/ready-player 0.31.2: Open media files in ready-player major mode
 app-emacs/real-auto-save 0.4: Enable real auto save
 app-emacs/realgud 1.5.1: A modular front-end for interacting with external debuggers
 app-emacs/realgud-lldb 1.0.2: Realgud front-end to lldb
