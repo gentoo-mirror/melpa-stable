@@ -2892,8 +2892,8 @@ app-emacs/timonier 0.1.0: Timonier, Manage Kubernetes Applications from Emacs
 app-emacs/timu-caribbean-theme 1.5: Color theme with cyan as a dominant color
 app-emacs/timu-line 1.5: Custom and simple mode line
 app-emacs/timu-macos-theme 1.7: Color theme inspired by the macOS UI
-app-emacs/timu-rouge-theme 1.9: Color theme inspired by the Rouge Theme for VSCode
-app-emacs/timu-spacegrey-theme 2.9: Color theme inspired by the Spacegray theme in Sublime Text
+app-emacs/timu-rouge-theme 2.0: Color theme inspired by the Rouge Theme for VSCode
+app-emacs/timu-spacegrey-theme 3.0: Color theme inspired by the Spacegray theme in Sublime Text
 app-emacs/titlecase 0.4.1: Title-case phrases
 app-emacs/toc-org 1.2.0: Add table of contents to org-mode files (formerly, org-toc)
 app-emacs/tokei 0.2: Display codebase statistics
