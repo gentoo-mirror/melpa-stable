@@ -2412,7 +2412,7 @@ app-emacs/powerline 2.4: Rewrite of Powerline
 app-emacs/powerthesaurus 0.4.0: Powerthesaurus integration
 app-emacs/ppd-sr-speedbar 0.0.6: Sr Speedbar adaptor for project-persist-drawer
 app-emacs/ppp 1.0.0: Extended pretty printer for Emacs Lisp
-app-emacs/pr-review 0.1.0: Review github PR
+app-emacs/pr-review 0.2.0: Review github PR
 app-emacs/prassee-theme 1.0: A dark contrast color theme for Emacs
 app-emacs/prefab 0.1.1: Integration for project generation tools like cookiecutter
 app-emacs/preproc-font-lock 0.0.6: Highlight C preprocessor directives
