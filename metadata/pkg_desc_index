@@ -709,7 +709,7 @@ app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
 app-emacs/el-init-viewer 0.1.0: Record viewer for el-init
-app-emacs/el-job 2.4.3: Contrived way to call a function using all CPU cores
+app-emacs/el-job 2.4.4: Contrived way to call a function using all CPU cores
 app-emacs/el-mock 1.25.1: Tiny Mock and Stub framework in Emacs Lisp
 app-emacs/el-patch 3.1: Future-proof your Elisp
 app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
@@ -976,7 +976,7 @@ app-emacs/fix-word 0.2.0: Convenient word transformation
 app-emacs/fixmee 0.8.6: Quickly navigate to FIXME notices in code
 app-emacs/flatbuffers-mode 0.3: Major mode for editing flatbuffers
 app-emacs/flatui-dark-theme 0.3.0: Dark color theme with colors from https://flatuicolors.com/
-app-emacs/flex-compile 1.5: Run, evaluate and compile across many languages
+app-emacs/flex-compile 1.6.0: Run, evaluate and compile across many languages
 app-emacs/floobits 1.9.4: Floobits plugin for real-time collaborative editing
 app-emacs/flow-minor-mode 0.3: Flow type mode based on web-mode
 app-emacs/flower 0.4.7: Emacs task tracker client
@@ -1747,7 +1747,7 @@ app-emacs/literal-string 0.5: Edit string literals in a dedicated buffer
 app-emacs/literate-coffee-mode 0.4: Major-mode for Literate CoffeeScript
 app-emacs/literate-elisp 0.8: Literate program to write elisp codes in org mode
 app-emacs/litex-mode 0.3.0: Minor mode for converting lisp to LaTeX
-app-emacs/lithium 0.1: Lightweight modal interfaces
+app-emacs/lithium 0.1.1: Lightweight modal interfaces
 app-emacs/live-code-talks 0.2.1: Support for slides with live code in them
 app-emacs/live-preview 0.1.2: Live preview by any shell command while editing
 app-emacs/live-py-mode 4.12.0: Live Coding in Python
@@ -2811,7 +2811,7 @@ app-emacs/sway 0.7: Communication with the Sway window manager
 app-emacs/sway-lang-mode 0.1.0: Major mode for sway
 app-emacs/sweetgreen 0.5: Order Salads from sweetgreen.com
 app-emacs/swift-helpful 0.3: Show documentation for Swift programs
-app-emacs/swift-mode 9.2.0: Major-mode for Apple's Swift programming language
+app-emacs/swift-mode 9.3.0: Major-mode for Apple's Swift programming language
 app-emacs/swift3-mode 2.1.1: Major-mode for Apple's Swift programming language
 app-emacs/swiper 0.15.1: Isearch with an overview. Oh, man!
 app-emacs/swiper-helm 0.2.0: Helm version of Swiper
