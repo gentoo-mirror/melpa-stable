@@ -986,7 +986,7 @@ app-emacs/flow-minor-mode 0.3: Flow type mode based on web-mode
 app-emacs/flower 0.4.7: Emacs task tracker client
 app-emacs/flx 0.6.1: Fuzzy matching with good sorting
 app-emacs/flx-ido 0.6.1: Flx integration for ido
-app-emacs/flycheck 34.1: On-the-fly syntax checking
+app-emacs/flycheck 35.0: On-the-fly syntax checking
 app-emacs/flycheck-actionlint 0.2.0: Flycheck integration for actionlint
 app-emacs/flycheck-ameba 0.1.0: Add support for Ameba to Flycheck
 app-emacs/flycheck-apertium 0.3.0: Apertium checkers in flycheck
