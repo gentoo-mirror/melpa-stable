@@ -1877,7 +1877,7 @@ app-emacs/merlin-ac 4.1: Merlin and auto-complete integration
 app-emacs/merlin-company 4.1: Merlin and company mode integration
 app-emacs/merlin-eldoc 1.3: Eldoc for OCaml and Reason
 app-emacs/merlin-iedit 4.1: Merlin and iedit integration
-app-emacs/mermaid-docker-mode 2.1.0: Render mermaid graphs with Docker service
+app-emacs/mermaid-docker-mode 2.2.0: Render mermaid graphs with Docker service
 app-emacs/meson-mode 0.3: Major mode for the Meson build system files
 app-emacs/meta-presenter 1.1.0: A simple multi-file presentation tool for Emacs
 app-emacs/metamorph 1.0.0: Transform your buffers with lisp
