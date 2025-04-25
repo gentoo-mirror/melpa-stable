@@ -1282,7 +1282,7 @@ app-emacs/grapnel 0.5.3: HTTP request lib with flexible callback dispatch
 app-emacs/grass-mode 0.1: Provides Emacs modes for interacting with the GRASS GIS program
 app-emacs/green-is-the-new-black-theme 1.0.0: A cool and minimalist green blackened theme engine
 app-emacs/green-screen-theme 1.0.26: A nice color theme for those who miss green CRTs
-app-emacs/grip-mode 2.4.0: Instant GitHub-flavored Markdown/Org preview using grip
+app-emacs/grip-mode 2.5.0: Instant GitHub-flavored Markdown/Org preview using grip
 app-emacs/grizzl 0.1.1: Fuzzy Search Library & Completing Read
 app-emacs/groovy-imports 1.0.1: Code for dealing with Groovy imports
 app-emacs/groovy-mode 2.1: Major mode for Groovy source files
