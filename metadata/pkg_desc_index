@@ -1791,7 +1791,7 @@ app-emacs/lsp-mode 9.0.0: LSP mode
 app-emacs/lsp-origami 1.0.0: Origami.el support for lsp-mode
 app-emacs/lsp-pyright 0.3.0: Python LSP client using Pyright
 app-emacs/lsp-python-ms 0.7.3: The lsp-mode client for Microsoft python-language-server
-app-emacs/lsp-scheme 0.1.1: Scheme support for lsp-mode
+app-emacs/lsp-scheme 0.1.2: Scheme support for lsp-mode
 app-emacs/lsp-shader 0.0.1: LSP Clients for ShaderLab
 app-emacs/lsp-sonarlint 0.1.0: Emacs Sonarlint lsp client
 app-emacs/lsp-tailwindcss 0.2: A lsp-mode client for tailwindcss
