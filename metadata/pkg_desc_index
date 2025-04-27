@@ -101,7 +101,7 @@ app-emacs/anti-zenburn-theme 2.5.1: Low-contrast Zenburn-inverted theme
 app-emacs/anyins 0.1.1: Insert content at multiple places from shell command or kill-ring
 app-emacs/anzu 0.67: Show number of matches in mode-line while searching
 app-emacs/apache-mode 2.2.0: Major mode for editing Apache httpd configuration files
-app-emacs/apdl-mode 20.5.0: Major mode for the APDL programming language
+app-emacs/apdl-mode 20.6.0: Major mode for the APDL programming language
 app-emacs/apheleia 4.4: Reformat buffer stably
 app-emacs/apib-mode 0.8: Major mode for API Blueprint files
 app-emacs/apiwrap 0.5: Api-wrapping macros
@@ -608,7 +608,7 @@ app-emacs/diredful 1.10: Colorful file names in dired buffers
 app-emacs/direnv 2.2.0: Support for direnv
 app-emacs/direx 1.0.0: Simple Directory Explorer
 app-emacs/direx-grep 0.1.0: Grep node of direx.el using incremental search like anything.el/helm.el
-app-emacs/dirvish 2.2.7: A modern file manager based on dired mode
+app-emacs/dirvish 2.3.0: A modern file manager based on dired mode
 app-emacs/disable-mouse 0.3: Disable mouse commands globally
 app-emacs/disaster 1.2: Disassemble C, C++ or Fortran code under cursor
 app-emacs/discover 0.3: Discover more of Emacs
@@ -666,7 +666,7 @@ app-emacs/e2wm-pkgex4pl 0.0.1: Plugin of e2wm.el for package explorer of Perl
 app-emacs/e2wm-sww 0.0.3: Plugin of e2wm.el to switch plugin quickly
 app-emacs/e2wm-term 0.1.0: Perspective of e2wm.el for work in terminal
 app-emacs/eacl 2.2.0: Auto-complete lines by grepping project
-app-emacs/eask 0.11.1: Core Eask APIs, for Eask CLI development
+app-emacs/eask 0.11.2: Core Eask APIs, for Eask CLI development
 app-emacs/eask-mode 0.1.0: Major mode for editing Eask files
 app-emacs/easky 0.1.0: Control Eask in Emacs
 app-emacs/easy-hugo 3.10.61: Write blogs made with hugo by markdown or org-mode
