@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Interact with Aider: AI pair programming made simple"
+DESCRIPTION="AI assisted programming in Emacs with Aider"
 
 HOMEPAGE="https://github.com/tninja/aider.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
