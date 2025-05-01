@@ -965,7 +965,7 @@ app-emacs/fill-page 0.3.7: Fill buffer so you don't see empty lines at the end
 app-emacs/filldent 1.0.1: Fill or indent
 app-emacs/find-by-pinyin-dired 0.0.3: Find file by first PinYin character of Chinese Hanzi
 app-emacs/find-dupes-dired 1.0: Find dupes and handle in dired
-app-emacs/find-file-in-project 6.2.2: Find file/directory and review Diff/Patch/Commit efficiently
+app-emacs/find-file-in-project 6.2.3: Find file/directory and review Diff/Patch/Commit efficiently
 app-emacs/find-file-in-repository 1.2: Quickly find files in a git, mercurial or other repository
 app-emacs/finito 0.5.0: View and collect books
 app-emacs/fiplr 0.2.4: Fuzzy Search for Files in Projects
