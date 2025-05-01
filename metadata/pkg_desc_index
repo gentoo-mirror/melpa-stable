@@ -1809,7 +1809,7 @@ app-emacs/macro-math 1.0: In-buffer mathematical operations
 app-emacs/macrostep 0.9.5: Interactive macro expander
 app-emacs/magic-filetype 0.3.0: Enhance filetype major mode
 app-emacs/magik-mode 0.4.0: Emacs major mode for Smallworld Magik files
-app-emacs/magit 4.3.2: A Git porcelain inside Emacs
+app-emacs/magit 4.3.3: A Git porcelain inside Emacs
 app-emacs/magit-annex 1.9.0: Control git-annex from Magit
 app-emacs/magit-filenotify 0.1: Refresh status buffer when git tree changes
 app-emacs/magit-find-file 2.1.0: Completing-read over all files in Git
@@ -1823,7 +1823,7 @@ app-emacs/magit-lfs 0.4.1: Magit plugin for Git LFS
 app-emacs/magit-org-todos 0.1.2: Add local todo items to the magit status buffer
 app-emacs/magit-p4 1.2.1: Git-p4 plug-in for Magit
 app-emacs/magit-popup 2.13.3: Define prefix-infix-suffix command combos
-app-emacs/magit-section 4.3.2: Sections for read-only buffers
+app-emacs/magit-section 4.3.3: Sections for read-only buffers
 app-emacs/magit-stgit 3.1.0: StGit extension for Magit
 app-emacs/magit-svn 2.2.4: Git-Svn extension for Magit
 app-emacs/magit-tbdiff 1.2.0: Magit extension for range diffs
@@ -2392,7 +2392,7 @@ app-emacs/poe-lootfilter-mode 1.0.0: Major mode for editing Path of Exile lootfi
 app-emacs/poetry 0.2.0: Interface to Poetry
 app-emacs/point-pos 0.1: Save and restore point positions
 app-emacs/poly-R 0.2.2: Various polymodes for R language
-app-emacs/poly-ansible 0.5.1: Polymode for Ansible: Jinja2 in YAML
+app-emacs/poly-ansible 0.5.2: Polymode for Ansible: Jinja2 in YAML
 app-emacs/poly-erb 0.2.2: Polymode for erb
 app-emacs/poly-markdown 0.2.2: Polymode for markdown-mode
 app-emacs/poly-noweb 0.2.2: Polymode for noweb
@@ -2918,7 +2918,7 @@ app-emacs/tr-ime 0.5.0: Emulator of IME patch for Windows
 app-emacs/traad 3.1.1: Emacs interface to the traad refactoring server
 app-emacs/tracking 2.14: Buffer modification tracking
 app-emacs/transducers 1.4.0: Ergonomic, efficient data processing
-app-emacs/transient 0.8.7: Transient commands
+app-emacs/transient 0.8.8: Transient commands
 app-emacs/translate-mode 1.0.2: Paragraph-oriented side-by-side doc translation workflow
 app-emacs/transmission 0.12.2: Interface to a Transmission session
 app-emacs/transpose-frame 0.2.1: Transpose windows arrangement in a frame
