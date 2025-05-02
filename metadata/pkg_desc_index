@@ -728,7 +728,7 @@ app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use
 app-emacs/eldoc-stan 10.2.0: Eldoc support for stan functions
 app-emacs/electric-cursor 0.2: Change cursor automatically depending on mode
 app-emacs/electric-operator 2.1: Automatically add spaces around operators
-app-emacs/electric-ospl 3.2.0: Electric OSPL Mode
+app-emacs/electric-ospl 3.3.1: Electric OSPL Mode
 app-emacs/elein 0.1: Running leiningen commands from emacs
 app-emacs/elescope 0.2: Seach and clone projects from the minibuffer
 app-emacs/elf-mode 0.1.0: Show symbols in binaries
