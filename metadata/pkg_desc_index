@@ -60,7 +60,7 @@ app-emacs/agenix 1.3: Decrypt and encrypt agenix secrets
 app-emacs/aggressive-indent 1.10.0: Minor mode to aggressively keep your code always indented
 app-emacs/ahk-mode 1.5.6: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 1.10.0: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 0.8.4: AI assisted programming in Emacs with Aider
+app-emacs/aider 0.9.0: AI assisted programming in Emacs with Aider
 app-emacs/aidermacs 1.3: AI pair programming with Aider
 app-emacs/aiken-mode 1.0.2: Major mode for Aiken
 app-emacs/airline-themes 1.8: Vim-airline themes for emacs powerline
@@ -501,6 +501,7 @@ app-emacs/ctune 0.2: Tune out CC Mode Noise Macros
 app-emacs/ctxmenu 0.3.0: Provide a context menu like right-click
 app-emacs/cubicaltt 1.0: Mode for cubical type theory
 app-emacs/cubicle-mode 1.2.0: Major mode for the Cubicle model checker
+app-emacs/cuckoo-search 0.2.5: Content-based search and saved-searches for Elfeed
 app-emacs/cuda-mode 1.0.0: NVIDIA CUDA Major Mode
 app-emacs/cue-mode 1.0.11: Major mode for CUE language files
 app-emacs/current-window-only 1.0: Open things only in the current window
@@ -1633,6 +1634,7 @@ app-emacs/json-rpc-server 0.3.1: Server-side JSON-RPC library
 app-emacs/json-snatcher 1.0.0: Grabs the path to JSON values in a JSON file
 app-emacs/jsonian 0.1.0: A major mode for editing JSON files
 app-emacs/jsonnet-mode 0.1.3: Major mode for editing jsonnet files
+app-emacs/jsonp 1.1.2: Resolve JSON pointers in ELisp objects
 app-emacs/jtsx 0.6.0: Extends JSX/TSX built-in support
 app-emacs/julia-mode 0.4: Major mode for editing Julia source code
 app-emacs/julia-repl 1.3.0: A minor mode for a Julia REPL
@@ -2195,7 +2197,7 @@ app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
 app-emacs/org-recur 1.3.3: Recurring org-mode tasks
 app-emacs/org-ref 2.0.0: Citations, cross-references and bibliographies in org-mode
 app-emacs/org-repo-todo 0.0.3: Simple repository todo management with org-mode
-app-emacs/org-reverse-datetree 0.4.3: Create reverse date trees in org-mode
+app-emacs/org-reverse-datetree 0.4.4: Create reverse date trees in org-mode
 app-emacs/org-rich-yank 0.2.2: Paste with org-mode markup and link to source
 app-emacs/org-roam 2.2.2: A database abstraction layer for Org-mode
 app-emacs/org-roam-bibtex 0.6.2: Org Roam meets BibTeX
@@ -2888,7 +2890,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2025.5.5.0: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2025.5.12.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2906,6 +2908,7 @@ app-emacs/titlecase 0.4.1: Title-case phrases
 app-emacs/toc-org 1.2.0: Add table of contents to org-mode files (formerly, org-toc)
 app-emacs/tokei 0.2: Display codebase statistics
 app-emacs/toml 0.1.0: TOML (Tom's Obvious, Minimal Language) parser
+app-emacs/tomlparse 1.0.0: A straight-forward tree sitter based parser for toml data
 app-emacs/tomorrow-night-deepblue-theme 1.2.1: The Tomorrow Night Deepblue color theme
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/torus 2.2: A buffer groups manager
