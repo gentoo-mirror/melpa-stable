@@ -5,22 +5,20 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="indexed"
+REALNAME="org-mem"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Cache metadata on all Org files"
+DESCRIPTION="Fast info from a large number of Org file contents"
 
-HOMEPAGE="https://github.com/meedstrom/org-node"
+HOMEPAGE="https://github.com/meedstrom/org-mem"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/el-job
-	app-emacs/emacsql
 	app-emacs/llama"
 RDEPEND="app-emacs/el-job
-	app-emacs/emacsql
 	app-emacs/llama"
