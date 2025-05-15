@@ -102,7 +102,7 @@ app-emacs/anyins 0.1.1: Insert content at multiple places from shell command or 
 app-emacs/anzu 0.67: Show number of matches in mode-line while searching
 app-emacs/apache-mode 2.2.0: Major mode for editing Apache httpd configuration files
 app-emacs/apdl-mode 20.6.0: Major mode for the APDL programming language
-app-emacs/apheleia 4.4: Reformat buffer stably
+app-emacs/apheleia 4.4.1: Reformat buffer stably
 app-emacs/apib-mode 0.8: Major mode for API Blueprint files
 app-emacs/apiwrap 0.5: Api-wrapping macros
 app-emacs/apples-mode 0.0.2: Major mode for editing and executing AppleScript code
@@ -347,7 +347,7 @@ app-emacs/clojure-mode 5.19.0: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 5.19.0: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 0.1.0: Quickly create Clojure and ClojureScript repls for a project
 app-emacs/clojure-snippets 1.0.1: Yasnippets for clojure
-app-emacs/clojure-ts-mode 0.3.0: Major mode for Clojure code
+app-emacs/clojure-ts-mode 0.4.0: Major mode for Clojure code
 app-emacs/clomacs 0.0.5: Simplifies Emacs Lisp interaction with Clojure
 app-emacs/closql 2.2.1: Store EIEIO objects using EmacSQL
 app-emacs/clues-theme 1.0.1: An Emacs 24 theme which may well be fully awesome..
@@ -714,7 +714,7 @@ app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
 app-emacs/el-init-viewer 0.1.0: Record viewer for el-init
-app-emacs/el-job 2.4.5: Contrived way to call a function using all CPU cores
+app-emacs/el-job 2.4.6: Contrived way to call a function using all CPU cores
 app-emacs/el-mock 1.25.1: Tiny Mock and Stub framework in Emacs Lisp
 app-emacs/el-patch 3.1: Future-proof your Elisp
 app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
@@ -1325,7 +1325,7 @@ app-emacs/haxe-mode 0.3.3: Major mode for editing Haxe files
 app-emacs/haxor-mode 0.7.0: Major mode for editing Haxor Assembly Files
 app-emacs/hcl-mode 0.3: Major mode for Hashicorp
 app-emacs/heaven-and-hell 0.0.5: Easy toggle light/dark themes
-app-emacs/helm 4.0.2: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 4.0.3: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-ack 0.13: Ack command with helm interface
 app-emacs/helm-ag 0.64: The silver searcher with helm interface
 app-emacs/helm-apt 1.1: Helm interface for Debian/Ubuntu packages (apt-*)
@@ -1344,7 +1344,7 @@ app-emacs/helm-circe 0.4: Helm circe buffer management
 app-emacs/helm-codesearch 0.6.0: Helm interface for codesearch
 app-emacs/helm-commandlinefu 0.3: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 0.2.8: Helm interface for company-mode
-app-emacs/helm-core 4.0.2: Development files for Helm
+app-emacs/helm-core 4.0.3: Development files for Helm
 app-emacs/helm-cscope 0.1.1: Helm interface for xcscope.el
 app-emacs/helm-dash 1.3.0: Offline documentation browser for +150 APIs using Dash docsets
 app-emacs/helm-descbinds 1.13: A convenient `describe-bindings' with `helm'
@@ -1530,7 +1530,6 @@ app-emacs/indent-control 0.3.4: Management for indentation level
 app-emacs/indent-guide 20160630: Show vertical lines to guide indentation
 app-emacs/indent-info 1.0.0: Show indentation information in status bar
 app-emacs/indent-lint 1.0.0: Async indentation checker
-app-emacs/indexed 0.6.3: Cache metadata on all Org files
 app-emacs/indium 2.1.7: JavaScript Awesome Development Environment
 app-emacs/inf-clojure 3.2.1: Run an external Clojure process in an Emacs buffer
 app-emacs/inf-crystal 0.1.0: Run a Inferior-Crystal process in a buffer
@@ -1811,7 +1810,7 @@ app-emacs/macro-math 1.0: In-buffer mathematical operations
 app-emacs/macrostep 0.9.5: Interactive macro expander
 app-emacs/magic-filetype 0.3.0: Enhance filetype major mode
 app-emacs/magik-mode 0.4.0: Emacs major mode for Smallworld Magik files
-app-emacs/magit 4.3.4: A Git porcelain inside Emacs
+app-emacs/magit 4.3.5: A Git porcelain inside Emacs
 app-emacs/magit-annex 1.9.0: Control git-annex from Magit
 app-emacs/magit-filenotify 0.1: Refresh status buffer when git tree changes
 app-emacs/magit-find-file 2.1.0: Completing-read over all files in Git
@@ -1825,7 +1824,7 @@ app-emacs/magit-lfs 0.4.1: Magit plugin for Git LFS
 app-emacs/magit-org-todos 0.1.2: Add local todo items to the magit status buffer
 app-emacs/magit-p4 1.2.1: Git-p4 plug-in for Magit
 app-emacs/magit-popup 2.13.3: Define prefix-infix-suffix command combos
-app-emacs/magit-section 4.3.4: Sections for read-only buffers
+app-emacs/magit-section 4.3.5: Sections for read-only buffers
 app-emacs/magit-stgit 3.1.0: StGit extension for Magit
 app-emacs/magit-svn 2.2.4: Git-Svn extension for Magit
 app-emacs/magit-tbdiff 1.2.0: Magit extension for range diffs
@@ -1888,7 +1887,7 @@ app-emacs/mew 6.9: Messaging in the Emacs World
 app-emacs/meyvn 1.4: Meyvn client
 app-emacs/mgmtconfig-mode 0.0.27: Mgmt configuration management language
 app-emacs/mhc 1.2.7: Message Harmonized Calendaring system
-app-emacs/miasma-theme 1.6.0: Miasma: color theme inspired by the woods
+app-emacs/miasma-theme 1.6.1: Miasma: color theme inspired by the woods
 app-emacs/mic 0.36.0: Minimal and combinable configuration manager
 app-emacs/migemo 1.9.2: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 0.4: Command line search and direct jump with Milkode
@@ -2169,16 +2168,17 @@ app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
 app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various Mac apps
 app-emacs/org-make-toc 0.6: Automatic tables of contents for Org files
+app-emacs/org-mem 0.8.2: Fast info from a large number of Org file contents
 app-emacs/org-mime 0.3.4: Org html export for text/html MIME emails
-app-emacs/org-ml 6.0.1: Functional Org Mode API
+app-emacs/org-ml 6.0.2: Functional Org Mode API
 app-emacs/org-modern 1.7: Modern looks for Org
 app-emacs/org-movies 0.1: Manage watchlist with Org mode
 app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persistent history
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 2.4.1: Fast org-roam replacement
-app-emacs/org-node-fakeroam 2.0.0: Stand-ins for org-roam-autosync-mode
+app-emacs/org-node 3.0.1: Fast org-roam replacement
+app-emacs/org-node-fakeroam 3.0.1: Deprecated extension to org-node
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
 app-emacs/org-page 0.41: A static site generator based on org mode
@@ -2260,7 +2260,7 @@ app-emacs/osx-location 0.4: Watch and respond to changes in geographical locatio
 app-emacs/osx-plist 2.0.0: Apple plist file parser
 app-emacs/osx-pseudo-daemon 2.2: Daemon mode that plays nice with OSX
 app-emacs/osx-trash 0.2.2: System trash for OS X
-app-emacs/otpp 3.2.0: One tab per project, with unique names
+app-emacs/otpp 3.2.1: One tab per project, with unique names
 app-emacs/outline-indent 1.1.1: Folding text based on indentation (origami alternative)
 app-emacs/outline-minor-faces 1.1.2: Highlight only section headings
 app-emacs/outlook 0.1: Send emails in MS Outlook style
@@ -2378,7 +2378,7 @@ app-emacs/pixiv-novel-mode 0.0.3: Major mode for pixiv novel
 app-emacs/pkg-info 0.6: Information about packages
 app-emacs/pkgbuild-mode 0.14: Interface to the ArchLinux package manager
 app-emacs/pkl-mode 1.0.3: Major mode for editing Pkl files
-app-emacs/plantuml-mode 1.4.1: Major mode for PlantUML
+app-emacs/plantuml-mode 1.5.0: Major mode for PlantUML
 app-emacs/platformio-mode 0.3.0: PlatformIO integration
 app-emacs/play-crystal 0.1.2: Https://play.crystal-lang.org integration
 app-emacs/play-routes-mode 1.0: Play Framework Routes File Support
@@ -2456,7 +2456,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 30.2: Major mode for editing protocol buffers
+app-emacs/protobuf-mode 31.0: Major mode for editing protocol buffers
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions
 app-emacs/psalm 0.6.0: Interface to Psalm
