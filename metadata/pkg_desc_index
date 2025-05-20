@@ -2169,7 +2169,7 @@ app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
 app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various Mac apps
 app-emacs/org-make-toc 0.6: Automatic tables of contents for Org files
-app-emacs/org-mem 0.11.0: Fast info from a large number of Org file contents
+app-emacs/org-mem 0.11.1: Fast info from a large number of Org file contents
 app-emacs/org-mime 0.3.4: Org html export for text/html MIME emails
 app-emacs/org-ml 6.0.2: Functional Org Mode API
 app-emacs/org-modern 1.7: Modern looks for Org
@@ -2178,8 +2178,8 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 3.1.2: Fast org-roam replacement
-app-emacs/org-node-fakeroam 3.0.1: Deprecated extension to org-node
+app-emacs/org-node 3.2.0: Fast org-roam replacement
+app-emacs/org-node-fakeroam 3.0.2: Deprecated extension to org-node
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
 app-emacs/org-page 0.41: A static site generator based on org mode
