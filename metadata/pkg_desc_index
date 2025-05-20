@@ -2169,7 +2169,7 @@ app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
 app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various Mac apps
 app-emacs/org-make-toc 0.6: Automatic tables of contents for Org files
-app-emacs/org-mem 0.11.1: Fast info from a large number of Org file contents
+app-emacs/org-mem 0.11.3: Fast info from a large number of Org file contents
 app-emacs/org-mime 0.3.4: Org html export for text/html MIME emails
 app-emacs/org-ml 6.0.2: Functional Org Mode API
 app-emacs/org-modern 1.7: Modern looks for Org
@@ -2642,7 +2642,7 @@ app-emacs/scratch 1.4: Mode-specific scratch buffers
 app-emacs/scratch-comment 1.0.0: Insert Elisp result as comment in scratch buffer
 app-emacs/scrollkeeper 0.1.1: Custom scrolling commands with visual guidelines
 app-emacs/scss-mode 0.5.0: Major mode for editing SCSS files
-app-emacs/sculpture-themes 1.5.1: Themes with vivid colors
+app-emacs/sculpture-themes 1.6: Themes with vivid colors
 app-emacs/sdml-mode 0.2.0: Major mode for SDML
 app-emacs/search-web 1.1: Post web search queries using `browse-url'
 app-emacs/searcher 0.4.1: Searcher in pure elisp
