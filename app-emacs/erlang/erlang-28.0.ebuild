@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Erlang major mode"
+DESCRIPTION="Major modes for editing and running Erlang"
 
 HOMEPAGE="https://github.com/erlang/otp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
