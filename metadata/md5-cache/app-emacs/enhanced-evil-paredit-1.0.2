@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/ggtags app-emacs/helm-rg app-emacs/outshine
-DESCRIPTION=Utilities for navigating vhdl sources
+DEPEND=app-emacs/evil app-emacs/paredit
+DESCRIPTION=Paredit support for evil keybindings
 EAPI=8
-HOMEPAGE=https://github.com/csantosb/vhdl-tools/wiki
+HOMEPAGE=https://github.com/jamescherti/enhanced-evil-paredit.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/ggtags app-emacs/helm-rg app-emacs/outshine >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/evil app-emacs/paredit >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/vhdl-tools-6.2.tar
+SRC_URI=https://stable.melpa.org/packages/enhanced-evil-paredit-1.0.2.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=5d40acaace185deb3650084db6a4fba4
+_md5_=d5100a241589ee443a68d3821404aede

@@ -21,10 +21,8 @@ KEYWORDS="~amd64 ~x86"
 DEPEND="app-emacs/dash
 	app-emacs/org-mode
 	app-emacs/emacsql
-	app-emacs/emacsql-sqlite
 	app-emacs/magit-section"
 RDEPEND="app-emacs/dash
 	app-emacs/org-mode
 	app-emacs/emacsql
-	app-emacs/emacsql-sqlite
 	app-emacs/magit-section"

@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/plz
 	app-emacs/websocket
-	app-emacs/webdriver"
+	app-emacs/webdriver
+	app-emacs/posframe"
 RDEPEND="app-emacs/plz
 	app-emacs/websocket
-	app-emacs/webdriver"
+	app-emacs/webdriver
+	app-emacs/posframe"
