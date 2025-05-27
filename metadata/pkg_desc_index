@@ -60,7 +60,7 @@ app-emacs/agenix 1.3: Decrypt and encrypt agenix secrets
 app-emacs/aggressive-indent 1.10.0: Minor mode to aggressively keep your code always indented
 app-emacs/ahk-mode 1.5.6: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 1.10.0: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 0.9.0: AI assisted programming in Emacs with Aider
+app-emacs/aider 0.10.0: AI assisted programming in Emacs with Aider
 app-emacs/aidermacs 1.4: AI pair programming with Aider
 app-emacs/aiken-mode 1.0.2: Major mode for Aiken
 app-emacs/airline-themes 1.8: Vim-airline themes for emacs powerline
@@ -343,8 +343,8 @@ app-emacs/clocker 0.0.11: Note taker and clock-in enforcer
 app-emacs/clockodo 0.8.0: A small integration for the clockodo api
 app-emacs/clojure-essential-ref 0.1.1: Cider-doc to "Clojure, The Essential Reference"
 app-emacs/clojure-essential-ref-nov 0.1.1: Cider-doc to "Clojure, The Essential Reference" (EPUB)
-app-emacs/clojure-mode 5.19.0: Major mode for Clojure code
-app-emacs/clojure-mode-extra-font-locking 5.19.0: Extra font-locking for Clojure mode
+app-emacs/clojure-mode 5.20.0: Major mode for Clojure code
+app-emacs/clojure-mode-extra-font-locking 5.20.0: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 0.1.0: Quickly create Clojure and ClojureScript repls for a project
 app-emacs/clojure-snippets 1.0.1: Yasnippets for clojure
 app-emacs/clojure-ts-mode 0.4.0: Major mode for Clojure code
@@ -462,7 +462,7 @@ app-emacs/copy-as-format 0.0.9: Copy buffer locations as GitHub/Slack/JIRA etc..
 app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
 app-emacs/copyit-pandoc 0.1.0: Copy it, yank anything!
-app-emacs/corfu 2.1: COmpletion in Region FUnction
+app-emacs/corfu 2.2: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 1.3: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 6.3.1: Prescient.el + Corfu
 app-emacs/corral 0.3: Quickly surround text with delimiters
@@ -602,7 +602,7 @@ app-emacs/dired-sidebar 0.3.0: Tree browser leveraging dired
 app-emacs/dired-toggle 0.1.5: Show dired as sidebar and will not create new buffers when changing dir
 app-emacs/dired-toggle-sudo 1.0: Browse directory with sudo privileges
 app-emacs/dired-view-data 1.0: View data from dired via ESS and R
-app-emacs/diredc 1.4: Midnight Commander features (plus) for dired
+app-emacs/diredc 1.5: Midnight Commander features (plus) for dired
 app-emacs/diredfd 2.0.1: Dired functions and settings to mimic FD/FDclone
 app-emacs/diredfl 0.5: Extra font lock rules for a more colourful dired
 app-emacs/diredful 1.10: Colorful file names in dired buffers
@@ -678,7 +678,7 @@ app-emacs/easy-repeat 0.2: Repeat easily
 app-emacs/easysession 1.1.3: Persist and restore your sessions (desktop.el alternative)
 app-emacs/ebdb-mua-sidecar 1.6.0: EBDB Integration for Universal Sidecar
 app-emacs/ebf 1.0.0: Brainfuck language transpiler to Emacs Lisp
-app-emacs/ebib 2.50: A BibTeX database manager
+app-emacs/ebib 2.50.1: A BibTeX database manager
 app-emacs/ebib-sidecar 1.6.0: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/ecukes 0.6.18: Cucumber for Emacs
 app-emacs/edbi 0.1.2: Emacs Database Interface
@@ -800,7 +800,7 @@ app-emacs/enclose 0.0.2: Enclose cursor within punctuation pairs
 app-emacs/encrypt-region 1.0: Encrypts and decrypts regions
 app-emacs/engine-mode 2.2.4: Define and query search engines
 app-emacs/enh-ruby-mode 20191111: Major mode for editing Ruby files
-app-emacs/enhanced-evil-paredit 1.0.1: Paredit support for evil keybindings
+app-emacs/enhanced-evil-paredit 1.0.2: Paredit support for evil keybindings
 app-emacs/enlight 0.3: Highly customizable startup screen
 app-emacs/enlive 0.0.1: Query html document with css selectors
 app-emacs/enotify 0.1.3: [No description available]
@@ -1261,7 +1261,7 @@ app-emacs/goto-char-preview 0.1.0: Preview character when executing `goto-char` 
 app-emacs/goto-chg 1.7.5: Go to last change
 app-emacs/goto-last-change 1.2.1: Move point through buffer-undo-list positions
 app-emacs/goto-line-preview 0.1.1: Preview line when executing `goto-line` command
-app-emacs/govc 0.50.0: Interface to govc for managing VMware ESXi and vCenter
+app-emacs/govc 0.51.0: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
@@ -1532,7 +1532,7 @@ app-emacs/indent-guide 20160630: Show vertical lines to guide indentation
 app-emacs/indent-info 1.0.0: Show indentation information in status bar
 app-emacs/indent-lint 1.0.0: Async indentation checker
 app-emacs/indium 2.1.7: JavaScript Awesome Development Environment
-app-emacs/inf-clojure 3.2.1: Run an external Clojure process in an Emacs buffer
+app-emacs/inf-clojure 3.3.0: Basic interaction with a Clojure REPL
 app-emacs/inf-crystal 0.1.0: Run a Inferior-Crystal process in a buffer
 app-emacs/inf-elixir 2.2.0: Run an interactive Elixir shell
 app-emacs/inf-ruby 2.9.0: Run a Ruby process in a buffer
@@ -1607,8 +1607,8 @@ app-emacs/jet 1.2.0: Emacs integration for jet Clojure tool
 app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
-app-emacs/jinx 2.1: Enchanted Spell Checker
-app-emacs/jira 0.11.1: Emacs Interface to Jira
+app-emacs/jinx 2.2: Enchanted Spell Checker
+app-emacs/jira 1.0.3: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -2169,16 +2169,16 @@ app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
 app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various Mac apps
 app-emacs/org-make-toc 0.6: Automatic tables of contents for Org files
-app-emacs/org-mem 0.12.0: Fast info from a large number of Org file contents
+app-emacs/org-mem 0.12.7: Fast info from a large number of Org file contents
 app-emacs/org-mime 0.3.4: Org html export for text/html MIME emails
 app-emacs/org-ml 6.0.2: Functional Org Mode API
-app-emacs/org-modern 1.7: Modern looks for Org
+app-emacs/org-modern 1.8: Modern looks for Org
 app-emacs/org-movies 0.1: Manage watchlist with Org mode
 app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persistent history
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 3.3.2: Fast org-roam replacement
+app-emacs/org-node 3.3.17: Fast org-roam replacement
 app-emacs/org-node-fakeroam 3.0.2: Deprecated extension to org-node
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2200,7 +2200,7 @@ app-emacs/org-ref 2.0.0: Citations, cross-references and bibliographies in org-m
 app-emacs/org-repo-todo 0.0.3: Simple repository todo management with org-mode
 app-emacs/org-reverse-datetree 0.4.4: Create reverse date trees in org-mode
 app-emacs/org-rich-yank 0.2.2: Paste with org-mode markup and link to source
-app-emacs/org-roam 2.2.2: A database abstraction layer for Org-mode
+app-emacs/org-roam 2.3.0: A database abstraction layer for Org-mode
 app-emacs/org-roam-bibtex 0.6.2: Org Roam meets BibTeX
 app-emacs/org-roam-ql 0.2: Interface to query and view results from org-roam
 app-emacs/org-roam-ql-ql 0.2: Intgrating org-roam and org-ql
@@ -2269,7 +2269,7 @@ app-emacs/outorg 2.0: Org-style comment editing
 app-emacs/outshine 3.0.1: Outline with outshine outshines outline
 app-emacs/ov 1.0.6: Overlay library for Emacs Lisp
 app-emacs/overcast-theme 1.3.0: A dark but vibrant color theme for Emacs
-app-emacs/overleaf 1.1.0: Sync and track changes live with overleaf
+app-emacs/overleaf 1.1.1: Sync and track changes live with overleaf
 app-emacs/overseer 0.3.0: Ert-runner Integration Into Emacs
 app-emacs/owdriver 0.4.0: Quickly perform various actions on other windows
 app-emacs/ox-bb 0.0.2: BBCode Back-End for Org Export Engine
@@ -2348,7 +2348,7 @@ app-emacs/persistent-soft 0.8.10: Persistent storage, returning nil on failure
 app-emacs/persp-fr 0.0.5: In persp-mode, show perspective list in the GUI window title
 app-emacs/persp-mode 3.0.8: Windows/buffers sets shared among frames + save/load
 app-emacs/persp-projectile 1.0.0: Perspective integration with Projectile
-app-emacs/perspective 2.19: Switch between named "perspectives" of the editor
+app-emacs/perspective 2.20: Switch between named "perspectives" of the editor
 app-emacs/perspective-exwm 0.2.0: Better integration for perspective.el and EXWM
 app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
@@ -2893,7 +2893,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2025.5.19.0: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2025.5.26.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2935,7 +2935,7 @@ app-emacs/tray 0.1.5: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.279: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.280: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.2: A tree style file explorer package
@@ -3032,11 +3032,10 @@ app-emacs/vegetative-theme 1.0.2: A Theme based on green CRT terminals
 app-emacs/verb 3.1.0: Organize and send HTTP requests
 app-emacs/verilog-ext 0.6.2: SystemVerilog Extensions
 app-emacs/verilog-ts-mode 0.3.0: Verilog Tree-sitter major mode
-app-emacs/vertico 2.1: VERTical Interactive COmpletion
+app-emacs/vertico 2.2: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 6.3.1: Prescient.el + Vertico
 app-emacs/vertigo 1.0: Jump across lines using the home row
 app-emacs/vhdl-ext 0.5.4: VHDL Extensions
-app-emacs/vhdl-tools 6.2: Utilities for navigating vhdl sources
 app-emacs/vhdl-ts-mode 0.2.2: VHDL Tree-sitter major mode
 app-emacs/vim-region 0.3.0: Select region as vim
 app-emacs/vim-tab-bar 1.0.7: Vim-like tab bar
