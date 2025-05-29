@@ -616,7 +616,7 @@ app-emacs/discover 0.3: Discover more of Emacs
 app-emacs/discover-my-major 1.0: Discover key bindings and their meaning for the current Emacs major mode
 app-emacs/dispass 1.1.2: Emacs wrapper for DisPass
 app-emacs/display-wttr 2.1.0: Display wttr(weather) in the mode line
-app-emacs/disproject 2.0.0: Dispatch project commands with Transient
+app-emacs/disproject 2.1.0: Dispatch project commands with Transient
 app-emacs/dist-file-mode 1.0.0: Dispatch major mode for *.dist files
 app-emacs/ditz-mode 0.3: Emacs interface to Ditz issue tracking system
 app-emacs/dix 0.4.1: Apertium XML editing minor mode
