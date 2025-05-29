@@ -274,7 +274,7 @@ app-emacs/cangjie 0.7.4: Retrieve cangjie code for han characters
 app-emacs/cape 2.1: Completion At Point Extensions
 app-emacs/capnp-mode 1.1.0: Major mode for editing Capn' Proto Files
 app-emacs/cargo 0.4.1: Emacs Minor Mode for Cargo, Rust's Package Manager
-app-emacs/cargo-mode 0.0.8: Cargo Major Mode. Cargo is the Rust package manager
+app-emacs/cargo-mode 0.0.9: Cargo Major Mode. Cargo is the Rust package manager
 app-emacs/caseformat 0.1.0: Format based letter case converter
 app-emacs/cask-mode 0.1: Major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
@@ -2169,7 +2169,7 @@ app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
 app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various Mac apps
 app-emacs/org-make-toc 0.6: Automatic tables of contents for Org files
-app-emacs/org-mem 0.13.0: Fast info from a large number of Org file contents
+app-emacs/org-mem 0.13.1: Fast info from a large number of Org file contents
 app-emacs/org-mime 0.3.4: Org html export for text/html MIME emails
 app-emacs/org-ml 6.0.2: Functional Org Mode API
 app-emacs/org-modern 1.8: Modern looks for Org
@@ -2178,7 +2178,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 3.3.22: Fast org-roam replacement
+app-emacs/org-node 3.3.24: Fast org-roam replacement
 app-emacs/org-node-fakeroam 3.0.2: Deprecated extension to org-node
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
