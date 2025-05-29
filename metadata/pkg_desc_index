@@ -2458,7 +2458,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 31.0: Major mode for editing protocol buffers
+app-emacs/protobuf-mode 31.1: Major mode for editing protocol buffers
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions
 app-emacs/psalm 0.6.0: Interface to Psalm
@@ -2838,7 +2838,7 @@ app-emacs/symbol-overlay 4.3: Highlight symbols with keymap-enabled overlays
 app-emacs/symbolword-mode 1.0: [No description available]
 app-emacs/symex 1.1: An evil way to edit Lisp symbolic expressions as trees
 app-emacs/symon 20160630: Tiny graphical system monitor
-app-emacs/syncthing 3.0.1: Client for Syncthing
+app-emacs/syncthing 3.0.2: Client for Syncthing
 app-emacs/synosaurus 0.2.1: An Emacs frontend for thesauri
 app-emacs/syntactic-sugar 0.9.4: Effect-free forms such as if/then/else
 app-emacs/syntax-subword 0.2: Make operations on words more fine-grained
