@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Syntax analysis and NLP text-processing in Emacs (OSX-only)"
 
-HOMEPAGE="https://github.com/istib/wordsmith-mode"
+HOMEPAGE="https://github.com/emacsattic/wordsmith-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
