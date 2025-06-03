@@ -729,7 +729,6 @@ app-emacs/eldoc-stan 10.2.0: Eldoc support for stan functions
 app-emacs/electric-cursor 0.2: Change cursor automatically depending on mode
 app-emacs/electric-operator 2.1: Automatically add spaces around operators
 app-emacs/electric-ospl 3.3.1: Electric OSPL Mode
-app-emacs/elein 0.1: Running leiningen commands from emacs
 app-emacs/elescope 0.2: Seach and clone projects from the minibuffer
 app-emacs/elf-mode 0.1.0: Show symbols in binaries
 app-emacs/elfeed 3.4.2: An Emacs Atom/RSS feed reader
@@ -1107,7 +1106,7 @@ app-emacs/fontify-face 1.1.0: Fontify symbols representing faces with that face
 app-emacs/fontsloth 0.17.1: Elisp otf/ttf font loader/renderer
 app-emacs/for 1.4: Iteration and sequence
 app-emacs/foreman-mode 0.0.1: View and manage Procfile-based applications
-app-emacs/forge 0.5.1: Access Git forges from Magit
+app-emacs/forge 0.5.2: Access Git forges from Magit
 app-emacs/form-feed 0.2.3: Display ^L glyphs as horizontal lines
 app-emacs/format-all 0.6.0: Auto-format C, C++, JS, Python, Ruby and 50 other languages
 app-emacs/format-sql 0.4: Use format-sql to make your SQL readable in directly Emacs
@@ -1542,7 +1541,7 @@ app-emacs/info-beamer 0.1: Utilities for working with info-beamer
 app-emacs/info-buffer 0.2: Display info topics in separate buffers
 app-emacs/info-colors 0.2: Extra colors for Info-mode
 app-emacs/inform 1.3: Symbol links in Info buffers to their help documentation
-app-emacs/inform-mode 2.0.0: Major mode for Inform 6 interactive fiction code
+app-emacs/inform-mode 2.0.1: Major mode for Inform 6 interactive fiction code
 app-emacs/inform7 0.1.1: Major mode for working with Inform 7 files
 app-emacs/inherit-local 1.1.1: Inherited buffer-local variables
 app-emacs/inheritenv 0.2: Make temp buffers inherit buffer-local environment variables
@@ -1945,7 +1944,7 @@ app-emacs/move-mode 1.1.1: A major-mode for editing Move language
 app-emacs/move-text 2.0.10: Move current line or region with M-up or M-down
 app-emacs/mowedline 3.3.0: Elisp utilities for using mowedline
 app-emacs/mowie 0.1.1: Cycle Through Point-Moving Commands
-app-emacs/mozc 2.31.5712.102: Minor mode to input Japanese with Mozc
+app-emacs/mozc 2.31.5851.102: Minor mode to input Japanese with Mozc
 app-emacs/mozc-temp 1.0.0: Use mozc temporarily
 app-emacs/mpdel 2.1.0: Play and control your MPD music
 app-emacs/mpdel-embark 0.4.0: Integrate MPDel with Embark
@@ -2790,7 +2789,6 @@ app-emacs/srfi 0.3: Scheme Requests for Implementation browser
 app-emacs/srv 0.2: Perform SRV DNS requests
 app-emacs/ssass-mode 0.2: Edit Sass without a Turing Machine
 app-emacs/ssh-agency 0.4.1: Manage ssh-agent from Emacs
-app-emacs/ssh-deploy 3.1.16: Deployment via Tramp, global or per directory
 app-emacs/stan-mode 10.2.0: Major mode for editing Stan files
 app-emacs/stan-snippets 10.2.0: Yasnippets for Stan
 app-emacs/standard-dirs 2.0.0: Platform-specific paths for config, cache, and other data
@@ -2925,7 +2923,7 @@ app-emacs/tr-ime 0.5.0: Emulator of IME patch for Windows
 app-emacs/traad 3.1.1: Emacs interface to the traad refactoring server
 app-emacs/tracking 2.14: Buffer modification tracking
 app-emacs/transducers 1.4.0: Ergonomic, efficient data processing
-app-emacs/transient 0.9.0: Transient commands
+app-emacs/transient 0.9.1: Transient commands
 app-emacs/translate-mode 1.0.2: Paragraph-oriented side-by-side doc translation workflow
 app-emacs/transmission 0.12.2: Interface to a Transmission session
 app-emacs/transpose-frame 0.2.1: Transpose windows arrangement in a frame
