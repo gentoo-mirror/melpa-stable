@@ -60,7 +60,7 @@ app-emacs/agenix 1.3: Decrypt and encrypt agenix secrets
 app-emacs/aggressive-indent 1.10.0: Minor mode to aggressively keep your code always indented
 app-emacs/ahk-mode 1.5.6: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 1.10.0: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 0.10.0: AI assisted programming in Emacs with Aider
+app-emacs/aider 0.11.0: AI assisted programming in Emacs with Aider
 app-emacs/aidermacs 1.4: AI pair programming with Aider
 app-emacs/aiken-mode 1.0.2: Major mode for Aiken
 app-emacs/airline-themes 1.8: Vim-airline themes for emacs powerline
@@ -213,7 +213,7 @@ app-emacs/blamer 0.9.4: Show git blame info about current line
 app-emacs/blitzmax-mode 1.0.0: A major mode for editing BlitzMax source code
 app-emacs/blox 0.3.0: Interaction with Roblox tooling
 app-emacs/bluesound 0.2: Play, pause, resume music on a Bluesound player
-app-emacs/bm 202309: Visible bookmarks in buffer
+app-emacs/bm 202506: Visible bookmarks in buffer
 app-emacs/bnf-mode 0.4.5: Major mode for editing BNF grammars
 app-emacs/bnfc 0.4: Define context-free grammars for the BNFC tool
 app-emacs/bog 1.3.3: Extensions for research notes in Org mode
@@ -278,7 +278,7 @@ app-emacs/caseformat 0.1.0: Format based letter case converter
 app-emacs/cask-mode 0.1: Major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
 app-emacs/caskxy 0.0.5: Control Cask in Emacs
-app-emacs/casual 2.5.0: Transient user interfaces for various modes
+app-emacs/casual 2.5.3: Transient user interfaces for various modes
 app-emacs/casual-avy 2.0.1: Transient UI for Avy
 app-emacs/casual-suite 2.0.0: A suite of opinionated Transient UIs
 app-emacs/casual-symbol-overlay 2.0.0: Transient UI for Symbol Overlay
@@ -346,7 +346,7 @@ app-emacs/clojure-mode 5.20.0: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 5.20.0: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 0.1.0: Quickly create Clojure and ClojureScript repls for a project
 app-emacs/clojure-snippets 1.0.1: Yasnippets for clojure
-app-emacs/clojure-ts-mode 0.4.0: Major mode for Clojure code
+app-emacs/clojure-ts-mode 0.5.0: Major mode for Clojure code
 app-emacs/clomacs 0.0.5: Simplifies Emacs Lisp interaction with Clojure
 app-emacs/closql 2.2.2: Store EIEIO objects using EmacSQL
 app-emacs/clues-theme 1.0.1: An Emacs 24 theme which may well be fully awesome..
@@ -561,7 +561,7 @@ app-emacs/detached 0.10.1: A package to launch, and manage, detached processes
 app-emacs/devil 0.6.0: Minor mode for translating key sequences
 app-emacs/dianyou 0.0.3: Search and analyze mails in Gnus
 app-emacs/diary-manager 2.0.2: Simple personal diary
-app-emacs/dicom 0.5: DICOM viewer - Digital Imaging & Communications in Medicine
+app-emacs/dicom 0.6: DICOM viewer - Digital Imaging & Communications in Medicine
 app-emacs/dictcc 1.0.2: Look up translations on dict.cc
 app-emacs/dictionary 1.11: Client for rfc2229 dictionary servers
 app-emacs/didyoumean 0.4.0: Did you mean to open another file?
@@ -1106,7 +1106,7 @@ app-emacs/fontify-face 1.1.0: Fontify symbols representing faces with that face
 app-emacs/fontsloth 0.17.1: Elisp otf/ttf font loader/renderer
 app-emacs/for 1.4: Iteration and sequence
 app-emacs/foreman-mode 0.0.1: View and manage Procfile-based applications
-app-emacs/forge 0.5.2: Access Git forges from Magit
+app-emacs/forge 0.5.3: Access Git forges from Magit
 app-emacs/form-feed 0.2.3: Display ^L glyphs as horizontal lines
 app-emacs/format-all 0.6.0: Auto-format C, C++, JS, Python, Ruby and 50 other languages
 app-emacs/format-sql 0.4: Use format-sql to make your SQL readable in directly Emacs
@@ -1223,7 +1223,7 @@ app-emacs/gn-mode 0.4.1: Major mode for editing GN (generate ninja) files
 app-emacs/gnome-screencast 1.4: Use Gnome screen recording functionality using elisp
 app-emacs/gnosis 0.4.9: Spaced Repetition System
 app-emacs/gntp 0.1: Growl Notification Protocol for Emacs
-app-emacs/gnuplot 0.9: Major-mode and interactive frontend for gnuplot
+app-emacs/gnuplot 0.10: Major-mode and interactive frontend for gnuplot
 app-emacs/gnus-desktop-notify 1.4: Gnus Desktop Notification global minor mode
 app-emacs/gnus-notes 0.4.2: Keep handy notes of read Gnus articles with helm and org
 app-emacs/gnus-recent 0.4.1: Article breadcrumbs for Gnus
@@ -1607,7 +1607,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.2: Enchanted Spell Checker
-app-emacs/jira 1.0.3: Emacs Interface to Jira
+app-emacs/jira 1.1.1: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -1673,7 +1673,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.13: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.42.0: Your Second Brain
+app-emacs/khoj 1.42.1: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-dollar-mode 1.0.0: Remove leading $ from shell-script-like text
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
@@ -1840,7 +1840,7 @@ app-emacs/manage-minor-mode-table 0.1.3: Manage minor-modes in table
 app-emacs/map-progress 1.0.0: Mapping macros that report progress
 app-emacs/map-regexp 1.0.0: Map over matches of a regular expression
 app-emacs/marcopolo 0.3.0: Emacs client for Docker API
-app-emacs/marginalia 2.0: Enrich existing commands with completion annotations
+app-emacs/marginalia 2.1: Enrich existing commands with completion annotations
 app-emacs/mark-thing-at 1.1.0: Mark a pattern at the current point
 app-emacs/mark-tools 0.3: Some simple tools to access the mark-ring in Emacs
 app-emacs/markdown-changelog 0.0.2: Maintain changelog entries
@@ -2269,7 +2269,7 @@ app-emacs/outorg 2.0: Org-style comment editing
 app-emacs/outshine 3.0.1: Outline with outshine outshines outline
 app-emacs/ov 1.0.6: Overlay library for Emacs Lisp
 app-emacs/overcast-theme 1.3.0: A dark but vibrant color theme for Emacs
-app-emacs/overleaf 1.1.1: Sync and track changes live with overleaf
+app-emacs/overleaf 1.1.2: Sync and track changes live with overleaf
 app-emacs/overseer 0.3.0: Ert-runner Integration Into Emacs
 app-emacs/owdriver 0.4.0: Quickly perform various actions on other windows
 app-emacs/ox-bb 0.0.2: BBCode Back-End for Org Export Engine
