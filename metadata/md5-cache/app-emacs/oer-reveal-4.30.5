@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/request app-emacs/dash app-emacs/promise
-DESCRIPTION=Synchronize org-mode entries to Anki
+DEPEND=app-emacs/org-re-reveal
+DESCRIPTION=OER with reveal.js, plugins, and org-re-reveal
 EAPI=8
-HOMEPAGE=https://github.com/eyeinsky/org-anki
+HOMEPAGE=https://gitlab.com/oer/oer-reveal
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/request app-emacs/dash app-emacs/promise >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/org-re-reveal >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/org-anki-4.0.0.tar
+SRC_URI=https://stable.melpa.org/packages/oer-reveal-4.30.5.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=666c3f5bb68a2a40949caf86afdc4bc9
+_md5_=c9fa5f40c7ef6670385345a1f68ac377
