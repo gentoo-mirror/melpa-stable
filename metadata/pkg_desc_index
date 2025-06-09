@@ -60,7 +60,7 @@ app-emacs/agenix 1.3: Decrypt and encrypt agenix secrets
 app-emacs/aggressive-indent 1.10.0: Minor mode to aggressively keep your code always indented
 app-emacs/ahk-mode 1.5.6: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 1.10.0: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 0.11.0: AI assisted programming in Emacs with Aider
+app-emacs/aider 0.11.1: AI assisted programming in Emacs with Aider
 app-emacs/aidermacs 1.4: AI pair programming with Aider
 app-emacs/aiken-mode 1.0.2: Major mode for Aiken
 app-emacs/airline-themes 1.8: Vim-airline themes for emacs powerline
@@ -151,7 +151,7 @@ app-emacs/auto-rename-tag 0.3.5: Automatically rename paired HTML/XML tag
 app-emacs/auto-shell-command 1.0.2: Run the shell command asynchronously that you specified when you save the file
 app-emacs/auto-sort-mode 0.1.4: Automatically sort lines between two delimiters
 app-emacs/auto-sudoedit 1.1.0: Auto sudo edit by tramp
-app-emacs/auto-virtualenv 2.2.0: Automatically activate Python virtualenvs based on project directory
+app-emacs/auto-virtualenv 2.3.0: Automatically activate Python virtualenvs based on project directory
 app-emacs/auto-yasnippet 0.3.0: Quickly create disposable yasnippets
 app-emacs/autobuild 2.0: Define and execute build rules and compilation pipelines
 app-emacs/autodisass-java-bytecode 1.3: Automatically disassemble Java bytecode
@@ -440,10 +440,10 @@ app-emacs/consult-dir 0.1: Insert paths into the minibuffer prompt
 app-emacs/consult-eglot 0.5.0: A consulting-read interface for eglot
 app-emacs/consult-eglot-embark 0.5.0: Embark integration for `consult-eglot'
 app-emacs/consult-flycheck 1.0: Provides the command `consult-flycheck'
-app-emacs/consult-gh 2.5: Consulting GitHub Client
-app-emacs/consult-gh-embark 2.5: Embark Actions for consult-gh
-app-emacs/consult-gh-forge 2.5: Magit/Forge Integration for consult-gh
-app-emacs/consult-gh-with-pr-review 2.5: "pr-review" Integration for consult-gh
+app-emacs/consult-gh 2.5.1: Consulting GitHub Client
+app-emacs/consult-gh-embark 2.5.1: Embark Actions for consult-gh
+app-emacs/consult-gh-forge 2.5.1: Magit/Forge Integration for consult-gh
+app-emacs/consult-gh-with-pr-review 2.5.1: "pr-review" Integration for consult-gh
 app-emacs/consult-ghq 0.0.5: Ghq interface using consult
 app-emacs/consult-hatena-bookmark 0.4.1: Consult commands for the Hatena Bookmark
 app-emacs/consult-lsp 2.1: LSP-mode Consult integration
@@ -714,7 +714,7 @@ app-emacs/el-autoyas 0.5: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-get 5.1: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 0.2.0: A loader inspired by init-loader
 app-emacs/el-init-viewer 0.1.0: Record viewer for el-init
-app-emacs/el-job 2.4.7: Contrived way to call a function using all CPU cores
+app-emacs/el-job 2.4.8: Contrived way to call a function using all CPU cores
 app-emacs/el-mock 1.25.1: Tiny Mock and Stub framework in Emacs Lisp
 app-emacs/el-patch 3.1: Future-proof your Elisp
 app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
@@ -812,7 +812,7 @@ app-emacs/epkg 4.0.7: Browse the Emacsmirror package database
 app-emacs/epkg-marginalia 1.0.3: Show Epkg information in completion annotations
 app-emacs/epl 0.9: Emacs Package Library
 app-emacs/epm 0.1: Emacs Package Manager
-app-emacs/epx 0.3.0: Manage and run project-specific shell commands
+app-emacs/epx 0.3.1: Manage and run project-specific shell commands
 app-emacs/erc-crypt 2.1: Symmetric Encryption for ERC
 app-emacs/erc-hl-nicks 1.3.4: ERC nick highlighter that ignores uniquifying chars when colorizing
 app-emacs/erc-scrolltoplace 0.1.0: An Erc module to scrolltobottom better with keep-place
@@ -880,6 +880,7 @@ app-emacs/evil-embrace 0.1.1: Evil integration of embrace.el
 app-emacs/evil-escape 3.16: Escape from anything with a customizable key sequence
 app-emacs/evil-god-toggle 1.0.0: Toggle Evil and God Mode
 app-emacs/evil-iedit-state 1.3: Evil states to interface iedit mode
+app-emacs/evil-keypad 0.1.5: Modal command dispatch that speaks native Emacs keybindings
 app-emacs/evil-leader 0.4.3: Let there be <leader>
 app-emacs/evil-lisp-state 8.2: An evil state to edit Lisp code
 app-emacs/evil-lispops 0.10.2: Operations for editing lisp evilly
@@ -1608,7 +1609,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.2: Enchanted Spell Checker
-app-emacs/jira 1.1.2: Emacs Interface to Jira
+app-emacs/jira 1.1.3: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -1674,7 +1675,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.13: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.42.1: Your Second Brain
+app-emacs/khoj 1.42.2: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-dollar-mode 1.0.0: Remove leading $ from shell-script-like text
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
@@ -2061,6 +2062,7 @@ app-emacs/ob-git-permalink 0.1.0: Easy code citation from repository hosting ser
 app-emacs/ob-http 0.2.0: Http request in org-mode babel
 app-emacs/ob-hy 1.0.1: Org-babel functions for Hy-lang evaluation
 app-emacs/ob-julia-vterm 0.8: Babel functions for Julia that work with julia-vterm
+app-emacs/ob-llm 0.1.0: Use `llm' as an Org Babel language
 app-emacs/ob-ml-marklogic 1.1.0: Org-babel functions for MarkLogic evaluation
 app-emacs/ob-napkin 0.10: Babel functions for Napkin
 app-emacs/ob-prolog 1.0.2: Org-babel functions for prolog evaluation
@@ -2081,7 +2083,7 @@ app-emacs/ocamlformat 0.27.0: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: Automatic indentation with ocp-indent
 app-emacs/octicons 0.1: Octicons utility
-app-emacs/oer-reveal 4.30.5: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.30.6: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.1.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -2170,7 +2172,7 @@ app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
 app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various Mac apps
 app-emacs/org-make-toc 0.6: Automatic tables of contents for Org files
-app-emacs/org-mem 0.14.2: Fast info from a large number of Org file contents
+app-emacs/org-mem 0.16.0: Fast info from a large number of Org file contents
 app-emacs/org-mime 0.3.4: Org html export for text/html MIME emails
 app-emacs/org-ml 6.0.2: Functional Org Mode API
 app-emacs/org-modern 1.8: Modern looks for Org
@@ -2179,7 +2181,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 3.4.2: Fast org-roam replacement
+app-emacs/org-node 3.4.3: Fast org-roam replacement
 app-emacs/org-node-fakeroam 3.0.2: Deprecated extension to org-node
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2192,7 +2194,7 @@ app-emacs/org-projectile-helm 3.1.0: Helm functions for org-projectile
 app-emacs/org-protocol-jekyll 0.1: Jekyll's handler for org-protocol
 app-emacs/org-ql 0.8.10: Org Query Language, search command, and agenda-like view
 app-emacs/org-random-todo 0.5.3: Show a random TODO (with alert) every so often
-app-emacs/org-re-reveal 3.35.0: Org export to reveal.js presentations
+app-emacs/org-re-reveal 3.36.0: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 2.0.1: Citations and bibliography for org-re-reveal
 app-emacs/org-re-reveal-ref 1.0.0: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
@@ -2291,6 +2293,7 @@ app-emacs/ox-tufte 4.2.1: Tufte HTML org-mode export backend
 app-emacs/ox-twbs 1.1.4: Bootstrap compatible HTML Back-End for Org
 app-emacs/ox-wk 0.3.0: Wiki Back-End for Org Export Engine
 app-emacs/ox-yaow 1.0: Generate html pages from org files
+app-emacs/p-search 1.0.0: Emacs Search Tool Aggregator
 app-emacs/pabbrev 4.1: Predictive abbreviation expansion
 app-emacs/pacfiles-mode 1.2: The pacnew and pacsave merging tool
 app-emacs/pack 0.1.1: Pack and unpack archive files
@@ -2322,7 +2325,7 @@ app-emacs/parsec 0.1.4: Parser combinator library
 app-emacs/parseclj 1.1.1: Clojure/EDN parser
 app-emacs/parseedn 1.2.1: Clojure/EDN parser
 app-emacs/pass 2.0: Major mode for password-store.el
-app-emacs/password-menu 0.1.0: Password Menu for auth-source secrets
+app-emacs/password-menu 0.1.1: Password Menu for auth-source secrets
 app-emacs/password-store 1.7.4: Password store (pass) support
 app-emacs/password-store-menu 1.1.1: A better, more complete UI for password-store
 app-emacs/password-store-otp 0.1.5: Password store (pass) OTP extension support
@@ -2895,7 +2898,7 @@ app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
 app-emacs/thrift 2025.6.2.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
-app-emacs/tidal 1.9.5: Interact with TidalCycles for live coding patterns
+app-emacs/tidal 1.10.0: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
 app-emacs/tiktoken 0.2.1: Count BPE Tokens
 app-emacs/time-block 1.6.2: Block running commands using time
@@ -2935,7 +2938,7 @@ app-emacs/tray 0.1.6: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.281: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.284: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.2: A tree style file explorer package
