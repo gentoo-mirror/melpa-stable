@@ -354,7 +354,7 @@ app-emacs/clues-theme 1.0.1: An Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 4.0.2: Major-mode for editing CMake sources
+app-emacs/cmake-mode 4.0.3: Major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -417,7 +417,7 @@ app-emacs/company-web 2.1: Company version of ac-html, complete for web,html,emm
 app-emacs/company-wordfreq 0.1.2: Company backend for human language texts
 app-emacs/company-ycmd 1.2: Company-mode backend for ycmd
 app-emacs/competitive-programming-snippets 1.1.4: Competitive Programming snippets for Yasnippet
-app-emacs/compile-angel 1.0.6: Automatically Compile Elisp files (auto-compile alternative)
+app-emacs/compile-angel 1.1.1: Automatically Compile Elisp files (auto-compile alternative)
 app-emacs/compile-multi 0.7: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 0.7: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 0.7: Integration for `compile-multi' and `embark'
@@ -462,7 +462,7 @@ app-emacs/copy-as-format 0.0.9: Copy buffer locations as GitHub/Slack/JIRA etc..
 app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
 app-emacs/copyit-pandoc 0.1.0: Copy it, yank anything!
-app-emacs/corfu 2.2: COmpletion in Region FUnction
+app-emacs/corfu 2.3: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 1.3: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 6.3.1: Prescient.el + Corfu
 app-emacs/corral 0.3: Quickly surround text with delimiters
@@ -649,7 +649,7 @@ app-emacs/dslide 0.6.2: Domain Specific sLIDEs. Programmable Presentation
 app-emacs/dtrt-indent 1.24: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
-app-emacs/dune 3.19.0: Integration with the dune build system
+app-emacs/dune 3.19.1: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
 app-emacs/duplexer 0.2.0: Handle conflicts between local minor modes and reuse rules
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
@@ -675,7 +675,7 @@ app-emacs/easy-jekyll 2.6.30: Major mode managing jekyll blogs
 app-emacs/easy-kill 0.9.4: Kill & mark things easily
 app-emacs/easy-kill-extras 0.9.14: Extra functions for easy-kill
 app-emacs/easy-repeat 0.2: Repeat easily
-app-emacs/easysession 1.1.3: Persist and restore your sessions (desktop.el alternative)
+app-emacs/easysession 1.1.4: Persist and restore your sessions (desktop.el alternative)
 app-emacs/ebdb-mua-sidecar 1.6.0: EBDB Integration for Universal Sidecar
 app-emacs/ebf 1.0.0: Brainfuck language transpiler to Emacs Lisp
 app-emacs/ebib 2.50.1: A BibTeX database manager
@@ -968,7 +968,7 @@ app-emacs/fill-page 0.3.7: Fill buffer so you don't see empty lines at the end
 app-emacs/filldent 1.0.1: Fill or indent
 app-emacs/find-by-pinyin-dired 0.0.3: Find file by first PinYin character of Chinese Hanzi
 app-emacs/find-dupes-dired 1.0: Find dupes and handle in dired
-app-emacs/find-file-in-project 6.2.3: Find file/directory and review Diff/Patch/Commit efficiently
+app-emacs/find-file-in-project 6.2.5: Find file/directory and review Diff/Patch/Commit efficiently
 app-emacs/find-file-in-repository 1.2: Quickly find files in a git, mercurial or other repository
 app-emacs/finito 0.5.0: View and collect books
 app-emacs/fiplr 0.2.4: Fuzzy Search for Files in Projects
@@ -1225,7 +1225,7 @@ app-emacs/gn-mode 0.4.1: Major mode for editing GN (generate ninja) files
 app-emacs/gnome-screencast 1.4: Use Gnome screen recording functionality using elisp
 app-emacs/gnosis 0.4.9: Spaced Repetition System
 app-emacs/gntp 0.1: Growl Notification Protocol for Emacs
-app-emacs/gnuplot 0.10: Major-mode and interactive frontend for gnuplot
+app-emacs/gnuplot 0.11: Major-mode and interactive frontend for gnuplot
 app-emacs/gnus-desktop-notify 1.4: Gnus Desktop Notification global minor mode
 app-emacs/gnus-notes 0.4.2: Keep handy notes of read Gnus articles with helm and org
 app-emacs/gnus-recent 0.4.1: Article breadcrumbs for Gnus
@@ -1266,7 +1266,7 @@ app-emacs/govc 0.51.0: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/gpastel 0.5.0: Integrates GPaste with the kill-ring
 app-emacs/gpt-commit 0.0.2: Commit messages with GPT in Emacs
 app-emacs/gptai 1.0.5: Integrate with the OpenAI API
-app-emacs/gptel 0.9.8: Interact with ChatGPT or other LLMs
+app-emacs/gptel 0.9.8.5: Interact with ChatGPT or other LLMs
 app-emacs/gptel-fn-complete 0.3.2: Complete the function at point using gptel
 app-emacs/gpx 0.1.0: Major mode for GPX files
 app-emacs/grab-mac-link 0.3: Grab link from Mac Apps and insert it into Emacs
@@ -1484,7 +1484,7 @@ app-emacs/hyperdrive 0.5.2: P2P filesystem
 app-emacs/hyperdrive-org-transclusion 0.3.1: Tranclude hyperdrive content
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
-app-emacs/hyperstitional-themes 1.2.4: Weird themes with incremental palettes
+app-emacs/hyperstitional-themes 2.0.0: Weird themes with incremental palettes
 app-emacs/hyprlang-ts-mode 1.0.0: Major mode for editing hyprland configuration files
 app-emacs/ialign 0.5.0: Visual align-regexp
 app-emacs/ibrowse 0.2.3: Interact with your browser
@@ -1673,9 +1673,9 @@ app-emacs/keymap-utils 4.0.3: Keymap utilities
 app-emacs/keypress-multi-event 1.0: Perform different actions for the same keypress
 app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
-app-emacs/khalel 0.1.13: Import, edit and create calendar events through khal
+app-emacs/khalel 0.1.14: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.42.2: Your Second Brain
+app-emacs/khoj 1.42.5: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-dollar-mode 1.0.0: Remove leading $ from shell-script-like text
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
@@ -1926,7 +1926,7 @@ app-emacs/modelica-mode 2.0.0: Major mode for editing Modelica files
 app-emacs/modern-cpp-font-lock 0.1.3: Font-locking for "Modern C++"
 app-emacs/modern-fringes 4.5: Replaces default fringe bitmaps with better looking ones
 app-emacs/modular-config 0.0.5: Organize your config into small and loadable modules
-app-emacs/modus-themes 4.7.0: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 4.8.0: Elegant, highly legible and customizable themes
 app-emacs/moe-theme 1.0.1: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/monitor 0.3.0: Utilities for monitoring expressions
 app-emacs/monkeytype 0.1.5: Mode for speed typing
@@ -2115,7 +2115,7 @@ app-emacs/org-agenda-property 1.3.1: Display org properties in the agenda buffer
 app-emacs/org-ai 0.5.5: Use ChatGPT and other LLMs in org-mode and beyond
 app-emacs/org-alert 0.3.0: Notify org deadlines via notify-send
 app-emacs/org-analyzer 1.0.4: Org-analyzer is a tool that extracts time tracking data from org files
-app-emacs/org-anki 4.0.1: Synchronize org-mode entries to Anki
+app-emacs/org-anki 4.0.2: Synchronize org-mode entries to Anki
 app-emacs/org-appear 0.3.1: Auto-toggle Org elements
 app-emacs/org-assistant 1.5: Org babel extension for Chat Assistant APIs
 app-emacs/org-auto-expand 0.1: Automatically expand certain headings
@@ -2152,7 +2152,7 @@ app-emacs/org-generate 1.0.0: Generate template files/folders from org document
 app-emacs/org-gnome 0.3: Orgmode integration with the GNOME desktop
 app-emacs/org-grep 1.3.3: Kind of M-x rgrep adapted for Org mode
 app-emacs/org-gtd 3.0.0: An implementation of GTD
-app-emacs/org-hide-drawers 1.0.1: Hide drawers in Org using overlays
+app-emacs/org-hide-drawers 1.0.2: Hide drawers in Org using overlays
 app-emacs/org-hyperscheduler 1.0.0: UI (web) representation of org-agenda
 app-emacs/org-id-cleanup 1.7.1: Interactively find, present and maybe clean up unused IDs of org-id
 app-emacs/org-if 0.2.0: Interactive Fiction Authoring System for Org-Mode
@@ -2175,7 +2175,7 @@ app-emacs/org-make-toc 0.6: Automatic tables of contents for Org files
 app-emacs/org-mem 0.16.0: Fast info from a large number of Org file contents
 app-emacs/org-mime 0.3.4: Org html export for text/html MIME emails
 app-emacs/org-ml 6.0.2: Functional Org Mode API
-app-emacs/org-modern 1.8: Modern looks for Org
+app-emacs/org-modern 1.9: Modern looks for Org
 app-emacs/org-movies 0.1: Manage watchlist with Org mode
 app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persistent history
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
@@ -2384,7 +2384,7 @@ app-emacs/pixiv-novel-mode 0.0.3: Major mode for pixiv novel
 app-emacs/pkg-info 0.6: Information about packages
 app-emacs/pkgbuild-mode 0.14: Interface to the ArchLinux package manager
 app-emacs/pkl-mode 1.0.3: Major mode for editing Pkl files
-app-emacs/plantuml-mode 1.5.0: Major mode for PlantUML
+app-emacs/plantuml-mode 1.6.0: Major mode for PlantUML
 app-emacs/platformio-mode 0.3.0: PlatformIO integration
 app-emacs/play-crystal 0.1.2: Https://play.crystal-lang.org integration
 app-emacs/play-routes-mode 1.0: Play Framework Routes File Support
@@ -3035,7 +3035,7 @@ app-emacs/vegetative-theme 1.0.2: A Theme based on green CRT terminals
 app-emacs/verb 3.1.0: Organize and send HTTP requests
 app-emacs/verilog-ext 0.6.2: SystemVerilog Extensions
 app-emacs/verilog-ts-mode 0.3.0: Verilog Tree-sitter major mode
-app-emacs/vertico 2.2: VERTical Interactive COmpletion
+app-emacs/vertico 2.3: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 6.3.1: Prescient.el + Vertico
 app-emacs/vertigo 1.0: Jump across lines using the home row
 app-emacs/vhdl-ext 0.5.4: VHDL Extensions
