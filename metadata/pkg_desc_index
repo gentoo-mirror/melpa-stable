@@ -60,7 +60,7 @@ app-emacs/agenix 1.3: Decrypt and encrypt agenix secrets
 app-emacs/aggressive-indent 1.10.0: Minor mode to aggressively keep your code always indented
 app-emacs/ahk-mode 1.5.6: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 1.10.0: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 0.11.1: AI assisted programming in Emacs with Aider
+app-emacs/aider 0.12.0: AI assisted programming with Aider and LLM
 app-emacs/aidermacs 1.4: AI pair programming with Aider
 app-emacs/aiken-mode 1.0.2: Major mode for Aiken
 app-emacs/airline-themes 1.8: Vim-airline themes for emacs powerline
@@ -94,7 +94,7 @@ app-emacs/annotate 1.4.3: Annotate files without changing them
 app-emacs/annotation 2.7.0.1: Functions for annotating text with faces and help bubbles
 app-emacs/annoying-arrows-mode 0.1.0: Ring the bell if using arrows too much
 app-emacs/ansi 0.4.1: Turn string into ansi strings
-app-emacs/ansible 0.4.1: Ansible minor mode
+app-emacs/ansible 0.4.2: Ansible minor mode
 app-emacs/ansible-doc 0.4: Ansible documentation Minor Mode
 app-emacs/ansible-vault 0.5.4: Minor mode for editing ansible vault files
 app-emacs/anti-zenburn-theme 2.5.1: Low-contrast Zenburn-inverted theme
