@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>AI assisted programming in Emacs with Aider</longdescription>
+	<longdescription>AI assisted programming with Aider and LLM</longdescription>
 </pkgmetadata>
