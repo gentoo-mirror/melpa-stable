@@ -2264,7 +2264,7 @@ app-emacs/osx-location 0.4: Watch and respond to changes in geographical locatio
 app-emacs/osx-plist 2.0.0: Apple plist file parser
 app-emacs/osx-pseudo-daemon 2.2: Daemon mode that plays nice with OSX
 app-emacs/osx-trash 0.2.2: System trash for OS X
-app-emacs/otpp 3.2.1: One tab per project, with unique names
+app-emacs/otpp 3.3.0: One tab per project, with unique names
 app-emacs/outline-indent 1.1.1: Folding text based on indentation (origami alternative)
 app-emacs/outline-minor-faces 1.1.3: Highlight only section headings
 app-emacs/outlook 0.1: Send emails in MS Outlook style
@@ -2272,7 +2272,7 @@ app-emacs/outorg 2.0: Org-style comment editing
 app-emacs/outshine 3.0.1: Outline with outshine outshines outline
 app-emacs/ov 1.0.6: Overlay library for Emacs Lisp
 app-emacs/overcast-theme 1.3.0: A dark but vibrant color theme for Emacs
-app-emacs/overleaf 1.1.2: Sync and track changes live with overleaf
+app-emacs/overleaf 1.1.3: Sync and track changes live with overleaf
 app-emacs/overseer 0.3.0: Ert-runner Integration Into Emacs
 app-emacs/owdriver 0.4.0: Quickly perform various actions on other windows
 app-emacs/ox-bb 0.0.2: BBCode Back-End for Org Export Engine
