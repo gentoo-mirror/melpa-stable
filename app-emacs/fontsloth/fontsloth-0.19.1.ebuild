@@ -18,11 +18,13 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/f
+DEPEND="app-emacs/async
+	app-emacs/f
 	app-emacs/logito
 	app-emacs/pcache
 	app-emacs/stream"
-RDEPEND="app-emacs/f
+RDEPEND="app-emacs/async
+	app-emacs/f
 	app-emacs/logito
 	app-emacs/pcache
 	app-emacs/stream"
