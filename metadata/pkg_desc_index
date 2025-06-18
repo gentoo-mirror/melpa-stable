@@ -60,7 +60,7 @@ app-emacs/agenix 1.3: Decrypt and encrypt agenix secrets
 app-emacs/aggressive-indent 1.10.0: Minor mode to aggressively keep your code always indented
 app-emacs/ahk-mode 1.5.6: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 1.10.0: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 0.12.1: AI assisted programming with Aider and LLM
+app-emacs/aider 0.12.2: AI assisted programming with Aider and LLM
 app-emacs/aidermacs 1.4: AI pair programming with Aider
 app-emacs/aiken-mode 1.0.2: Major mode for Aiken
 app-emacs/airline-themes 1.8: Vim-airline themes for emacs powerline
@@ -457,7 +457,7 @@ app-emacs/context-transient 1.0.1: Context specific transients
 app-emacs/contextual 1.0.1: Contextual profile management system
 app-emacs/contextual-menubar 1.0.0: Display the menubar only on a graphical display
 app-emacs/copilot 0.2.0: An unofficial Copilot plugin
-app-emacs/copilot-chat 2.0.1: Copilot chat interface
+app-emacs/copilot-chat 3.0.0: Copilot chat interface
 app-emacs/copy-as-format 0.0.9: Copy buffer locations as GitHub/Slack/JIRA etc... formatted code
 app-emacs/copy-file-on-save 0.1.0: Copy file on save, automatic deployment it
 app-emacs/copyit 0.1.0: Copy it, yank anything!
@@ -1060,7 +1060,7 @@ app-emacs/flymake-diagnostic-at-point 1.2.0: Display flymake diagnostics at poin
 app-emacs/flymake-eask 0.1.0: Eask support in Flymake
 app-emacs/flymake-easy 0.10: Helpers for easily building flymake checkers
 app-emacs/flymake-eldev 1.0: Eldev support in Flymake
-app-emacs/flymake-elisp-config 1.0.0: Setup load-path for flymake on Emacs Lisp mode
+app-emacs/flymake-elisp-config 1.1.1: Setup load-path for flymake on Emacs Lisp mode
 app-emacs/flymake-eslint 1.5.0: A Flymake backend for Javascript using eslint
 app-emacs/flymake-flycheck 0.2: Use flycheck checkers as flymake backends
 app-emacs/flymake-gjshint 0.0.6: A flymake handler for javascript using both jshint and gjslint
@@ -1223,7 +1223,7 @@ app-emacs/gmail2bbdb 0.0.6: Import email and name into bbdb from vcard
 app-emacs/gmpl-mode 0.1.0: Major mode for editing GMPL(MathProg) files
 app-emacs/gn-mode 0.4.1: Major mode for editing GN (generate ninja) files
 app-emacs/gnome-screencast 1.4: Use Gnome screen recording functionality using elisp
-app-emacs/gnosis 0.4.9: Spaced Repetition System
+app-emacs/gnosis 0.5.1: Spaced Repetition System
 app-emacs/gntp 0.1: Growl Notification Protocol for Emacs
 app-emacs/gnuplot 0.11: Major-mode and interactive frontend for gnuplot
 app-emacs/gnus-desktop-notify 1.4: Gnus Desktop Notification global minor mode
@@ -1327,7 +1327,7 @@ app-emacs/haxe-mode 0.3.3: Major mode for editing Haxe files
 app-emacs/haxor-mode 0.7.0: Major mode for editing Haxor Assembly Files
 app-emacs/hcl-mode 0.3: Major mode for Hashicorp
 app-emacs/heaven-and-hell 0.0.5: Easy toggle light/dark themes
-app-emacs/helm 4.0.3: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 4.0.4: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-ack 0.13: Ack command with helm interface
 app-emacs/helm-ag 0.64: The silver searcher with helm interface
 app-emacs/helm-apt 1.1: Helm interface for Debian/Ubuntu packages (apt-*)
@@ -1346,7 +1346,7 @@ app-emacs/helm-circe 0.4: Helm circe buffer management
 app-emacs/helm-codesearch 0.6.0: Helm interface for codesearch
 app-emacs/helm-commandlinefu 0.3: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 0.2.8: Helm interface for company-mode
-app-emacs/helm-core 4.0.3: Development files for Helm
+app-emacs/helm-core 4.0.4: Development files for Helm
 app-emacs/helm-cscope 0.1.1: Helm interface for xcscope.el
 app-emacs/helm-dash 1.3.0: Offline documentation browser for +150 APIs using Dash docsets
 app-emacs/helm-descbinds 1.13: A convenient `describe-bindings' with `helm'
