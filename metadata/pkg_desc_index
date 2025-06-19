@@ -1484,7 +1484,7 @@ app-emacs/hyperdrive 0.5.2: P2P filesystem
 app-emacs/hyperdrive-org-transclusion 0.3.1: Tranclude hyperdrive content
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
-app-emacs/hyperstitional-themes 2.0.0: Weird themes with incremental palettes
+app-emacs/hyperstitional-themes 2.4.0: Weird themes with incremental palettes
 app-emacs/hyprlang-ts-mode 1.0.0: Major mode for editing hyprland configuration files
 app-emacs/ialign 0.5.0: Visual align-regexp
 app-emacs/ibrowse 0.2.3: Interact with your browser
@@ -2183,7 +2183,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 3.4.4: Fast org-roam replacement
+app-emacs/org-node 3.5.0: Fast org-roam replacement
 app-emacs/org-node-fakeroam 3.0.2: Deprecated extension to org-node
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
