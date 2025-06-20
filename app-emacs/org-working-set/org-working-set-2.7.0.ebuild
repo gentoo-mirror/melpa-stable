@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Manage and visit a small set of org-nodes"
+DESCRIPTION="Manage and visit a small and changing set of org-nodes that you work on"
 
 HOMEPAGE="https://github.com/marcIhm/org-working-set"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
