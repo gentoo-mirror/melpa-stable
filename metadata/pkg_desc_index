@@ -1060,7 +1060,7 @@ app-emacs/flymake-diagnostic-at-point 1.2.0: Display flymake diagnostics at poin
 app-emacs/flymake-eask 0.1.0: Eask support in Flymake
 app-emacs/flymake-easy 0.10: Helpers for easily building flymake checkers
 app-emacs/flymake-eldev 1.0: Eldev support in Flymake
-app-emacs/flymake-elisp-config 1.1.1: Setup load-path for flymake on Emacs Lisp mode
+app-emacs/flymake-elisp-config 1.2.0: Setup load-path for flymake on Emacs Lisp mode
 app-emacs/flymake-eslint 1.5.0: A Flymake backend for Javascript using eslint
 app-emacs/flymake-flycheck 0.2: Use flycheck checkers as flymake backends
 app-emacs/flymake-gjshint 0.0.6: A flymake handler for javascript using both jshint and gjslint
@@ -1484,7 +1484,7 @@ app-emacs/hyperdrive 0.5.2: P2P filesystem
 app-emacs/hyperdrive-org-transclusion 0.3.1: Tranclude hyperdrive content
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
-app-emacs/hyperstitional-themes 2.4.0: Weird themes with incremental palettes
+app-emacs/hyperstitional-themes 2.7.6: Weird themes with incremental palettes
 app-emacs/hyprlang-ts-mode 1.0.0: Major mode for editing hyprland configuration files
 app-emacs/ialign 0.5.0: Visual align-regexp
 app-emacs/ibrowse 0.2.3: Interact with your browser
@@ -1609,7 +1609,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.2: Enchanted Spell Checker
-app-emacs/jira 1.1.3: Emacs Interface to Jira
+app-emacs/jira 1.1.4: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -1675,7 +1675,7 @@ app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
 app-emacs/khalel 0.1.14: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
-app-emacs/khoj 1.42.5: Your Second Brain
+app-emacs/khoj 1.42.6: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-dollar-mode 1.0.0: Remove leading $ from shell-script-like text
 app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
@@ -1961,7 +1961,7 @@ app-emacs/mu4e-alert 1.0: Desktop notification for mu4e
 app-emacs/mu4e-column-faces 1.2.1: Faces for individual mu4e columns
 app-emacs/mu4e-overview 0.5.0: Show overview of maildir
 app-emacs/mu4e-views 0.7: View emails in mu4e using xwidget-webkit
-app-emacs/mu4easy 1.4: Packages + configs for using mu4e with multiple accounts
+app-emacs/mu4easy 1.4.1: Packages + configs for using mu4e with multiple accounts
 app-emacs/mugur 2.0: Configurator for QMK compatible keyboards
 app-emacs/multi 2.0.1: Clojure-style multi-methods for emacs lisp
 app-emacs/multi-line 0.1.6: Multi-line statements
@@ -2084,7 +2084,7 @@ app-emacs/ocamlformat 0.27.0: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: Automatic indentation with ocp-indent
 app-emacs/octicons 0.1: Octicons utility
-app-emacs/oer-reveal 4.31.0: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.31.2: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.1.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -2174,7 +2174,7 @@ app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
 app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various Mac apps
 app-emacs/org-make-toc 0.6: Automatic tables of contents for Org files
-app-emacs/org-mem 0.17.0: Fast info from a large number of Org file contents
+app-emacs/org-mem 0.17.2: Fast info from a large number of Org file contents
 app-emacs/org-mime 0.3.4: Org html export for text/html MIME emails
 app-emacs/org-ml 6.0.2: Functional Org Mode API
 app-emacs/org-modern 1.9: Modern looks for Org
@@ -2183,7 +2183,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 3.6.0: Fast org-roam replacement
+app-emacs/org-node 3.6.4: Fast org-roam replacement
 app-emacs/org-node-fakeroam 3.0.2: Deprecated extension to org-node
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2914,7 +2914,7 @@ app-emacs/timu-rouge-theme 2.0: Color theme inspired by the Rouge Theme for VSCo
 app-emacs/timu-spacegrey-theme 3.0: Color theme inspired by the Spacegray theme in Sublime Text
 app-emacs/titlecase 0.4.1: Title-case phrases
 app-emacs/toc-org 1.2.0: Add table of contents to org-mode files (formerly, org-toc)
-app-emacs/tokei 0.2: Display codebase statistics
+app-emacs/tokei 0.2.1: Display codebase statistics
 app-emacs/toml 0.1.0: TOML (Tom's Obvious, Minimal Language) parser
 app-emacs/tomlparse 1.0.0: A straight-forward tree sitter based parser for toml data
 app-emacs/tomorrow-night-deepblue-theme 1.2.1: The Tomorrow Night Deepblue color theme
@@ -2940,7 +2940,7 @@ app-emacs/tray 0.1.6: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.286: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.287: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.2: A tree style file explorer package
