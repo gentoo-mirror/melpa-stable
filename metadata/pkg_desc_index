@@ -2084,7 +2084,7 @@ app-emacs/ocamlformat 0.27.0: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: Automatic indentation with ocp-indent
 app-emacs/octicons 0.1: Octicons utility
-app-emacs/oer-reveal 4.31.2: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.32.0: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.1.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -2386,7 +2386,7 @@ app-emacs/pixiv-novel-mode 0.0.3: Major mode for pixiv novel
 app-emacs/pkg-info 0.6: Information about packages
 app-emacs/pkgbuild-mode 0.14: Interface to the ArchLinux package manager
 app-emacs/pkl-mode 1.0.3: Major mode for editing Pkl files
-app-emacs/plantuml-mode 1.6.0: Major mode for PlantUML
+app-emacs/plantuml-mode 1.7.0: Major mode for PlantUML
 app-emacs/platformio-mode 0.3.0: PlatformIO integration
 app-emacs/play-crystal 0.1.2: Https://play.crystal-lang.org integration
 app-emacs/play-routes-mode 1.0: Play Framework Routes File Support
@@ -2898,7 +2898,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2025.6.16.0: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2025.6.23.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.10.0: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
