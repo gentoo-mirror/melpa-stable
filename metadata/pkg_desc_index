@@ -267,7 +267,7 @@ app-emacs/calfw-ical 1.6: Calendar view for ical format
 app-emacs/calfw-org 1.6: Calendar view for org-agenda
 app-emacs/calibredb 2.13.0: Yet another calibre client
 app-emacs/call-graph 0.1.0: Library to generate call graph for cpp functions
-app-emacs/calle24 1.0.9: Emacs Toolbar Support for SF Symbols
+app-emacs/calle24 1.0.10: Emacs Toolbar Support for SF Symbols
 app-emacs/camcorder 1.0: Record screencasts in gif or other formats
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cangjie 0.7.4: Retrieve cangjie code for han characters
@@ -640,7 +640,7 @@ app-emacs/double-saber 0.0.3: Narrow and delete in search buffers
 app-emacs/downplay-mode 0.1: Focus attention on a region of the buffer
 app-emacs/dpkg-dev-el 37.1: Emacs modes for debian packaging
 app-emacs/dr-racket-like-unicode 1.1.0: DrRacket-style unicode input
-app-emacs/dracula-theme 1.8.2: Dracula Theme
+app-emacs/dracula-theme 1.8.3: Dracula Theme
 app-emacs/draft-mode 0.1.1: Rough drafting for Emacs
 app-emacs/drag-stuff 0.3.0: Drag stuff (lines, words, region, etc...) around
 app-emacs/drupal-mode 0.8.1: Advanced minor mode for Drupal development
@@ -1484,7 +1484,7 @@ app-emacs/hyperdrive 0.5.2: P2P filesystem
 app-emacs/hyperdrive-org-transclusion 0.3.1: Tranclude hyperdrive content
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
-app-emacs/hyperstitional-themes 2.7.7: Weird themes with incremental palettes
+app-emacs/hyperstitional-themes 2.8.0: Weird themes with incremental palettes
 app-emacs/hyprlang-ts-mode 1.0.0: Major mode for editing hyprland configuration files
 app-emacs/ialign 0.5.0: Visual align-regexp
 app-emacs/ibrowse 0.2.3: Interact with your browser
