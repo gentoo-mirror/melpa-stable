@@ -60,7 +60,7 @@ app-emacs/agenix 1.3: Decrypt and encrypt agenix secrets
 app-emacs/aggressive-indent 1.10.0: Minor mode to aggressively keep your code always indented
 app-emacs/ahk-mode 1.5.6: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 1.10.0: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 0.12.2: AI assisted programming with Aider and LLM
+app-emacs/aider 0.13.0: AI assisted programming with Aider and LLM
 app-emacs/aidermacs 1.4: AI pair programming with Aider
 app-emacs/aiken-mode 1.0.2: Major mode for Aiken
 app-emacs/airline-themes 1.8: Vim-airline themes for emacs powerline
@@ -1105,7 +1105,7 @@ app-emacs/font-lock-studio 0.0.10: Debugger for Font Lock keywords
 app-emacs/font-utils 0.7.8: Utility functions for working with fonts
 app-emacs/fontawesome 0.4: Fontawesome utility
 app-emacs/fontify-face 1.1.0: Fontify symbols representing faces with that face
-app-emacs/fontsloth 0.19.1: Elisp otf/ttf font loader/renderer
+app-emacs/fontsloth 0.19.2: Elisp otf/ttf font loader/renderer
 app-emacs/for 1.4: Iteration and sequence
 app-emacs/foreman-mode 0.0.1: View and manage Procfile-based applications
 app-emacs/forge 0.5.3: Access Git forges from Magit
@@ -1484,7 +1484,7 @@ app-emacs/hyperdrive 0.5.2: P2P filesystem
 app-emacs/hyperdrive-org-transclusion 0.3.1: Tranclude hyperdrive content
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
-app-emacs/hyperstitional-themes 2.8.0: Weird themes with incremental palettes
+app-emacs/hyperstitional-themes 3.0.0: Weird themes with incremental palettes
 app-emacs/hyprlang-ts-mode 1.0.0: Major mode for editing hyprland configuration files
 app-emacs/ialign 0.5.0: Visual align-regexp
 app-emacs/ibrowse 0.2.3: Interact with your browser
@@ -1609,7 +1609,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.2: Enchanted Spell Checker
-app-emacs/jira 1.1.4: Emacs Interface to Jira
+app-emacs/jira 1.1.5: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -2183,7 +2183,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 3.7.0: Fast org-roam replacement
+app-emacs/org-node 3.7.1: Fast org-roam replacement
 app-emacs/org-node-fakeroam 3.0.2: Deprecated extension to org-node
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2205,7 +2205,7 @@ app-emacs/org-ref 2.0.0: Citations, cross-references and bibliographies in org-m
 app-emacs/org-repo-todo 0.0.3: Simple repository todo management with org-mode
 app-emacs/org-reverse-datetree 0.4.4: Create reverse date trees in org-mode
 app-emacs/org-rich-yank 0.2.2: Paste with org-mode markup and link to source
-app-emacs/org-roam 2.3.0: A database abstraction layer for Org-mode
+app-emacs/org-roam 2.3.1: A database abstraction layer for Org-mode
 app-emacs/org-roam-bibtex 0.6.2: Org Roam meets BibTeX
 app-emacs/org-roam-ql 0.2: Interface to query and view results from org-roam
 app-emacs/org-roam-ql-ql 0.2: Intgrating org-roam and org-ql
