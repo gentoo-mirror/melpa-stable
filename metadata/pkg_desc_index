@@ -1484,7 +1484,7 @@ app-emacs/hyperdrive 0.5.2: P2P filesystem
 app-emacs/hyperdrive-org-transclusion 0.3.1: Tranclude hyperdrive content
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
-app-emacs/hyperstitional-themes 3.0.0: Weird themes with incremental palettes
+app-emacs/hyperstitional-themes 3.1.0: Weird themes with incremental palettes
 app-emacs/hyprlang-ts-mode 1.0.0: Major mode for editing hyprland configuration files
 app-emacs/ialign 0.5.0: Visual align-regexp
 app-emacs/ibrowse 0.2.3: Interact with your browser
@@ -2818,7 +2818,7 @@ app-emacs/subsonic 0.4.1: Browse and play music from subsonic servers with mpv
 app-emacs/sudo-edit 0.1.1: Open files as another user
 app-emacs/sudo-utils 3.0.1: Sudo utilities
 app-emacs/suggest 0.7: Suggest elisp functions that give the output requested
-app-emacs/sumibi 2.4.0: Japanese input method powered by ChatGPT API
+app-emacs/sumibi 3.0.0: Japanese input method powered by ChatGPT API
 app-emacs/suomalainen-kalenteri 2025: Finnish national and Christian holidays for calendar
 app-emacs/super-save 0.4.0: Auto-save buffers, based on your activity
 app-emacs/svg-mode-line-themes 0.1.3: SVG-based themes for mode-line
