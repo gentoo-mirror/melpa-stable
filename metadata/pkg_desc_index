@@ -432,7 +432,7 @@ app-emacs/conkeror-minor-mode 1.6.2: Mode for editing conkeror javascript files
 app-emacs/conllu-mode 0.5.0: Editing mode for CoNLL-U files
 app-emacs/connection 1.11: TCP-based client connection
 app-emacs/conner 0.4: Define and run project specific commands
-app-emacs/consult 2.5: Consulting completing-read
+app-emacs/consult 2.6: Consulting completing-read
 app-emacs/consult-ag 0.2.0: The silver searcher integration using Consult
 app-emacs/consult-codesearch 0.3: Consult interface for codesearch
 app-emacs/consult-compile-multi 0.7: Consulting read support for `compile-multi'
@@ -2917,7 +2917,7 @@ app-emacs/toc-org 1.2.0: Add table of contents to org-mode files (formerly, org-
 app-emacs/tokei 0.2.1: Display codebase statistics
 app-emacs/toml 0.1.0: TOML (Tom's Obvious, Minimal Language) parser
 app-emacs/tomlparse 1.0.0: A straight-forward tree sitter based parser for toml data
-app-emacs/tomorrow-night-deepblue-theme 1.2.1: The Tomorrow Night Deepblue color theme
+app-emacs/tomorrow-night-deepblue-theme 1.2.2: The Tomorrow Night Deepblue color theme
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/torus 2.2: A buffer groups manager
 app-emacs/total-lines 0.2.0: Keep track of a buffer's total number of lines
@@ -2940,7 +2940,7 @@ app-emacs/tray 0.1.6: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.287: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.288: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.2: A tree style file explorer package
@@ -3043,7 +3043,7 @@ app-emacs/vertigo 1.0: Jump across lines using the home row
 app-emacs/vhdl-ext 0.5.4: VHDL Extensions
 app-emacs/vhdl-ts-mode 0.2.2: VHDL Tree-sitter major mode
 app-emacs/vim-region 0.3.0: Select region as vim
-app-emacs/vim-tab-bar 1.0.7: Vim-like tab bar
+app-emacs/vim-tab-bar 1.0.8: Vim-like tab bar
 app-emacs/vimgolf 0.10.3: VimGolf interface for the One True Editor
 app-emacs/vimish-fold 0.2.3: Fold text like in Vim
 app-emacs/virtualenvwrapper 0.2.0: A featureful virtualenv tool for Emacs
