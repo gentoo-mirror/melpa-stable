@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>The DEFLATE compression algorithm in pure Emacs LISP</longdescription>
+	<longdescription>Segment for Doom Modeline to show media player information</longdescription>
 </pkgmetadata>
