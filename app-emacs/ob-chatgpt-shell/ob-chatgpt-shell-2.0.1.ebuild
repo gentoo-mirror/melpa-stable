@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="deflate"
+REALNAME="ob-chatgpt-shell"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A pure Emacs lisp implementation of the DEFLATE compression algorithm"
+DESCRIPTION="Org babel functions for ChatGPT evaluation"
 
-HOMEPAGE="https://github.com/skuro/deflate"
+HOMEPAGE="https://github.com/xenodium/ob-chatgpt-shell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/dash"
-RDEPEND="app-emacs/dash"
+DEPEND="app-emacs/chatgpt-shell"
+RDEPEND="app-emacs/chatgpt-shell"
