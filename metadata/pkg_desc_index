@@ -2172,7 +2172,7 @@ app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
 app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various Mac apps
 app-emacs/org-make-toc 0.6: Automatic tables of contents for Org files
-app-emacs/org-mem 0.17.2: Fast info from a large number of Org file contents
+app-emacs/org-mem 0.18.1: Fast info from a large number of Org file contents
 app-emacs/org-mime 0.3.4: Org html export for text/html MIME emails
 app-emacs/org-ml 6.0.2: Functional Org Mode API
 app-emacs/org-modern 1.9: Modern looks for Org
