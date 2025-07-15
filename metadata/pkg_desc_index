@@ -113,6 +113,7 @@ app-emacs/arscript-mode 0.1.0: Major mode for editing arscript files
 app-emacs/artbollocks-mode 1.1.2: Improve your writing (especially about art)
 app-emacs/arview 1.2: Extract and view archives in the temporary directory
 app-emacs/arxiv-mode 0.4.0: Read and search for articles on arXiv.org
+app-emacs/asdf-vm 0.1.0: ASDF-VM porcelain
 app-emacs/asilea 0.2.1: Find best compiler options using simulated annealing
 app-emacs/asm-blox 0.4.1: Programming game involving WAT
 app-emacs/assess 0.6: Test support functions
@@ -142,7 +143,7 @@ app-emacs/auto-complete-exuberant-ctags 0.0.7: Exuberant ctags auto-complete.el 
 app-emacs/auto-complete-nxml 0.5.0: Do completion by auto-complete.el on nXML-mode
 app-emacs/auto-complete-pcmp 0.0.2: Provide auto-complete sources using pcomplete results
 app-emacs/auto-complete-sage 0.0.5: An auto-complete source for sage-shell-mode
-app-emacs/auto-dark 0.13.2: Automatically sets the dark-mode theme based on macOS/Linux/Windows status
+app-emacs/auto-dark 0.13.3: Automatically set the dark-mode theme based on system status
 app-emacs/auto-dictionary 1.1: Automatic dictionary switcher for flyspell
 app-emacs/auto-highlight-symbol 1.61: Automatic highlighting current symbol minor mode
 app-emacs/auto-indent-mode 0.126: Auto indent Minor mode
@@ -441,10 +442,10 @@ app-emacs/consult-dir 0.1: Insert paths into the minibuffer prompt
 app-emacs/consult-eglot 0.5.0: A consulting-read interface for eglot
 app-emacs/consult-eglot-embark 0.5.0: Embark integration for `consult-eglot'
 app-emacs/consult-flycheck 1.0: Provides the command `consult-flycheck'
-app-emacs/consult-gh 2.5.1: Consulting GitHub Client
-app-emacs/consult-gh-embark 2.5.1: Embark Actions for consult-gh
-app-emacs/consult-gh-forge 2.5.1: Magit/Forge Integration for consult-gh
-app-emacs/consult-gh-with-pr-review 2.5.1: "pr-review" Integration for consult-gh
+app-emacs/consult-gh 2.6: Consulting GitHub Client
+app-emacs/consult-gh-embark 2.6: Embark Actions for consult-gh
+app-emacs/consult-gh-forge 2.6: Magit/Forge Integration for consult-gh
+app-emacs/consult-gh-with-pr-review 2.6: "pr-review" Integration for consult-gh
 app-emacs/consult-ghq 0.0.5: Ghq interface using consult
 app-emacs/consult-hatena-bookmark 0.4.1: Consult commands for the Hatena Bookmark
 app-emacs/consult-lsp 2.1: LSP-mode Consult integration
@@ -789,7 +790,7 @@ app-emacs/embark-org-roam 0.2: Embark export buffer for org roam nodes
 app-emacs/embrace 0.1.4: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 1.1.0: Test runner and report viewer for Midje
 app-emacs/emmet-mode 1.0.8: Unofficial Emmet's support for emacs
-app-emacs/emms 22: The Emacs Multimedia System
+app-emacs/emms 23: The Emacs Multimedia System
 app-emacs/emms-mode-line-cycle 0.2.5: Display the emms mode line as a ticker
 app-emacs/emms-player-simple-mpv 0.4.0: An extension of emms-player-simple.el for mpv JSON IPC
 app-emacs/emms-player-spotify 0.2: Spotify player for EMMS
@@ -1719,7 +1720,7 @@ app-emacs/leanote 0.4.0: A minor mode writing markdown leanote
 app-emacs/ledger-import 1.1.0: Fetch OFX files from bank and push them to Ledger
 app-emacs/ledger-mode 4.0.0: Helper code for use with the "ledger" command-line tool
 app-emacs/leetcode 0.1.28: An leetcode client
-app-emacs/lem 0.22: A lemmy client
+app-emacs/lem 0.23: A lemmy client
 app-emacs/lentic 0.11: One buffer as a view of another
 app-emacs/less-css-mode 0.21: Major mode for editing LESS CSS files (lesscss.org)
 app-emacs/letcheck 0.4: Check the erroneous assignments in let forms
@@ -1851,7 +1852,7 @@ app-emacs/markup 2.0.1: Simple markup generation helpers
 app-emacs/markup-faces 1.0.0: Collection of faces for markup language modes
 app-emacs/marquee-header 0.1.0: Code interface for displaying marquee in header
 app-emacs/marshal 0.9.1: Eieio extension for automatic (un)marshalling
-app-emacs/mastodon 2.0.1: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 2.0.2: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 1.4: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 5.1.1: Preview TeX math equations inline
 app-emacs/math-symbol-lists 1.3: Lists of Unicode math symbols and latex commands
@@ -2180,7 +2181,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 3.7.3: Fast org-roam replacement
+app-emacs/org-node 3.7.4: Fast org-roam replacement
 app-emacs/org-node-fakeroam 3.0.2: Deprecated extension to org-node
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2263,7 +2264,7 @@ app-emacs/osx-location 0.4: Watch and respond to changes in geographical locatio
 app-emacs/osx-plist 2.0.0: Apple plist file parser
 app-emacs/osx-pseudo-daemon 2.2: Daemon mode that plays nice with OSX
 app-emacs/osx-trash 0.2.2: System trash for OS X
-app-emacs/otpp 3.3.4: One tab per project, with unique names
+app-emacs/otpp 3.3.5: One tab per project, with unique names
 app-emacs/outline-indent 1.1.1: Folding text based on indentation (origami alternative)
 app-emacs/outline-minor-faces 1.1.3: Highlight only section headings
 app-emacs/outlook 0.1: Send emails in MS Outlook style
@@ -2566,6 +2567,7 @@ app-emacs/repl-toggle 0.7.2: Switch to/from repl buffer for current major-mode
 app-emacs/replace-symbol 1.1: Rename symbols in expressions or buffers
 app-emacs/replace-with-inflections 0.3.2: Inflection aware `query-replace'
 app-emacs/repo 0.3.0: Running repo from Emacs
+app-emacs/repo-grep 1.5.1: Project-wide grep search
 app-emacs/req-package 1.2: A use-package wrapper for package runtime dependencies management
 app-emacs/request 0.3.2: Compatible layer for URL request in Emacs
 app-emacs/request-deferred 0.3.2: Wrap request.el by deferred
@@ -2898,7 +2900,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2025.7.7.0: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2025.7.14.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.10.1: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2940,7 +2942,7 @@ app-emacs/tray 0.1.6: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.290: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.291: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.2: A tree style file explorer package
@@ -2982,6 +2984,7 @@ app-emacs/uci-mode 0.5.5: Major-mode for chess engine interaction
 app-emacs/ucs-utils 0.8.4: Utilities for Unicode characters
 app-emacs/ue 1.0.9: Minor mode for Unreal Engine projects
 app-emacs/uiua-mode 0.1.0: Uiua integration
+app-emacs/ultra-scroll 0.4.2: Fast and smooth scrolling
 app-emacs/undercover 0.8.1: Test coverage library for Emacs Lisp
 app-emacs/underline-with-char 3.0.0: Underline with a char
 app-emacs/undersea-theme 0.3: Theme styled after undersea imagery
