@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="auto-dark"
+REALNAME="asdf-vm"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Automatically sets the dark-mode theme based on macOS/Linux/Windows status"
+DESCRIPTION="ASDF-VM porcelain"
 
-HOMEPAGE="https://github.com/LionyxML/auto-dark-emacs"
+HOMEPAGE="https://github.com/zellio/emacs-asdf-vm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

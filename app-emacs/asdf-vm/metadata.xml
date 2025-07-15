@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Automatically set the dark-mode theme based on system status</longdescription>
+	<longdescription>ASDF-VM porcelain</longdescription>
 </pkgmetadata>
