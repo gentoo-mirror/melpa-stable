@@ -1696,7 +1696,7 @@ app-emacs/laas 1.1: A bundle of as-you-type LaTeX snippets
 app-emacs/lab 2.2.2: An interface for GitLab
 app-emacs/labburn-theme 1.0.0: A lab color space zenburn theme
 app-emacs/lacquer 1.2.2: Switch theme/font by selecting from a cache
-app-emacs/lambdapi-mode 2.6.0: A major mode to edit Lambdapi files
+app-emacs/lambdapi-mode 3.0.0: A major mode for editing Lambdapi source code
 app-emacs/langtool 2.3.7: Grammar check utility using LanguageTool
 app-emacs/langtool-popup 1.1.0: Popup message extension for langtool.el
 app-emacs/language-id 0.20: Library to work with programming language identifiers
@@ -2942,7 +2942,7 @@ app-emacs/tray 0.1.6: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.291: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.292: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.2: A tree style file explorer package
