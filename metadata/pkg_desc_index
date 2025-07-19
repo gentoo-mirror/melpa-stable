@@ -1606,7 +1606,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.2: Enchanted Spell Checker
-app-emacs/jira 2.2.0: Emacs Interface to Jira
+app-emacs/jira 2.4.0: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -2942,7 +2942,7 @@ app-emacs/tray 0.1.6: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.292: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.293: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.2: A tree style file explorer package
