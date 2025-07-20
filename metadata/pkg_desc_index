@@ -2358,7 +2358,7 @@ app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
 app-emacs/pet 3.1.0: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: A simple wrapper around asynchronous processes
-app-emacs/pg 0.55: Socket-level interface to the PostgreSQL database
+app-emacs/pg 0.56: Socket-level interface to the PostgreSQL database
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
 app-emacs/phi-search 20160630: Another incremental search & replace, compatible with "multiple-cursors"
 app-emacs/phi-search-mc 2.2.1: Multiple-cursors extension for phi-search
@@ -3056,7 +3056,7 @@ app-emacs/visual-regexp-steroids 1.1.0: Extends visual-regexp to support other r
 app-emacs/visual-replace 1.2: A prompt for replace-string and query-replace
 app-emacs/vline 1.11: Show vertical line (column highlighting) mode
 app-emacs/voca-builder 0.2.0: [No description available]
-app-emacs/volatile-highlights 1.16: Minor mode for visual feedback on some operations
+app-emacs/volatile-highlights 1.17: Minor mode for visual feedback on some operations
 app-emacs/vs-dark-theme 2.0: Visual Studio IDE dark theme
 app-emacs/vs-light-theme 2.0: Visual Studio IDE light theme
 app-emacs/vscode-dark-plus-theme 2.0.0: Default Visual Studio Code Dark+ theme
@@ -3071,7 +3071,7 @@ app-emacs/wakib-keys 1.0.0: Minor Mode for Modern Keybindings
 app-emacs/walkclj 0.2.0: Manipulate Clojure parse trees
 app-emacs/walkman 0.2: Write HTTP requests in Org mode
 app-emacs/wandbox 0.6.4: Wandbox client
-app-emacs/wavedrom-mode 0.1.0: WaveDrom Integration
+app-emacs/wavedrom-mode 0.1.1: WaveDrom Integration
 app-emacs/wc-goal-mode 2.1: Running word count with goals (minor mode)
 app-emacs/wc-mode 1.4.1: Running word count with goals (minor mode)
 app-emacs/weak-ref 2.0: Weak references for Emacs Lisp
