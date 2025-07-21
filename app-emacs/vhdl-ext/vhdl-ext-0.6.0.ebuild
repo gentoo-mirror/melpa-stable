@@ -24,7 +24,6 @@ DEPEND="app-emacs/vhdl-ts-mode
 	app-emacs/ripgrep
 	app-emacs/hydra
 	app-emacs/flycheck
-	app-emacs/outshine
 	app-emacs/async"
 RDEPEND="app-emacs/vhdl-ts-mode
 	app-emacs/lsp-mode
@@ -32,5 +31,4 @@ RDEPEND="app-emacs/vhdl-ts-mode
 	app-emacs/ripgrep
 	app-emacs/hydra
 	app-emacs/flycheck
-	app-emacs/outshine
 	app-emacs/async"

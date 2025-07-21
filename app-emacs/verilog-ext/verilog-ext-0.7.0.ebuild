@@ -27,7 +27,6 @@ DEPEND="app-emacs/verilog-mode
 	app-emacs/apheleia
 	app-emacs/yasnippet
 	app-emacs/flycheck
-	app-emacs/outshine
 	app-emacs/async"
 RDEPEND="app-emacs/verilog-mode
 	app-emacs/verilog-ts-mode
@@ -38,5 +37,4 @@ RDEPEND="app-emacs/verilog-mode
 	app-emacs/apheleia
 	app-emacs/yasnippet
 	app-emacs/flycheck
-	app-emacs/outshine
 	app-emacs/async"
