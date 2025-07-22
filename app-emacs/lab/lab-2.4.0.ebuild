@@ -18,15 +18,13 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/memoize
-	app-emacs/request
+DEPEND="app-emacs/request
 	app-emacs/s
 	app-emacs/f
 	app-emacs/compat
 	app-emacs/promise
 	app-emacs/async-await"
-RDEPEND="app-emacs/memoize
-	app-emacs/request
+RDEPEND="app-emacs/request
 	app-emacs/s
 	app-emacs/f
 	app-emacs/compat
