@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Ollama Buddy: Your Friendly AI Assistant"
+DESCRIPTION="Ollama LLM AI Assistant ChatGPT Claude Gemini Grok Support"
 
 HOMEPAGE="https://github.com/captainflasmr/ollama-buddy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
