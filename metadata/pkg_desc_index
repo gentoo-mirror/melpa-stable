@@ -1608,7 +1608,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.2: Enchanted Spell Checker
-app-emacs/jira 2.7.0: Emacs Interface to Jira
+app-emacs/jira 2.7.1: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -2359,7 +2359,7 @@ app-emacs/perspective 2.20: Switch between named "perspectives" of the editor
 app-emacs/perspective-exwm 0.2.0: Better integration for perspective.el and EXWM
 app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
-app-emacs/pet 3.1.0: Executable and virtualenv tracker for python-mode
+app-emacs/pet 3.2.0: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: A simple wrapper around asynchronous processes
 app-emacs/pg 0.56: Socket-level interface to the PostgreSQL database
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
