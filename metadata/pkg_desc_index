@@ -485,7 +485,7 @@ app-emacs/coverlay 3.0.2: Test coverage overlays
 app-emacs/cpp-auto-include 0.2.0: Insert and delete C++ header files automatically
 app-emacs/cpputils-cmake 5.5: Easy real time C++ syntax check and intellisense if you use CMake
 app-emacs/crc 1.1.2: Cyclic Redundancy Check
-app-emacs/creamsody-theme 1.0.9: Straight from the soda fountain
+app-emacs/creamsody-theme 1.0.12: Straight from the soda fountain
 app-emacs/create-link 1.0: Formatted link generator in browser
 app-emacs/creds 0.0.6.1: A parser credentials file library (not limited to credentials entries)
 app-emacs/cricbuzz 0.3.6: Cricket scores from cricbuzz in emacs
@@ -686,7 +686,7 @@ app-emacs/ebdb-mua-sidecar 1.7.0: EBDB Integration for Universal Sidecar
 app-emacs/ebf 1.0.0: Brainfuck language transpiler to Emacs Lisp
 app-emacs/ebib 2.50.1: A BibTeX database manager
 app-emacs/ebib-sidecar 1.7.0: Sidecar to show formatted reference of current Ebib Entry
-app-emacs/eca 0.2.0: AI pair programming via ECA (Editor Code Assistant)
+app-emacs/eca 0.3.0: AI pair programming via ECA (Editor Code Assistant)
 app-emacs/ecukes 0.6.18: Cucumber for Emacs
 app-emacs/edbi 0.1.2: Emacs Database Interface
 app-emacs/ede-php-autoload 1.1.0: Simple EDE PHP Project
@@ -2359,7 +2359,7 @@ app-emacs/perspective 2.20: Switch between named "perspectives" of the editor
 app-emacs/perspective-exwm 0.2.0: Better integration for perspective.el and EXWM
 app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
-app-emacs/pet 3.2.0: Executable and virtualenv tracker for python-mode
+app-emacs/pet 3.2.1: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: A simple wrapper around asynchronous processes
 app-emacs/pg 0.56: Socket-level interface to the PostgreSQL database
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
