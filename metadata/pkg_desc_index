@@ -454,7 +454,7 @@ app-emacs/consult-project-extra 0.1: Consult integration for project.el
 app-emacs/consult-recoll 1.0.0: Recoll queries using consult
 app-emacs/consult-tex 0.4.0: Consult powered completion for tex
 app-emacs/consult-todo 0.5.0: Search hl-todo keywords in consult
-app-emacs/consult-vc-modified-files 0.1.0: Show git modified files in a vc project with consult
+app-emacs/consult-vc-modified-files 0.3.0: Show git modified files with consult and vc
 app-emacs/context-transient 1.0.1: Context specific transients
 app-emacs/contextual 1.0.1: Contextual profile management system
 app-emacs/contextual-menubar 1.0.0: Display the menubar only on a graphical display
@@ -1370,13 +1370,13 @@ app-emacs/helm-fish-completion 0.6: Helm interface for fish completion
 app-emacs/helm-flycheck 0.4: Show flycheck errors with helm
 app-emacs/helm-fuz 1.3.0: Integrate Helm and Fuz
 app-emacs/helm-fuzzy 0.1.6: Fuzzy matching for helm source
-app-emacs/helm-ghq 1.8.1: Ghq with helm interface
+app-emacs/helm-ghq 1.10.0: Ghq with helm interface
 app-emacs/helm-github-stars 1.3.7: Helm interface for your github's stars
 app-emacs/helm-gitlab 0.8.0: Helm interface to Gitlab
 app-emacs/helm-go-package 0.3.0: Helm sources for Go programming language's package
 app-emacs/helm-grepint 1.6.1: Generic helm interface to grep
 app-emacs/helm-gtags 1.5.7: GNU GLOBAL helm interface
-app-emacs/helm-hatena-bookmark 2.4.4: Hatena::Bookmark with helm interface
+app-emacs/helm-hatena-bookmark 2.5.0: Hatena::Bookmark with helm interface
 app-emacs/helm-hayoo 0.0.5: Source and configured helm for searching hayoo
 app-emacs/helm-ispell 0.1: Ispell-complete-word with helm interface
 app-emacs/helm-lobsters 0.8.0: Helm front-end for lobste.rs
@@ -1764,7 +1764,7 @@ app-emacs/llama 1.0.0: Compact syntax for short lambda
 app-emacs/lms 1.1: Squeezebox / Logitech Media Server frontend
 app-emacs/load-relative 1.3.2: Relative file load (within a multi-file Emacs package)
 app-emacs/loc-changes 1.1: Helps users and programs keep track of positions even after buffer changes
-app-emacs/loco 0.1.19: Enter complex key sequences with ease!
+app-emacs/loco 0.1.20: Enter complex key sequences with ease!
 app-emacs/log4e 0.4.1: Provide logging framework for elisp
 app-emacs/log4j-mode 1.7.1: Major mode for viewing log files
 app-emacs/logalimacs 1.0.0: Front-end to logaling-command for Ruby gems
@@ -1904,7 +1904,7 @@ app-emacs/minimal-session-saver 0.6.2: Very lean session saver
 app-emacs/minions 1.1.1: A minor-mode menu for the mode line
 app-emacs/minitest 0.9.2: An Emacs mode for ruby minitest files
 app-emacs/mint-mode 2.0.0: Major mode for the Mint programming language
-app-emacs/minuet 0.5.4: Code completion using LLM
+app-emacs/minuet 0.5.5: Code completion using LLM
 app-emacs/mips-mode 1.2.0: Major-mode for MIPS assembly
 app-emacs/mise 0.3.1: Support for `mise' cli
 app-emacs/mistty 1.5: Shell/Comint alternative based on term.el
@@ -2120,6 +2120,7 @@ app-emacs/org-alert 0.3.0: Notify org deadlines via notify-send
 app-emacs/org-analyzer 1.0.4: Org-analyzer is a tool that extracts time tracking data from org files
 app-emacs/org-anki 4.0.2: Synchronize org-mode entries to Anki
 app-emacs/org-appear 0.3.1: Auto-toggle Org elements
+app-emacs/org-arbeitszeit 0.0.5: Calculate your worktime
 app-emacs/org-assistant 1.5: Org babel extension for Chat Assistant APIs
 app-emacs/org-auto-expand 0.1: Automatically expand certain headings
 app-emacs/org-auto-export-pandoc 0.0.1: Support for the Foo programming language
@@ -2359,7 +2360,7 @@ app-emacs/perspective 2.20: Switch between named "perspectives" of the editor
 app-emacs/perspective-exwm 0.2.0: Better integration for perspective.el and EXWM
 app-emacs/perspeen 0.1: An Emacs package for multi-workspace
 app-emacs/pest-mode 0.1.0: Major mode for editing Pest files
-app-emacs/pet 3.2.1: Executable and virtualenv tracker for python-mode
+app-emacs/pet 3.4.1: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 1.10.3: A simple wrapper around asynchronous processes
 app-emacs/pg 0.56: Socket-level interface to the PostgreSQL database
 app-emacs/phan 0.0.4: Utility functions for Phan (PHP static analizer)
