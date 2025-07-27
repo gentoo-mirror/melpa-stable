@@ -282,7 +282,7 @@ app-emacs/caseformat 0.1.0: Format based letter case converter
 app-emacs/cask-mode 0.1: Major mode for editing Cask files
 app-emacs/cask-package-toolset 0.9.2: Toolsettize your package
 app-emacs/caskxy 0.0.5: Control Cask in Emacs
-app-emacs/casual 2.8.1: Transient user interfaces for various modes
+app-emacs/casual 2.8.2: Transient user interfaces for various modes
 app-emacs/casual-avy 2.0.1: Transient UI for Avy
 app-emacs/casual-suite 2.0.0: A suite of opinionated Transient UIs
 app-emacs/casual-symbol-overlay 2.0.0: Transient UI for Symbol Overlay
@@ -2295,7 +2295,7 @@ app-emacs/ox-linuxmag-fr 0.3.0: Org-mode exporter for the French GNU/Linux Magaz
 app-emacs/ox-pandoc 2.0: An Org-mode exporter using pandoc
 app-emacs/ox-report 0.4: Export your org file to minutes report PDF file
 app-emacs/ox-review 0.3.0: Re:VIEW Back-End for Org Export Engine
-app-emacs/ox-spectacle 2.0: Spectacle.js Presentation Back-End for Org Export Engine
+app-emacs/ox-spectacle 2.0.1: Spectacle.js Presentation Back-End for Org Export Engine
 app-emacs/ox-timeline 0.1.0: HTML Timeline Back-End for Org Export Engine
 app-emacs/ox-tufte 4.2.1: Tufte HTML org-mode export backend
 app-emacs/ox-twbs 1.1.4: Bootstrap compatible HTML Back-End for Org
@@ -2951,7 +2951,7 @@ app-emacs/tray 0.1.6: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.294: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.295: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.2: A tree style file explorer package
