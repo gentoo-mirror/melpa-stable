@@ -5,18 +5,22 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="go-translate"
+REALNAME="bilibili"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Translation framework, configurable and scalable"
+DESCRIPTION="Watch videos of BiliBili (哔哩哔哩) in org mode"
 
-HOMEPAGE="https://github.com/lorniu/go-translate"
+HOMEPAGE="https://github.com/lorniu/bilibili.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/org-mode
+	app-emacs/mpvi
+	app-emacs/pdd"
+RDEPEND="app-emacs/org-mode
+	app-emacs/mpvi
+	app-emacs/pdd"
