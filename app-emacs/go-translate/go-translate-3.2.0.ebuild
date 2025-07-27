@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="communinfo"
+REALNAME="go-translate"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Community maintained Info-url-alist"
+DESCRIPTION="Translation framework, configurable and scalable"
 
-HOMEPAGE="https://codeberg.org/mekeor/emacs-communinfo"
+HOMEPAGE="https://github.com/lorniu/go-translate"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/pdd"
+RDEPEND="app-emacs/pdd"
