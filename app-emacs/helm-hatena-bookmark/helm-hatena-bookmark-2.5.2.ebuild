@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="mediawiki"
+REALNAME="helm-hatena-bookmark"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Mediawiki frontend"
+DESCRIPTION="Helm interface for Hatena::Bookmark"
 
-HOMEPAGE="https://github.com/hexmode/mediawiki-el"
+HOMEPAGE="https://github.com/masutaka/emacs-helm-hatena-bookmark"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/web"
-RDEPEND="app-emacs/web"
+DEPEND="app-emacs/helm"
+RDEPEND="app-emacs/helm"
