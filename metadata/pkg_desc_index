@@ -335,6 +335,7 @@ app-emacs/citre 0.4.1: Superior code reading & auto-completion tool with pluggab
 app-emacs/cl-format 1.2.1: CL format routine
 app-emacs/cl-libify 0.2: Update elisp code to use cl-lib instead of cl
 app-emacs/clang-capf 1.2.3: Completion-at-point backend for c/c++ using clang
+app-emacs/claude-code 0.6.0: Run Claude Code sessions
 app-emacs/click-mode 0.0.4: Major mode for the Click Modular Router Project
 app-emacs/clingo-mode 0.4.0: A major mode for editing Answer Set Programs
 app-emacs/clipetty 0.1: Send every kill from a TTY frame to the system clipboard
@@ -1254,7 +1255,6 @@ app-emacs/go-playground 1.10.0: Local Golang playground for short snippets
 app-emacs/go-rename 1.6.0: Integration of the 'gorename' tool into Emacs
 app-emacs/go-scratch 0.0.1: *scratch* buffer for Go
 app-emacs/go-tag 1.1.1: Edit Golang struct field tag
-app-emacs/go-translate 3.2.0: Translation framework, configurable and scalable
 app-emacs/god-mode 2.18.0: Minor mode for God-like command entering
 app-emacs/godoctor 0.6.0: Frontend for godoctor
 app-emacs/gofmt-tag 1.0.2: Format and align go struct tags
@@ -1306,6 +1306,7 @@ app-emacs/gruvbox-theme 1.30.2: A retro-groove colour theme for Emacs
 app-emacs/gscholar-bibtex 0.3.3: Retrieve BibTeX from Google Scholar and other online sources(ACM, IEEE, DBLP)
 app-emacs/gsettings 1.0.0: GSettings (Gnome) helpers
 app-emacs/gsnip 0.1.0: A gitlab snippet client
+app-emacs/gt 3.2.1: Translation framework, configurable and scalable
 app-emacs/gtk-variant 1.0.4: Set the GTK theme variant (titlebar color)
 app-emacs/guide-key 1.2.5: Guide the following key bindings automatically and dynamically
 app-emacs/guide-key-tip 0.0.1: Show guide-key.el hints using pos-tip.el
@@ -1377,7 +1378,7 @@ app-emacs/helm-gitlab 0.8.0: Helm interface to Gitlab
 app-emacs/helm-go-package 0.3.0: Helm sources for Go programming language's package
 app-emacs/helm-grepint 1.6.1: Generic helm interface to grep
 app-emacs/helm-gtags 1.5.7: GNU GLOBAL helm interface
-app-emacs/helm-hatena-bookmark 2.5.0: Hatena::Bookmark with helm interface
+app-emacs/helm-hatena-bookmark 2.5.2: Helm interface for Hatena::Bookmark
 app-emacs/helm-hayoo 0.0.5: Source and configured helm for searching hayoo
 app-emacs/helm-ispell 0.1: Ispell-complete-word with helm interface
 app-emacs/helm-lobsters 0.8.0: Helm front-end for lobste.rs
@@ -1406,6 +1407,7 @@ app-emacs/helm-projectile 1.2.0: Helm integration for Projectile
 app-emacs/helm-purpose 0.1: Helm Interface for Purpose
 app-emacs/helm-pydoc 0.7: Pydoc with helm interface
 app-emacs/helm-qiita 1.1.3: Qiita with helm interface
+app-emacs/helm-raindrop 0.0.2: Raindrop.io with helm interface
 app-emacs/helm-rdefs 1.0.1: Rdefs with helm interface
 app-emacs/helm-recoll 1.2: Helm interface for the recoll desktop search tool
 app-emacs/helm-rg 0.1: A helm interface to ripgrep
@@ -1608,7 +1610,7 @@ app-emacs/jet 1.2.0: Emacs integration for jet Clojure tool
 app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
-app-emacs/jinx 2.2: Enchanted Spell Checker
+app-emacs/jinx 2.3: Enchanted Spell Checker
 app-emacs/jira 2.7.1: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
@@ -1843,7 +1845,7 @@ app-emacs/manage-minor-mode-table 0.1.3: Manage minor-modes in table
 app-emacs/map-progress 1.0.0: Mapping macros that report progress
 app-emacs/map-regexp 1.0.0: Map over matches of a regular expression
 app-emacs/marcopolo 0.3.0: Emacs client for Docker API
-app-emacs/marginalia 2.1: Enrich existing commands with completion annotations
+app-emacs/marginalia 2.2: Enrich existing commands with completion annotations
 app-emacs/mark-thing-at 1.1.0: Mark a pattern at the current point
 app-emacs/mark-tools 0.3: Some simple tools to access the mark-ring in Emacs
 app-emacs/markdown-changelog 0.0.2: Maintain changelog entries
@@ -1869,7 +1871,7 @@ app-emacs/mbe 0.1: Macros by Example
 app-emacs/mc-extras 1.3.0: Extra functions for multiple-cursors mode
 app-emacs/mcp-server-lib 0.1.0: Model Context Protocol server library
 app-emacs/md4rd 0.3.1: Mode for reddit (browse it)
-app-emacs/mediawiki 2.4.1: Mediawiki frontend
+app-emacs/mediawiki 2.4.2: Mediawiki frontend
 app-emacs/meghanada 1.3.2: A better java development mode
 app-emacs/melpa-upstream-visit 1.0.0: A set of kludges to visit a melpa-hosted package's homepage
 app-emacs/memento-mori 0.3.1: Reminder of our mortality
@@ -2111,7 +2113,7 @@ app-emacs/opensub 0.4.0: Search and download from open-subtitles
 app-emacs/operate-on-number 1.3.0: Operate on number at point with arithmetic functions
 app-emacs/orangey-bits-theme 1.0.2: A Theme with smashing orangey bits
 app-emacs/ordered-set 0.2.1: Insertion-order sets
-app-emacs/orderless 1.4: Completion style for matching regexps in any order
+app-emacs/orderless 1.5: Completion style for matching regexps in any order
 app-emacs/ordinal 1.0.0: Convert number to ordinal number notation
 app-emacs/org-ac 0.0.2: Some auto-complete sources for org-mode
 app-emacs/org-agenda-files-track 0.4.0: Fine-track `org-agenda-files' to speed-up `org-agenda'
@@ -2272,6 +2274,7 @@ app-emacs/osx-plist 2.0.0: Apple plist file parser
 app-emacs/osx-pseudo-daemon 2.2: Daemon mode that plays nice with OSX
 app-emacs/osx-trash 0.2.2: System trash for OS X
 app-emacs/otpp 3.3.5: One tab per project, with unique names
+app-emacs/outli 0.2.3: Org-like code outliner
 app-emacs/outline-indent 1.1.1: Folding text based on indentation (origami alternative)
 app-emacs/outline-minor-faces 1.1.3: Highlight only section headings
 app-emacs/outlook 0.1: Send emails in MS Outlook style
@@ -2649,12 +2652,13 @@ app-emacs/saveplace-pdf-view 1.0.9: Save place in pdf-view buffers
 app-emacs/say-what-im-doing 0.2: Dictate what you're doing with text to speech
 app-emacs/sayid 0.1.0: Sayid nREPL middleware client
 app-emacs/sbt-mode 2.0.0: Interactive support for sbt projects
-app-emacs/scad-mode 96.0: A major mode for editing OpenSCAD code
+app-emacs/scad-mode 97.0: A major mode for editing OpenSCAD code
 app-emacs/scala-mode 1.1.0: Major mode for editing Scala
 app-emacs/schrute 0.2.2: Help you remember there is a better way to do something
 app-emacs/scpaste 0.7.0: Paste to the web via scp
 app-emacs/scratch 1.4: Mode-specific scratch buffers
 app-emacs/scratch-comment 1.0.0: Insert Elisp result as comment in scratch buffer
+app-emacs/scratch-plus 1.2.0: Better Scratch Buffer Behavior
 app-emacs/scrollkeeper 0.1.1: Custom scrolling commands with visual guidelines
 app-emacs/scss-mode 0.5.0: Major mode for editing SCSS files
 app-emacs/sculpture-themes 1.7.1: Themes with vivid colors
