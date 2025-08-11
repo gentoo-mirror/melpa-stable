@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Trading View Pine Script major mode"
+DESCRIPTION="Major mode for TradingView Pine Script v6"
 
 HOMEPAGE="https://github.com/ericcrosson/pine-script-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
