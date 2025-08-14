@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Major mode to edit TV Tropes format &quot;.trp&quot; files</longdescription>
+	<longdescription>Major mode to edit TV Tropes format ".trp" files</longdescription>
 </pkgmetadata>
