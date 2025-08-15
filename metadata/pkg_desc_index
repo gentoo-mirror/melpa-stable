@@ -421,7 +421,7 @@ app-emacs/company-web 2.1: Company version of ac-html, complete for web,html,emm
 app-emacs/company-wordfreq 0.1.2: Company backend for human language texts
 app-emacs/company-ycmd 1.2: Company-mode backend for ycmd
 app-emacs/competitive-programming-snippets 1.1.4: Competitive Programming snippets for Yasnippet
-app-emacs/compile-angel 1.1.1: Automatically Compile Elisp files (auto-compile alternative)
+app-emacs/compile-angel 1.1.2: Automatically Compile Elisp files (auto-compile alternative)
 app-emacs/compile-multi 0.7: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 0.7: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 0.7: Integration for `compile-multi' and `embark'
@@ -1339,7 +1339,7 @@ app-emacs/haxor-mode 0.7.0: Major mode for editing Haxor Assembly Files
 app-emacs/hcl-mode 0.3: Major mode for Hashicorp
 app-emacs/heaven-and-hell 0.0.5: Easy toggle light/dark themes
 app-emacs/helix 0.8.0: A minor mode emulating Helix keybindings
-app-emacs/helm 4.0.4: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 4.0.5: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-apt 1.1: Helm interface for Debian/Ubuntu packages (apt-*)
 app-emacs/helm-aws 1.0.0: Manage AWS EC2 server instances directly from Emacs
 app-emacs/helm-backup 1.1.1: Backup each file change using git
@@ -1356,7 +1356,7 @@ app-emacs/helm-circe 0.4: Helm circe buffer management
 app-emacs/helm-codesearch 0.6.0: Helm interface for codesearch
 app-emacs/helm-commandlinefu 0.3: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 0.2.8: Helm interface for company-mode
-app-emacs/helm-core 4.0.4: Development files for Helm
+app-emacs/helm-core 4.0.5: Development files for Helm
 app-emacs/helm-cscope 0.1.1: Helm interface for xcscope.el
 app-emacs/helm-dash 1.3.0: Offline documentation browser for +150 APIs using Dash docsets
 app-emacs/helm-descbinds 1.13: A convenient `describe-bindings' with `helm'
@@ -1403,7 +1403,7 @@ app-emacs/helm-perldoc 0.7: Perldoc with helm interface
 app-emacs/helm-perspeen 0.1.2: Helm interface for perspeen
 app-emacs/helm-proc 0.0.5: Helm interface for managing system processes
 app-emacs/helm-project-persist 1.0.0: Helm integration for project-persist package
-app-emacs/helm-projectile 1.3.1: Helm integration for Projectile
+app-emacs/helm-projectile 1.3.2: Helm integration for Projectile
 app-emacs/helm-purpose 0.1: Helm Interface for Purpose
 app-emacs/helm-pydoc 0.7: Pydoc with helm interface
 app-emacs/helm-qiita 1.1.3: Qiita with helm interface
@@ -2473,7 +2473,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 31.1: Major mode for editing protocol buffers
+app-emacs/protobuf-mode 32.0: Major mode for editing protocol buffers
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions
 app-emacs/psalm 0.6.0: Interface to Psalm
