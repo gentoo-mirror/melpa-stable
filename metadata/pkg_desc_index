@@ -406,7 +406,7 @@ app-emacs/company-php 2.7.0: A company back-end for PHP
 app-emacs/company-phpactor 0.1.0: Company-mode backend for Phpactor
 app-emacs/company-plisp 0.0.1: Company mode backend for PicoLisp language
 app-emacs/company-posframe 0.7.0: Use a posframe as company candidate menu
-app-emacs/company-prescient 6.3.1: Prescient.el + Company
+app-emacs/company-prescient 6.3.2: Prescient.el + Company
 app-emacs/company-quickhelp 2.3.0: Popup documentation for completion candidates
 app-emacs/company-quickhelp-terminal 0.1.1: Terminal support for `company-quickhelp'
 app-emacs/company-restclient 0.3.0: Company-mode completion back-end for restclient-mode
@@ -451,7 +451,7 @@ app-emacs/consult-gh-with-pr-review 2.6: "pr-review" Integration for consult-gh
 app-emacs/consult-ghq 0.0.5: Ghq interface using consult
 app-emacs/consult-hatena-bookmark 0.4.1: Consult commands for the Hatena Bookmark
 app-emacs/consult-lsp 2.1: LSP-mode Consult integration
-app-emacs/consult-notmuch 1.0.0: Notmuch search using consult
+app-emacs/consult-notmuch 1.1.0: Notmuch search using consult
 app-emacs/consult-project-extra 0.1: Consult integration for project.el
 app-emacs/consult-recoll 1.0.0: Recoll queries using consult
 app-emacs/consult-tex 0.4.0: Consult powered completion for tex
@@ -469,7 +469,7 @@ app-emacs/copyit 0.1.0: Copy it, yank anything!
 app-emacs/copyit-pandoc 0.1.0: Copy it, yank anything!
 app-emacs/corfu 2.3: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 1.3: Show first candidate in an overlay while typing
-app-emacs/corfu-prescient 6.3.1: Prescient.el + Corfu
+app-emacs/corfu-prescient 6.3.2: Prescient.el + Corfu
 app-emacs/corral 0.3: Quickly surround text with delimiters
 app-emacs/cort 7.1.0: Simplify extended unit test framework
 app-emacs/counsel 0.15.1: Various completion functions using Ivy
@@ -725,7 +725,7 @@ app-emacs/el-init 0.2.0: A loader inspired by init-loader
 app-emacs/el-init-viewer 0.1.0: Record viewer for el-init
 app-emacs/el-job 2.4.8: Contrived way to call a function using all CPU cores
 app-emacs/el-mock 1.25.1: Tiny Mock and Stub framework in Emacs Lisp
-app-emacs/el-patch 3.1: Future-proof your Elisp
+app-emacs/el-patch 3.1.1: Future-proof your Elisp
 app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
 app-emacs/el2markdown 0.0.8: Convert commentary of elisp files to markdown
 app-emacs/el2org 0.6.0: Convert elisp file to org file
@@ -1587,7 +1587,7 @@ app-emacs/ivy-hydra 0.15.1: Additional key bindings for Ivy
 app-emacs/ivy-migemo 1.4.0: Use migemo on ivy
 app-emacs/ivy-mpdel 1.0.0: Ivy interface to navigate MPD
 app-emacs/ivy-posframe 0.5.5: Using posframe to show Ivy
-app-emacs/ivy-prescient 6.3.1: Prescient.el + Ivy
+app-emacs/ivy-prescient 6.3.2: Prescient.el + Ivy
 app-emacs/ivy-purpose 0.1: Ivy Interface for Purpose
 app-emacs/ivy-rich 0.1.7: More friendly display transformer for ivy
 app-emacs/ivy-rtags 3.23: RTags completion back-end for ivy
@@ -2443,7 +2443,7 @@ app-emacs/pr-review 0.2.0: Review github PR
 app-emacs/prassee-theme 1.0: A dark contrast color theme for Emacs
 app-emacs/prefab 0.1.1: Integration for project generation tools like cookiecutter
 app-emacs/preproc-font-lock 0.0.6: Highlight C preprocessor directives
-app-emacs/prescient 6.3.1: Better sorting and filtering
+app-emacs/prescient 6.3.2: Better sorting and filtering
 app-emacs/presentation 0.1.1: Display large character for presentation
 app-emacs/prettier 1.3.0: Code formatting with Prettier
 app-emacs/prettier-rc 0.1.0: Use local rc rules with prettier
@@ -2672,7 +2672,7 @@ app-emacs/selected-window-accent-mode 0.6.0: Accent Selected Window
 app-emacs/selected-window-contrast 0.0.4: Highlight by brightness of text and background
 app-emacs/selectric-mode 1.4.2: IBM Selectric mode for Emacs
 app-emacs/selectrum 3.1: Easily select item from list
-app-emacs/selectrum-prescient 6.3.1: Prescient.el + Selectrum
+app-emacs/selectrum-prescient 6.3.2: Prescient.el + Selectrum
 app-emacs/seml-mode 1.6.0: Major-mode for SEML, S-Expression Markup Language, file
 app-emacs/sensei 0.43.3: A client for sensei
 app-emacs/separedit 0.3.37: Edit comment/string/docstring/code block in separate buffer
@@ -3054,7 +3054,7 @@ app-emacs/verb 3.1.0: Organize and send HTTP requests
 app-emacs/verilog-ext 0.7.0: SystemVerilog Extensions
 app-emacs/verilog-ts-mode 0.4.0: Verilog Tree-sitter major mode
 app-emacs/vertico 2.4: VERTical Interactive COmpletion
-app-emacs/vertico-prescient 6.3.1: Prescient.el + Vertico
+app-emacs/vertico-prescient 6.3.2: Prescient.el + Vertico
 app-emacs/vertigo 1.0: Jump across lines using the home row
 app-emacs/vhdl-ext 0.6.1: VHDL Extensions
 app-emacs/vhdl-ts-mode 0.3.1: VHDL Tree-sitter major mode
