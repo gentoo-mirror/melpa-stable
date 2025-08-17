@@ -2855,7 +2855,6 @@ app-emacs/sx 0.4: StackExchange client. Ask and answer questions on Stack Overfl
 app-emacs/sxiv 0.4.1: Run the sxiv image viewer
 app-emacs/symbol-overlay 4.3: Highlight symbols with keymap-enabled overlays
 app-emacs/symbolword-mode 1.0: [No description available]
-app-emacs/symex 1.1: An evil way to edit Lisp symbolic expressions as trees
 app-emacs/symon 20160630: Tiny graphical system monitor
 app-emacs/syncthing 3.0.2: Client for Syncthing
 app-emacs/synosaurus 0.2.1: An Emacs frontend for thesauri
@@ -3173,7 +3172,7 @@ app-emacs/yagist 0.8.12: Yet Another Emacs integration for gist.github.com
 app-emacs/yaml 1.2.0: YAML parser for Elisp
 app-emacs/yaml-imenu 1.0.3: Enhancement of the imenu support in yaml-mode
 app-emacs/yaml-mode 0.0.16: Major mode for editing YAML files
-app-emacs/yaml-pro 1.3.2: Parser-aided YAML editing features
+app-emacs/yaml-pro 1.3.3: Parser-aided YAML editing features
 app-emacs/yang-mode 0.9.9: Major mode for editing YANG files
 app-emacs/yankpad 1.6: Paste snippets from an org-mode file
 app-emacs/yapfify 0.0.6: (automatically) format python buffers using YAPF
