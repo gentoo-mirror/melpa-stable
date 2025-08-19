@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A simple mode for editing Actionscript 3 files"
 
-HOMEPAGE="https://github.com/austinhaas/actionscript-mode"
+HOMEPAGE="https://codeberg.org/austinhaas/actionscript-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
