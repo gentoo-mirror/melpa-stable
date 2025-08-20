@@ -655,7 +655,7 @@ app-emacs/dslide 0.6.2: Domain Specific sLIDEs. Programmable Presentation
 app-emacs/dtrt-indent 1.25: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
-app-emacs/dune 3.19.1: Integration with the dune build system
+app-emacs/dune 3.20.0: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
 app-emacs/duplexer 0.2.0: Handle conflicts between local minor modes and reuse rules
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
@@ -1254,7 +1254,7 @@ app-emacs/go-playground 1.10.0: Local Golang playground for short snippets
 app-emacs/go-rename 1.6.0: Integration of the 'gorename' tool into Emacs
 app-emacs/go-scratch 0.0.1: *scratch* buffer for Go
 app-emacs/go-tag 1.1.1: Edit Golang struct field tag
-app-emacs/god-mode 2.18.0: Minor mode for God-like command entering
+app-emacs/god-mode 2.19.0: Minor mode for God-like command entering
 app-emacs/godoctor 0.6.0: Frontend for godoctor
 app-emacs/gofmt-tag 1.0.2: Format and align go struct tags
 app-emacs/goggles 0.4: Pulse modified regions
