@@ -750,7 +750,7 @@ app-emacs/elfeed-tube 0.15: YouTube integration for Elfeed
 app-emacs/elfeed-tube-mpv 0.15: Control mpv from Elfeed
 app-emacs/elgrep 1.0.0: Searching files for regular expressions
 app-emacs/elisa 1.1.7: Emacs Lisp Information System Assistant
-app-emacs/elisp-def 1.1: Macro-aware go-to-definition for elisp
+app-emacs/elisp-def 1.2: Macro-aware go-to-definition for elisp
 app-emacs/elisp-demos 2024.1.16: Elisp API Demos
 app-emacs/elisp-dev-mcp 1.0.0: MCP server for agentic Elisp development
 app-emacs/elisp-lint 0.4.0: Basic linting for Emacs Lisp
