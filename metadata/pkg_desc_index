@@ -2244,7 +2244,7 @@ app-emacs/org-tree-slide-pauses 0.1.0: Bring the \pause Beamer to org-tree-slide
 app-emacs/org-trello 0.8.2: Minor mode to synchronize org-mode buffer and trello board
 app-emacs/org-unique-id 0.4.1: Create unique IDs for org headers
 app-emacs/org-upcoming-modeline 0.1.6: Show next org event in mode line
-app-emacs/org-vcard 0.2.0: Org-mode support for vCard export and import
+app-emacs/org-vcard 0.3.0: Org-mode support for vCard export and import
 app-emacs/org-visibility 1.1.12: Persistent org tree visibility
 app-emacs/org-web-tools 1.3: Display and capture web content with Org-mode
 app-emacs/org-web-track 0.1.1: Web data tracking framework in Org Mode
