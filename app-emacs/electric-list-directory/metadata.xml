@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Major mode for TradingView Pine Script v6 and older</longdescription>
+	<longdescription>Lightweight popup directory browser</longdescription>
 </pkgmetadata>
