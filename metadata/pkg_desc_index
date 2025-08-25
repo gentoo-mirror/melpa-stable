@@ -737,6 +737,7 @@ app-emacs/eldoc-eask 0.1.0: Eldoc support for Eask-file
 app-emacs/eldoc-eval 1.1: Enable eldoc support when minibuffer is in use
 app-emacs/eldoc-stan 10.2.0: Eldoc support for stan functions
 app-emacs/electric-cursor 0.2: Change cursor automatically depending on mode
+app-emacs/electric-list-directory 1.4.1: Lightweight popup directory browser
 app-emacs/electric-operator 2.1: Automatically add spaces around operators
 app-emacs/electric-ospl 3.3.1: Electric OSPL Mode
 app-emacs/elescope 0.2: Seach and clone projects from the minibuffer
@@ -1611,7 +1612,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.3: Enchanted Spell Checker
-app-emacs/jira 2.7.1: Emacs Interface to Jira
+app-emacs/jira 2.7.2: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -2386,7 +2387,7 @@ app-emacs/pif 0.0.6: Prevent Initial Flash of Light
 app-emacs/pillar 1.0.0: Major mode for editing Pillar files
 app-emacs/pinboard 1.4: A pinboard.in client
 app-emacs/pinboard-popular 0.1.2: Displays links from the pinboard.in popular page
-app-emacs/pine-script-mode 3.5.3: Major mode for TradingView Pine Script v6
+app-emacs/pine-script-mode 3.5.4: Major mode for TradingView Pine Script v6 and older
 app-emacs/pinyin-isearch 1.6.9: Pinyin mode for isearch
 app-emacs/pinyin-search 1.1.0: Search Chinese by Pinyin
 app-emacs/pinyinlib 0.1.1: Convert first letter of Pinyin to Simplified/Traditional Chinese characters
@@ -2457,6 +2458,7 @@ app-emacs/prodigy 1.0.0: Manage external services
 app-emacs/prog-fill 1.0.0: Smartly format lines to use vertical space
 app-emacs/project-abbrev 0.0.4: Customize abbreviation expansion in the project
 app-emacs/project-butler 0.4.0: Lay out a project's buffers
+app-emacs/project-cmake 0.1: A cmake backend for project.el
 app-emacs/project-explorer 0.14.3: A project explorer sidebar
 app-emacs/project-persist 1.0.1: A minor mode to allow loading and saving of project settings
 app-emacs/project-persist-drawer 0.0.4: Use a project drawer with project-persist
@@ -2954,7 +2956,7 @@ app-emacs/tray 0.1.6: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.300: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.301: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.2: A tree style file explorer package
