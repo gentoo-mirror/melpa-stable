@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="pine-script-mode"
+REALNAME="electric-list-directory"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for TradingView Pine Script v6"
+DESCRIPTION="Lightweight popup directory browser"
 
-HOMEPAGE="https://github.com/ericcrosson/pine-script-mode"
+HOMEPAGE="https://github.com/kshartman/electric-directory-list"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
