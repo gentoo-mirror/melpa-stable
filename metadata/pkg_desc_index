@@ -1699,7 +1699,7 @@ app-emacs/kubernetes-evil 0.18.0: Kubernetes keybindings for evil-mode
 app-emacs/kurecolor 1.7.1: Color editing goodies
 app-emacs/kuronami-theme 2.0: A deep blue theme with cool autumnal colors
 app-emacs/laas 1.1: A bundle of as-you-type LaTeX snippets
-app-emacs/lab 2.4.0: An interface for GitLab
+app-emacs/lab 3.0.0: An interface for GitLab
 app-emacs/labburn-theme 1.0.0: A lab color space zenburn theme
 app-emacs/lacquer 1.2.2: Switch theme/font by selecting from a cache
 app-emacs/lambdapi-mode 3.0.0: A major mode for editing Lambdapi source code
@@ -1886,7 +1886,7 @@ app-emacs/merlin-company 4.1: Merlin and company mode integration
 app-emacs/merlin-eldoc 1.3: Eldoc for OCaml and Reason
 app-emacs/merlin-iedit 4.1: Merlin and iedit integration
 app-emacs/mermaid-docker-mode 2.2.0: Render mermaid graphs with Docker service
-app-emacs/meson-mode 0.3: Major mode for the Meson build system files
+app-emacs/meson-mode 0.4: Major mode for the Meson build system files
 app-emacs/meta-presenter 1.1.0: A simple multi-file presentation tool for Emacs
 app-emacs/metamorph 1.0.0: Transform your buffers with lisp
 app-emacs/metaweblog 1.1.18: An XML-RPC MetaWeblog and WordPress API client
@@ -2089,7 +2089,7 @@ app-emacs/ocamlformat 0.27.0: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.8.2: Automatic indentation with ocp-indent
 app-emacs/octicons 0.1: Octicons utility
-app-emacs/oer-reveal 4.32.0: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 4.34.0: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 1: Run OfflineIMAP from Emacs
 app-emacs/ol-notmuch 2.1.1: Links to notmuch messages
 app-emacs/olc 1.5.1: Open location code library
@@ -2580,7 +2580,7 @@ app-emacs/repl-toggle 0.7.2: Switch to/from repl buffer for current major-mode
 app-emacs/replace-symbol 1.1: Rename symbols in expressions or buffers
 app-emacs/replace-with-inflections 0.3.2: Inflection aware `query-replace'
 app-emacs/repo 0.3.0: Running repo from Emacs
-app-emacs/repo-grep 1.5.1: Project-wide grep search
+app-emacs/repo-grep 1.5.2: Project-wide grep search
 app-emacs/req-package 1.2: A use-package wrapper for package runtime dependencies management
 app-emacs/request 0.3.2: Compatible layer for URL request in Emacs
 app-emacs/request-deferred 0.3.2: Wrap request.el by deferred
