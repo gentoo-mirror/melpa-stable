@@ -357,7 +357,7 @@ app-emacs/clues-theme 1.0.1: An Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 0.5: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 4.1.0: Major-mode for editing CMake sources
+app-emacs/cmake-mode 4.1.1: Major-mode for editing CMake sources
 app-emacs/cmake-project 0.7: Integrates CMake build process with Emacs
 app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
@@ -1612,7 +1612,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.3: Enchanted Spell Checker
-app-emacs/jira 2.7.2: Emacs Interface to Jira
+app-emacs/jira 2.7.4: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
