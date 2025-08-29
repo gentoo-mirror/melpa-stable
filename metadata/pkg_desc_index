@@ -678,7 +678,7 @@ app-emacs/eask 0.11.7: Core Eask APIs, for Eask CLI development
 app-emacs/eask-mode 0.1.0: Major mode for editing Eask files
 app-emacs/easky 0.1.0: Control Eask in Emacs
 app-emacs/easy-find 1.0: Simple file searching like Nemo
-app-emacs/easy-hugo 3.11.61: Write blogs made with hugo by markdown or org-mode
+app-emacs/easy-hugo 3.12.61: Write blogs made with hugo by markdown or org-mode
 app-emacs/easy-jekyll 2.6.30: Major mode managing jekyll blogs
 app-emacs/easy-kill 0.9.4: Kill & mark things easily
 app-emacs/easy-kill-extras 0.9.14: Extra functions for easy-kill
