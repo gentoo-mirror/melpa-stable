@@ -689,6 +689,7 @@ app-emacs/ebf 1.0.0: Brainfuck language transpiler to Emacs Lisp
 app-emacs/ebib 2.51.1: A BibTeX database manager
 app-emacs/ebib-sidecar 1.7.0: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/eca 0.3.1: AI pair programming via ECA (Editor Code Assistant)
+app-emacs/ecb 2.52: A code browser for Emacs
 app-emacs/ecukes 0.6.18: Cucumber for Emacs
 app-emacs/edbi 0.1.2: Emacs Database Interface
 app-emacs/ede-php-autoload 1.1.0: Simple EDE PHP Project
@@ -804,7 +805,7 @@ app-emacs/emoji-cheat-sheet-plus 1.2.2: Emoji-cheat-sheet for emacs
 app-emacs/emoji-fontset 0.1.1: Set font face for Emoji
 app-emacs/emoji-github 0.2.3: Display list of GitHub's emoji. (cheat sheet)
 app-emacs/emojify 1.2: Display emojis in Emacs
-app-emacs/empv 4.9.0: A multimedia player/manager, YouTube interface
+app-emacs/empv 5.0.0: A multimedia player/manager, YouTube interface
 app-emacs/emr 0.4: Emacs refactoring system
 app-emacs/enclose 0.0.2: Enclose cursor within punctuation pairs
 app-emacs/encrypt-region 1.0: Encrypts and decrypts regions
@@ -1535,6 +1536,7 @@ app-emacs/indent-control 0.4.0: Management for indentation level
 app-emacs/indent-guide 20160630: Show vertical lines to guide indentation
 app-emacs/indent-info 1.0.0: Show indentation information in status bar
 app-emacs/indent-lint 1.0.0: Async indentation checker
+app-emacs/indentinator 1.0.0: Automatically indent code
 app-emacs/indium 2.1.7: JavaScript Awesome Development Environment
 app-emacs/inf-clojure 3.3.0: Basic interaction with a Clojure REPL
 app-emacs/inf-crystal 0.1.0: Run a Inferior-Crystal process in a buffer
