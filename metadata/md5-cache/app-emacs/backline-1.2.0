@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/compat
-DESCRIPTION=Show status of debug-on-error in mode-line
+DEPEND=app-emacs/compat app-emacs/outline-minor-faces
+DESCRIPTION=Preserve appearance of outline headings
 EAPI=8
-HOMEPAGE=https://github.com/tarsius/mode-line-debug
+HOMEPAGE=https://github.com/tarsius/backline
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compat >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/compat app-emacs/outline-minor-faces >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/mode-line-debug-1.4.5.tar
+SRC_URI=https://stable.melpa.org/packages/backline-1.2.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=4b5fbf61ad85e5d9c9cfeb32d79e179d
+_md5_=69dd82ccd8620d93251fc514771ccab0
