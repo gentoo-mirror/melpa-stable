@@ -429,7 +429,7 @@ app-emacs/compiler-explorer 0.6.1: Compiler explorer client (godbolt.org)
 app-emacs/composable 0.0.1: Composable editing
 app-emacs/composer 0.2.0: Interface to PHP Composer
 app-emacs/concurrent 0.5.1: Concurrent utility functions for emacs lisp
-app-emacs/cond-let 0.1.0: Additional and improved binding conditionals
+app-emacs/cond-let 0.1.1: Additional and improved binding conditionals
 app-emacs/conda 0.0.12: Work with your conda environments
 app-emacs/conda-project 0.1.0: Work with conda-project environments
 app-emacs/conkeror-minor-mode 1.6.2: Mode for editing conkeror javascript files
@@ -656,7 +656,7 @@ app-emacs/dslide 0.6.2: Domain Specific sLIDEs. Programmable Presentation
 app-emacs/dtrt-indent 1.25: Adapt to foreign indentation offsets
 app-emacs/ducpel 0.1: Logic game with sokoban elements
 app-emacs/dumb-jump 0.5.4: Jump to definition for 50+ languages without configuration
-app-emacs/dune 3.20.1: Integration with the dune build system
+app-emacs/dune 3.20.2: Integration with the dune build system
 app-emacs/dune-format 0.1: Reformat OCaml's dune files automatically
 app-emacs/duplexer 0.2.0: Handle conflicts between local minor modes and reuse rules
 app-emacs/dw 1.1.0: Diceware passphrase generation commands
@@ -985,7 +985,7 @@ app-emacs/find-file-in-repository 1.2: Quickly find files in a git, mercurial or
 app-emacs/finito 0.5.0: View and collect books
 app-emacs/fiplr 0.2.4: Fuzzy Search for Files in Projects
 app-emacs/fireplace 1.2.0: A cozy fireplace for emacs
-app-emacs/firstly-search 0.1.2: Search with any key: Dired, Package, Buffer menu modes
+app-emacs/firstly-search 0.1.4: Search with any key: Dired, Package, Buffer menu modes
 app-emacs/fish-completion 1.2: Fish completion for pcomplete (shell and Eshell)
 app-emacs/fish-mode 0.1.6: Major mode for fish shell scripts
 app-emacs/fit-text-scale 1.1.4: Fit text by scaling
