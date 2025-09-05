@@ -1845,6 +1845,7 @@ app-emacs/malinka 0.3.1: A C/C++ project configuration package for Emacs
 app-emacs/mallard-mode 0.3.0: Major mode for editing Mallard files
 app-emacs/manage-minor-mode 1.1: Manage your minor-modes easily
 app-emacs/manage-minor-mode-table 0.1.3: Manage minor-modes in table
+app-emacs/mantra 0.1: A system for scripting and parsing activity beyond macros
 app-emacs/map-progress 1.0.0: Mapping macros that report progress
 app-emacs/map-regexp 1.0.0: Map over matches of a regular expression
 app-emacs/marcopolo 0.3.0: Emacs client for Docker API
@@ -2488,6 +2489,7 @@ app-emacs/psysh 0.1.1: PsySH, PHP interactive shell (REPL)
 app-emacs/pt 0.0.3: A front-end for pt, The Platinum Searcher
 app-emacs/ptree 0.1.0: Property tree data structure
 app-emacs/pubmed 0.6.2: Interface to PubMed
+app-emacs/pubsub 0.1: A basic publish/subscribe system
 app-emacs/pueue 2.1.0: Interface for pueue
 app-emacs/pug-mode 1.0.8: Major mode for jade/pug template files
 app-emacs/punctuality-logger 0.8: Punctuality logger for Emacs
@@ -2578,6 +2580,7 @@ app-emacs/region-convert 1.0.0: Convert string in region by Lisp function
 app-emacs/region-state 0.1: Show the number of chars/lines or rows/columns in the region
 app-emacs/register-quicknav 0.4.3: Quickly jump to next/previous register
 app-emacs/related-files 0.3.0: Easily find files related to the current one
+app-emacs/repeat-ring 0.1: Structured and configurable repetition
 app-emacs/repeatable-motion 0.2: Make repeatable versions of motions
 app-emacs/repl-toggle 0.7.2: Switch to/from repl buffer for current major-mode
 app-emacs/replace-symbol 1.1: Rename symbols in expressions or buffers
@@ -2837,7 +2840,7 @@ app-emacs/subsonic 0.4.1: Browse and play music from subsonic servers with mpv
 app-emacs/sudo-edit 0.1.1: Open files as another user
 app-emacs/sudo-utils 3.0.1: Sudo utilities
 app-emacs/suggest 0.7: Suggest elisp functions that give the output requested
-app-emacs/sumibi 3.6.0: Japanese input method powered by ChatGPT API
+app-emacs/sumibi 3.7.0: Japanese input method powered by ChatGPT API
 app-emacs/suomalainen-kalenteri 2025: Finnish national and Christian holidays for calendar
 app-emacs/super-save 0.4.0: Auto-save buffers, based on your activity
 app-emacs/svg-mode-line-themes 0.1.3: SVG-based themes for mode-line
@@ -3067,6 +3070,7 @@ app-emacs/vim-region 0.3.0: Select region as vim
 app-emacs/vim-tab-bar 1.0.8: Vim-like tab bar
 app-emacs/vimgolf 0.10.3: VimGolf interface for the One True Editor
 app-emacs/vimish-fold 0.2.3: Fold text like in Vim
+app-emacs/virtual-ring 0.1: Fixed size rings with virtual rotation
 app-emacs/virtualenvwrapper 0.2.0: A featureful virtualenv tool for Emacs
 app-emacs/visual-fill-column 2.7: Fill-column for visual-line-mode
 app-emacs/visual-regexp 1.1.2: A regexp/replace command for Emacs with interactive visual feedback
