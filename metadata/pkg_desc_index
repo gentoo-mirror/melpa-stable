@@ -444,10 +444,10 @@ app-emacs/consult-dir 0.1: Insert paths into the minibuffer prompt
 app-emacs/consult-eglot 0.5.0: A consulting-read interface for eglot
 app-emacs/consult-eglot-embark 0.5.0: Embark integration for `consult-eglot'
 app-emacs/consult-flycheck 1.0: Provides the command `consult-flycheck'
-app-emacs/consult-gh 2.6: Consulting GitHub Client
-app-emacs/consult-gh-embark 2.6: Embark Actions for consult-gh
-app-emacs/consult-gh-forge 2.6: Magit/Forge Integration for consult-gh
-app-emacs/consult-gh-with-pr-review 2.6: "pr-review" Integration for consult-gh
+app-emacs/consult-gh 3.0: Consulting GitHub Client
+app-emacs/consult-gh-embark 3.0: Embark Actions for consult-gh
+app-emacs/consult-gh-forge 3.0: Magit/Forge Integration for consult-gh
+app-emacs/consult-gh-with-pr-review 3.0: "pr-review" Integration for consult-gh
 app-emacs/consult-ghq 0.0.5: Ghq interface using consult
 app-emacs/consult-hatena-bookmark 0.4.1: Consult commands for the Hatena Bookmark
 app-emacs/consult-lsp 2.1: LSP-mode Consult integration
@@ -1614,7 +1614,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.3: Enchanted Spell Checker
-app-emacs/jira 2.8.1: Emacs Interface to Jira
+app-emacs/jira 2.8.2: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
