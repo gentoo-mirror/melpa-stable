@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/consult
 	app-emacs/consult-gh
-	app-emacs/embark-consult"
+	app-emacs/embark-consult
+	app-emacs/which-key"
 RDEPEND="app-emacs/consult
 	app-emacs/consult-gh
-	app-emacs/embark-consult"
+	app-emacs/embark-consult
+	app-emacs/which-key"

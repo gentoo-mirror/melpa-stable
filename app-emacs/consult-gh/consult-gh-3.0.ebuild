@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/consult
 	app-emacs/markdown-mode
-	app-emacs/ox-gfm"
+	app-emacs/ox-gfm
+	app-emacs/yaml"
 RDEPEND="app-emacs/consult
 	app-emacs/markdown-mode
-	app-emacs/ox-gfm"
+	app-emacs/ox-gfm
+	app-emacs/yaml"
