@@ -363,6 +363,7 @@ app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
 app-emacs/code-stats 0.1: Code::Stats plugin
 app-emacs/codespaces 0.1: Connect to GitHub Codespaces via TRAMP
+app-emacs/codex-cli 0.1.3: Codex CLI integration
 app-emacs/codic 0.3: Search Codic (codic.jp) naming dictionaries
 app-emacs/coercion 0.2.0: Naming convention style switch
 app-emacs/coffee-mode 0.6.3: Major mode for CoffeeScript code
@@ -2052,6 +2053,7 @@ app-emacs/nsis-mode 0.44: NSIS-mode
 app-emacs/nswbuff 1.3: Quick switching between buffers
 app-emacs/number-lock 1.0.0: Enter symbols on your number keys without pressing shift
 app-emacs/numbers 1.4: Display information and trivia about numbers
+app-emacs/numeri 1.0.0: Roman Numeral Conversion Library
 app-emacs/numpydoc 0.9: NumPy style docstring insertion
 app-emacs/nvm 1.0.0: Manage Node versions within Emacs
 app-emacs/nyan-mode 1.1.3: Nyan Cat shows position in current buffer in mode-line
