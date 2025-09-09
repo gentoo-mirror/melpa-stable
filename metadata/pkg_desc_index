@@ -1121,7 +1121,7 @@ app-emacs/fontify-face 1.1.0: Fontify symbols representing faces with that face
 app-emacs/fontsloth 0.20.0: Elisp otf/ttf font loader/renderer
 app-emacs/for 1.4: Iteration and sequence
 app-emacs/foreman-mode 0.0.1: View and manage Procfile-based applications
-app-emacs/forge 0.5.3: Access Git forges from Magit
+app-emacs/forge 0.6.0: Access Git forges from Magit
 app-emacs/form-feed 0.2.3: Display ^L glyphs as horizontal lines
 app-emacs/format-all 0.6.0: Auto-format C, C++, JS, Python, Ruby and 50 other languages
 app-emacs/format-sql 0.4: Use format-sql to make your SQL readable in directly Emacs
@@ -1185,7 +1185,7 @@ app-emacs/gh 1.0.1: A GitHub library for Emacs
 app-emacs/gh-notify 2.1.1: A veneer for Magit/Forge GitHub notifications
 app-emacs/ghc-imported-from 0.1.2: Haskell documentation lookup with ghc-imported-from
 app-emacs/ghq 0.2.0: Ghq interface for emacs
-app-emacs/ghub 4.3.2: Client libraries for Git forge APIs
+app-emacs/ghub 5.0.0: Client libraries for Git forge APIs
 app-emacs/ghub+ 0.3: A thick GitHub API client built on ghub
 app-emacs/gif-screencast 1.2: One-frame-per-action GIF recording
 app-emacs/girly-notebook-theme 1.2.1: A light theme with vivid colours and cursive text
@@ -1819,7 +1819,7 @@ app-emacs/macrostep 0.9.5: Interactive macro expander
 app-emacs/magic-filetype 0.3.0: Enhance filetype major mode
 app-emacs/magik-company 1.1.0: Magik backend for company-mode
 app-emacs/magik-mode 0.5.5: Emacs major mode for Smallworld Magik files
-app-emacs/magit 4.3.8: A Git porcelain inside Emacs
+app-emacs/magit 4.4.0: A Git porcelain inside Emacs
 app-emacs/magit-annex 1.9.0: Control git-annex from Magit
 app-emacs/magit-filenotify 0.1: Refresh status buffer when git tree changes
 app-emacs/magit-find-file 2.1.0: Completing-read over all files in Git
@@ -1833,7 +1833,7 @@ app-emacs/magit-lfs 0.4.1: Magit plugin for Git LFS
 app-emacs/magit-org-todos 0.1.2: Add local todo items to the magit status buffer
 app-emacs/magit-p4 1.2.1: Git-p4 plug-in for Magit
 app-emacs/magit-popup 2.13.3: Define prefix-infix-suffix command combos
-app-emacs/magit-section 4.3.8: Sections for read-only buffers
+app-emacs/magit-section 4.4.0: Sections for read-only buffers
 app-emacs/magit-stgit 3.1.0: StGit extension for Magit
 app-emacs/magit-svn 2.2.4: Git-Svn extension for Magit
 app-emacs/magit-tbdiff 1.2.0: Magit extension for range diffs
