@@ -5,24 +5,24 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="ghub"
+REALNAME="magit-section"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Client libraries for Git forge APIs"
+DESCRIPTION="Sections for read-only buffers"
 
-HOMEPAGE="https://github.com/magit/ghub"
+HOMEPAGE="https://github.com/magit/magit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/compat
-	app-emacs/let-alist
+	app-emacs/cond-let
 	app-emacs/llama
-	app-emacs/treepy"
+	app-emacs/seq"
 RDEPEND="app-emacs/compat
-	app-emacs/let-alist
+	app-emacs/cond-let
 	app-emacs/llama
-	app-emacs/treepy"
+	app-emacs/seq"

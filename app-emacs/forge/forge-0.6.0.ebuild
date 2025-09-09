@@ -20,9 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/compat
 	app-emacs/closql
+	app-emacs/cond-let
 	app-emacs/emacsql
 	app-emacs/ghub
-	app-emacs/let-alist
 	app-emacs/llama
 	app-emacs/magit
 	app-emacs/markdown-mode
@@ -31,9 +31,9 @@ DEPEND="app-emacs/compat
 	app-emacs/yaml"
 RDEPEND="app-emacs/compat
 	app-emacs/closql
+	app-emacs/cond-let
 	app-emacs/emacsql
 	app-emacs/ghub
-	app-emacs/let-alist
 	app-emacs/llama
 	app-emacs/magit
 	app-emacs/markdown-mode

@@ -5,12 +5,12 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="magit-section"
+REALNAME="magit"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Sections for read-only buffers"
+DESCRIPTION="A Git porcelain inside Emacs"
 
 HOMEPAGE="https://github.com/magit/magit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
@@ -19,8 +19,16 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/compat
+	app-emacs/cond-let
 	app-emacs/llama
-	app-emacs/seq"
+	app-emacs/magit-section
+	app-emacs/seq
+	app-emacs/transient
+	app-emacs/with-editor"
 RDEPEND="app-emacs/compat
+	app-emacs/cond-let
 	app-emacs/llama
-	app-emacs/seq"
+	app-emacs/magit-section
+	app-emacs/seq
+	app-emacs/transient
+	app-emacs/with-editor"
