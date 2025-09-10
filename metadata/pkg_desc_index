@@ -766,7 +766,7 @@ app-emacs/ellama 1.8.2: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: [No description available]
-app-emacs/elmpd 1.0.0: A tight, ergonomic, async client library for mpd
+app-emacs/elmpd 1.0.1: A tight, ergonomic, async client library for mpd
 app-emacs/elogcat 0.2.0: Logcat interface
 app-emacs/elpa-audit 0.4: Handy functions for inspecting and comparing package archives
 app-emacs/elpa-clone 0.4.0: Clone ELPA archive
@@ -837,7 +837,7 @@ app-emacs/erefactor 0.7.0: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface and ergonomics
 app-emacs/eri 2.8.0: Enhanced relative indentation (eri)
 app-emacs/erk 0.5.3: Elisp (GitHub) Repository Kit
-app-emacs/erlang 28.0.2: Major modes for editing and running Erlang
+app-emacs/erlang 28.0.3: Major modes for editing and running Erlang
 app-emacs/erlang-ts 0.2: Major modes for editing Erlang
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/eros-inspector 1.0.1: Glue between eros and inspector
@@ -1679,7 +1679,7 @@ app-emacs/keymap-utils 4.0.3: Keymap utilities
 app-emacs/keypress-multi-event 1.0: Perform different actions for the same keypress
 app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
-app-emacs/khalel 0.1.14: Import, edit and create calendar events through khal
+app-emacs/khalel 0.1.15: Import, edit and create calendar events through khal
 app-emacs/khardel 2.0.0: Integrate with khard
 app-emacs/khoj 1.42.10: Your Second Brain
 app-emacs/kibit-helper 0.1.1: Conveniently use the Kibit Leiningen plugin from Emacs
@@ -2279,7 +2279,7 @@ app-emacs/osx-location 0.4: Watch and respond to changes in geographical locatio
 app-emacs/osx-plist 2.0.0: Apple plist file parser
 app-emacs/osx-pseudo-daemon 2.2: Daemon mode that plays nice with OSX
 app-emacs/osx-trash 0.2.2: System trash for OS X
-app-emacs/otpp 3.3.5: One tab per project, with unique names
+app-emacs/otpp 3.3.6: One tab per project, with unique names
 app-emacs/outli 0.2.3: Org-like code outliner
 app-emacs/outline-indent 1.1.2: Folding text based on indentation (origami alternative)
 app-emacs/outline-minor-faces 1.2.0: Highlight only section headings
