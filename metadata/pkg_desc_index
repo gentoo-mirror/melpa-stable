@@ -239,7 +239,7 @@ app-emacs/buffer-manage 1.1: Manage buffers
 app-emacs/buffer-move 0.6.2: [No description available]
 app-emacs/buffer-ring 0.3.4: Rings and tori for buffer navigation
 app-emacs/buffer-sets 3.7.2: Sets of Buffers for Buffer Management
-app-emacs/buffer-terminator 1.1.1: Safely Terminate/Kill Buffers Automatically
+app-emacs/buffer-terminator 1.2.0: Safely Terminate/Kill Buffers Automatically
 app-emacs/buffer-utils 0.1.0: Buffer-manipulation utility functions
 app-emacs/buffer-watcher 0.1: Makes it easy to run shell scripts per filetype/directory when a buffer is saved
 app-emacs/buffer-wrap 0.1.5: Wrap the beginning and the end of buffer
