@@ -2172,7 +2172,7 @@ app-emacs/org-hyperscheduler 1.0.0: UI (web) representation of org-agenda
 app-emacs/org-id-cleanup 1.7.1: Interactively find, present and maybe clean up unused IDs of org-id
 app-emacs/org-if 0.2.0: Interactive Fiction Authoring System for Org-Mode
 app-emacs/org-incoming 0.1: Sort incoming PDFs into your org files
-app-emacs/org-index 7.4.7: Ranked and incremental search among selected org-headlines
+app-emacs/org-index 7.5.0: Ranked and incremental search among selected org-headlines
 app-emacs/org-inline-anim 0.3: Inline playback of animated GIF/PNG for Org
 app-emacs/org-inline-pdf 0.5: Inline PDF previewing for Org
 app-emacs/org-inline-pdfcomment 1.0.2: Export Support for Inline Tasks as PDF Comments
