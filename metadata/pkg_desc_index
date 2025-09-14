@@ -363,7 +363,7 @@ app-emacs/cnfonts 1.1.1: A simple Chinese fonts config tool
 app-emacs/code-review 0.0.7: Perform code review from Github, Gitlab, and Bitbucket Cloud
 app-emacs/code-stats 0.1: Code::Stats plugin
 app-emacs/codespaces 0.1: Connect to GitHub Codespaces via TRAMP
-app-emacs/codex-cli 0.1.3: Codex CLI integration
+app-emacs/codex-cli 0.2.1: Codex CLI integration
 app-emacs/codic 0.3: Search Codic (codic.jp) naming dictionaries
 app-emacs/coercion 0.2.0: Naming convention style switch
 app-emacs/coffee-mode 0.6.3: Major mode for CoffeeScript code
@@ -1867,7 +1867,7 @@ app-emacs/material-theme 1.4: A Theme based on the colors of the Google Material
 app-emacs/math-preview 5.1.1: Preview TeX math equations inline
 app-emacs/math-symbol-lists 1.3: Lists of Unicode math symbols and latex commands
 app-emacs/math-tex-convert 0.2.0: Convert LaTeX macros to unicode and back
-app-emacs/matlab-mode 6.2: Major mode for MATLAB(R) dot-m files
+app-emacs/matlab-mode 7.0.1: Major mode for MATLAB(R) dot-m files
 app-emacs/maven-test-mode 0.1.5: Utilities for navigating test files and running maven test tasks
 app-emacs/maxframe 0.5: [No description available]
 app-emacs/maxima 0.8.1: Major mode for Maxima
@@ -2067,7 +2067,7 @@ app-emacs/ob-coffeescript 1.0.0: Org-babel functions for coffee-script evaluatio
 app-emacs/ob-compile 0.4: Run compile by org-babel
 app-emacs/ob-d2 0.0.3: Org-babel functions for d2
 app-emacs/ob-dall-e-shell 1.20.1: Org babel functions for DALL-E evaluation
-app-emacs/ob-deno 2.0.1: Babel Functions for Javascript/TypeScript with Deno
+app-emacs/ob-deno 3.0.0: Babel Functions for Javascript/TypeScript with Deno
 app-emacs/ob-ess-julia 1.0.3: Org babel support for Julia language
 app-emacs/ob-git-permalink 0.1.0: Easy code citation from repository hosting service
 app-emacs/ob-http 0.2.0: Http request in org-mode babel
@@ -2196,7 +2196,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 3.7.4: Fast org-roam replacement
+app-emacs/org-node 3.8.0: Fast org-roam replacement
 app-emacs/org-node-fakeroam 3.0.2: Deprecated extension to org-node
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2833,7 +2833,7 @@ app-emacs/string-edit-at-point 1.0.0: Avoid escape nightmares by editing string 
 app-emacs/string-inflection 1.0.16: Underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names
 app-emacs/string-utils 0.3.2: String-manipulation utilities
 app-emacs/stripe-buffer 0.2.5: Use a different background for even and odd lines
-app-emacs/stripspace 1.0.1: Auto remove trailing whitespace and restore column
+app-emacs/stripspace 1.0.2: Auto remove trailing whitespace and restore column
 app-emacs/stylus-mode 1.0.0: Major mode for editing .jade files
 app-emacs/subatomic-theme 1.8.1: Low contrast bluish color theme
 app-emacs/subemacs 1.0: Evaluating expressions in a fresh Emacs subprocess
@@ -3069,7 +3069,7 @@ app-emacs/vertigo 1.0: Jump across lines using the home row
 app-emacs/vhdl-ext 0.6.1: VHDL Extensions
 app-emacs/vhdl-ts-mode 0.3.1: VHDL Tree-sitter major mode
 app-emacs/vim-region 0.3.0: Select region as vim
-app-emacs/vim-tab-bar 1.0.8: Vim-like tab bar
+app-emacs/vim-tab-bar 1.0.9: Vim-like tab bar
 app-emacs/vimgolf 0.10.3: VimGolf interface for the One True Editor
 app-emacs/vimish-fold 0.2.3: Fold text like in Vim
 app-emacs/virtual-ring 0.1: Fixed size rings with virtual rotation
