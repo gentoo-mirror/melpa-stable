@@ -121,6 +121,7 @@ app-emacs/ast-grep 0.1.2: Search code using ast-grep with completing-read interf
 app-emacs/astro-ts-mode 3.0.1: Major mode for editing Astro templates
 app-emacs/async 1.9.9: Asynchronous processing in Emacs
 app-emacs/async-await 1.1: Async/Await
+app-emacs/async1 0.1: Unroll chain of async callbacks, parallel and sequencial
 app-emacs/asyncloop 1.1: Non-blocking series of functions
 app-emacs/atcoder-tools 0.4.0: An atcoder-tools client
 app-emacs/atl-long-lines 0.2.0: Turn off truncate-lines when the line is long
@@ -448,6 +449,7 @@ app-emacs/consult-flycheck 1.0: Provides the command `consult-flycheck'
 app-emacs/consult-gh 3.0: Consulting GitHub Client
 app-emacs/consult-gh-embark 3.0: Embark Actions for consult-gh
 app-emacs/consult-gh-forge 3.0: Magit/Forge Integration for consult-gh
+app-emacs/consult-gh-nerd-icons 3.0: Nerd icons Integration for consult-gh
 app-emacs/consult-gh-with-pr-review 3.0: "pr-review" Integration for consult-gh
 app-emacs/consult-ghq 0.0.5: Ghq interface using consult
 app-emacs/consult-hatena-bookmark 0.4.1: Consult commands for the Hatena Bookmark
@@ -1489,7 +1491,7 @@ app-emacs/hyperdrive 0.5.2: P2P filesystem
 app-emacs/hyperdrive-org-transclusion 0.3.1: Tranclude hyperdrive content
 app-emacs/hyperkitty 0.0.2: Emacs interface for Hyperkitty archives
 app-emacs/hyperspace 0.8.4: Get there from here
-app-emacs/hyperstitional-themes 3.1.0: Weird themes with incremental palettes
+app-emacs/hyperstitional-themes 3.1.1: Weird themes with incremental palettes
 app-emacs/hyprlang-ts-mode 1.0.0: Major mode for editing hyprland configuration files
 app-emacs/ialign 0.5.0: Visual align-regexp
 app-emacs/ibrowse 0.2.3: Interact with your browser
@@ -1876,7 +1878,7 @@ app-emacs/mbe 0.1: Macros by Example
 app-emacs/mc-extras 1.3.0: Extra functions for multiple-cursors mode
 app-emacs/mcp-server-lib 0.1.0: Model Context Protocol server library
 app-emacs/md4rd 0.3.1: Mode for reddit (browse it)
-app-emacs/mediawiki 2.4.7: Mediawiki frontend
+app-emacs/mediawiki 2.4.8: Mediawiki frontend
 app-emacs/meghanada 1.3.2: A better java development mode
 app-emacs/melpa-upstream-visit 1.0.0: A set of kludges to visit a melpa-hosted package's homepage
 app-emacs/memento-mori 0.3.1: Reminder of our mortality
@@ -2364,7 +2366,7 @@ app-emacs/pdf-tools 1.1.0: Support library for PDF documents
 app-emacs/pelican-mode 20170808: Minor mode for editing Pelican sites
 app-emacs/per-buffer-theme 2.2: Change theme and font according to buffer name or major mode
 app-emacs/persist-state 0.4: Regularly persist bookmarks, history, recent files and more
-app-emacs/persist-text-scale 1.0.2: Persist and restore text scale
+app-emacs/persist-text-scale 1.0.3: Persist and restore text scale
 app-emacs/persistent-scratch 0.3.9: Preserve the scratch buffer across Emacs sessions
 app-emacs/persistent-soft 0.8.10: Persistent storage, returning nil on failure
 app-emacs/persp-fr 0.0.5: In persp-mode, show perspective list in the GUI window title
@@ -2534,6 +2536,7 @@ app-emacs/quasi-monochrome-theme 1.2: Quasi Monochrome theme
 app-emacs/quelpa 1.0: Emacs Lisp packages built directly from source
 app-emacs/quelpa-leaf 0.0.1: Quelpa handler for leaf
 app-emacs/quelpa-use-package 0.0.1: Quelpa handler for use-package
+app-emacs/quick-fasd 1.0.1: Integration for the command-line tool `fasd'
 app-emacs/quick-sdcv 1.0.1: Offline dictionary using 'sdcv' (StartDict cli dictionary)
 app-emacs/quickrun 2.3.1: Run commands quickly
 app-emacs/quiet 0.1: Disconnect from the online world for a while
@@ -2833,7 +2836,7 @@ app-emacs/string-edit-at-point 1.0.0: Avoid escape nightmares by editing string 
 app-emacs/string-inflection 1.0.16: Underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names
 app-emacs/string-utils 0.3.2: String-manipulation utilities
 app-emacs/stripe-buffer 0.2.5: Use a different background for even and odd lines
-app-emacs/stripspace 1.0.2: Auto remove trailing whitespace and restore column
+app-emacs/stripspace 1.0.3: Auto remove trailing whitespace and restore column
 app-emacs/stylus-mode 1.0.0: Major mode for editing .jade files
 app-emacs/subatomic-theme 1.8.1: Low contrast bluish color theme
 app-emacs/subemacs 1.0: Evaluating expressions in a fresh Emacs subprocess
@@ -2922,7 +2925,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2025.9.8.0: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2025.9.15.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.10.1: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
@@ -2965,7 +2968,7 @@ app-emacs/tray 0.1.6: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.304: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.305: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.2: A tree style file explorer package
