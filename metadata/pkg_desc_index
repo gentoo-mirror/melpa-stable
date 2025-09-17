@@ -1961,7 +1961,7 @@ app-emacs/mozc 2.31.5851.102: Minor mode to input Japanese with Mozc
 app-emacs/mozc-temp 1.0.0: Use mozc temporarily
 app-emacs/mpdel 2.1.0: Play and control your MPD music
 app-emacs/mpdel-embark 0.4.0: Integrate MPDel with Embark
-app-emacs/mpdmacs 1.0.0: A lightweight MPD client
+app-emacs/mpdmacs 1.0.1: A lightweight MPD client
 app-emacs/mpmc-queue 0.1.1: A multiple-producer-multiple-consumer queue
 app-emacs/mpv 0.2.0: Control mpv for easy note-taking
 app-emacs/mpvi 1.3.0: Watch video and take interactive video notes
