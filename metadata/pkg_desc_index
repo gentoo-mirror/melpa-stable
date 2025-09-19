@@ -335,7 +335,7 @@ app-emacs/citre 0.4.1: Superior code reading & auto-completion tool with pluggab
 app-emacs/cl-format 1.2.1: CL format routine
 app-emacs/cl-libify 0.2: Update elisp code to use cl-lib instead of cl
 app-emacs/clang-capf 1.2.3: Completion-at-point backend for c/c++ using clang
-app-emacs/claude-code 0.6.0: Run Claude Code sessions
+app-emacs/claude-code 0.6.1: Run Claude Code sessions
 app-emacs/click-mode 0.0.4: Major mode for the Click Modular Router Project
 app-emacs/clingo-mode 0.4.0: A major mode for editing Answer Set Programs
 app-emacs/clipetty 0.1: Send every kill from a TTY frame to the system clipboard
@@ -764,7 +764,7 @@ app-emacs/elisp-refs 1.5: Find callers of elisp functions or macros
 app-emacs/elisp-slime-nav 0.10: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elixir-yasnippets 0.0.1: Yasnippets for Elixir
-app-emacs/ellama 1.8.3: Tool for interacting with LLMs
+app-emacs/ellama 1.8.7: Tool for interacting with LLMs
 app-emacs/elm-mode 0.22.0: Major mode for Elm
 app-emacs/elmacro 1.1.1: Convert keyboard macros to emacs lisp
 app-emacs/elmine 0.3: [No description available]
