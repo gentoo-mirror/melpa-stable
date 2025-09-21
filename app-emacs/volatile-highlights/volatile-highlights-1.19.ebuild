@@ -10,9 +10,9 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode for visual feedback on some operations"
+DESCRIPTION="Transient visual feedback for edits"
 
-HOMEPAGE="http://www.emacswiki.org/emacs/download/volatile-highlights.el"
+HOMEPAGE="https://github.com/k-talo/volatile-highlights.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
