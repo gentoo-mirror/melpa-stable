@@ -335,7 +335,7 @@ app-emacs/citre 0.4.1: Superior code reading & auto-completion tool with pluggab
 app-emacs/cl-format 1.2.1: CL format routine
 app-emacs/cl-libify 0.2: Update elisp code to use cl-lib instead of cl
 app-emacs/clang-capf 1.2.3: Completion-at-point backend for c/c++ using clang
-app-emacs/claude-code 0.6.1: Run Claude Code sessions
+app-emacs/claude-code 0.7.1: Run Claude Code sessions
 app-emacs/click-mode 0.0.4: Major mode for the Click Modular Router Project
 app-emacs/clingo-mode 0.4.0: A major mode for editing Answer Set Programs
 app-emacs/clipetty 0.1: Send every kill from a TTY frame to the system clipboard
@@ -1065,7 +1065,7 @@ app-emacs/flycheck-vdm 0.0.4: Syntax checking for vdm-mode
 app-emacs/flycheck-yamllint 0.1.0: Flycheck integration for YAMLLint
 app-emacs/flycheck-ycmd 1.2: Flycheck integration for ycmd
 app-emacs/flymake-actionlint 0.1.0: A Flymake handler for actionlint
-app-emacs/flymake-ansible-lint 1.0.3: A Flymake backend for ansible-lint
+app-emacs/flymake-ansible-lint 1.0.4: A Flymake backend for ansible-lint
 app-emacs/flymake-bashate 1.0.4: A Flymake backend for bashate, a Bash scripts style checker
 app-emacs/flymake-coffee 0.12: A flymake handler for coffee script
 app-emacs/flymake-collection 1.0.1: Collection of checkers for flymake, bringing flymake to the level of flycheck
@@ -1555,7 +1555,7 @@ app-emacs/inform-mode 2.0.1: Major mode for Inform 6 interactive fiction code
 app-emacs/inform7 0.1.1: Major mode for working with Inform 7 files
 app-emacs/inherit-local 1.1.1: Inherited buffer-local variables
 app-emacs/inheritenv 0.2: Make temp buffers inherit buffer-local environment variables
-app-emacs/inhibit-mouse 1.0.1: Deactivate mouse input (alternative to disable-mouse)
+app-emacs/inhibit-mouse 1.0.2: Deactivate mouse input (alternative to disable-mouse)
 app-emacs/ini-mode 0.0.8: Major mode for Windows-style ini files
 app-emacs/init-dir 0.2.1: Init directory instead of just a single file
 app-emacs/init-loader 0.2: Loader for configuration files
@@ -1848,7 +1848,7 @@ app-emacs/malinka 0.3.1: A C/C++ project configuration package for Emacs
 app-emacs/mallard-mode 0.3.0: Major mode for editing Mallard files
 app-emacs/manage-minor-mode 1.1: Manage your minor-modes easily
 app-emacs/manage-minor-mode-table 0.1.3: Manage minor-modes in table
-app-emacs/mantra 0.1: A system for scripting and parsing activity beyond macros
+app-emacs/mantra 0.2: A system for scripting and parsing activity beyond macros
 app-emacs/map-progress 1.0.0: Mapping macros that report progress
 app-emacs/map-regexp 1.0.0: Map over matches of a regular expression
 app-emacs/marcopolo 0.3.0: Emacs client for Docker API
@@ -2189,7 +2189,7 @@ app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
 app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various Mac apps
 app-emacs/org-make-toc 0.6: Automatic tables of contents for Org files
-app-emacs/org-mem 0.18.1: Fast info from a large number of Org file contents
+app-emacs/org-mem 0.20.0: Fast info from a large number of Org file contents
 app-emacs/org-mime 0.3.4: Org html export for text/html MIME emails
 app-emacs/org-ml 6.0.2: Functional Org Mode API
 app-emacs/org-modern 1.9: Modern looks for Org
@@ -3083,7 +3083,7 @@ app-emacs/visual-regexp-steroids 1.1.0: Extends visual-regexp to support other r
 app-emacs/visual-replace 1.2: A prompt for replace-string and query-replace
 app-emacs/vline 1.11: Show vertical line (column highlighting) mode
 app-emacs/voca-builder 0.2.0: [No description available]
-app-emacs/volatile-highlights 1.18: Minor mode for visual feedback on some operations
+app-emacs/volatile-highlights 1.19: Transient visual feedback for edits
 app-emacs/vs-dark-theme 2.0: Visual Studio IDE dark theme
 app-emacs/vs-light-theme 2.0: Visual Studio IDE light theme
 app-emacs/vscode-dark-plus-theme 2.0.0: Default Visual Studio Code Dark+ theme
