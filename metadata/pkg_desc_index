@@ -382,7 +382,7 @@ app-emacs/comment-tags 0.1: Highlight and navigate comment tags like TODO, FIXME
 app-emacs/commentary-theme 0.5: A minimal theme with contrasting comments
 app-emacs/commenter 0.5.2: Multiline-comment support package
 app-emacs/common-lisp-snippets 0.1.2: Yasnippets for Common Lisp
-app-emacs/communinfo 0.1.4: Community maintained Info-url-alist
+app-emacs/communinfo 1.0: Community maintained Info-url-alist
 app-emacs/company 1.0.2: Modular text completion framework
 app-emacs/company-anaconda 0.2.0: Anaconda backend for company-mode
 app-emacs/company-ansible 0.8.0: A company back-end for ansible
@@ -427,7 +427,7 @@ app-emacs/compile-multi 0.7: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 0.7: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 0.7: Integration for `compile-multi' and `embark'
 app-emacs/compile-multi-nerd-icons 0.7: Affixate `compile-multi' with nerd icons
-app-emacs/compiler-explorer 0.6.1: Compiler explorer client (godbolt.org)
+app-emacs/compiler-explorer 0.7.0: Compiler explorer client (godbolt.org)
 app-emacs/composable 0.0.1: Composable editing
 app-emacs/composer 0.2.0: Interface to PHP Composer
 app-emacs/concurrent 0.5.1: Concurrent utility functions for emacs lisp
