@@ -735,6 +735,7 @@ app-emacs/el-spice 0.3.0: Extra spice for emacs lisp programming
 app-emacs/el2markdown 0.0.8: Convert commentary of elisp files to markdown
 app-emacs/el2org 0.6.0: Convert elisp file to org file
 app-emacs/elbank 1.2: Personal finances reporting application
+app-emacs/elchacha 1.0.4: Elisp ChaCha20 implementation
 app-emacs/elcouch 0.11.0: View and manipulate CouchDB databases
 app-emacs/eldev 1.11.1: Elisp development tool
 app-emacs/eldoc-box 1.14.1: Display documentation in childframe
@@ -1667,6 +1668,7 @@ app-emacs/kagi 0.6: Kagi API integration
 app-emacs/kakapo-mode 1.2: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment
 app-emacs/kaocha-runner 0.3.2: A package for running Kaocha tests via CIDER
 app-emacs/kaolin-themes 1.7.3: A set of eye pleasing themes
+app-emacs/kaomel 1.0.0: A snappy kaomoji picker
 app-emacs/karma 0.1.0: Karma Test Runner Emacs Integration
 app-emacs/keepass-mode 0.0.5: Mode for KeePass DB
 app-emacs/kele 0.6.0: Spritzy Kubernetes cluster management
@@ -1840,7 +1842,7 @@ app-emacs/magit-section 4.4.0: Sections for read-only buffers
 app-emacs/magit-stgit 3.1.0: StGit extension for Magit
 app-emacs/magit-svn 2.2.4: Git-Svn extension for Magit
 app-emacs/magit-tbdiff 1.2.0: Magit extension for range diffs
-app-emacs/magit-todos 1.8: Show source file TODOs in Magit
+app-emacs/magit-todos 1.8.1: Show source file TODOs in Magit
 app-emacs/magit-topgit 2.1.2: TopGit extension for Magit
 app-emacs/major-mode-hydra 0.2.2: Major mode keybindings managed by Hydra
 app-emacs/make-color 0.4: Alternative to picking color - update fg/bg color by pressing r/g/b/... keys
@@ -2884,6 +2886,7 @@ app-emacs/tab-bar-notch 0.0.7: Adjust tab-bar height for MacBook Pro notch
 app-emacs/tab-line-nerd-icons 0.2: Add icons to tab-line tabs
 app-emacs/tabbar 2.2: Display a tab bar in the header line
 app-emacs/tabbar-ruler 0.45: Pretty tabbar, autohide, use both tabbar/ruler
+app-emacs/tabbymacs 1.0.0: Inline AI code completions via Tabby LSP
 app-emacs/tabgo 1.0.1: Jump to tabs, avy style
 app-emacs/tablist 1.1: Extended tabulated-list-mode
 app-emacs/tabnine 0.1.0: An unofficial TabNine package with TabNine Chat supported
@@ -2971,7 +2974,7 @@ app-emacs/tray 0.1.6: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.307: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.308: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.2: A tree style file explorer package
@@ -3111,7 +3114,7 @@ app-emacs/web-completion-data 0.2: Shared completion data for ac-html and compan
 app-emacs/web-mode 17.3.20: Major mode for editing web templates
 app-emacs/web-mode-edit-element 2.3: Helper-functions for attribute- and element-handling
 app-emacs/web-search 0.1.2: Open a web search
-app-emacs/weblio 0.4.0: Look up Japanese words on Weblio.jp
+app-emacs/weblio 0.4.1: Look up Japanese words on Weblio.jp
 app-emacs/weblorg 0.1.2: Static Site Generator for org-mode
 app-emacs/webpaste 3.2.2: Paste to pastebin-like services
 app-emacs/websocket 1.15: Emacs WebSocket client and server
