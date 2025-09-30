@@ -775,7 +775,7 @@ app-emacs/elogcat 0.2.0: Logcat interface
 app-emacs/elpa-audit 0.4: Handy functions for inspecting and comparing package archives
 app-emacs/elpa-clone 0.4.0: Clone ELPA archive
 app-emacs/elpa-mirror 2.3.0: Create local package repository from installed packages
-app-emacs/elpher 3.6.4: A friendly gopher and gemini client
+app-emacs/elpher 3.6.6: A friendly gopher and gemini client
 app-emacs/elpy 1.35.0: Emacs Python Development Environment
 app-emacs/elquery 1.1.0: The HTML library for elisp
 app-emacs/elscreen 20180321: Emacs window session manager
@@ -2930,7 +2930,7 @@ app-emacs/theme-changer 2.3.0: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 2.7.0: Loop thru the available color-themes
 app-emacs/thinks 1.12: Insert text in a think bubble
 app-emacs/third-time 1.3.0: Third Time: A Better Way to Work
-app-emacs/thrift 2025.9.22.0: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 2025.9.29.0: Major mode for fbthrift and Apache Thrift files
 app-emacs/tickscript-mode 0.4.1: A major mode for Tickscript files
 app-emacs/tidal 1.10.1: Interact with TidalCycles for live coding patterns
 app-emacs/tide 5.1.3: Typescript Interactive Development Environment
