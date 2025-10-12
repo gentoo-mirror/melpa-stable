@@ -195,7 +195,7 @@ app-emacs/bible-gateway 1.2: A Simple BibleGateway Client
 app-emacs/biblio 0.3: Browse and import bibliographic references from CrossRef, arXiv, DBLP, HAL, Dissemin, and doi.org
 app-emacs/biblio-core 0.3: A framework for looking up and displaying bibliographic entries
 app-emacs/bibtex-completion 2.0.0: A BibTeX backend for completion frameworks
-app-emacs/bicycle 1.0.2: Cycle outline and code visibility
+app-emacs/bicycle 1.1.0: Cycle outline and code visibility
 app-emacs/bifocal 0.0.6: Split-screen scrolling for comint-mode buffers
 app-emacs/bilibili 1.0.0: Watch videos of BiliBili (哔哩哔哩) in org mode
 app-emacs/binclock 1.11: Display the current time using a binary clock
@@ -354,7 +354,7 @@ app-emacs/clojure-quick-repls 0.1.0: Quickly create Clojure and ClojureScript re
 app-emacs/clojure-snippets 1.0.1: Yasnippets for clojure
 app-emacs/clojure-ts-mode 0.5.1: Major mode for Clojure code
 app-emacs/clomacs 0.0.5: Simplifies Emacs Lisp interaction with Clojure
-app-emacs/closql 2.3.0: Store EIEIO objects using EmacSQL
+app-emacs/closql 2.3.1: Store EIEIO objects using EmacSQL
 app-emacs/clues-theme 1.0.1: An Emacs 24 theme which may well be fully awesome..
 app-emacs/cm-mode 1.9: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 0.1.13: Advanced, type aware, highlight support for CMake
@@ -1622,7 +1622,7 @@ app-emacs/jetbrains 0.0.2: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 1.0.0: A complete port of the default JetBrains Darcula theme
 app-emacs/jinja2-mode 0.2: A major mode for jinja2
 app-emacs/jinx 2.3: Enchanted Spell Checker
-app-emacs/jira 2.10.1: Emacs Interface to Jira
+app-emacs/jira 2.10.2: Emacs Interface to Jira
 app-emacs/jirascope 1.0.0: A Jira client
 app-emacs/journalctl-mode 1.1: Sample major mode for viewing output journalctl
 app-emacs/jpop 3.2.3: Lightweight project cacheing and navigation framework
@@ -1683,7 +1683,7 @@ app-emacs/keycast 1.4.5: Show current command and its binding
 app-emacs/keychain-environment 2.4.1: Load keychain environment variables
 app-emacs/keydef 1.15: A simpler way to define keys, with kbd syntax
 app-emacs/keyfreq 1.8: Track command frequencies
-app-emacs/keymap-utils 4.0.3: Keymap utilities
+app-emacs/keymap-utils 4.1.0: Keymap utilities
 app-emacs/keypress-multi-event 1.0: Perform different actions for the same keypress
 app-emacs/keyset 0.1.2: A small library for structuring key bindings
 app-emacs/keytar 0.1.2: Emacs Lisp interface for node-keytar
@@ -1696,7 +1696,7 @@ app-emacs/kill-or-bury-alive 0.1.3: Precise control over buffer killing in Emacs
 app-emacs/kill-ring-search 1.1: Incremental search for the kill ring
 app-emacs/killer 1.0.0: Kill and delete text
 app-emacs/kivy-mode 2.3.1: Emacs major mode for editing Kivy files
-app-emacs/kixtart-mode 1.4.2: Major mode for editing KiXtart scripts
+app-emacs/kixtart-mode 1.4.3: Major mode for editing KiXtart scripts
 app-emacs/klondike 1.2.0: Klondike
 app-emacs/know-your-http-well 0.6.0: Look up the meaning of HTTP headers, methods, relations, status codes
 app-emacs/kql-mode 0.3: Major mode for highlighting KQL
@@ -1952,7 +1952,7 @@ app-emacs/monokai-theme 3.5.3: A fruity color theme for Emacs
 app-emacs/monroe 0.3.1: Yet another client for nREPL
 app-emacs/mood-line 3.1.1: A minimal mode line inspired by doom-modeline
 app-emacs/mood-one-theme 1.2.2: A dark color scheme inspired by the Doom One theme
-app-emacs/moody 1.1.5: Tabs and ribbons for the mode line
+app-emacs/moody 1.2.0: Tabs and ribbons for the mode line
 app-emacs/moom 1.6.0: Commands to control frame position and size
 app-emacs/morlock 2.1.1: More font-lock keywords for elisp
 app-emacs/mosey 0.2: Mosey around your buffers
@@ -2032,7 +2032,7 @@ app-emacs/nix-ts-mode 0.1.4: Major mode for Nix expressions, powered by tree-sit
 app-emacs/nixos-options 0.0.1: Interface for browsing and completing NixOS options
 app-emacs/nixpkgs-fmt 0.1: Reformat Nix using nixpkgs-fmt
 app-emacs/nlinum-hl 1.0.6: Heal nlinum's line numbers
-app-emacs/no-littering 1.8.0: Help keeping ~/.config/emacs clean
+app-emacs/no-littering 1.8.1: Help keeping ~/.config/emacs clean
 app-emacs/noccur 0.2: Run multi-occur on project/dired files
 app-emacs/nocomments-mode 0.1.3: Minor mode that makes comments invisible
 app-emacs/nodejs-repl 0.2.5: Run Node.js REPL
@@ -2748,7 +2748,7 @@ app-emacs/simpleclip 1.0.10: Simplified access to the system clipboard
 app-emacs/simplenote2 3.0.0: Interact with simple-note.appspot.com
 app-emacs/simplezen 0.1.1: A simple subset of zencoding-mode for Emacs
 app-emacs/simply-annotate 0.5.1: Enhanced annotation system with threading
-app-emacs/sisyphus 0.2.5: Create releases of Emacs packages
+app-emacs/sisyphus 0.3.0: Create releases of Emacs packages
 app-emacs/skeletor 1.6.1: Provides project skeletons for Emacs
 app-emacs/sketch-themes 1.0: Sketch color themes
 app-emacs/skewer-less 0.2: Skewer support for live LESS stylesheet updates
