@@ -803,7 +803,7 @@ app-emacs/embark-org-roam 0.2: Embark export buffer for org roam nodes
 app-emacs/embrace 0.1.4: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 1.1.0: Test runner and report viewer for Midje
 app-emacs/emmet-mode 1.0.8: Unofficial Emmet's support for emacs
-app-emacs/emms 23: The Emacs Multimedia System
+app-emacs/emms 24: The Emacs Multimedia System
 app-emacs/emms-mode-line-cycle 0.2.5: Display the emms mode line as a ticker
 app-emacs/emms-player-simple-mpv 0.4.0: An extension of emms-player-simple.el for mpv JSON IPC
 app-emacs/emms-player-spotify 0.2: Spotify player for EMMS
@@ -2194,6 +2194,7 @@ app-emacs/org-kanban 0.6.15: Kanban dynamic block for org-mode
 app-emacs/org-link-beautify 1.2.3: Beautify Org Links
 app-emacs/org-link-travis 0.0.1: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 0.9.3: Org-mode link selector
+app-emacs/org-links 0.2: Better manage line numbers in your org-mode links
 app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various Mac apps
 app-emacs/org-make-toc 0.6: Automatic tables of contents for Org files
 app-emacs/org-mem 0.23.2: Fast info from a large number of Org file contents
@@ -2290,7 +2291,7 @@ app-emacs/osx-plist 2.0.0: Apple plist file parser
 app-emacs/osx-pseudo-daemon 2.2: Daemon mode that plays nice with OSX
 app-emacs/osx-trash 0.2.2: System trash for OS X
 app-emacs/otpp 3.3.6: One tab per project, with unique names
-app-emacs/outli 0.2.3: Org-like code outliner
+app-emacs/outli 0.3.0: Org-like code outliner
 app-emacs/outline-indent 1.1.2: Folding text based on indentation (origami alternative)
 app-emacs/outline-minor-faces 1.2.0: Highlight only section headings
 app-emacs/outlook 0.1: Send emails in MS Outlook style
@@ -2978,7 +2979,7 @@ app-emacs/tray 0.1.6: Various transient menus
 app-emacs/tree-sitter 0.18.0: Incremental parsing system
 app-emacs/tree-sitter-ess-r 1.0: R with tree-sitter
 app-emacs/tree-sitter-indent 0.3: Provide indentation with a Tree-sitter backend
-app-emacs/tree-sitter-langs 0.12.310: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 0.12.311: Grammar bundle for tree-sitter
 app-emacs/treebundel 0.3.0: Bundle related git-worktrees together
 app-emacs/treefactor 3.2.2: Restructure your messy Org documents
 app-emacs/treemacs 3.2: A tree style file explorer package
