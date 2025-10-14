@@ -2706,7 +2706,7 @@ app-emacs/shackle 1.0.4: Enforce rules for popups
 app-emacs/shakespeare-mode 0.0.2: A major mode for editing Shakespearean templates
 app-emacs/shampoo 0.0.1: Shampoo, a remote Smalltalk developemnt
 app-emacs/shell-command-x 0.1.3: Extensions for shell commands
-app-emacs/shell-maker 0.82.2: Interaction mode for making comint shells
+app-emacs/shell-maker 0.83.1: Interaction mode for making comint shells
 app-emacs/shell-pop 0.64: Helps you to use shell easily on Emacs. Only one key action to work
 app-emacs/shell-split-string 0.1: Split strings using shell-like syntax
 app-emacs/shell-switcher 1.1.0: Provide fast switching between shell buffers
