@@ -1242,7 +1242,7 @@ app-emacs/gmail2bbdb 0.0.6: Import email and name into bbdb from vcard
 app-emacs/gmpl-mode 0.1.0: Major mode for editing GMPL(MathProg) files
 app-emacs/gn-mode 0.4.1: Major mode for editing GN (generate ninja) files
 app-emacs/gnome-screencast 1.4: Use Gnome screen recording functionality using elisp
-app-emacs/gnosis 0.5.4: Spaced Repetition System
+app-emacs/gnosis 0.5.6: Spaced Repetition System
 app-emacs/gntp 0.1: Growl Notification Protocol for Emacs
 app-emacs/gnuplot 0.11: Major-mode and interactive frontend for gnuplot
 app-emacs/gnus-desktop-notify 1.4: Gnus Desktop Notification global minor mode
@@ -2851,7 +2851,7 @@ app-emacs/subsonic 0.4.1: Browse and play music from subsonic servers with mpv
 app-emacs/sudo-edit 0.1.1: Open files as another user
 app-emacs/sudo-utils 3.0.1: Sudo utilities
 app-emacs/suggest 0.7: Suggest elisp functions that give the output requested
-app-emacs/sumibi 3.7.0: Japanese input method powered by ChatGPT API
+app-emacs/sumibi 3.8.0: Japanese input method powered by ChatGPT API
 app-emacs/suomalainen-kalenteri 2025: Finnish national and Christian holidays for calendar
 app-emacs/super-save 0.4.0: Auto-save buffers, based on your activity
 app-emacs/svg-mode-line-themes 0.1.3: SVG-based themes for mode-line
