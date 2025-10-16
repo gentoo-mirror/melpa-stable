@@ -818,7 +818,7 @@ app-emacs/enclose 0.0.2: Enclose cursor within punctuation pairs
 app-emacs/encrypt-region 1.0: Encrypts and decrypts regions
 app-emacs/engine-mode 2.2.4: Define and query search engines
 app-emacs/enh-ruby-mode 20191111: Major mode for editing Ruby files
-app-emacs/enhanced-evil-paredit 1.0.2: Paredit support for evil keybindings
+app-emacs/enhanced-evil-paredit 1.0.4: Paredit support for evil keybindings
 app-emacs/enlight 0.3: Highly customizable startup screen
 app-emacs/enlive 0.0.1: Query html document with css selectors
 app-emacs/enotify 0.1.3: [No description available]
@@ -1188,7 +1188,7 @@ app-emacs/gf 1.1.2: Major mode for editing GF code
 app-emacs/ggo-mode 20210310: Gengetopt major mode
 app-emacs/ggtags 0.8.13: Emacs frontend to GNU Global source code tagging system
 app-emacs/gh 1.0.1: A GitHub library for Emacs
-app-emacs/gh-notify 2.1.5: A veneer for Magit/Forge GitHub notifications
+app-emacs/gh-notify 2.1.6: A veneer for Magit/Forge GitHub notifications
 app-emacs/ghc-imported-from 0.1.2: Haskell documentation lookup with ghc-imported-from
 app-emacs/ghq 0.2.0: Ghq interface for emacs
 app-emacs/ghub 5.0.1: Client libraries for Git forge APIs
@@ -2489,7 +2489,7 @@ app-emacs/promise 1.1: Promises/A+
 app-emacs/prompt-text 0.1.0: Various information in minibuffer prompt
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/protobuf-mode 32.1: Major mode for editing protocol buffers
+app-emacs/protobuf-mode 33.0: Major mode for editing protocol buffers
 app-emacs/protobuf-ts-mode 1.0.3: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 1.6: Protocol database access functions
 app-emacs/psalm 0.6.0: Interface to Psalm
@@ -2953,7 +2953,7 @@ app-emacs/toc-org 1.2.0: Add table of contents to org-mode files (formerly, org-
 app-emacs/tokei 0.2.1: Display codebase statistics
 app-emacs/toml 0.1.0: TOML (Tom's Obvious, Minimal Language) parser
 app-emacs/tomlparse 1.0.0: A straight-forward tree sitter based parser for toml data
-app-emacs/tomorrow-night-deepblue-theme 1.2.2: The Tomorrow Night Deepblue color theme
+app-emacs/tomorrow-night-deepblue-theme 1.2.3: The Tomorrow Night Deepblue color theme
 app-emacs/topspace 0.3.1: Recenter line 1 with scrollable upper margin/padding
 app-emacs/torus 2.2: A buffer groups manager
 app-emacs/total-lines 0.2.0: Keep track of a buffer's total number of lines
