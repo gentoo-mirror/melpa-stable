@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="IDE features"
+DESCRIPTION="IDE features made available out of the box"
 
 HOMEPAGE="https://software.hjuvi.fr.eu.org/eide/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
