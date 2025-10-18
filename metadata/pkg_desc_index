@@ -721,7 +721,7 @@ app-emacs/eglot-jl 2.4.0: Julia support for eglot
 app-emacs/eglot-luau 0.2.0: Luau language server integration for eglot
 app-emacs/eglot-signature-eldoc-talkative 0.0.7: Make Eglot make ElDoc echo docs
 app-emacs/eglot-tempel 0.8.2: Use tempel to expand snippets from eglot
-app-emacs/eide 2.3.3: IDE features
+app-emacs/eide 2.3.4: IDE features made available out of the box
 app-emacs/eink-theme 1.0.0: E Ink color theme
 app-emacs/ejc-sql 0.4.1: Emacs SQL client uses Clojure JDBC.
 app-emacs/ekg 0.8.0: A system for recording and linking information
@@ -2279,7 +2279,7 @@ app-emacs/orgstrap 1.5.6: Bootstrap an Org file using file local variables
 app-emacs/orgtbl-show-header 1.0.0: Show the header of the current column in the minibuffer
 app-emacs/origami-predef 1.0: Apply folding when finding (opening) files
 app-emacs/orthodox-christian-new-calendar-holidays 1.3.3: Feasts (NS)
-app-emacs/osm 1.8: OpenStreetMap viewer
+app-emacs/osm 1.9: OpenStreetMap viewer
 app-emacs/osx-browse 0.8.8: Web browsing helpers for OS X
 app-emacs/osx-clipboard 0.1: Use the OS X clipboard from terminal Emacs
 app-emacs/osx-dictionary 0.4: Interface for OSX Dictionary.app
@@ -2561,7 +2561,7 @@ app-emacs/rase 1.1: Run At Sun Event daemon
 app-emacs/rats 0.2.0: Rapid testing suite for Go
 app-emacs/rbenv 0.0.3: Emacs integration for rbenv
 app-emacs/rbs-mode 0.3.2: A major mode for RBS
-app-emacs/rbtagger 0.4.5: Ruby tagging tools
+app-emacs/rbtagger 0.5.0: Ruby tagging tools
 app-emacs/rc-mode 1.0.13: Major mode for the Plan9 rc shell
 app-emacs/rcirc-styles 1.3.2: Support mIRC-style color and attribute codes
 app-emacs/rdf-prefix 1.14: Prefix lookup for RDF
