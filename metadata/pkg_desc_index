@@ -3195,7 +3195,7 @@ app-emacs/xwidgets-reuse 0.3: Reuse xwidgets sessions to reduce resource consump
 app-emacs/yabaki-theme 2.0.1: Yabaki, the cast shadow
 app-emacs/yafolding 0.4.2: Folding code blocks based on indentation
 app-emacs/yagist 0.8.12: Yet Another Emacs integration for gist.github.com
-app-emacs/yaml 1.2.0: YAML parser for Elisp
+app-emacs/yaml 1.2.1: YAML parser for Elisp
 app-emacs/yaml-imenu 1.1.0: Enhancement of the imenu support in yaml-mode
 app-emacs/yaml-mode 0.0.16: Major mode for editing YAML files
 app-emacs/yaml-pro 1.3.3: Parser-aided YAML editing features
