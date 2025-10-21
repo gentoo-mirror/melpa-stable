@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DESCRIPTION=Calendar view for emacs diary
+DEPEND=app-emacs/calfw app-emacs/howm
+DESCRIPTION=Calendar view for howm
 EAPI=8
-HOMEPAGE=https://github.com/kiwanami/emacs-calfw
+HOMEPAGE=https://github.com/haji-ali/emacs-calfw
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/calfw app-emacs/howm >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/calfw-cal-1.6.tar
+SRC_URI=https://stable.melpa.org/packages/calfw-howm-2.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=e305c77d73cde6fecab9e4b8d442461c
+_md5_=305443bd6ed1c6e8e4bc95c67dc50912

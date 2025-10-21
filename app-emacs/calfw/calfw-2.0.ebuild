@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="calfw-cal"
+REALNAME="calfw"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Calendar view for emacs diary"
+DESCRIPTION="Calendar view framework"
 
-HOMEPAGE="https://github.com/kiwanami/emacs-calfw"
+HOMEPAGE="https://github.com/haji-ali/emacs-calfw"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
