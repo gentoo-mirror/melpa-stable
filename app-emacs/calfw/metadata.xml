@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Calendar view framework on Emacs</longdescription>
+	<longdescription>Calendar view framework</longdescription>
 </pkgmetadata>

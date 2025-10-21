@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://stable.melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="calfw"
+REALNAME="calfw-howm"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Calendar view framework on Emacs"
+DESCRIPTION="Calendar view for howm"
 
-HOMEPAGE="https://github.com/kiwanami/emacs-calfw"
+HOMEPAGE="https://github.com/haji-ali/emacs-calfw"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/calfw
+	app-emacs/howm"
+RDEPEND="app-emacs/calfw
+	app-emacs/howm"
