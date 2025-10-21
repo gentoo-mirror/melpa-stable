@@ -264,11 +264,11 @@ app-emacs/cacoo 2.1.2: Minor mode for Cacoo : http://cacoo.com
 app-emacs/caddyfile-mode 0.2: Major mode for Caddy configuration files
 app-emacs/cake-inflector 1.1.1: Lazy porting CakePHP infrector.php to el
 app-emacs/calendar-norway 0.9.5: Norwegian calendar
-app-emacs/calfw 1.6: Calendar view framework on Emacs
-app-emacs/calfw-cal 1.6: Calendar view for emacs diary
-app-emacs/calfw-howm 1.6: Calendar view for howm
-app-emacs/calfw-ical 1.6: Calendar view for ical format
-app-emacs/calfw-org 1.6: Calendar view for org-agenda
+app-emacs/calfw 2.0: Calendar view framework
+app-emacs/calfw-cal 2.0: Calendar view for diary
+app-emacs/calfw-howm 2.0: Calendar view for howm
+app-emacs/calfw-ical 2.0: Calendar view for ical format
+app-emacs/calfw-org 2.0: Calendar view for org-agenda
 app-emacs/calibredb 2.13.0: Yet another calibre client
 app-emacs/call-graph 0.1.0: Library to generate call graph for cpp functions
 app-emacs/calle24 1.0.10: Emacs Toolbar Support for SF Symbols
@@ -845,7 +845,7 @@ app-emacs/ergoemacs-mode 5.22.2.23: Emacs mode based on common modern interface 
 app-emacs/eri 2.8.0: Enhanced relative indentation (eri)
 app-emacs/erk 0.5.3: Elisp (GitHub) Repository Kit
 app-emacs/erlang 28.1.1: Major modes for editing and running Erlang
-app-emacs/erlang-ts 0.2: Major modes for editing Erlang
+app-emacs/erlang-ts 0.3: Major modes for editing Erlang
 app-emacs/erlstack-mode 0.1.1: Minor mode for analysing Erlang stacktraces
 app-emacs/eros-inspector 1.0.1: Glue between eros and inspector
 app-emacs/ert-async 0.1.2: Async support for ERT
@@ -2097,7 +2097,7 @@ app-emacs/objc-font-lock 0.0.5: Highlight Objective-C method calls
 app-emacs/objed 0.8.1: Navigate and edit text objects
 app-emacs/obsidian 2.0.0: Obsidian Notes interface
 app-emacs/ocaml-eglot 1.2.0: An OCaml companion for Eglot
-app-emacs/ocamlformat 0.27.0: Utility functions to format ocaml code
+app-emacs/ocamlformat 0.28.0: Utility functions to format ocaml code
 app-emacs/ocodo-svg-modelines 0.1.4: A collection of beautiful SVG modelines
 app-emacs/ocp-indent 1.9.0: Automatic indentation with ocp-indent
 app-emacs/octicons 0.1: Octicons utility
@@ -2196,7 +2196,7 @@ app-emacs/org-linkotron 0.9.3: Org-mode link selector
 app-emacs/org-links 0.2: Better manage line numbers in your org-mode links
 app-emacs/org-mac-link 1.9: Insert org-mode links to items selected in various Mac apps
 app-emacs/org-make-toc 0.6: Automatic tables of contents for Org files
-app-emacs/org-mem 0.23.2: Fast info from a large number of Org file contents
+app-emacs/org-mem 0.24.0: Fast info from a large number of Org file contents
 app-emacs/org-mime 0.3.4: Org html export for text/html MIME emails
 app-emacs/org-ml 6.0.2: Functional Org Mode API
 app-emacs/org-modern 1.10: Modern looks for Org
@@ -2205,7 +2205,7 @@ app-emacs/org-mru-clock 0.6.1: Clock in/out of tasks with completion and persist
 app-emacs/org-multi-wiki 0.4.0: Multiple wikis based on Org mode
 app-emacs/org-newtab 0.1.1: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 0.3.2: Org local nix-shell
-app-emacs/org-node 3.9.1: Fast org-roam replacement
+app-emacs/org-node 3.9.3: Fast org-roam replacement
 app-emacs/org-node-fakeroam 3.0.2: Deprecated extension to org-node
 app-emacs/org-noter 1.6.1: A synchronized, Org-mode, document annotator
 app-emacs/org-outlook 0.11: Outlook org
@@ -2591,7 +2591,6 @@ app-emacs/refine 0.3: Interactive value editing
 app-emacs/reformatter 0.7: Define commands which run reformatters on the current buffer
 app-emacs/region-convert 1.0.0: Convert string in region by Lisp function
 app-emacs/region-state 0.1: Show the number of chars/lines or rows/columns in the region
-app-emacs/register-quicknav 0.4.3: Quickly jump to next/previous register
 app-emacs/related-files 0.3.0: Easily find files related to the current one
 app-emacs/repeat-ring 0.1: Structured and configurable repetition
 app-emacs/repeatable-motion 0.2: Make repeatable versions of motions
