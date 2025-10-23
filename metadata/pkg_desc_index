@@ -217,7 +217,7 @@ app-emacs/blackout 1.0: Better mode lighter overriding
 app-emacs/blamer 0.10.0: Show git blame info about current line
 app-emacs/blitzmax-mode 1.0.0: A major mode for editing BlitzMax source code
 app-emacs/blox 0.3.0: Interaction with Roblox tooling
-app-emacs/bluesound 0.2: Play, pause, resume music on a Bluesound player
+app-emacs/bluesound 0.3: Play, pause, resume music on a Bluesound player
 app-emacs/bm 202506: Visible bookmarks in buffer
 app-emacs/bmp 0.6.2: Version bumper for git projects
 app-emacs/bnf-mode 0.4.5: Major mode for editing BNF grammars
@@ -1522,7 +1522,7 @@ app-emacs/idomenu 0.1: Imenu tag selection with ido
 app-emacs/idris-mode 1.0: Major mode for editing Idris code
 app-emacs/iedit 0.9.9.9.9: Edit multiple regions in the same way simultaneously
 app-emacs/iflipb 1.6: Interactively flip between recently visited buffers
-app-emacs/igist 1.7.0: List, create, update and delete GitHub gists
+app-emacs/igist 1.8.0: List, create, update and delete GitHub gists
 app-emacs/ignoramus 0.7.4: Ignore backups, build files, et al
 app-emacs/image+ 0.6.2: Image manipulate extensions for Emacs
 app-emacs/image-archive 0.0.7: Image thumbnails in archive file with non-blocking
