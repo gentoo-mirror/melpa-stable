@@ -18,7 +18,5 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/hydra
-	app-emacs/dash"
-RDEPEND="app-emacs/hydra
-	app-emacs/dash"
+DEPEND=""
+RDEPEND=""

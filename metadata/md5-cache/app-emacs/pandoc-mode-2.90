@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/vterm app-emacs/python
-DESCRIPTION=A mode for Python REPL using vterm
+DESCRIPTION=Minor mode for interacting with Pandoc
 EAPI=8
-HOMEPAGE=https://github.com/vale981/py-vterm-interaction.el
+HOMEPAGE=http://joostkremers.github.io/pandoc-mode/
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/vterm app-emacs/python >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://stable.melpa.org/packages/py-vterm-interaction-1.0.8.tar
+SRC_URI=https://stable.melpa.org/packages/pandoc-mode-2.90.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=ef1a1751dd275e71d6e959a61d8367f9
+_md5_=625496bc437c0b4176215e7ec4ba1b0b
