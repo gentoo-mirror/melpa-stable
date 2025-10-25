@@ -2336,7 +2336,7 @@ app-emacs/paimon 0.2.0: A major mode for Splunk
 app-emacs/palimpsest 1.1: Various deletion strategies when editing
 app-emacs/panda-theme 0.1: Panda Theme
 app-emacs/pandoc 0.0.1: Pandoc interface
-app-emacs/pandoc-mode 2.35: Minor mode for interacting with Pandoc
+app-emacs/pandoc-mode 2.90: Minor mode for interacting with Pandoc
 app-emacs/pangu-spacing 0.4: Minor-mode to add space between Chinese and English characters
 app-emacs/paperless 1.3.2: A major mode for sorting and filing PDF documents
 app-emacs/paradox 2.5.4: A modern Packages Menu. Colored, with package ratings, and customizable
@@ -2512,7 +2512,7 @@ app-emacs/puppet-mode 0.4: Major mode for Puppet manifests
 app-emacs/pushbullet 0.5.2: Emacs client for the PushBullet Android app
 app-emacs/py-autopep8 2016.1: Use autopep8 to beautify a Python buffer
 app-emacs/py-isort 2016.1: Use isort to sort the imports in a Python buffer
-app-emacs/py-vterm-interaction 1.0.8: A mode for Python REPL using vterm
+app-emacs/py-vterm-interaction 1.0.9: A mode for Python REPL using vterm
 app-emacs/py-yapf 2016.1: Use yapf to beautify a Python buffer
 app-emacs/pycarddavel 1.0.1: Integrate pycarddav
 app-emacs/pydoc 0.1: Functional, syntax highlighted pydoc navigation
@@ -3056,7 +3056,7 @@ app-emacs/use-proxy 1.2.1: Enable/Disable proxies respecting your HTTP/HTTPS env
 app-emacs/use-ttf 0.1.3: Keep font consistency across different OSs
 app-emacs/ushin-shapes 0.3.0: USHIN shapes in org-mode
 app-emacs/utop 2.16.0: Universal toplevel for OCaml
-app-emacs/uuidgen 1.0: Provides various UUID generating functions
+app-emacs/uuidgen 1.2: Provides various UUID generating functions
 app-emacs/uxntal-mode 0.3: Major mode for Uxntal assembly
 app-emacs/v2ex-mode 0.2: Major mode for visit http://v2ex.com/ site
 app-emacs/vagrant 0.6.2: Manage a vagrant box from emacs
