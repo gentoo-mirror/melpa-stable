@@ -2334,7 +2334,7 @@ app-emacs/paimon 0.2.0: A major mode for Splunk
 app-emacs/palimpsest 1.1: Various deletion strategies when editing
 app-emacs/panda-theme 0.1: Panda Theme
 app-emacs/pandoc 0.0.1: Pandoc interface
-app-emacs/pandoc-mode 2.90: Minor mode for interacting with Pandoc
+app-emacs/pandoc-mode 2.90.2: Minor mode for interacting with Pandoc
 app-emacs/pangu-spacing 0.4: Minor-mode to add space between Chinese and English characters
 app-emacs/paperless 1.3.2: A major mode for sorting and filing PDF documents
 app-emacs/paradox 2.5.4: A modern Packages Menu. Colored, with package ratings, and customizable
