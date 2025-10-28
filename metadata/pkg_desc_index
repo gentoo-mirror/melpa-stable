@@ -634,7 +634,7 @@ app-emacs/ditz-mode 0.3: Emacs interface to Ditz issue tracking system
 app-emacs/dix 0.4.1: Apertium XML editing minor mode
 app-emacs/dix-evil 0.4.1: Optional evil-integration with dix.el
 app-emacs/django-commands 1.4.1: Run django commands
-app-emacs/docker 2.3.1: Interface to Docker
+app-emacs/docker 2.4.0: Interface to Docker
 app-emacs/docker-cli 1.0.0: Running various commands in docker containers
 app-emacs/docker-compose-mode 1.1.0: Major mode for editing docker-compose files
 app-emacs/docker-tramp 0.1.1: TRAMP integration for docker containers
@@ -2228,7 +2228,7 @@ app-emacs/org-re-reveal-ref 1.0.0: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 0.1: Jump to recently used Org headings
 app-emacs/org-recur 1.3.3: Recurring org-mode tasks
 app-emacs/org-ref 2.0.0: Citations, cross-references and bibliographies in org-mode
-app-emacs/org-repeat-by-cron 1.0.1: An Org mode task repeater based on Cron expressions
+app-emacs/org-repeat-by-cron 1.0.2: An Org mode task repeater based on Cron expressions
 app-emacs/org-repo-todo 0.0.3: Simple repository todo management with org-mode
 app-emacs/org-reverse-datetree 0.4.4: Create reverse date trees in org-mode
 app-emacs/org-rich-yank 0.2.2: Paste with org-mode markup and link to source
