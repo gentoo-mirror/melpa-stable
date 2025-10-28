@@ -97,7 +97,7 @@ app-emacs/annoying-arrows-mode 0.1.0: Ring the bell if using arrows too much
 app-emacs/ansi 0.4.1: Turn string into ansi strings
 app-emacs/ansible 0.4.2: Ansible minor mode
 app-emacs/ansible-doc 0.4: Ansible documentation Minor Mode
-app-emacs/ansible-vault 0.5.4: Minor mode for editing ansible vault files
+app-emacs/ansible-vault 0.6.0: Minor mode for editing ansible vault files
 app-emacs/anti-zenburn-theme 2.5.1: Low-contrast Zenburn-inverted theme
 app-emacs/anyins 0.1.1: Insert content at multiple places from shell command or kill-ring
 app-emacs/anzu 0.67: Show number of matches in mode-line while searching
@@ -264,6 +264,7 @@ app-emacs/ca65-mode 0.3.3: Major mode for ca65 assembly files
 app-emacs/cacoo 2.1.2: Minor mode for Cacoo : http://cacoo.com
 app-emacs/caddyfile-mode 0.2: Major mode for Caddy configuration files
 app-emacs/cake-inflector 1.1.1: Lazy porting CakePHP infrector.php to el
+app-emacs/calctape 1.0: Adding-machine, tape calculator, column sum-mer
 app-emacs/calendar-norway 0.9.5: Norwegian calendar
 app-emacs/calfw 2.0: Calendar view framework
 app-emacs/calfw-cal 2.0: Calendar view for diary
